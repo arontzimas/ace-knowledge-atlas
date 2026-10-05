@@ -1,0 +1,208 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/medicare-vs-medicaid",
+  "title": "Medicare vs. Medicaid",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains how Medicare and Medicaid differ as government programs and how Dual Special Needs Plans serve people eligible for both.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/medicare-vs-medicaid/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324455901/medicare-medicaid-848x676.jpeg",
+      "alt": "Medicare and Medicaid illustration"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/medicare-vs-medicaid/medicare-vs-medicaid-video",
+      "alt": "Medicare vs. Medicaid video"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "comparison",
+      "title": "Medicare vs. Medicaid at a glance",
+      "question": "What is the difference between Medicare and Medicaid?",
+      "text": "Medicare and Medicaid are terms often heard together because both are government programs, but they work differently. Medicare is a national program run by the federal government, while Medicaid is managed by each state. People may qualify for Medicare, Medicaid or both, depending on their situation.",
+      "topic": "Medicare basics",
+      "tags": [
+        "Medicare vs Medicaid",
+        "federal",
+        "state",
+        "government programs"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Compare",
+      "stage": "Awareness",
+      "questions": [
+        "What's the difference between Medicare and Medicaid?",
+        "Is Medicaid federal or state?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is Medicare?",
+      "question": "What is Medicare?",
+      "text": "Medicare is a national health insurance program run by the federal government. It covers people age 65 and older and some people under age 65 who may qualify due to a disability or another special situation. There are 4 different parts to Medicare, which helps give people more health care choices so they can pick the plan that best meets their needs.",
+      "topic": "Medicare basics",
+      "tags": [
+        "Medicare",
+        "age 65",
+        "disability",
+        "4 parts"
+      ],
+      "entities": [
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicare?",
+        "Who is covered by Medicare?",
+        "How many parts does Medicare have?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is Medicaid?",
+      "question": "What is Medicaid?",
+      "text": "Medicaid is a way to get health care at a lower cost or sometimes at no cost to the person. It is managed by each state, so the eligibility requirements can change from state to state. A state may even have its own name for its Medicaid program.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "Medicaid",
+        "state-managed",
+        "eligibility",
+        "low cost"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicaid?",
+        "Do Medicaid rules differ by state?",
+        "Is Medicaid free?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are Dual Special Needs Plans (D-SNP)?",
+      "question": "What is a Dual Special Needs Plan?",
+      "text": "Dual Special Needs Plans (D-SNP) are for people who could use some extra help, which may be because of income, disabilities, age and/or health conditions. Dual eligible health plans are a special type of Medicare Part C (Medicare Advantage) plan. Members keep all their Medicaid benefits, could get more benefits than with Original Medicare, and could get it all for a $0 plan premium.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "D-SNP",
+        "dual eligible",
+        "Medicare Advantage",
+        "Part C",
+        "$0 premium"
+      ],
+      "entities": [
+        "Dual Special Needs Plans",
+        "Medicare Part C",
+        "Medicare Advantage",
+        "Original Medicare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a D-SNP?",
+        "Can I have Medicare and Medicaid together?",
+        "Do dual eligible plans cost anything?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can I be eligible for both Medicare and Medicaid?",
+      "question": "Can I have both Medicare and Medicaid?",
+      "text": "Yes, people may qualify for Medicare, Medicaid or both, depending on their situation. Dual Special Needs Plans include both Medicare and Medicaid benefits for those who are eligible for both.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "dual eligible",
+        "Medicare and Medicaid",
+        "D-SNP"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid",
+        "Dual Special Needs Plans"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get Medicare and Medicaid at the same time?",
+        "What is dual eligibility?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicaid is run by each state",
+      "question": "Why do Medicaid requirements vary by state?",
+      "text": "Medicaid is managed by each state, so the eligibility requirements can change from state to state. A state may also have its own name for its Medicaid program, so a program called something different locally may still be Medicaid.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "Medicaid",
+        "state variation",
+        "program names",
+        "eligibility"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "Why is Medicaid different in each state?",
+        "Does my state call Medicaid something else?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term insurance can fill a gap",
+      "question": "What can fill a coverage gap while I wait for other coverage?",
+      "text": "During times of transition, short term health insurance can help fill a gap in coverage from 1 month to just under 1 year, depending on the state. UnitedHealthcare notes that product design and availability vary by state.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "coverage gap",
+        "state availability"
+      ],
+      "entities": [
+        "short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long does short term insurance last?",
+        "Is short term insurance available in every state?"
+      ]
+    }
+  ]
+}

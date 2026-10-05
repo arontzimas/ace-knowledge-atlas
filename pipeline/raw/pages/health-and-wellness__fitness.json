@@ -1,0 +1,233 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/fitness",
+  "title": "Fitness tips",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Offers tips for starting and sticking with an exercise plan, the benefits of regular exercise, and easy ways to add activity to a busy day.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/fitness/_jcr_content/root/regioncontainer-main/responsivegrid/container_1787459200/containerfloatingcon/image_copy.coreimg.90.1280.jpeg/1775578672711/woman-stretching-600x468.jpeg",
+      "alt": "Woman stretching"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/fitness/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1347733_co_1267032426/container/image_copy.coreimg.90.1280.jpeg/1775578696223/ladies-handweights-gym-600x392.jpeg",
+      "alt": "Ladies with handweights in gym"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Health benefits of regular exercise",
+      "question": "What are the benefits of regular exercise?",
+      "text": "Physical activity may help control or reduce cholesterol and blood pressure, increase flexibility, lower the risk of diabetes, stroke and cardiovascular disease, prevent bone loss, build muscle tone and strength, and increase energy levels. UnitedHealthcare notes that the physical benefits of exercise may go beyond losing weight.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "exercise benefits",
+        "blood pressure",
+        "cholesterol",
+        "bone health",
+        "heart health"
+      ],
+      "entities": [
+        "physical activity"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why is exercise good for you?",
+        "How does exercise help blood pressure?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How to start a fitness plan",
+      "question": "How do I start an exercise routine?",
+      "text": "Making a change is more manageable when you set achievable goals that fit your lifestyle. UnitedHealthcare suggests starting small, such as 5 minutes of exercise a day and working up to 10 or 15 minutes, finding a buddy such as a friend, coworker or neighbor for support, and signing up for a rewards program that rewards you for meeting health and activity goals.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "start exercising",
+        "fitness goals",
+        "workout buddy",
+        "small steps"
+      ],
+      "entities": [
+        "fitness plan"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do I start working out?",
+        "How much exercise should a beginner do?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Rewards for meeting health and activity goals",
+      "question": "Can my health plan reward me for exercising?",
+      "text": "Many health insurance providers offer programs that reward you for meeting health and activity goals, which may help you stay motivated. Rewards may include things like gift cards or money toward your health savings account. If you are a UnitedHealthcare member, you can explore UnitedHealthcare's wellness and rewards programs.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "wellness rewards",
+        "gift cards",
+        "HSA",
+        "activity goals",
+        "incentives"
+      ],
+      "entities": [
+        "HSA",
+        "wellness and rewards programs"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does insurance reward you for working out?",
+        "What are wellness rewards programs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Slow and steady weight loss",
+      "question": "How fast should I lose weight?",
+      "text": "According to the CDC, slow and steady wins the race: people who lose 1 to 2 pounds per week have better odds of keeping the weight off long-term. UnitedHealthcare adds that it is not about how fast you lose weight but how consistent you are with your routine and how much you modify your diet.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "healthy weight loss",
+        "CDC",
+        "1 to 2 pounds per week",
+        "consistency"
+      ],
+      "entities": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many pounds a week is healthy to lose?",
+        "How do I keep weight off long term?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Exercise tips for boosting metabolism and burning calories",
+      "question": "What exercise burns the most calories?",
+      "text": "When you lift weights, your muscles burn more calories at rest than other tissues, speeding up your resting metabolism. A workout that gets your heart pumping, such as jogging, biking, speed walking or aerobic exercise, may burn the most calories per session. Strength training may be more likely to help you burn more calories as the day goes on.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "metabolism",
+        "strength training",
+        "cardio",
+        "calories"
+      ],
+      "entities": [
+        "strength training"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does lifting weights boost metabolism?",
+        "Is cardio or strength training better for burning calories?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Wider benefits of healthy habits like exercise",
+      "question": "What else can exercise improve besides physical health?",
+      "text": "Regular physical exercise may help improve your relationships, lower your health care costs, supercharge your creativity and bring feelings of joy, because exercise releases endorphins, which can make you feel happy. UnitedHealthcare encourages adding new healthy habits to your everyday routine to experience these benefits.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "endorphins",
+        "mood",
+        "creativity",
+        "health care costs",
+        "healthy habits"
+      ],
+      "entities": [
+        "endorphins"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does exercise improve mood?",
+        "Can exercise lower health care costs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Easy ways to fit exercise into your day",
+      "question": "How can I fit exercise into a busy schedule?",
+      "text": "UnitedHealthcare suggests sneaking exercise into your day by doing squats while you brush your teeth or blow dry your hair, parking a little farther away, considering how much you stand during the day, scheduling walk breaks, and playing active games with the kids, such as chasing them around the yard or playing sports.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "busy schedule",
+        "walk breaks",
+        "active family",
+        "quick exercise"
+      ],
+      "entities": [
+        "physical activity"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are easy ways to be more active?",
+        "How do I exercise with no time?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Staying motivated with an exercise routine",
+      "question": "How do I stay motivated to exercise?",
+      "text": "To keep up an exercise routine, schedule workout time on your calendar but do not be so rigid that you get discouraged when life gets in the way. Focus on putting on your shoes and getting to your destination rather than dwelling on the workout, and do not compare yourself to others since many people's fitness journeys look different. Remember why you started.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "motivation",
+        "exercise routine",
+        "consistency",
+        "habit"
+      ],
+      "entities": [
+        "exercise"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do I stick with a workout plan?",
+        "What if I miss a workout?"
+      ]
+    }
+  ]
+}

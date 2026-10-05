@@ -1,0 +1,228 @@
+{
+  "url": "https://www.uhc.com/individuals-families/short-term-health-insurance",
+  "title": "Short term health insurance",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Overview of UnitedHealthcare short term limited duration health plans underwritten by Golden Rule Insurance Company, including who they suit, what they cover and how they differ from ACA plans.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/short-term-split-hero-img-desktop-1920x725.jpg",
+      "alt": "Short term health insurance hero image"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What are short term limited duration plans?",
+      "question": "What is short term health insurance?",
+      "text": "Short term limited duration health plans help bridge gaps in coverage. With options lasting from 1 month to nearly 3 years, short term plans underwritten by Golden Rule Insurance Company can provide a temporary solution to get the benefits you want for the time you need. Short term insurance is also called temporary health insurance or term health insurance.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "temporary health insurance",
+        "term health insurance",
+        "golden rule",
+        "bridge coverage gap"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "short term limited duration insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is temporary health insurance?",
+        "Who underwrites UnitedHealthcare short term plans?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Short Term Medical versus TriTerm Medical",
+      "question": "What is the difference between Short Term Medical and TriTerm Medical?",
+      "text": "UnitedHealthcare offers two kinds of short term plans. Short Term Medical plans last 1 month up to nearly 12 months. TriTerm Medical plans last nearly 3 years. The page describes these short term plans as underwritten by Golden Rule Insurance Company.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term medical",
+        "triterm medical",
+        "coverage length",
+        "nearly 3 years",
+        "nearly 12 months"
+      ],
+      "entities": [
+        "Short Term Medical",
+        "TriTerm Medical",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How long does TriTerm last compared with short term?",
+        "What are the two types of short term plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Situations where short term insurance may fit",
+      "question": "When is short term insurance the right choice?",
+      "text": "Short term insurance may be right if you're waiting for open enrollment to apply for an ACA plan; don't have a qualifying life event or Special Enrollment Period to apply for an ACA plan; are waiting for ACA coverage to start; need coverage to bridge you to Medicare; are turning 26 and coming off a parent's insurance; are between jobs or waiting for benefits at a new job; or are healthy and under 65.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "open enrollment",
+        "turning 26",
+        "between jobs",
+        "medicare bridge"
+      ],
+      "entities": [
+        "ACA plan",
+        "Special Enrollment Period",
+        "Medicare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I use short term insurance until Medicare starts?",
+        "What if I missed open enrollment?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term plan coverage details",
+      "question": "What do short term plans cover?",
+      "text": "Preexisting conditions are not covered with most short term plans, so check your state's definition of preexisting conditions; Short Term Medical plans are medically underwritten. Limited preventive care can sometimes be covered. Prescription coverage may be available with some plans. Coverage for some telehealth (virtual visits) services may be included.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "preexisting conditions",
+        "preventive care",
+        "prescriptions",
+        "telehealth",
+        "underwriting"
+      ],
+      "entities": [
+        "Short Term Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do short term plans cover prescriptions?",
+        "Is telehealth covered under short term insurance?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "ACA plans versus short term plans",
+      "question": "How are short term insurance plans different from ACA plans?",
+      "text": "ACA plans cover preexisting conditions and you cannot be denied coverage based on them. Short term plans do not: you must answer a series of medical questions to apply, and Short Term Medical plans are medically underwritten. ACA plans are required to cover 10 essential health benefits, including maternity and newborn care and mental health and substance abuse disorder services. Short term plans have no specific coverage requirements and vary in what they cover.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "aca vs short term",
+        "preexisting conditions",
+        "essential health benefits",
+        "medical underwriting"
+      ],
+      "entities": [
+        "ACA plans",
+        "essential health benefits",
+        "Short Term Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I be denied a short term plan for health reasons?",
+        "Do short term plans cover essential health benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term insurance can save money but needs review",
+      "question": "Is short term insurance a good way to save money?",
+      "text": "You may save money by choosing short term health insurance, but you should know what you are buying and make sure it's a good choice for you. For the right situation, short term insurance plans can provide fast, flexible, temporary health insurance coverage that fits your needs.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "savings",
+        "temporary coverage",
+        "flexibility"
+      ],
+      "entities": [
+        "short term insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Is short term health insurance cheaper?",
+        "What should I check before buying a short term plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Golden Rule short term experience: over 35 years",
+      "question": "How long has Golden Rule offered short term insurance?",
+      "text": "Golden Rule Insurance Company, which underwrites UnitedHealthcare branded short term medical insurance, has been offering short term insurance plans for over 35 years, according to the short term insurance page.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "golden rule",
+        "35 years",
+        "underwriter",
+        "short term"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How experienced is the company behind UnitedHealthcare short term plans?",
+        "Who is Golden Rule Insurance Company?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Help and quotes for short term plans",
+      "question": "How can I get a quote or help with a short term plan?",
+      "text": "Shoppers can enter a ZIP code to see short term plans available in their area. For questions, UnitedHealthcare lists 1-866-487-9299, and a separate FAQ page covers more details about how short term plans work.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "quote",
+        "zip code",
+        "phone support",
+        "faq"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "How do I get a short term insurance quote?",
+        "What number do I call about short term plans?"
+      ]
+    }
+  ]
+}

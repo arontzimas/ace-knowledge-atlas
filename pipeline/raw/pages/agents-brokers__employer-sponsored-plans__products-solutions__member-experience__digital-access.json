@@ -1,0 +1,286 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/digital-access",
+  "title": "Digital access",
+  "domain": "Care & Member Experience",
+  "page_type": "product",
+  "summary": "Employer-facing overview of UnitedHealthcare digital tools, myuhc.com and the UnitedHealthcare app that help employees find care, compare costs and connect with providers.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/digital-access/_jcr_content/root/regioncontainer-main/responsivegrid/container/image.coreimg.90.1280.jpeg/1613218637552/broker-consultant-digital-access-myuhc-1750x900.jpeg",
+      "alt": "myuhc.com on a computer"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/digital-access/_jcr_content/root/regioncontainer-main/responsivegrid/container/image_678894003.coreimg.90.1280.jpeg/1613218643728/broker-consultant-digital-access-mobile-app-552x824.jpeg",
+      "alt": "UnitedHealthcare mobile app"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6240971867001-Thumbnail.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Digital Experience"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/UnitedHealthcare-Innovation-Brochure.pdf",
+      "alt": "Brochure: Innovation and insights"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/why-register-for-myuhc-com-flier.pdf",
+      "alt": "Brochure: myuhc.com details for employees"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/Digital_Experience-employer-sellsheet.pdf",
+      "alt": "Benefit breakdown: Employer-based digital tools"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Digital tools help employees use benefits",
+      "question": "What are UnitedHealthcare's digital tools for employees?",
+      "text": "UnitedHealthcare's digital tools are designed to help employees better understand and make the most of their benefits, from finding network care to comparing costs to connecting with a provider. The tools adapt to support members when and where they need it, like keeping key plan information always within reach and offering personalized search.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "digital tools",
+        "employees",
+        "find care",
+        "compare costs",
+        "personalized search"
+      ],
+      "entities": [
+        "myuhc.com",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What digital tools does UnitedHealthcare give employees?",
+        "How do UnitedHealthcare digital tools help members use benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "myuhc.com personalized experience",
+      "question": "What does myuhc.com personalize for members?",
+      "text": "myuhc.com delivers a personalized experience for members, including recommendations for programs or health actions, as well as plan- and geographic-specific provider search and coverage information.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "myuhc.com",
+        "personalization",
+        "provider search",
+        "recommendations"
+      ],
+      "entities": [
+        "myuhc.com"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is personalized on myuhc.com?",
+        "Does myuhc.com tailor provider search to my plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan information in one place on myuhc.com",
+      "question": "What plan information can employees see on myuhc.com?",
+      "text": "Through myuhc.com, employees can access plan and benefits information, HSA, HRA and FSA financial accounts, prescription information and more, all in one place.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "myuhc.com",
+        "benefits information",
+        "hsa",
+        "hra",
+        "fsa",
+        "prescriptions"
+      ],
+      "entities": [
+        "myuhc.com",
+        "HSA",
+        "HRA",
+        "FSA"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Can I see my HSA on myuhc.com?",
+        "What can employees do on myuhc.com?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare app 24/7 access for employees",
+      "question": "What can employees access in the UnitedHealthcare app?",
+      "text": "The UnitedHealthcare app gives employees 24/7 access to health plan information. Employees can see care, cost, claims and pharmacy information, and even a digital version of their health plan ID card.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "24/7 access",
+        "digital id card",
+        "claims",
+        "pharmacy"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What is in the UnitedHealthcare app for employees?",
+        "Does the app include a digital ID card?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Video chat with a doctor from the app",
+      "question": "Can employees video chat with a doctor from the UnitedHealthcare app?",
+      "text": "Employees can start a video chat with a doctor right from the UnitedHealthcare app in a few simple clicks, connecting with a provider 24/7.",
+      "topic": "Virtual care",
+      "tags": [
+        "video chat",
+        "virtual visit",
+        "24/7",
+        "uhc app"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Can I see a doctor by video in the UnitedHealthcare app?",
+        "Is virtual care available 24/7 through the app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Provider search prioritizes quality and alerts out-of-network",
+      "question": "How does UnitedHealthcare's personalized search guide members to providers?",
+      "text": "Per the digital experience video, personalized search prioritizes quality network providers while making sure the least invasive care paths are suggested first and alerting members if they veer out of network. The goal is to connect the member with the right provider faster, in person or virtually.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "provider search",
+        "quality providers",
+        "out-of-network alert",
+        "care paths"
+      ],
+      "entities": [
+        "myuhc.com"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare warn members when a provider is out of network?",
+        "How does UnitedHealthcare's search suggest care?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "29% higher satisfaction with myuhc.com",
+      "question": "How satisfied are members with myuhc.com?",
+      "text": "A UnitedHealthcare video states 29% higher satisfaction with myuhc.com, sourced to the UnitedHealthcare New Member Survey, 2019. The video says the digital tools are designed to provide the same quality guidance that UnitedHealthcare advocates provide.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "satisfaction",
+        "myuhc.com",
+        "29%",
+        "new member survey"
+      ],
+      "entities": [
+        "myuhc.com",
+        "UnitedHealthcare New Member Survey"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How much higher is satisfaction with myuhc.com?",
+        "Do members prefer digital tools to calling an advocate?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Americans check smartphones 52 times a day",
+      "question": "Why does UnitedHealthcare emphasize mobile health engagement?",
+      "text": "UnitedHealthcare cites that Americans check their smartphones an average of 52 times a day, which it describes as dozens of opportunities to help engage employees with their health. The figure comes from the 2018 Global Mobile Consumer Survey, U.S. Edition, by Deloitte.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "mobile engagement",
+        "smartphone",
+        "52 times a day",
+        "employee engagement"
+      ],
+      "entities": [
+        "Deloitte",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How often do Americans check their phones?",
+        "Why does a health plan use a mobile app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Broker and employer materials on digital tools",
+      "question": "What materials can brokers share with clients about digital tools?",
+      "text": "UnitedHealthcare offers three PDF resources for brokers to share with clients: a brochure on innovation and insights, a brochure on myuhc.com details for employees that outlines benefits for employee engagement, and a benefit breakdown of employer-based digital tools that gives a snapshot of the information employees can access.",
+      "topic": "Broker resources",
+      "tags": [
+        "broker resources",
+        "brochure",
+        "sell sheet",
+        "myuhc.com"
+      ],
+      "entities": [
+        "myuhc.com"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Where can brokers find UnitedHealthcare digital tool brochures?",
+        "Is there a flier explaining why employees should register for myuhc.com?"
+      ]
+    }
+  ]
+}

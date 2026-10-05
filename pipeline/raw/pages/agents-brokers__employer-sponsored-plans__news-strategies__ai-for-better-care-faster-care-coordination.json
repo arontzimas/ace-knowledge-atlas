@@ -1,0 +1,308 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-faster-care-coordination",
+  "title": "AI for better care: Enabling faster care coordination",
+  "domain": "Company & News",
+  "page_type": "article",
+  "summary": "Article describing how UnitedHealthcare and Optum apply AI to help members find care, help Advocates and providers, and predict care needs, with stated safeguards.",
+  "published": "2025-11-25",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-faster-care-coordination/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1764016701221/doctor-and-senior-woman-1200x627.jpeg",
+      "alt": "Doctor and senior woman"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "AI supports human care, not replaces it",
+      "question": "Is UnitedHealthcare using AI to replace human care?",
+      "text": "UnitedHealth Group says AI isn't replacing human care but helping make health care more connected, personalized and timely. It is applying AI across its UnitedHealthcare and Optum businesses to simplify how people find care and navigate the health system, with the result being more timely coordination and simpler experiences.",
+      "topic": "AI & innovation",
+      "tags": [
+        "ai",
+        "care coordination",
+        "human care",
+        "navigation"
+      ],
+      "entities": [
+        "UnitedHealth Group",
+        "Optum"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does AI replace human care at UnitedHealthcare?",
+        "How does UnitedHealth Group use AI to coordinate care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Safeguards on UnitedHealthcare AI models",
+      "question": "What limits does UnitedHealthcare place on its AI?",
+      "text": "UnitedHealth Group, UnitedHealthcare and Optum say they are committed to using AI responsibly, designing and maintaining AI to prioritize accuracy, human review, privacy, security, ethics and transparency. The article states that AI models do not store or replicate member data, do not make coverage decisions and do not replace clinical decision-making.",
+      "topic": "AI & innovation",
+      "tags": [
+        "responsible ai",
+        "coverage decisions",
+        "member data",
+        "clinical decision-making",
+        "privacy"
+      ],
+      "entities": [
+        "UnitedHealth Group",
+        "Optum"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare's AI store member data?",
+        "Does AI make coverage decisions at UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Generative chat and AI-assisted calls",
+      "question": "How does UnitedHealthcare use AI to answer member questions?",
+      "text": "Because about half of insured adults surveyed reported difficulty understanding at least one aspect of their health insurance, UnitedHealthcare introduced a generative chat messaging experience that summarizes benefits and coverage information in a conversational style. For complicated matters, the chat can connect a member to a human Advocate. On a call, an AI-powered assistant uses natural language processing to identify the reason for calling and direct the member to self-service or a live advocate.",
+      "topic": "AI & innovation",
+      "tags": [
+        "generative chat",
+        "advocate",
+        "natural language processing",
+        "benefit questions"
+      ],
+      "entities": [
+        "Advocate"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I chat with UnitedHealthcare about my benefits?",
+        "How does UnitedHealthcare's AI phone assistant work?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Smart Choice provider search",
+      "question": "What is the Smart Choice provider search?",
+      "text": "Smart Choice is a UnitedHealthcare provider search experience that uses AI modeling to prioritize provider search results based on quality criteria, the member's specific benefits and coverage, convenience to the member and personal preferences. It aims to reduce the time employees and their families spend sifting through care options and to help them make more informed choices.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "smart choice",
+        "provider search",
+        "ai modeling",
+        "quality criteria"
+      ],
+      "entities": [
+        "Smart Choice"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is Smart Choice?",
+        "How does UnitedHealthcare rank providers in search results?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "AI tools for Advocates",
+      "question": "How does AI help UnitedHealthcare Advocates?",
+      "text": "AI assists Advocates by surfacing real-time, member-specific information on their screens based on claims activity or previous calls, which streamlines authentication and personalizes support. Voice analytics help understand the member's questions and provide benefits, coverage and cost answers, then summarize the conversation for the member's file. The article states 71M calls to UnitedHealthcare Advocates were assisted by AI-enabled technology.",
+      "topic": "AI & innovation",
+      "tags": [
+        "advocates",
+        "voice analytics",
+        "call summaries",
+        "71 million calls"
+      ],
+      "entities": [
+        "UnitedHealthcare Advocates"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does AI help advocates answer my questions?",
+        "Why don't I have to repeat my history when I call back?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Optum Real and provider documentation time",
+      "question": "What is Optum Real and what results has it shown?",
+      "text": "Optum Real is powered by AI and automation and facilitates the real-time exchange of patient visit, claim and payment data between providers and payers like UnitedHealthcare that buy the program. Launched in 2025, more than 4,000 providers have used the solution, which has saved them 2M minutes on documentation across 360,000 visits. A 43% cut in note-taking time is also reported.",
+      "topic": "AI & innovation",
+      "tags": [
+        "optum real",
+        "providers",
+        "documentation",
+        "claims data",
+        "43% cut"
+      ],
+      "entities": [
+        "Optum Real",
+        "Optum"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is Optum Real?",
+        "How much time has Optum Real saved providers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Ambient AI for clinical notes",
+      "question": "How is Optum using ambient AI with providers?",
+      "text": "To ease administrative burden for providers, Optum is integrating ambient, conversational and generative AI to capture patient-provider conversations in real time and generate structured clinical summaries. This allows providers to spend less time typing and more time engaging with patients and coordinating their care.",
+      "topic": "AI & innovation",
+      "tags": [
+        "ambient ai",
+        "clinical summaries",
+        "provider burden",
+        "optum"
+      ],
+      "entities": [
+        "Optum",
+        "Ambient AI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does ambient AI do for doctors?",
+        "How can AI reduce paperwork for providers?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "AI-assisted prescription refill pilot",
+      "question": "What did the AI prescription refill pilot show?",
+      "text": "AI is being used to help read and prioritize prescription refill requests, reducing the time nurses spend intaking requests or reaching out to patients. In a 16-week pilot with 27 providers, more than 25,000 refills were processed efficiently, with 30% approved in one click.",
+      "topic": "AI & innovation",
+      "tags": [
+        "prescription refills",
+        "pilot",
+        "25,000 refills",
+        "one-click approval"
+      ],
+      "entities": [
+        "Optum"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does AI help with prescription refills?",
+        "How many refills were processed in the AI pilot?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Predicting care needs with AI",
+      "question": "How does UnitedHealthcare use predictive analytics?",
+      "text": "Predictive analytics using AI help UnitedHealthcare anticipate care gaps, flag preventive services due for renewal and give members information for timely interventions. For example, models can flag when an employee with diabetes is due for a routine checkup. The article cites a 2X increase in the diagnosis of medical conditions using risk-prediction scoring, with clinicians and Advocates reviewing AI predictions.",
+      "topic": "AI & innovation",
+      "tags": [
+        "predictive analytics",
+        "care gaps",
+        "preventive services",
+        "diabetes",
+        "2x diagnosis"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can AI flag when I'm due for a checkup?",
+        "How does UnitedHealthcare predict care gaps?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Care paths based on members like them",
+      "question": "What are AI-suggested care paths?",
+      "text": "AI is also used to proactively serve up optional services or care paths that members may find relevant, based on members like them with similar demographics and care journeys. The article describes this as part of making it easier to navigate the health system with timely, coordinated support.",
+      "topic": "AI & innovation",
+      "tags": [
+        "care paths",
+        "members like you",
+        "personalization",
+        "demographics"
+      ],
+      "entities": [
+        "Members Like You"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is a care path suggestion?",
+        "Does UnitedHealthcare recommend services based on similar members?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why AI coordination matters to employers",
+      "question": "How can AI-enabled tools benefit employers?",
+      "text": "For employers, AI-powered tools may translate to healthier, more satisfied workforces. When finding care feels as seamless as other daily experiences, employees may be more likely to address health concerns earlier and seek care from quality providers who may be more cost-effective. Streamlined care may also let employees spend less time on care and more time focused at work.",
+      "topic": "AI & innovation",
+      "tags": [
+        "employer value",
+        "workforce health",
+        "productivity",
+        "early care"
+      ],
+      "entities": [
+        "AI"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does AI care coordination help employers?",
+        "Can AI help employees get care sooner?"
+      ]
+    }
+  ]
+}

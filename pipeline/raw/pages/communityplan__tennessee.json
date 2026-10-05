@@ -1,0 +1,282 @@
+{
+  "url": "https://www.uhc.com/communityplan/tennessee",
+  "title": "Tennessee Medicaid",
+  "domain": "Medicaid",
+  "page_type": "hub",
+  "summary": "State page for UnitedHealthcare Community Plan in Tennessee describing TennCare Medicaid, long-term services and supports, CoverKids (CHIP), Dual Special Needs plans, ACA plans and member programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/assets/images/state-pages/TN-State-Page-Header.jpg",
+      "alt": "hero image"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/tennessee/_jcr_content/root/responsivegrid/container_1220788333/section/grid/column_copy/image_copy_copy.coreimg.png/1682116796058/tn-medicaid-qmb-idcard.png",
+      "alt": "Tennessee QMB Medicaid Card"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/newsletters/2026/summer/TN-Medicaid-Newsletter-Summer-2026-EN.pdf",
+      "alt": "Medicaid Newsletter - Summer 2026 (English)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Plans UnitedHealthcare offers in Tennessee",
+      "question": "What health plans does UnitedHealthcare Community Plan offer in Tennessee?",
+      "text": "UnitedHealthcare Community Plan offers many plans to Tennessee residents. It covers adults, people with disabilities, expecting moms and children in Tennessee with its TennCare Medicaid plans. Plan types include Medicaid, Dual Special Needs plans, the Children's Health Insurance Program and Individual & Family ACA plans in the Bronze, Silver and Gold metal levels.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "tennessee",
+        "tenncare",
+        "plan types",
+        "aca plans",
+        "bronze silver gold"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "TennCare",
+        "CoverKids",
+        "Dual Special Needs plan",
+        "ACA"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What UnitedHealthcare plans are available in Tennessee?",
+        "Does UnitedHealthcare offer TennCare?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "TennCare Medicaid plan",
+      "question": "Who is the TennCare Medicaid plan from UnitedHealthcare for?",
+      "text": "The TennCare Medicaid plan is for pregnant women, children, adults and people who are elderly or have a disability and who meet income requirements. It covers well and sick care plus extra support for those who need it. TennCare is described as health insurance for people with low incomes, with costs that are low and based on ability to pay. The plan is available wherever you live in Tennessee.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "tenncare",
+        "tennessee medicaid",
+        "income requirements",
+        "statewide"
+      ],
+      "entities": [
+        "TennCare",
+        "UnitedHealthcare Community Plan",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who qualifies for TennCare?",
+        "Is the TennCare plan available statewide?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "TennCare Long-Term Services and Supports",
+      "question": "What are TennCare Long-Term Services and Supports (LTSS)?",
+      "text": "Long-Term Services & Supports (LTSS) are medical and/or personal care and supportive services needed by people who have lost some capacity to perform activities of daily living, such as bathing, dressing, eating, transfers and toileting, and/or activities essential to daily living such as housework, preparing meals, taking medications, shopping and managing money. TennCare CHOICES serves adults 21 and older with a physical disability and seniors 65 and older; Employment and Community First CHOICES serves people of all ages with an intellectual or developmental disability.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "ltss",
+        "long-term services and supports",
+        "choices",
+        "ecf choices",
+        "activities of daily living"
+      ],
+      "entities": [
+        "TennCare CHOICES",
+        "Employment and Community First CHOICES",
+        "LTSS"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is LTSS in Tennessee?",
+        "Who is eligible for TennCare CHOICES?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Getting screened for CHOICES or ECF CHOICES",
+      "question": "How do I apply for TennCare CHOICES long-term services?",
+      "text": "If you think you need long-term services and supports, call UnitedHealthcare at 1-800-690-1606. A short screening may be done over the phone to help decide if you may qualify for CHOICES. If the screening shows you don't appear to qualify, you'll get a letter explaining how you can finish applying. For Employment and Community First (ECF) CHOICES, you can refer yourself or your loved one for the program.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "choices screening",
+        "ltss application",
+        "phone screening",
+        "ecf choices referral"
+      ],
+      "entities": [
+        "TennCare CHOICES",
+        "ECF CHOICES"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I get screened for CHOICES?",
+        "How do I refer my family member to ECF CHOICES?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Tennessee CoverKids (CHIP)",
+      "question": "What is Tennessee CoverKids?",
+      "text": "Tennessee CoverKids is the state's Children's Health Insurance Program. It provides free, comprehensive health coverage for qualifying children age 18 and younger and pregnant women. It covers preventive health services, doctor visits, hospital visits, vaccinations, well-child visits, developmental screenings and mental health, and pregnant women get prenatal, delivery and postpartum care. Children also get vision and dental care.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "coverkids",
+        "chip",
+        "tennessee",
+        "children",
+        "pregnant women",
+        "free coverage"
+      ],
+      "entities": [
+        "CoverKids",
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does CoverKids cover?",
+        "Is CoverKids free?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "2026 Dual Special Needs plan extras in Tennessee",
+      "question": "What extra benefits do Tennessee Dual Special Needs plans include?",
+      "text": "Tennesseans on a UnitedHealthcare Dual Special Needs plan get benefits beyond those of Original Medicare or Tennessee Medicaid. For 2026 the page lists a monthly credit to buy healthy food and OTC products or pay utility bills, a $0 copay on covered generic and brand-name prescriptions including home delivery, and an allowance for covered types of preventive and comprehensive dental. D-SNPs are for people who get both Medicaid and Medicare, and members keep their TennCare benefits.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "tennessee d-snp",
+        "2026",
+        "monthly credit",
+        "$0 copay prescriptions",
+        "dental allowance"
+      ],
+      "entities": [
+        "Dual Special Needs plan",
+        "TennCare",
+        "Original Medicare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What does a Tennessee dual plan include in 2026?",
+        "Do dual plans in Tennessee have $0 copays for prescriptions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Behavioral health coverage matches physical health",
+      "question": "How does the TennCare plan cover behavioral health?",
+      "text": "UnitedHealthcare says behavioral health is as important as physical health, so it has the same coverage for both. Required care is 100% covered with no copay, including mental health treatment, substance use treatment and medications. Members can also use the Calm Health app at no cost for mental health screening, self-guided digital programs and emotional well-being support, accessed through the UnitedHealthcare app under Coverage & Benefits.",
+      "topic": "Behavioral health",
+      "tags": [
+        "behavioral health",
+        "no copay",
+        "calm health app",
+        "substance use",
+        "mental health"
+      ],
+      "entities": [
+        "Calm Health",
+        "UnitedHealthcare app",
+        "TennCare"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is mental health covered by TennCare with UnitedHealthcare?",
+        "Is there a free mental health app for Tennessee members?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Well and sick care and Healthy First Steps",
+      "question": "What well and sick care does the Tennessee Medicaid plan include?",
+      "text": "Member benefits include well visits (preventive checkups, shots and lab tests), Healthy First Steps, a program to help you and your baby stay healthy, a 24-hour NurseLine staffed by registered nurses, routine shots and vaccines, and lab tests and X-rays. For pregnancy care the plan also lists choice of an OB/GYN in network, prenatal visits and a choice of birth centers across Tennessee.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "well visits",
+        "nurseline",
+        "healthy first steps",
+        "prenatal",
+        "vaccines"
+      ],
+      "entities": [
+        "Healthy First Steps",
+        "NurseLine",
+        "TennCare"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does Tennessee Medicaid have a 24-hour nurse line?",
+        "What pregnancy benefits does TennCare include?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Vision, dental and hearing limits in Tennessee",
+      "question": "What vision, dental and hearing coverage does the TennCare plan have?",
+      "text": "Vision is covered with limits and not covered for pregnant women age 19 and older; for children under 19 it includes 1 vision exam per calendar year, 1 set of lenses per calendar year and 1 set of frames every 2 calendar years. Dental is for children under age 19 only on the Community Plan. Hearing includes an annual screening, with hearing aids limited to 1 per ear per calendar year up to age 5, then 1 per ear every 2 years.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "vision limits",
+        "dental",
+        "hearing aids",
+        "children under 19",
+        "tennessee"
+      ],
+      "entities": [
+        "TennCare"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How many eye exams does TennCare cover per year?",
+        "Are hearing aids covered under TennCare?"
+      ]
+    }
+  ]
+}

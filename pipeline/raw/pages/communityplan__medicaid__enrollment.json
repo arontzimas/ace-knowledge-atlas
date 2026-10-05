@@ -1,0 +1,117 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/enrollment",
+  "title": "Medicaid enrollment",
+  "domain": "Medicaid",
+  "page_type": "guide",
+  "summary": "Describes the two main steps to enroll in Medicaid, documents needed to apply, how to pick a health plan, enrollment timing, plan changes, auto-enrollment and annual renewal.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/twix/man-couch-phone.jpg", "alt": "Man on a couch using a phone"}
+  ],
+  "atoms": [
+    {
+      "type": "steps",
+      "title": "Two main steps to enroll in Medicaid",
+      "question": "How do I enroll in Medicaid?",
+      "text": "There are 2 main steps. 1) Apply for Medicaid benefits in your state. Each state manages its own Medicaid program, so you apply through your state to find out if you're eligible. 2) Enroll in a Medicaid plan. Once you find out you're eligible for Medicaid, you can pick a Medicaid plan.",
+      "topic": "Medicaid eligibility",
+      "tags": ["enroll", "apply", "two steps", "state application", "pick a plan"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["What are the steps to get on Medicaid?", "Do I apply first or pick a plan first?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Personal, financial and medical information to apply",
+      "question": "What do you need to apply for Medicaid?",
+      "text": "Each state requires different information for a Medicaid application. Be ready to provide personal information (name, date of birth and Social Security number of household members, and proof of citizenship), financial information (rent or mortgage, expenses such as utilities and daycare, vehicle information, bank statements and income such as pay stubs) and medical information (proof of disability or records of a lasting medical condition, and recent medical bills).",
+      "topic": "Medicaid eligibility",
+      "tags": ["documents", "application checklist", "proof of citizenship", "pay stubs", "bank statements"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["What documents do I need for a Medicaid application?", "Do I need proof of citizenship for Medicaid?", "What financial information is required to apply?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Picking a Medicaid health plan after approval",
+      "question": "How do you enroll in a Medicaid plan?",
+      "text": "After you apply for Medicaid in your state and find out you're eligible, you can pick the Medicaid health plan you want. Sometimes a state may automatically enroll people in a Medicaid plan. If that happens, you may be able to switch to a different plan if there is another you prefer. You can choose your state to see available UnitedHealthcare Community plans and review the benefits included in each.",
+      "topic": "Community Plan benefits",
+      "tags": ["choose a plan", "auto-enrollment", "switch plans", "community plan"],
+      "entities": ["Medicaid", "UnitedHealthcare Community Plan"],
+      "personas": ["Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["How do I choose a Medicaid health plan?", "What if my state picked a plan for me?"]
+    },
+    {
+      "type": "faq",
+      "title": "When can you enroll in Medicaid?",
+      "question": "When can you enroll in Medicaid?",
+      "text": "You can enroll in Medicaid at any time during the year. That's also true for the Children's Health Insurance Program (CHIP). If you've had a life change, like getting married or moving to a different state, you could qualify for Medicaid and should apply right away.",
+      "topic": "Medicaid eligibility",
+      "tags": ["open enrollment", "year-round", "life change", "chip"],
+      "entities": ["Medicaid", "CHIP"],
+      "personas": ["Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["Is there an open enrollment period for Medicaid?", "Can I apply for Medicaid any time of year?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Pregnant people should apply right away",
+      "question": "When should a pregnant person apply for Medicaid?",
+      "text": "Pregnant people should apply for Medicaid as soon as they find out they're pregnant. Medicaid pregnancy coverage is available to help keep you and your baby healthy throughout your pregnancy and beyond. Your newborn will automatically be enrolled in Medicaid, too.",
+      "topic": "Medicaid eligibility",
+      "tags": ["pregnancy", "newborn", "apply early", "maternity coverage"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["Is my newborn automatically covered by Medicaid?", "When should I apply for Medicaid if I'm pregnant?"]
+    },
+    {
+      "type": "faq",
+      "title": "When can you change your Medicaid plan?",
+      "question": "When can you change your Medicaid plan?",
+      "text": "After you first enroll as a new Medicaid member, you'll typically have 90 days to change your plan. If you don't choose a health plan, your state will assign you to a plan. After that, most Medicaid members can only switch their health plan once per year. Your Medicaid agency will let you know when you can change your coverage.",
+      "topic": "Community Plan benefits",
+      "tags": ["change plan", "90 days", "switch", "state assigned"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household", "Current member"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["How long do I have to switch Medicaid plans?", "Can I change my Medicaid health plan?"]
+    },
+    {
+      "type": "definition",
+      "title": "Auto-enrollment (auto-assignment) in Medicaid",
+      "question": "What is auto-enrollment in Medicaid?",
+      "text": "Auto-enrollment, also called auto-assignment, is when a state automatically assigns a group of people to a specific Medicaid plan. This can happen when a new health plan becomes available, or if a health insurance company stops offering a Medicaid plan in a certain area. If someone is auto-assigned to a plan and prefers a different Medicaid plan, they'll have 90 days to switch.",
+      "topic": "Community Plan benefits",
+      "tags": ["auto-enrollment", "auto-assignment", "90 days", "plan change"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household", "Current member"],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": ["Why was I assigned to a Medicaid plan?", "Can I switch if I was auto-assigned?"]
+    },
+    {
+      "type": "faq",
+      "title": "Do you re-enroll in Medicaid every year?",
+      "question": "Do you have to re-enroll in Medicaid every year?",
+      "text": "Medicaid and CHIP members need to renew their coverage every year. In some cases, adults may need to renew 2 times per year and meet work requirements. Yearly renewals are how states check that enrollees still meet the requirements to get Medicaid benefits. This process is called Medicaid recertification or redetermination, and is also called re-enrolling in Medicaid or Medicaid renewal.",
+      "topic": "Medicaid renewal",
+      "tags": ["renewal", "annual", "recertification", "redetermination", "work requirements"],
+      "entities": ["Medicaid", "CHIP"],
+      "personas": ["Current member", "Medicaid household"],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": ["How often do I renew Medicaid?", "What is Medicaid recertification?"]
+    }
+  ]
+}

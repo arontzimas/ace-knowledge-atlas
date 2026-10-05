@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/benefits/how-does-medicaid-vary-by-state",
+  "title": "How does Medicaid vary by state?",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains how Medicaid eligibility, benefits, cost sharing, provider access, long-term care, expansion and enrollment steps differ from state to state.",
+  "published": "2025-09-11",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/thumbnails/Father-Son-Dr.jpg", "alt": "Father and son with a doctor"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Coverage differences between states",
+      "question": "How do Medicaid coverage rules differ by state?",
+      "text": "Each state may cover services and provide benefits a little differently. Each state decides who can get Medicaid and whether it can help more people, though states usually cover older people, children, pregnant women and people with disabilities. All states pay for basic health care like doctor visits and hospital stays, and some also cover extras like vision and dental care. Some states may have conditions that must be met to maintain Medicaid eligibility for certain groups.",
+      "topic": "Medicaid eligibility",
+      "tags": ["state differences", "who qualifies", "basic care", "extras", "work conditions"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Why is Medicaid different in each state?", "Do all states cover dental and vision?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Care delivery differences: copays, providers, long-term care",
+      "question": "How does the way Medicaid delivers care vary by state?",
+      "text": "In some states people might pay a small fee (a copay) when they go to the doctor, while in other states they don't pay when they get care. States choose which doctors and hospitals can use Medicaid, which can change how easy it is to find care. For long-term care, some states have special programs that provide care at home for older people, while others use nursing homes. States may also look at what you own, like savings or a house, if you need care for a long time.",
+      "topic": "Community Plan benefits",
+      "tags": ["copays", "provider networks", "long-term care", "nursing homes", "home care"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Do I pay a copay with Medicaid?", "Does Medicaid long-term care differ by state?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Extra services that vary by state",
+      "question": "Which Medicaid benefits vary by state?",
+      "text": "Extra services states may or may not cover include: dental (some states cover full dental benefits while others only pay for urgent dental care); vision (some pay for eye exams and glasses, others don't); prescriptions (each state decides how much it pays); non-emergency medical transportation (some states provide rides to appointments, others don't); and physical therapy (coverage amount varies by location).",
+      "topic": "Community Plan benefits",
+      "tags": ["dental", "vision", "prescriptions", "nemt", "physical therapy", "state variation"],
+      "entities": ["Medicaid", "Non-Emergency Medical Transportation"],
+      "personas": ["Medicaid household"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["Does my state's Medicaid give rides to appointments?", "Does Medicaid cover glasses in every state?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Spend-down, private plans and income limits",
+      "question": "How do eligibility rules vary across Medicaid programs?",
+      "text": "In some states, people with higher incomes can lower their countable income by subtracting medical costs to qualify, which is called a spend-down program. Some states use private health plans to manage Medicaid services, which can affect the care you get and which doctors you can see. Income limits also vary: some states let people with higher incomes get Medicaid, while others only help those with very low incomes.",
+      "topic": "Medicaid eligibility",
+      "tags": ["spend-down", "managed care", "income limits", "private health plans"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What is a Medicaid spend-down?", "Do private insurers run Medicaid in my state?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicaid expansion changes coverage by state",
+      "question": "How does Medicaid expansion affect coverage in different states?",
+      "text": "The Affordable Care Act lets states choose to expand Medicaid to cover more low-income adults, especially those without children, by raising the income limit. States can expand Medicaid to adults who earn up to 138% of the poverty level, which the page says is about $20,780 a year per person or $35,630 for a family of 3. In states that expand, more adults can get care and fewer people are left without insurance. In states that do not expand, fewer adults can get Medicaid.",
+      "topic": "Medicaid eligibility",
+      "tags": ["medicaid expansion", "138% poverty level", "uninsured", "aca"],
+      "entities": ["Affordable Care Act", "Medicaid expansion"],
+      "personas": ["Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What income qualifies for Medicaid in expansion states?", "What happens in states that don't expand Medicaid?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Signing up for Medicaid varies by state",
+      "question": "Is the Medicaid sign-up process the same in every state?",
+      "text": "Each state has its own way to renew or sign up for Medicaid, so the steps might be a little different depending on where you live. Some states use private health plans to help you get care; these plans help you find doctors and get check-ups, but you might only be able to go to certain doctors that work with the plan. Some states ask the federal government for permission to try new ways of running Medicaid, called a waiver.",
+      "topic": "Medicaid eligibility",
+      "tags": ["how to apply", "waiver", "health plan options", "state process"],
+      "entities": ["Medicaid", "Medicaid waiver"],
+      "personas": ["Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["What is a Medicaid waiver?", "Do I apply for Medicaid the same way in every state?"]
+    }
+  ]
+}

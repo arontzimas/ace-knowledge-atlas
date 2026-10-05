@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/news-articles/medicare-articles/what-is-the-medicare-annual-enrollment-period",
+  "title": "What is the Medicare Annual Enrollment Period?",
+  "domain": "Medicare",
+  "page_type": "article",
+  "summary": "Medicare Made Clear article explaining the October 15 to December 7 Annual Enrollment Period and what changes people can make depending on their current coverage.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/news-articles/medicare-articles/what-is-the-medicare-annual-enrollment-period/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1747352910415/blog-how-to-get-ready-for-aep.jpeg", "alt": "Medicare annual enrollment starts October 15"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What the Annual Enrollment Period is",
+      "question": "What is the Medicare Annual Enrollment Period?",
+      "text": "The Medicare Annual Enrollment Period, or AEP, is a set time each year for changing your Medicare coverage choices if you choose to. AEP runs from October 15 to December 7, and new coverage choices go into effect on January 1.",
+      "topic": "Medicare enrollment",
+      "tags": ["annual enrollment period", "aep", "october 15", "december 7", "january 1"],
+      "entities": ["Annual Enrollment Period", "Medicare"],
+      "personas": ["Medicare shopper", "Current member"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["When is Medicare open enrollment?", "When do AEP changes take effect?", "What does AEP stand for in Medicare?"]
+    },
+    {
+      "type": "assertion",
+      "title": "AEP options with Original Medicare only",
+      "question": "What can I do during AEP if I only have Original Medicare?",
+      "text": "If you currently have just Original Medicare (Parts A and B), you can join a Medicare Advantage plan (Part C) with or without built-in drug coverage, or join a stand-alone Part D prescription drug plan. A penalty may apply if you do not currently have other creditable drug coverage. You can also make no changes, and your current coverage will renew as is.",
+      "topic": "Medicare enrollment",
+      "tags": ["aep", "original medicare", "join medicare advantage", "join part d", "creditable coverage"],
+      "entities": ["Original Medicare", "Medicare Advantage", "Part D", "creditable coverage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["Can I join Medicare Advantage during AEP if I have Original Medicare?", "Can I add Part D at annual enrollment?", "Will I be penalized for adding drug coverage at AEP?"]
+    },
+    {
+      "type": "assertion",
+      "title": "AEP options with Original Medicare and a Part D plan",
+      "question": "What can I do during AEP if I have Original Medicare and a stand-alone Part D plan?",
+      "text": "If you currently have Original Medicare and a stand-alone Part D plan, you can join a Medicare Advantage plan with or without built-in drug coverage, switch to another Part D plan, or drop Medicare prescription drug coverage completely. You may be charged a penalty if you later decide you want drug coverage again. You can also make no changes and your coverage will renew as is.",
+      "topic": "Medicare enrollment",
+      "tags": ["aep", "stand-alone part d", "switch part d", "drop drug coverage", "penalty"],
+      "entities": ["Original Medicare", "Part D", "Medicare Advantage"],
+      "personas": ["Current member"],
+      "intent": "Enroll",
+      "stage": "Member",
+      "questions": ["Can I switch Part D plans in October?", "What happens if I drop Part D coverage?", "Can I move from a Part D plan to Medicare Advantage?"]
+    },
+    {
+      "type": "assertion",
+      "title": "AEP options with a Medicare Advantage plan",
+      "question": "What can I do during AEP if I have a Medicare Advantage plan with drug coverage?",
+      "text": "If you currently have a Medicare Advantage plan with built-in drug coverage, you can switch to another Medicare Advantage plan with or without built-in drug coverage, or drop your plan and go back to Original Medicare. You can join a stand-alone Part D plan if you return to Original Medicare or switch to a plan without drug coverage, drop drug coverage completely (a penalty may apply if you want it later), or make no changes.",
+      "topic": "Medicare enrollment",
+      "tags": ["aep", "medicare advantage", "return to original medicare", "switch plans", "part d"],
+      "entities": ["Medicare Advantage", "Original Medicare", "Part D"],
+      "personas": ["Current member"],
+      "intent": "Enroll",
+      "stage": "Member",
+      "questions": ["Can I leave Medicare Advantage during open enrollment?", "Can I switch Medicare Advantage plans in the fall?", "How do I go back to Original Medicare?"]
+    },
+    {
+      "type": "assertion",
+      "title": "AEP options with Medicare Advantage and a separate Part D plan",
+      "question": "What can I do during AEP if I have both a Medicare Advantage plan and a stand-alone Part D plan?",
+      "text": "If you currently have a Medicare Advantage plan and a stand-alone Part D plan, you can switch to another Medicare Advantage plan with or without built-in drug coverage, switch to another prescription drug plan, drop your Medicare Advantage plan and go back to Original Medicare, or drop prescription drug coverage completely. A penalty may apply if you later want drug coverage again. You can also make no changes.",
+      "topic": "Medicare enrollment",
+      "tags": ["aep", "medicare advantage", "stand-alone part d", "plan changes", "drop coverage"],
+      "entities": ["Medicare Advantage", "Part D", "Original Medicare"],
+      "personas": ["Current member"],
+      "intent": "Enroll",
+      "stage": "Member",
+      "questions": ["What can I change if I have two Medicare plans?", "Can I switch my Part D plan without changing Medicare Advantage?", "How do I drop my Medicare Advantage plan at AEP?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Use AEP to review your plan each year",
+      "question": "Should I review my Medicare plan every year?",
+      "text": "AEP is a good reminder to review your Medicare plan each year so you can make sure you have the coverage you need going forward. The specific actions you can take during AEP depend on your current coverage, and making no changes means your current coverage will renew as is.",
+      "topic": "Medicare enrollment",
+      "tags": ["plan review", "annual review", "renewal", "aep"],
+      "entities": ["Annual Enrollment Period", "Medicare Made Clear"],
+      "personas": ["Current member"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["Why should I review my Medicare plan every year?", "What happens if I don't change my plan at AEP?", "How do I get ready for annual enrollment?"]
+    }
+  ]
+}

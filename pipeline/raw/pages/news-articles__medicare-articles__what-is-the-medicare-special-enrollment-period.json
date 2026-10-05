@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/news-articles/medicare-articles/what-is-the-medicare-special-enrollment-period",
+  "title": "What is the Medicare Special Enrollment Period?",
+  "domain": "Medicare",
+  "page_type": "article",
+  "summary": "Medicare Made Clear article explaining the two kinds of Medicare Special Enrollment Periods: the 2-month period for qualifying life events and the 8-month period for people working past 65.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/news-articles/medicare-articles/what-is-the-medicare-special-enrollment-period/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1747236873572/blog-medicare-special-enroll-period.jpeg", "alt": "The two kinds of Medicare Special Enrollment Periods"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "The two kinds of Special Enrollment Periods",
+      "question": "What is a Medicare Special Enrollment Period?",
+      "text": "A Medicare Special Enrollment Period allows you to switch plans or sign up for Medicare outside of the standard Medicare enrollment periods. There are two kinds: a 2-month Special Enrollment Period for qualifying life events, and an 8-month Special Enrollment Period for people working past 65.",
+      "topic": "Medicare enrollment",
+      "tags": ["special enrollment period", "sep", "2 months", "8 months", "qualifying life event"],
+      "entities": ["Special Enrollment Period", "Medicare"],
+      "personas": ["Medicare shopper", "Current member"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a Medicare SEP?", "How many kinds of Special Enrollment Periods are there?", "Can I enroll in Medicare outside of the usual periods?"]
+    },
+    {
+      "type": "comparison",
+      "title": "2-month versus 8-month Special Enrollment Period",
+      "question": "Who uses the 2-month SEP and who uses the 8-month SEP?",
+      "text": "For people who already have Medicare and experience a qualifying life event, there is a two-month Special Enrollment Period for switching a Medicare Advantage or Part D plan. For people who qualified to delay Medicare because they had creditable coverage, usually from an employer, there is an 8-month Special Enrollment Period for enrolling in Medicare Parts A, B, C and D.",
+      "topic": "Medicare enrollment",
+      "tags": ["sep comparison", "life events", "working past 65", "creditable coverage", "switch plans"],
+      "entities": ["Special Enrollment Period", "Medicare Advantage", "Part D", "creditable coverage"],
+      "personas": ["Medicare shopper", "Current member"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["How long is the Medicare SEP?", "Which SEP applies when I leave my employer plan?", "Which SEP lets me switch Medicare Advantage plans?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Life events that trigger the 2-month SEP",
+      "question": "What qualifies for a Medicare Special Enrollment Period to switch plans?",
+      "text": "You may qualify for a 2-month Special Enrollment Period if you move out of your plan's service area; your plan closes, stops serving your area, significantly reduces its provider network or consistently receives low star ratings; you want to enroll in a 5-star plan at any time or drop your first Medicare Advantage plan within 12 months of enrolling; or you move into or out of an institutional facility like a nursing home.",
+      "topic": "Medicare enrollment",
+      "tags": ["life events", "move", "plan closes", "5-star plan", "nursing home"],
+      "entities": ["Special Enrollment Period", "Medicare Advantage"],
+      "personas": ["Current member"],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": ["Can I switch plans if my plan leaves my area?", "Can I join a 5-star plan any time?", "Can I drop my first Medicare Advantage plan within a year?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Assistance and program changes that trigger an SEP",
+      "question": "Do financial assistance programs trigger a Special Enrollment Period?",
+      "text": "You may also qualify for a 2-month Special Enrollment Period if you are enrolled in or lose eligibility for a qualified State Pharmaceutical Assistance Program; you have Medicare financial assistance such as Medicaid, a Medicare Savings Program or Extra Help, or gain or lose eligibility for any of these; you enroll in or leave the Program of All-Inclusive Care for the Elderly (PACE); or you gain or lose eligibility for a Special Needs Plan. Some other situations may qualify as well, and your State Health Insurance Assistance Program can help.",
+      "topic": "Medicare enrollment",
+      "tags": ["extra help", "medicaid", "pace", "special needs plan", "ship"],
+      "entities": ["Extra Help", "Medicaid", "Medicare Savings Program", "PACE", "State Health Insurance Assistance Program"],
+      "personas": ["Current member", "Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": ["Does gaining Medicaid let me change Medicare plans?", "What is PACE and does it trigger an SEP?", "Who can I call about whether I qualify for an SEP?"]
+    },
+    {
+      "type": "definition",
+      "title": "The 8-month SEP when working past 65",
+      "question": "How does the 8-month Special Enrollment Period work when working past 65?",
+      "text": "For people who work past 65 and qualify to delay Medicare with creditable employer coverage, there is an 8-month Special Enrollment Period that allows you to enroll in Part A (if you haven't yet), Part B, Part C and Part D without late penalties. To qualify for the Part B SEP, you must have creditable employer or union health coverage based on current employment. Your SEP begins eight months after your employer coverage ends or you leave your job, whichever happens first.",
+      "topic": "Medicare enrollment",
+      "tags": ["8-month sep", "working past 65", "employer coverage", "part b", "union coverage"],
+      "entities": ["Special Enrollment Period", "Part A", "Part B", "Part C", "Part D"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["How long do I have to sign up for Part B after my job coverage ends?", "What coverage qualifies me for the working-past-65 SEP?", "Do I need creditable coverage for the 8-month SEP?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Only 2 months for Part C or D in the 8-month SEP",
+      "question": "How long do I have to enroll in Part C or Part D during the 8-month SEP?",
+      "text": "The working-past-65 Special Enrollment Period is tricky: while you have the whole 8 months to get Parts A and B, you only get the first 2 months to enroll in Part C or Part D without penalty. If you enroll after the two-month mark, you'll face late enrollment penalties for Part D, regardless of whether you end up with a stand-alone Part D plan or a Medicare Advantage plan that includes drug coverage.",
+      "topic": "Part D prescription plans",
+      "tags": ["2-month deadline", "part d penalty", "part c", "late enrollment", "working past 65"],
+      "entities": ["Part C", "Part D", "Medicare Advantage", "Special Enrollment Period"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["When do I have to join Part D after leaving my employer plan?", "Will I get a Part D penalty if I wait three months?", "Is the Part C deadline the same as the Part B deadline?"]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/eligibility/medicaid-expansion-aca",
+  "title": "What is Medicaid Expansion? Understanding the Coverage Gap",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains Medicaid expansion under the ACA, who it covers (up to 138% of the federal poverty level), how it is funded, why not all states expanded, the coverage gap, and the impact on dual-eligible people.",
+  "published": "2022-12-02",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/Resource-Center-Eligibility-Medicaid-Expansion-ACA.jpg", "alt": "20-something woman smiling because she's eligible for coverage due to Medicaid expansion"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Who Medicaid expansion covers",
+      "question": "Who is covered by Medicaid expansion?",
+      "text": "Medicaid expansion gave states the chance to provide Medicaid coverage to people who earn up to 138% of the federal poverty level (FPL). It opened access mainly to 2 low-income groups: adults who don't have any children, and people who in the past earned too much to qualify for state Medicaid. The page states that for 2023 the FPL is $13,590 for individuals and $27,750 for a family of 4.",
+      "topic": "Medicaid eligibility",
+      "tags": ["medicaid expansion", "138% fpl", "adults without children", "federal poverty level"],
+      "entities": ["Medicaid expansion", "Federal Poverty Level", "FPL"],
+      "personas": ["Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What income qualifies for Medicaid expansion?", "Can adults without children get Medicaid?"]
+    },
+    {
+      "type": "definition",
+      "title": "Federal poverty level (FPL) explained",
+      "question": "What is the federal poverty level?",
+      "text": "FPL stands for federal poverty level, a measure of income. It is the cutoff to qualify for Medicaid and other government benefits. The federal government updates the FPL each year.",
+      "topic": "Medicaid eligibility",
+      "tags": ["fpl", "income cutoff", "government benefits", "annual update"],
+      "entities": ["Federal Poverty Level", "FPL", "Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What does FPL mean?", "How is Medicaid income eligibility measured?"]
+    },
+    {
+      "type": "assertion",
+      "title": "How Medicaid expansion is funded",
+      "question": "How is Medicaid expansion funded?",
+      "text": "Each state runs its own Medicaid program, and the federal government provides states at least half of the funding needed. For costs specifically related to Medicaid expansion, the federal government paid 100% for the first few years, and that share was gradually reduced. As of 2020 and every year going forward, the federal government pays 90%, so for every extra dollar a state spends on expansion, the federal government covers 90 cents.",
+      "topic": "Medicaid eligibility",
+      "tags": ["funding", "90 percent", "federal share", "expansion costs"],
+      "entities": ["Medicaid expansion", "Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Who pays for Medicaid expansion?", "What share of expansion costs does the federal government cover?"]
+    },
+    {
+      "type": "stat",
+      "title": "38 states and D.C. adopted expansion; 12 did not",
+      "question": "Why don't all states have Medicaid expansion?",
+      "text": "In 2012, the Supreme Court ruled that the federal government could not force states to expand Medicaid under the ACA because it would cost states money, so each state could choose. At the time of the page, 38 states plus Washington, D.C. had adopted Medicaid expansion and 12 states had not.",
+      "topic": "Medicaid eligibility",
+      "tags": ["38 states", "12 states", "supreme court", "2012", "state choice"],
+      "entities": ["Supreme Court", "Medicaid expansion", "ACA"],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Which states expanded Medicaid?", "Why did some states not expand Medicaid?"]
+    },
+    {
+      "type": "definition",
+      "title": "The Medicaid coverage gap",
+      "question": "What is the Medicaid coverage gap?",
+      "text": "The Medicaid coverage gap affects people in states that chose not to expand Medicaid. These people earn too much to qualify for Medicaid in their state, but still can't afford the cost of an individual or family Marketplace (ACA) plan. Roughly 2.2 million people fall into this gap, according to the page.",
+      "topic": "Medicaid eligibility",
+      "tags": ["coverage gap", "2.2 million", "non-expansion states", "marketplace"],
+      "entities": ["Medicaid coverage gap", "ACA Marketplace"],
+      "personas": ["Medicaid household", "Individual & family shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is the coverage gap in Medicaid?", "How many people are in the Medicaid coverage gap?"]
+    },
+    {
+      "type": "stat",
+      "title": "Findings of the Menges Group expansion study",
+      "question": "What has been the impact of Medicaid expansion?",
+      "text": "A study by The Menges Group, published in August 2021, compared states that adopted Medicaid expansion with states that did not. Key findings: more than 9 million people who would otherwise be uninsured got coverage; from 2013 to 2019, the share of Medicaid costs paid by states grew less in expansion states (19.5% versus 26.4%); expansion helped lower the COVID-19 death rate among people aged 18 to 64; and hospital revenues appear to have increased considerably in expansion states.",
+      "topic": "Medicaid eligibility",
+      "tags": ["menges group", "study", "9 million", "19.5%", "26.4%", "covid-19"],
+      "entities": ["The Menges Group", "Medicaid expansion"],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Did Medicaid expansion reduce the number of uninsured?", "What did the Menges Group find about Medicaid expansion?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Expansion and Dual Special Needs plan eligibility",
+      "question": "How does Medicaid expansion help people who also have Medicare?",
+      "text": "Medicaid expansion made it possible for more people to get coverage through Medicaid, including some who are also eligible for Medicare. Those people would most likely also qualify for a Dual Special Needs plan, a Medicare Advantage plan that works together with your Medicaid health plan. You keep all your Medicaid benefits, and most dual plans give more benefits and features than Original Medicare, with as low as a $0 plan premium.",
+      "topic": "Dual eligible coverage",
+      "tags": ["d-snp", "medicaid expansion", "dual eligible", "$0 premium", "medicare advantage"],
+      "entities": ["Dual Special Needs plan", "Medicare Advantage", "Medicaid expansion"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Can Medicaid expansion make me eligible for a dual plan?", "Do I keep Medicaid benefits with a Dual Special Needs plan?"]
+    }
+  ]
+}

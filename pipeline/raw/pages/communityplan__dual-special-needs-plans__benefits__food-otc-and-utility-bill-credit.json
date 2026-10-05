@@ -1,0 +1,158 @@
+{
+  "url": "https://www.uhc.com/communityplan/dual-special-needs-plans/benefits/food-otc-and-utility-bill-credit",
+  "title": "Food, OTC and Utility Bill Credit",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Describes the monthly credit that some UnitedHealthcare dual health plans provide for healthy food, over-the-counter products and utility bills, and how members use it with the UCard.",
+  "published": "2023-12-01",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/woman-grocery-store-1440x258.jpg",
+      "alt": "Woman shopping at a grocery store"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "The monthly food, OTC and utility credit",
+      "question": "What is the Food, OTC and Utility Bill Credit in a dual health plan?",
+      "text": "With a dual health plan, you could get a monthly credit to help with everyday needs like food, over-the-counter (OTC) products and utilities. Dual health plans are for people dually eligible for Medicare and Medicaid and include many extra benefits that can make life easier for low-income individuals. The page says entering your ZIP code shows how much you could receive monthly; benefits and features vary by plan and area.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "monthly credit",
+        "otc",
+        "healthy food",
+        "utilities",
+        "d-snp benefits"
+      ],
+      "entities": [
+        "Dual health plan",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do dual plans give a monthly credit for groceries?",
+        "How much monthly credit could I get with a dual plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What the credit can buy",
+      "question": "What can you buy with the dual plan monthly credit?",
+      "text": "If you had a UnitedHealthcare dual health plan, you could use your credit to buy healthy foods like fruits and vegetables, meat, seafood, dairy products and water; choose from thousands of OTC products like toothpaste, first aid necessities, cough drops and bladder control pads; and pay utility bills like electricity, gas, water and internet.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "healthy food",
+        "otc products",
+        "utility bills",
+        "electricity",
+        "internet"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "Dual health plan"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I pay my electric bill with my dual plan credit?",
+        "Are groceries covered by the OTC credit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How the credit loads onto the UCard",
+      "question": "How does the Food, OTC and Utility Bill Credit work?",
+      "text": "Many members of UnitedHealthcare dual health plans get the UnitedHealthcare UCard, which makes using benefits simple. Your credit is loaded to your UCard every month. Then you use your UCard to pay for any covered items you need.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "ucard",
+        "monthly credit",
+        "loaded monthly",
+        "benefit card"
+      ],
+      "entities": [
+        "UCard",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I use my monthly credit?",
+        "When is the credit added to my UCard?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Where members can spend the UCard credit",
+      "question": "Where can I use my UCard?",
+      "text": "Many UnitedHealthcare members can use their UCard to shop at thousands of participating stores, including Walmart, Walgreens, CVS and Kroger, or at neighborhood stores. They can order online and get free home delivery on qualifying orders of $35 or more, and pay eligible utility bills online, over the phone or at a local Walmart MoneyCenter. Current members can browse OTC and healthy food products and manage their benefit account online.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "ucard",
+        "participating stores",
+        "free delivery",
+        "utility bill payment",
+        "retailers"
+      ],
+      "entities": [
+        "UCard",
+        "Walmart",
+        "Walgreens",
+        "CVS",
+        "Kroger",
+        "Walmart MoneyCenter"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Which stores accept the UCard?",
+        "Is there free delivery with the UCard?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan availability of the monthly credit",
+      "question": "Is the monthly credit available in every area?",
+      "text": "Not every area has a UnitedHealthcare dual plan with the monthly benefit. If no plan in your ZIP code includes it, the page invites you to call 1-844-812-5967 (TTY 711), 8 a.m. to 8 p.m. local time, 7 days a week, to find another plan in your area with benefits that fit your needs. Details of the exact credit depend on the plan; check the number or website on the back of your UCard.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "availability",
+        "zip code",
+        "plan variation",
+        "phone support"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "UCard"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Current member"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does every dual plan include the food and OTC credit?",
+        "How do I find a dual plan with a monthly benefit?"
+      ]
+    }
+  ]
+}

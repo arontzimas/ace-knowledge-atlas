@@ -1,0 +1,248 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/working-with-us/lower-costs",
+  "title": "Cost management",
+  "domain": "Employer Solutions",
+  "page_type": "guide",
+  "summary": "Explains UnitedHealthcare's strategic approach to managing employer health care costs, including plan design, networks, payment integrity and clinical programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/working-with-us/lower-costs/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324792229/illustration-wallet-cost-888-600.jpeg",
+      "alt": "Illustration of a wallet representing cost management"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/working-with-us/lower-costs/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image_224280709.coreimg.90.1280.jpeg/1741991200798/cost-management-team-552x378.jpeg",
+      "alt": "Cost management team"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6390682564112-thumbnail-v2.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Managing cost trend while delivering on quality"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/tri1-2023-cost-zs-case-study-lr.pdf",
+      "alt": "UnitedHealthcare payment integrity solutions case study"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Employer medical costs projected to rise 8.5%",
+      "question": "How much are employer medical costs projected to increase in 2026?",
+      "text": "Employer medical costs are projected to increase 8.5% in 2026, driven by regulatory changes, an aging workforce and rising chronic conditions. Specialty drug usage, catastrophic claims and behavioral health needs further contribute to higher expenses. UnitedHealthcare says employers should consider a strategic, comprehensive cost management approach to reduce health care spending while maintaining benefit quality.",
+      "topic": "Cost management",
+      "tags": [
+        "cost trend",
+        "2026",
+        "medical cost increase",
+        "chronic conditions",
+        "specialty drugs"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "How much will employer health costs rise in 2026?",
+        "What is driving employer health care cost increases?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategic approach to cost management",
+      "question": "What does UnitedHealthcare's cost management approach include?",
+      "text": "A strategic approach to cost management can help employers address economic challenges and rising health care expenses. UnitedHealthcare's approach includes health plan designs that provide upfront cost information, encourage cost-effective care and reduce out-of-pocket costs, and it focuses on protecting employers' financial goals while meeting employees' health needs and budgets.",
+      "topic": "Cost management",
+      "tags": [
+        "cost management",
+        "plan design",
+        "upfront costs",
+        "out-of-pocket",
+        "employer strategy"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How can employers reduce health care spending?",
+        "What plan designs lower out-of-pocket costs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Surest shows copays before care",
+      "question": "How does the Surest plan help control costs?",
+      "text": "The Surest plan allows members to view and compare copays in advance without worrying about deductibles and coinsurance. UnitedHealthcare says this helps members choose low-cost, high-value options and delivers savings for employers and employees.",
+      "topic": "Cost management",
+      "tags": [
+        "surest",
+        "copays",
+        "cost transparency",
+        "no deductible",
+        "no coinsurance"
+      ],
+      "entities": [
+        "Surest"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Can members see copays before they get care with Surest?",
+        "Does Surest have deductibles or coinsurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Broad networks and chronic condition management",
+      "question": "How do networks and chronic condition programs affect employer costs?",
+      "text": "UnitedHealthcare plans include broad national networks of health care providers and facilities recognized for delivering high-value care. The page also says effective prevention and management of chronic conditions through clinical and care management programs is important, because chronic conditions account for significant portions of employers' total health care spending.",
+      "topic": "Cost management",
+      "tags": [
+        "networks",
+        "high-value care",
+        "chronic conditions",
+        "prevention",
+        "care management"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why do chronic conditions drive employer health costs?",
+        "How do provider networks help control costs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "About 25% of spending is wasteful",
+      "question": "How much health care spending is wasteful or unnecessary?",
+      "text": "UnitedHealthcare states that approximately 25% of health care spending is considered wasteful or unnecessary. Payment integrity solutions help ensure employers and employees pay only for care and services rendered. The company says it uses a strategic approach delivering lower total cost of care compared to market competitors.",
+      "topic": "Cost management",
+      "tags": [
+        "wasteful spending",
+        "payment integrity",
+        "total cost of care",
+        "unnecessary care",
+        "claims"
+      ],
+      "entities": [
+        "Payment integrity"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What percent of health care spending is wasteful?",
+        "What is payment integrity?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Funding models and network configurations",
+      "question": "What funding types and networks does UnitedHealthcare offer for cost management?",
+      "text": "UnitedHealthcare says that understanding and recommending the right medical plan and network configuration helps clients maximize health insurance value at the lowest possible cost. It offers fully insured, level funded and self-funded medical plans with various network configurations meeting most employer needs.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "level funded",
+        "self-funded",
+        "network configuration",
+        "plan recommendation"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What funding options does UnitedHealthcare offer employers?",
+        "How do I choose the right network for a client?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Care and clinical management lower costs",
+      "question": "How do care and clinical management programs lower costs?",
+      "text": "Complex and chronic conditions and their accompanying costs call for clinical and care management programs that help employees navigate their care journey. UnitedHealthcare says targeted programs deliver more efficient and cost-effective care, improve health outcomes and ultimately reduce costs.",
+      "topic": "Cost management",
+      "tags": [
+        "clinical management",
+        "care management",
+        "complex conditions",
+        "outcomes",
+        "cost reduction"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do clinical programs reduce employer health costs?",
+        "Why do complex conditions need care management?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "UnitedHealthcare pays 98% of claims received",
+      "question": "What percent of claims does UnitedHealthcare pay?",
+      "text": "UnitedHealthcare pays 98% of all claims received for eligible members when claims are submitted timely, contain complete and accurate information and are not duplicate submissions. Payment integrity solutions resolve claims issues before members pay, potentially saving money for employers and employees.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "claims payment",
+        "98%",
+        "payment integrity",
+        "timely filing",
+        "duplicate claims"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many claims does UnitedHealthcare pay?",
+        "What conditions must a claim meet to be paid?"
+      ]
+    }
+  ]
+}

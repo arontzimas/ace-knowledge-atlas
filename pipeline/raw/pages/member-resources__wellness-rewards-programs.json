@@ -1,0 +1,316 @@
+{
+  "url": "https://www.uhc.com/member-resources/wellness-rewards-programs",
+  "title": "Member support, wellness and rewards programs",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Catalog of UnitedHealthcare member support, wellness and rewards programs organized by plan type: plans through work, Medicare Advantage, Medicaid and ACA Marketplace.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/member-support-couple-jogging-desktop-1920x700.jpg",
+      "alt": "Couple jogging"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/wellness-rewards-programs/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy_319233863/image.coreimg.90.1280.jpeg/1770743025504/member-support-coworkers-at-computer-desktop-600x384.jpeg",
+      "alt": "Coworkers at a computer"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Wellness and rewards depend on plan type",
+      "question": "What wellness and rewards programs does UnitedHealthcare offer?",
+      "text": "With UnitedHealthcare wellness and rewards programs, members can earn rewards for reaching activity and health goals. UnitedHealthcare also offers wellness programs, such as One Pass Select and Renew Active, to give support and motivation and help keep the mind and body active. Program availability varies by plan type.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "wellness programs",
+        "rewards",
+        "one pass select",
+        "renew active",
+        "plan type"
+      ],
+      "entities": [
+        "One Pass Select",
+        "Renew Active"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What wellness programs come with my UnitedHealthcare plan?",
+        "Can I earn rewards for healthy activities?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Member support programs list",
+      "question": "What member support programs does UnitedHealthcare list?",
+      "text": "UnitedHealthcare lists these member support programs: Real Appeal (weight loss with a personal coach), clinical support programs for conditions like diabetes and heart disease, maternity support, mental health programs, HouseCalls (yearly in-home preventive visits for Medicare and Medicaid members), LGBTQ+ resources, Quit for Life (help to quit smoking or tobacco) and Naviguard (help negotiating out-of-network balance bills).",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "member support",
+        "real appeal",
+        "housecalls",
+        "quit for life",
+        "naviguard"
+      ],
+      "entities": [
+        "Real Appeal",
+        "HouseCalls",
+        "Quit for Life",
+        "Naviguard"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What programs does UnitedHealthcare offer to help me quit smoking?",
+        "What is HouseCalls?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UHC Rewards for plans through work",
+      "question": "What is UHC Rewards for employer-sponsored plans?",
+      "text": "With UnitedHealthcare Rewards, eligible members with plans through work can earn rewards for a variety of actions, including things they may already be doing. The members choose the activities, and the program is included at no additional cost. UHC Rewards may vary by plan type and is activated in the UnitedHealthcare app.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "uhc rewards",
+        "employer-sponsored",
+        "no additional cost",
+        "uhc app"
+      ],
+      "entities": [
+        "UHC Rewards"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I activate UHC Rewards?",
+        "Does UHC Rewards cost extra?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "One Pass Select for plans through work",
+      "question": "What is One Pass Select?",
+      "text": "One Pass Select can help members with plans through work reach fitness goals, find a routine whether they work out at home or at the gym, and choose a membership tier that fits their lifestyle. It provides access to digital fitness apps, gym memberships and home grocery delivery services.",
+      "topic": "Wellness programs",
+      "tags": [
+        "one pass select",
+        "fitness",
+        "gym membership",
+        "grocery delivery"
+      ],
+      "entities": [
+        "One Pass Select"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What does One Pass Select include?",
+        "Can I get a gym membership through my UnitedHealthcare plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Wellos wellness app",
+      "question": "What is Wellos?",
+      "text": "Wellos is a wellness app that helps members track their health, connect with coaches, build healthy habits, access tools, content and practices based on their progress, and view meal plans and more than 5,000 recipes. It offers personal insights at no additional cost as part of eligible health plans.",
+      "topic": "Wellness programs",
+      "tags": [
+        "wellos",
+        "wellness app",
+        "coaching",
+        "meal plans",
+        "recipes"
+      ],
+      "entities": [
+        "Wellos"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is the Wellos app?",
+        "Is Wellos free with my health plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Care Cash debit card amounts",
+      "question": "What is Care Cash and how much does it include?",
+      "text": "Care Cash is a preloaded debit card that can help pay toward eligible network health care expenses, including visits to UnitedHealth Premium Care providers, in-network primary care providers, outpatient behavioral health providers, laboratories, convenience care clinics, 24/7 Virtual Visits and urgent care. The card comes with $200 for individuals or $500 for families in eligible plans.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "care cash",
+        "debit card",
+        "$200",
+        "$500",
+        "eligible plans"
+      ],
+      "entities": [
+        "Care Cash",
+        "UnitedHealth Premium"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How much money is on the Care Cash card?",
+        "What can I use Care Cash for?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Renew Active for Medicare Advantage",
+      "question": "What is Renew Active?",
+      "text": "Renew Active is a fitness program for body and mind that helps Medicare Advantage members stay active, focused and connected, either at a gym or from home, at no additional cost.",
+      "topic": "Medicare Advantage",
+      "tags": [
+        "renew active",
+        "fitness",
+        "medicare advantage",
+        "no additional cost"
+      ],
+      "entities": [
+        "Renew Active",
+        "Medicare Advantage"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is Renew Active?",
+        "Does Medicare Advantage include a fitness program?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare Advantage rewards activities",
+      "question": "How can Medicare Advantage members earn rewards?",
+      "text": "UnitedHealthcare Medicare Advantage members have many ways to earn rewards and many ways to spend them. Members may be eligible to earn rewards for completing certain activities, like an annual physical or wellness visit.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "medicare advantage",
+        "rewards",
+        "annual physical",
+        "wellness visit"
+      ],
+      "entities": [
+        "Medicare Advantage"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I earn rewards for my annual physical on Medicare Advantage?",
+        "What rewards do UnitedHealthcare Medicare Advantage plans have?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Member Rewards in Medicaid plans",
+      "question": "Do UnitedHealthcare Medicaid plans offer rewards?",
+      "text": "Members with some UnitedHealthcare Medicaid plans may be eligible to earn rewards just for being healthy through Member Rewards. If it is part of the plan, members may earn rewards for healthy activities such as seeing their provider or completing health screenings. Member Rewards is not available with all UnitedHealthcare Community plans.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "medicaid",
+        "member rewards",
+        "health screenings",
+        "community plan"
+      ],
+      "entities": [
+        "Member Rewards",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Can I earn rewards with a Medicaid plan?",
+        "What is Member Rewards?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Health Perks Rewards up to $250",
+      "question": "How much can I earn with Health Perks Rewards?",
+      "text": "Through the Health Perks program, eligible members with Individual & Family ACA Marketplace plans can earn up to $250 in rewards by completing health- and account-related activities. Per the page's footnote, that is $50 for account setup activities, $50 for a health risk assessment and $150 for a primary care provider visit, with a limit of one reward per eligible member.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "health perks",
+        "aca marketplace",
+        "$250",
+        "primary care visit"
+      ],
+      "entities": [
+        "Health Perks",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I earn $250 with Health Perks?",
+        "What rewards come with an ACA Marketplace plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Walgreens Smart Savings discount",
+      "question": "What is the Walgreens Smart Savings Discount for ACA members?",
+      "text": "Eligible Individual & Family ACA Marketplace members can save 20% with the Walgreens Smart savings card on thousands of eligible Walgreens branded over-the-counter health and wellness products, such as eye care, dental care, baby essentials and smoking cessation products. The discount is valid until 12/31/26, applies to in-store purchases only and is not available in Washington.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "walgreens",
+        "smart savings",
+        "20% discount",
+        "over-the-counter",
+        "aca marketplace"
+      ],
+      "entities": [
+        "Walgreens Smart Savings",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I get 20% off at Walgreens with my UnitedHealthcare plan?",
+        "Does the Walgreens discount work online?"
+      ]
+    }
+  ]
+}

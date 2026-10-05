@@ -1,0 +1,78 @@
+{
+  "url": "https://www.uhc.com/news-articles/medicare-articles/what-is-the-medicare-advantage-open-enrollment-period",
+  "title": "What is the Medicare Advantage Open Enrollment Period?",
+  "domain": "Medicare",
+  "page_type": "article",
+  "summary": "Medicare Made Clear article explaining the January 1 to March 31 Medicare Advantage Open Enrollment Period, how it differs from the Annual Enrollment Period, and how to review your plan.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/news-articles/medicare-articles/what-is-the-medicare-advantage-open-enrollment-period/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1747267278527/blog-maoep.jpeg", "alt": "Medicare Advantage Open Enrollment Period"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicare Advantage Open Enrollment is",
+      "question": "What is the Medicare Advantage Open Enrollment Period?",
+      "text": "The Medicare Advantage Open Enrollment Period is when Medicare Advantage plan members can make changes to their existing plan or disenroll from their current plan and return to Original Medicare. It runs from January 1 to March 31.",
+      "topic": "Medicare enrollment",
+      "tags": ["medicare advantage open enrollment", "ma oep", "january 1", "march 31", "disenroll"],
+      "entities": ["Medicare Advantage Open Enrollment Period", "Medicare Advantage", "Original Medicare"],
+      "personas": ["Medicare shopper", "Current member"],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": ["When is Medicare Advantage open enrollment?", "Can I leave my Medicare Advantage plan after January 1?", "What can I change during MA OEP?"]
+    },
+    {
+      "type": "assertion",
+      "title": "MA open enrollment mirrors annual enrollment changes",
+      "question": "What changes can I make during Medicare Advantage Open Enrollment?",
+      "text": "The changes you can make during Medicare Advantage Open Enrollment are similar to those you can make during the Medicare Annual Enrollment Period. It basically gives you another opportunity to get the coverage you want and need.",
+      "topic": "Medicare enrollment",
+      "tags": ["plan changes", "annual enrollment period", "second chance", "ma oep"],
+      "entities": ["Medicare Advantage Open Enrollment Period", "Annual Enrollment Period"],
+      "personas": ["Current member"],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": ["Can I switch plans after annual enrollment ends?", "Is MA open enrollment like AEP?", "What can I do between January and March?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Medicare Advantage Open Enrollment vs Annual Enrollment",
+      "question": "How is Medicare Advantage Open Enrollment different from Medicare Annual Enrollment?",
+      "text": "The main difference is who can use each one. Medicare Annual Enrollment is when anyone who has Medicare can make coverage changes for the upcoming year, while Medicare Advantage Open Enrollment is only for people who are currently enrolled in a Medicare Advantage plan. Timing also differs: Annual Enrollment is October 15 to December 7, while Medicare Advantage Open Enrollment is January 1 to March 31. Both happen every year.",
+      "topic": "Medicare enrollment",
+      "tags": ["aep vs ma oep", "october 15", "january 1", "who can use", "enrollment periods"],
+      "entities": ["Annual Enrollment Period", "Medicare Advantage Open Enrollment Period"],
+      "personas": ["Medicare shopper", "Current member"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["What's the difference between AEP and MA OEP?", "Who can use Medicare Advantage open enrollment?", "Can someone on Original Medicare use MA OEP?"]
+    },
+    {
+      "type": "steps",
+      "title": "How to review your plan before changing",
+      "question": "How do I get ready for Medicare Advantage Open Enrollment?",
+      "text": "Whether you recently enrolled or have had your plan for years, use this period to confirm or change your plan choice. Review how your plan stacks up: 1) your doctors and other providers are in the plan network; 2) your prescription drugs are on the plan formulary; 3) you are comfortable with your costs, including premiums, deductibles, copays and coinsurance; 4) you have the additional dental, vision and hearing coverage you want; and 5) you are happy with additional benefits such as fitness programs, mail-order pharmacy, nurse line and other wellness services.",
+      "topic": "Medicare Advantage",
+      "tags": ["plan review", "network", "formulary", "costs", "extra benefits"],
+      "entities": ["Medicare Advantage"],
+      "personas": ["Current member"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["How do I know if my Medicare Advantage plan is still right?", "What should I check before switching plans?", "Are my doctors and drugs covered by my plan?"]
+    },
+    {
+      "type": "assertion",
+      "title": "New plan benefits last the rest of the year",
+      "question": "If I change plans during MA OEP, when do the new benefits take effect?",
+      "text": "If you decide to make a change during the Medicare Advantage Open Enrollment Period, you have from January 1 to March 31 to do it. You can explore other plan options, and your new plan benefits will be in effect for the rest of the year.",
+      "topic": "Medicare enrollment",
+      "tags": ["plan change", "march 31 deadline", "rest of the year", "new plan"],
+      "entities": ["Medicare Advantage Open Enrollment Period"],
+      "personas": ["Current member"],
+      "intent": "Enroll",
+      "stage": "Member",
+      "questions": ["How long do I have to switch Medicare Advantage plans?", "When does my new plan take effect?", "Is the March 31 deadline firm?"]
+    }
+  ]
+}

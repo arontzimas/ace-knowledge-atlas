@@ -1,0 +1,371 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-revolutionizing-health-care",
+  "title": "AI for better care: Revolutionizing the healthcare industry",
+  "domain": "Company & News",
+  "page_type": "article",
+  "summary": "Employer-focused article on how AI is changing health care, six ways it helps, potential employer ROI and questions to ask carriers about their AI use.",
+  "published": "2025-11-26",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-revolutionizing-health-care/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/grid_copy_copy_copy__2057343414/container_2111132048/image.coreimg.90.1280.jpeg/1765977223391/innovation-ai-placemat-thumbnail-400x466.jpeg",
+      "alt": "AI in health care placemat thumbnail"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/pdfs/innovation-ai-article.pdf",
+      "alt": "Download this article (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Health spending and AI market growth",
+      "question": "How large is U.S. health spending and the AI health care market?",
+      "text": "The article states that U.S. health spending reached $4.9T in 2025, yet inefficiencies persist across the board. The use of AI in health care is projected to grow from $37B in 2025 to a $614B market by 2034. The article cites Menlo Ventures and Precedence Research for these figures.",
+      "topic": "AI & innovation",
+      "tags": [
+        "health spending",
+        "ai market",
+        "$4.9 trillion",
+        "$614 billion",
+        "inefficiency"
+      ],
+      "entities": [
+        "AI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How much is the AI health care market projected to grow?",
+        "How much does the U.S. spend on health care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "AI with human oversight, not replacement",
+      "question": "Does UnitedHealthcare want AI to replace human oversight?",
+      "text": "A UnitedHealthcare Employer & Individual executive says leveraging AI must be done responsibly. In his words, it is not about removing human oversight but about automating processes to provide pertinent information and data analysis faster, which can free up time for more human interaction. UnitedHealthcare cites a rigorous review process, an expert review board and constant human oversight.",
+      "topic": "AI & innovation",
+      "tags": [
+        "human oversight",
+        "responsible ai",
+        "review board",
+        "automation"
+      ],
+      "entities": [
+        "UnitedHealthcare Employer & Individual"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI replace human oversight at UnitedHealthcare?",
+        "How does UnitedHealthcare govern its AI?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Types of artificial intelligence defined",
+      "question": "What are the different types of AI?",
+      "text": "The article defines AI as enabling machines to mimic human behavior. Machine learning (ML) uses statistical methods to help machines improve with experience. Deep learning is a type of ML that interprets multi-layer neural networks across large, complex datasets. Conversational AI is a type of deep learning able to respond to human language in natural dialogue.",
+      "topic": "AI & innovation",
+      "tags": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning",
+        "conversational ai"
+      ],
+      "entities": [
+        "AI",
+        "Machine learning",
+        "Deep learning",
+        "Conversational AI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the difference between AI and machine learning?",
+        "What is conversational AI?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Generative, agentic and ambient AI",
+      "question": "What are generative AI, agentic AI and ambient AI?",
+      "text": "Generative AI is a type of deep learning capable of generating new content to address broad task requests. Agentic AI is a type of deep learning and generative AI capable of autonomous decision-making. Ambient AI is a type of machine learning that listens to conversations and observes environments to perform tasks like scribing clinical notes.",
+      "topic": "AI & innovation",
+      "tags": [
+        "generative ai",
+        "agentic ai",
+        "ambient ai",
+        "clinical notes"
+      ],
+      "entities": [
+        "Generative AI",
+        "Agentic AI",
+        "Ambient AI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is agentic AI?",
+        "What is ambient AI in health care?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Disease prediction with AI",
+      "question": "How does AI help with disease prediction?",
+      "text": "AI can help identify the sickest or highest-risk individuals and support providers in taking timely action. Algorithms analyze evidence-based data to detect markers of undiagnosed conditions or increased risk, and clinicians review the predictions and recommend interventions. AI does not replace clinical judgment, it supports it. UnitedHealth Group data cites a 2X increase in the diagnosis of medical conditions using risk-prediction scoring.",
+      "topic": "AI & innovation",
+      "tags": [
+        "disease prediction",
+        "risk scoring",
+        "clinical judgment",
+        "2x diagnosis"
+      ],
+      "entities": [
+        "AI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can AI predict who is at high health risk?",
+        "Does AI replace a doctor's judgment?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "AI-supported care coordination",
+      "question": "How does AI support care coordination?",
+      "text": "AI can help coordinate information sharing across providers and carriers, creating a more holistic view of an individual's coverage, medical history and care preferences. That can help providers or advocates navigate individuals to the most appropriate care or next-best action. The article reports that 71M calls to UnitedHealthcare Advocates were assisted by AI-enabled technology.",
+      "topic": "AI & innovation",
+      "tags": [
+        "care coordination",
+        "advocates",
+        "71 million calls",
+        "information sharing"
+      ],
+      "entities": [
+        "UnitedHealthcare Advocates"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many UnitedHealthcare Advocate calls were assisted by AI?",
+        "How does AI help coordinate care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "AI for simpler benefit navigation",
+      "question": "How can AI make navigating health benefits simpler?",
+      "text": "By factoring in a member's health care journey, coverage and personal priorities, AI can enable more timely prompts, prioritized search results and relevant options that help members navigate the health system. This can reduce confusion and improve benefit understanding. The article notes more than 465 enhancements were made to the UnitedHealthcare app and myuhc.com in 2025.",
+      "topic": "AI & innovation",
+      "tags": [
+        "navigation",
+        "benefit understanding",
+        "uhc app",
+        "myuhc.com",
+        "465 enhancements"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "myuhc.com"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does AI simplify health benefits?",
+        "How many updates did UnitedHealthcare make to its app in 2025?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "AI for quicker issue resolution",
+      "question": "How does AI help members get answers faster?",
+      "text": "Conversational AI-powered chat tools help members get answers about coverage, costs and general inquiries. Integrated into tools used by providers, Advocates, brokers, consultants and employers, AI can give more visibility into member benefits and issues. The article reports a 56k reduction in UnitedHealth Group customer service calls from AI predicting common issues like prescriptions or payment problems.",
+      "topic": "AI & innovation",
+      "tags": [
+        "issue resolution",
+        "chat tools",
+        "customer service calls",
+        "56k reduction"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can AI chat answer benefit questions?",
+        "How much did AI reduce customer service calls?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "AI call routing and personalized support",
+      "question": "How does AI route member calls?",
+      "text": "When a member calls with a specific or complex question, AI can help understand the general reason for the call and route them to the right department for live support. It may also recommend relevant resources. The article reports that 10% of Optum Rx calls were resolved via self-service because AI predicted the caller's intent, with the rest routed to the right customer Advocate more efficiently.",
+      "topic": "AI & innovation",
+      "tags": [
+        "call routing",
+        "caller intent",
+        "optum rx",
+        "self-service",
+        "10%"
+      ],
+      "entities": [
+        "Optum Rx"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does AI route calls to the right team?",
+        "What percent of Optum Rx calls were resolved by self-service?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "AI-streamlined health care processes",
+      "question": "What administrative tasks can AI streamline in health care?",
+      "text": "AI can streamline processes by prioritizing prescription refill requests, flagging claims with missing or inaccurate information, generating report summaries and automating manual data entry. The article reports a 50% reduction in clinical documentation review time via Optum Real AI-powered technology, and says the efficiencies benefit members, providers, carriers, brokers, consultants and employers.",
+      "topic": "AI & innovation",
+      "tags": [
+        "streamlined processes",
+        "claims flagging",
+        "documentation review",
+        "optum real",
+        "50% reduction"
+      ],
+      "entities": [
+        "Optum Real"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What can AI automate in health insurance?",
+        "How much time did Optum Real save on documentation review?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Potential ROI of AI for employers",
+      "question": "What return could employers see from carrier AI?",
+      "text": "The article lists two potential returns for employers. Lower costs, through earlier diagnoses and interventions, reduced administrative burden and increased productivity as healthier employees tend to take fewer sick days. And improved employee retention, as workers experience a better health benefits journey with easier navigation, clearer cost and coverage information, timely personalized support and more coordinated care.",
+      "topic": "AI & innovation",
+      "tags": [
+        "roi",
+        "employer value",
+        "retention",
+        "lower costs",
+        "productivity"
+      ],
+      "entities": [
+        "AI"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the ROI of AI in employee health benefits?",
+        "How does AI help employee retention?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Six questions to ask a carrier about AI",
+      "question": "What should employers ask a carrier about its AI use?",
+      "text": "The article lists six questions for evaluating carriers: how AI simplifies and personalizes the member experience; what safeguards protect member data and ensure ethical use; how AI streamlines benefits enrollment and administration; how AI supports clinicians without making decisions for them; how AI speeds claims processing and what human oversight ensures claims are not decided solely by AI; and how the carrier compares to competitors.",
+      "topic": "AI & innovation",
+      "tags": [
+        "carrier evaluation",
+        "ai safeguards",
+        "claims oversight",
+        "due diligence"
+      ],
+      "entities": [
+        "AI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "What questions should I ask a health insurer about AI?",
+        "How do I evaluate a carrier's AI standards?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Fortune AIQ 50 ranking",
+      "question": "How was UnitedHealth Group ranked for AI adoption?",
+      "text": "Fortune ranked UnitedHealth Group No. 1 in Health Care and No. 25 overall in its 2025 AIQ 50 list for its adoption and scaling of AI. The article's footnote says the polling ran from Aug. 29 to Sept. 19, 2025, and that Fortune and Time Inc. do not endorse products or services of UnitedHealth Group.",
+      "topic": "AI & innovation",
+      "tags": [
+        "fortune aiq 50",
+        "ranking",
+        "ai adoption",
+        "unitedhealth group"
+      ],
+      "entities": [
+        "Fortune AIQ 50",
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Where did UnitedHealth Group rank on the Fortune AIQ 50?",
+        "Is UnitedHealth Group a leader in health care AI?"
+      ]
+    }
+  ]
+}

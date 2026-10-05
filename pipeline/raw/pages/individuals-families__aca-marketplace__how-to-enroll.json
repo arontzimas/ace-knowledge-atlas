@@ -1,0 +1,280 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace/how-to-enroll",
+  "title": "Enrolling in an ACA Marketplace plan",
+  "domain": "Individual & Family",
+  "page_type": "guide",
+  "summary": "Step-by-step guidance on enrolling in a UnitedHealthcare ACA Marketplace plan, including open enrollment dates, Special Enrollment Period qualifying events, what to prepare, activating coverage and coverage start dates.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "steps",
+      "title": "Key ACA open enrollment dates",
+      "question": "What are the key open enrollment dates for ACA Marketplace plans?",
+      "text": "UnitedHealthcare lists three dates to mark on your calendar. November 1: open enrollment begins, and you can shop for and enroll in a plan. December 15: to start coverage on January 1, 2026, enroll by December 15, 2025, in most states. January 15: to start coverage on February 1, 2026, enroll by January 15, 2026, in most states.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "november 1",
+        "december 15",
+        "january 15",
+        "coverage start date"
+      ],
+      "entities": [
+        "open enrollment",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "When does ACA open enrollment start and end?",
+        "What is the deadline to get coverage starting January 1?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Open enrollment is required without a qualifying event",
+      "question": "Do I have to wait for open enrollment to enroll in an ACA plan?",
+      "text": "If you don't qualify for a Special Enrollment Period, you'll need to enroll in an ACA plan during the open enrollment window, which typically runs November 1 to January 15 in most states. If plans are available in your area, you can enroll directly through UnitedHealthcare.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "open enrollment",
+        "special enrollment period",
+        "enroll directly",
+        "deadline"
+      ],
+      "entities": [
+        "open enrollment",
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Can I sign up for an ACA plan any time of year?",
+        "Where do I enroll in a UnitedHealthcare ACA plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Qualifying life events for a Special Enrollment Period",
+      "question": "What qualifying life events allow a Special Enrollment Period?",
+      "text": "If you experience a qualifying life event at any time during the year, you may be able to enroll outside open enrollment, and your coverage start date will depend on the event. Events include but are not limited to: getting married, losing coverage due to divorce, having or adopting a baby, losing coverage due to the death of the primary member, moving to a new area, earning U.S. citizenship, turning 26, loss of employer coverage or other health insurance, being impacted by a natural disaster, no longer being eligible for Medicaid or CHIP, or being offered an ICHRA or QSEHRA.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "special enrollment period",
+        "turning 26",
+        "loss of coverage",
+        "moving"
+      ],
+      "entities": [
+        "Special Enrollment Period",
+        "Medicaid",
+        "CHIP",
+        "ICHRA",
+        "QSEHRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What counts as a qualifying life event?",
+        "Does moving let me change my ACA plan?",
+        "Is losing Medicaid a qualifying life event?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Three simple steps to enroll",
+      "question": "What are the steps to enroll in an ACA plan with UnitedHealthcare?",
+      "text": "Begin the enrollment process in 3 simple steps: 1) Enter your ZIP code, then answer a few questions about your family and income. 2) See if you qualify for a subsidy and view recommended plan options. 3) Choose the best plan option for you and UnitedHealthcare will help you enroll. You can also explore plans, get estimates and enroll by calling a licensed insurance agent at 1-800-557-6718, TTY 711.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "enrollment steps",
+        "zip code",
+        "subsidy",
+        "licensed agent",
+        "how to enroll"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "subsidy"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I enroll in an ACA plan online?",
+        "Can I enroll by phone?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What to think about before choosing a plan",
+      "question": "What should I consider when choosing an ACA plan?",
+      "text": "Consider what matters most: budget-friendly coverage, or a plan with lots of coverage and perks. If you have a preferred provider, find a plan where they're in network; you can search for your provider during enrollment. If you take regular prescriptions, check the plan's formulary (drug list), since medications not listed will likely be an out-of-pocket cost. Current UnitedHealthcare ACA members may be able to keep paying their premium to stay in their plan.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "choosing a plan",
+        "provider network",
+        "formulary",
+        "prescriptions",
+        "renew plan"
+      ],
+      "entities": [
+        "formulary",
+        "UnitedHealthcare ACA plan"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How do I check if my doctor is in network before enrolling?",
+        "How do I know if my medication is covered?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What information you need to enroll",
+      "question": "What information do I need to enroll in an ACA plan?",
+      "text": "When you enroll, you'll be asked questions about your household and income, which help determine your ACA plan eligibility and subsidies. Gathering this ahead of time can help. You may need to provide your mailing address, the members of your household, and your estimated household income, including details on wages, government assistance, pension, retirement accounts and other earnings.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "enrollment checklist",
+        "household income",
+        "mailing address",
+        "household members",
+        "subsidies"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "subsidy"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What documents do I need to apply for an ACA plan?",
+        "What income do I report on my ACA application?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Activating your coverage after enrolling",
+      "question": "How do I activate my ACA coverage?",
+      "text": "After you enroll, complete a few tasks from your plan's post-enrollment dashboard before coverage can start: 1) Confirm your eligibility status and plan choice. 2) Send verification documents to the health care Marketplace. 3) Make your first premium payment. Making the first payment on time is important so coverage can officially start, and you'll typically receive your welcome kit and health plan ID card within 10 days of making your payment.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "activate coverage",
+        "first premium payment",
+        "welcome kit",
+        "id card",
+        "post-enrollment dashboard"
+      ],
+      "entities": [
+        "post-enrollment dashboard",
+        "health plan ID card"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "When will I get my ACA ID card?",
+        "What happens if I don't pay my first premium?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When coverage starts after a Special Enrollment Period",
+      "question": "After I enroll, when does my ACA Marketplace coverage start?",
+      "text": "If you enroll during a Special Enrollment Period, start dates vary. Enroll by the 15th of the month and coverage starts the first day of the next month (enroll February 15, coverage starts March 1). Enroll between the 16th and month end and coverage starts the first day of the second month (enroll February 16, coverage starts April 1). For certain qualifying life events, such as marriage, coverage could start the first day of the following month. Exceptions apply by state and event.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "coverage start date",
+        "special enrollment period",
+        "enrollment deadline",
+        "marriage"
+      ],
+      "entities": [
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "If I enroll on the 20th, when does coverage start?",
+        "Does getting married change when my coverage starts?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Renewing a UnitedHealthcare ACA plan",
+      "question": "Can I renew my current UnitedHealthcare ACA plan?",
+      "text": "If you're a UnitedHealthcare ACA plan member, you may be able to continue paying your premium to stay enrolled in your plan for 2026. UnitedHealthcare says it will reach out to let you know your 2026 plan options.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "renewal",
+        "current member",
+        "2026 plan",
+        "premium"
+      ],
+      "entities": [
+        "UnitedHealthcare ACA plan"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Member",
+      "questions": [
+        "How do I renew my ACA plan for next year?",
+        "Will UnitedHealthcare contact me about my 2026 plan options?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Where to find QLE details",
+      "question": "Where can I learn more about qualifying life events?",
+      "text": "For more information about qualifying life events and Special Enrollment Periods, UnitedHealthcare directs people to healthcare.gov. A licensed insurance agent can also help determine which qualifying life event you have, since there are exceptions to coverage start guidelines depending on the state you enroll in or certain events.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "healthcare.gov",
+        "licensed agent",
+        "special enrollment period"
+      ],
+      "entities": [
+        "healthcare.gov",
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Who can tell me if I have a qualifying life event?",
+        "Where do I confirm SEP eligibility?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/health-topics/heart-health/heart-disease",
+  "title": "Heart disease",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Explains coronary heart disease, symptoms and heart attack signs in men and women, types of heart disease, risk factors and heart disease management programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/health-topics/heart-health/heart-disease/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image_951906941.coreimg.90.1280.jpeg/1775087250479/heart-disease-couple-hiking-600x392.jpeg",
+      "alt": "Couple hiking in nature"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What coronary heart disease is",
+      "question": "What is coronary heart disease?",
+      "text": "The most common type of heart disease is coronary heart disease (CHD). CHD means the arteries in the heart cannot deliver enough oxygen-rich blood to the heart muscle, typically because of narrowing of the arteries from a buildup of plaque. UnitedHealthcare notes it may be possible to prevent heart disease, and small changes may stabilize or improve some of its causes.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "coronary heart disease",
+        "plaque",
+        "arteries",
+        "heart disease prevention"
+      ],
+      "entities": [
+        "coronary heart disease"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is coronary heart disease?",
+        "What causes heart disease?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Heart disease can be silent",
+      "question": "What are the symptoms of heart disease?",
+      "text": "Coronary heart disease is sometimes silent, meaning you might not notice symptoms until a heart attack or other problem. It usually takes years to develop. As plaque narrows the arteries, it can cause chest pain, shortness of breath and neck pain when active. These often go away with rest and return with movement or stress, and any chest pain should be checked by a doctor.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "silent heart disease",
+        "chest pain",
+        "shortness of breath",
+        "plaque"
+      ],
+      "entities": [
+        "coronary heart disease"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Can you have heart disease without symptoms?",
+        "Should I see a doctor for chest pain?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common heart attack signs and when to call 911",
+      "question": "What are the most common signs of a heart attack?",
+      "text": "The most common sign of a heart attack for both women and men is pain or discomfort in the center of the chest. It can be mild or strong and may last several minutes, or stop and come back. The more signs you have, the more likely a heart attack is. If you think you might be having one, call 911 right away, even if you are not sure.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "heart attack",
+        "chest pain",
+        "911",
+        "emergency"
+      ],
+      "entities": [
+        "heart attack"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does a heart attack feel like?",
+        "When should I call 911 for chest pain?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Heart attack signs in men vs women",
+      "question": "How do heart attack signs differ in men and women?",
+      "text": "In men, signs include chest pain in the center or left side, pain in the arms, back, shoulders, neck, jaw or above the belly button, shortness of breath, unexplained sweating, nausea, dizziness and a rapid or irregular heartbeat. Women may not always feel chest pain and may instead have back, neck, jaw or throat pain, heartburn or indigestion, nausea, vomiting, extreme tiredness or trouble breathing. Women often have silent heart attacks.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "heart attack symptoms",
+        "women",
+        "men",
+        "silent heart attack"
+      ],
+      "entities": [
+        "heart attack",
+        "silent heart attack"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Do women have different heart attack symptoms?",
+        "What are heart attack symptoms in men?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Types of heart disease",
+      "question": "What are the different types of heart disease?",
+      "text": "Cardiovascular disease (CVD) is an umbrella term for different conditions. Coronary heart disease (CHD, or coronary artery disease) is the most common and can cause narrowed arteries, blood clots and blockages that lead to heart attack or stroke. Heart failure means the heart is not pumping blood as well as it should. Arrhythmia is a problem with the rate or rhythm of the heartbeat. The page also describes heart valve problems that can affect circulation.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "cardiovascular disease",
+        "heart failure",
+        "arrhythmia",
+        "coronary artery disease"
+      ],
+      "entities": [
+        "cardiovascular disease",
+        "heart failure",
+        "arrhythmia"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is heart failure?",
+        "What is an arrhythmia?",
+        "What is cardiovascular disease?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Health-related risk factors for heart disease",
+      "question": "What increases the risk of heart disease?",
+      "text": "Risk factors include age (higher risk for women over 55 and men over 45), family history of early heart disease, history of preeclampsia, high cholesterol or high blood pressure, kidney disease, diabetes, HIV/AIDS, sleep disorders, depression, anxiety and PTSD, and lifestyle habits such as heavy drinking, smoking, inactivity or unhealthy eating. Some racial and ethnic groups are more likely to get heart disease.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "heart disease risk factors",
+        "age",
+        "family history",
+        "lifestyle",
+        "high blood pressure"
+      ],
+      "entities": [
+        "heart disease",
+        "preeclampsia"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the risk factors for heart disease?",
+        "Does age affect heart disease risk?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Social and workplace risk factors for heart disease",
+      "question": "Can work and environment affect heart disease risk?",
+      "text": "Social, environmental and workplace factors can raise heart disease risk. These include stressors from social drivers of health such as education, economic instability and limited access to health care; indoor or outdoor air pollution, including wildfire smoke; working long hours or night shifts; exposure to toxins, radiation or secondhand smoke at work; and experiencing racism, violence or harassment on the job.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "social drivers of health",
+        "air pollution",
+        "shift work",
+        "workplace risk"
+      ],
+      "entities": [
+        "social drivers of health"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does shift work raise heart disease risk?",
+        "How do social factors affect heart health?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Heart disease facts",
+      "question": "How common and deadly is heart disease?",
+      "text": "Heart diseases are the leading cause of death for both women and men. Heart disease claims an estimated 17.9 million lives worldwide each year. It may lead to potentially deadly health problems like a heart attack or stroke.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "heart disease statistics",
+        "leading cause of death",
+        "17.9 million"
+      ],
+      "entities": [
+        "heart disease"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the leading cause of death?",
+        "How many people die from heart disease?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Questions to ask your doctor about heart disease",
+      "question": "What should I ask my doctor about heart disease?",
+      "text": "Sample questions include: What should my blood pressure be and how often should it be checked? What should my cholesterol and triglyceride levels be? What should my blood sugar level be? What other screening tests do I need? What is a healthy weight and waist measurement for me? What lifestyle changes would you suggest? How often should I see you for a wellness checkup?",
+      "topic": "Chronic condition support",
+      "tags": [
+        "questions for doctor",
+        "cholesterol",
+        "blood pressure",
+        "screening tests"
+      ],
+      "entities": [
+        "cholesterol",
+        "blood pressure"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What should I ask my doctor about my heart?",
+        "What heart screening tests do I need?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare heart disease management programs",
+      "question": "Does UnitedHealthcare offer heart disease management programs?",
+      "text": "For eligible members, UnitedHealthcare provides several heart disease management programs for conditions including coronary artery disease, heart failure disease and congenital heart disease. If you think you might be eligible, call the number on your health plan ID card and talk with a representative.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "disease management",
+        "clinical support",
+        "coronary artery disease",
+        "heart failure",
+        "congenital heart disease"
+      ],
+      "entities": [
+        "heart disease management programs"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there a heart disease program through my plan?",
+        "How do I find out if I'm eligible for a disease management program?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/explanation-of-benefits",
+  "title": "What is an explanation of benefits (EOB)?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what an explanation of benefits is, how to read one, why it matters, what to do about errors and how long to keep it.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/explanation-of-benefits/_jcr_content/root/regioncontainer-main/responsivegrid/container_1056814268/containerfloatingcon/image.coreimg.90.1280.png/1749679147791/eob-heart-illustration-desktop-470x446.png",
+      "alt": "EOB heart illustration"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/general/understanding-your-eob-flier.pdf",
+      "alt": "Sample EOB (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is an explanation of benefits (EOB)?",
+      "question": "What is an explanation of benefits?",
+      "text": "An explanation of benefits (EOB) is an insurance company's statement that describes the costs involved for visits to a doctor or clinic. In short, it is a statement to let a person know a claim has been filed, along with details of the costs.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "EOB",
+        "explanation of benefits",
+        "claim",
+        "statement"
+      ],
+      "entities": [
+        "explanation of benefits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is an EOB?",
+        "What does explanation of benefits mean?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "An EOB is not a bill",
+      "question": "Is an EOB a bill?",
+      "text": "An EOB is different from a bill. Its purpose is to tell a person which costs their insurance has paid for and what the patient must pay. The medical provider sends a separate bill for the patient's amount, which should match what is on the EOB.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "EOB",
+        "bill",
+        "patient responsibility",
+        "provider bill"
+      ],
+      "entities": [
+        "explanation of benefits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Do I have to pay my EOB?",
+        "What is the difference between an EOB and a medical bill?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How do you read an EOB?",
+      "question": "What information is on an EOB?",
+      "text": "An EOB typically includes the patient's name; plan information, including name and member ID; the doctor, health professional or facility that provided services; a claim number and status; the service description and date; total cost of services; how much the health plan paid; costs the plan did not cover; any amount paid from an HRA; and what the patient owes. Some EOBs also show out-of-pocket expenses that count toward the deductible.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "read EOB",
+        "claim number",
+        "member ID",
+        "HRA",
+        "deductible"
+      ],
+      "entities": [
+        "explanation of benefits",
+        "HRA"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I read an EOB?",
+        "What does an EOB show?",
+        "What is a claim number on an EOB?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why an EOB is important",
+      "question": "Why is an EOB important?",
+      "text": "An EOB is a tool that can help a person better understand how their insurance works and feel confident making decisions about their plan and care. EOBs can be useful to track health care costs, find billing errors, understand what a plan covers and for tax documentation. Over time, patterns in EOBs may help a person decide if their insurance plan is right for their needs.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "EOB",
+        "billing errors",
+        "track costs",
+        "tax documentation"
+      ],
+      "entities": [
+        "explanation of benefits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Why should I keep my EOBs?",
+        "Can an EOB help me find billing errors?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common reasons an EOB and bill do not match",
+      "question": "Why might my EOB and my provider's bill not match?",
+      "text": "If an EOB and a provider's bill do not match, a few possibilities should be checked first. A previous balance may have been carried over. A payment may have been made between the time the EOB and bill were sent, so the EOB does not show real costs. Or the bill may have been sent before the insurance company paid, in which case waiting for the claim to be processed may produce an updated bill.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "EOB error",
+        "bill mismatch",
+        "previous balance",
+        "claim processing"
+      ],
+      "entities": [
+        "explanation of benefits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Why is my bill different from my EOB?",
+        "What should I check if my EOB and bill disagree?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Fixing an error on your EOB",
+      "question": "What should I do if I find an error on my EOB?",
+      "text": "After ruling out common errors: 1) Call the doctor or clinic to see if there is an explanation and request an itemized bill. 2) Call the insurance company to ask about the error. 3) If needed, ask about filing an appeal. Throughout, save a file of EOBs, the medical bill and details of calls.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "EOB error",
+        "itemized bill",
+        "appeal",
+        "record keeping"
+      ],
+      "entities": [
+        "explanation of benefits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How do I dispute an EOB error?",
+        "Can I get an itemized bill?",
+        "How do I appeal a claim?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No Surprises Act may protect against out-of-network bills",
+      "question": "Can the No Surprises Act protect me from an out-of-network bill?",
+      "text": "Sometimes seeing an out-of-network provider is out of a person's control, such as in emergency care or when an out-of-network provider is involved in care without the person's choice. In this case, the federal No Surprises Act or state surprise billing law may protect the person from paying more than their copayment, coinsurance or deductible.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "No Surprises Act",
+        "out-of-network",
+        "surprise billing",
+        "emergency care"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is the No Surprises Act?",
+        "Do I have to pay an out-of-network emergency bill?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How long should I keep my EOB?",
+      "question": "How long should I keep my EOB?",
+      "text": "Since EOBs can provide both short- and long-term value, it is a good idea to save an EOB at least until the final bill from the doctor or clinic arrives. Keeping paper copies for future reference might be useful, especially for someone facing a chronic illness or serious condition.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "keep EOB",
+        "records",
+        "chronic illness",
+        "final bill"
+      ],
+      "entities": [
+        "explanation of benefits"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How long do I keep EOBs?",
+        "Should I save my explanation of benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare members can view claims online",
+      "question": "How can UnitedHealthcare members see their claims?",
+      "text": "UnitedHealthcare members can sign in to their member account or use the UnitedHealthcare app to see their claims. Regularly reviewing EOBs can help a person stay an active participant in their health care and potentially avoid wasting money due to errors.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "claims",
+        "member account",
+        "UnitedHealthcare app",
+        "review EOB"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "myuhc"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where can I see my claims?",
+        "How do I find my EOB online?"
+      ]
+    }
+  ]
+}

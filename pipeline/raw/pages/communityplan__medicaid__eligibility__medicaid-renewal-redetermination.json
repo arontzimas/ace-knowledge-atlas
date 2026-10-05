@@ -1,0 +1,319 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/eligibility/medicaid-renewal-redetermination",
+  "title": "Medicaid renewal and redetermination",
+  "domain": "Medicaid",
+  "page_type": "guide",
+  "summary": "Explains Medicaid renewal (redetermination): what it is, the steps and notices, 2027 rule changes for 6-month renewals and work requirements, how to renew, what happens if you miss the deadline, and options if you no longer qualify.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/assets/images/twix/mother-child-laptop-960x350.jpg",
+      "alt": "Mother and child with a laptop"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicaid redetermination is",
+      "question": "What is Medicaid redetermination?",
+      "text": "Medicaid redetermination, also called Medicaid renewal or recertification, is when people who have Medicaid benefits are asked to show they still qualify in their state. Your coverage will renew only if the state can confirm that you still qualify. In some cases the state can do this automatically. If it can't, it will request more information. If you no longer qualify, or don't respond to a renewal notice, your coverage can end.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "redetermination",
+        "renewal",
+        "recertification",
+        "coverage ends",
+        "state review"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What does Medicaid redetermination mean?",
+        "Why do I have to renew Medicaid?",
+        "Can I lose Medicaid if I don't respond to a renewal notice?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Four steps of Medicaid renewal",
+      "question": "What are the steps of Medicaid renewal?",
+      "text": "1) Receive a renewal notice, usually 60 to 90 days before your coverage ends, by mail, email or your state's online portal. 2) Complete the renewal form if your state sends one, confirming household members, income, address and contact information, and other health coverage. 3) Submit documents if your income or household changed, such as pay stubs, benefit letters, a recent tax return or proof of a new address. 4) Receive a renewal decision; if you still qualify, coverage continues.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "renewal steps",
+        "renewal notice",
+        "renewal form",
+        "documents",
+        "decision"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "How does Medicaid renewal work?",
+        "When will I get my Medicaid renewal notice?",
+        "What documents might I need to renew Medicaid?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Ex parte (automatic) Medicaid renewal",
+      "question": "Does Medicaid automatically renew?",
+      "text": "Some states renew coverage automatically using information like tax or Social Security records. This is called ex parte renewal, also known as administrative, passive or auto-renewal. A government agency, most commonly Medicaid or CHIP, renews your coverage without requiring you to fill out forms or submit new documents. Automatic renewal is not always possible, because some income may not show up in state records. If the state can't verify your information, it will send a form or ask for more documents.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "ex parte renewal",
+        "automatic renewal",
+        "auto-renewal",
+        "passive renewal",
+        "state records"
+      ],
+      "entities": [
+        "Medicaid",
+        "CHIP",
+        "ex parte renewal"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Does Medicaid renew by itself?",
+        "What is ex parte renewal?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Renewal every 6 months for some adults from 2027",
+      "question": "Will Medicaid renewals change in 2027?",
+      "text": "Starting in 2027, some adults in Medicaid expansion programs will need to renew coverage every 6 months instead of once a year. Some pregnant people, older adults and people with disabilities will still renew once a year. The page notes that rules can vary by state, so members should check their state's Medicaid program for details.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "6-month renewal",
+        "2027",
+        "medicaid expansion",
+        "annual renewal",
+        "new rules"
+      ],
+      "entities": [
+        "Medicaid",
+        "Medicaid expansion"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "Do I have to renew Medicaid every 6 months?",
+        "Who still renews Medicaid once a year?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "2027 work rule for some adults 19-64",
+      "question": "What is the new Medicaid work rule?",
+      "text": "Starting in 2027, some adults may need to meet a work rule to get or keep Medicaid. This may apply to some adults aged 19 to 64. You may meet the rule by working, going to school, getting job training or doing community service. In most cases, you need to complete 80 hours each month. If the state can't confirm you meet the requirements, it may give you time to respond, and if you lose coverage you may be able to apply again.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "work requirement",
+        "80 hours",
+        "community service",
+        "job training",
+        "2027"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "How many hours do I need to work for Medicaid in 2027?",
+        "Does school count toward the Medicaid work rule?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who is exempt from the work rule",
+      "question": "Who doesn't have to follow the Medicaid work rule?",
+      "text": "Some people do not have to follow the Medicaid work rule. This may include people who recently gave birth or are pregnant, have serious health needs, care for a child aged 13 or younger, or care for a person with a disability. States may also give short-term exceptions, which can include a hospital stay, a disaster or high unemployment in your area.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "work rule exceptions",
+        "pregnant",
+        "caregivers",
+        "serious health needs",
+        "short-term exceptions"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Can I get an exception to the Medicaid work rule?",
+        "Are caregivers exempt from Medicaid work requirements?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How do you find your Medicaid renewal date?",
+      "question": "When is Medicaid renewal?",
+      "text": "Your Medicaid renewal date depends on when you first signed up or last renewed, so it's different for each person. You can find it by logging into your state's Medicaid portal or your UnitedHealthcare member account, calling your state Medicaid helpline, or looking at the most recent notice from your state agency. Your state must send at least one renewal notice before coverage ends. If you don't get one, contact your state right away; you still need to renew on time.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "renewal date",
+        "state portal",
+        "helpline",
+        "renewal notice"
+      ],
+      "entities": [
+        "Medicaid",
+        "UnitedHealthcare member account"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "How do I find out when my Medicaid renews?",
+        "What if I never got a Medicaid renewal notice?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Four ways to renew Medicaid",
+      "question": "How can I renew Medicaid?",
+      "text": "Renewing Medicaid may be easier than applying for the first time. Online is typically the fastest, through your state's benefits portal; keep your confirmation number. By phone, call your state Medicaid helpline with your Medicaid ID number, income and household information ready. By mail, sign and return the paper form, using certified mail if the deadline is close. In person, visit your local Medicaid office or a community health center.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "renew online",
+        "renew by phone",
+        "renew by mail",
+        "in-person renewal"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "Can I renew Medicaid online?",
+        "How do I renew Medicaid by mail or phone?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What if you miss the Medicaid renewal deadline?",
+      "question": "What happens if you don't renew Medicaid in time?",
+      "text": "Missing the renewal deadline does not always mean you lose coverage for good. Many states give you 90 days after your coverage ends to renew, and if you still qualify your coverage may be restored, often back to the date it ended. You could also appeal if you think you still qualify, and many states give you 90 days to ask for a hearing. If too much time has passed, you can apply again; coverage often starts the first day of the month you apply.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "missed deadline",
+        "90 days",
+        "reinstatement",
+        "appeal",
+        "reapply"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Can I get Medicaid back if I missed renewal?",
+        "How long do I have to renew after coverage ends?",
+        "Can I appeal a Medicaid termination?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common reasons Medicaid renewal fails",
+      "question": "What are common Medicaid renewal mistakes?",
+      "text": "Common reasons renewal does not go through include not answering the renewal notice (even if nothing changed, you still need to respond, and an out-of-date address, email or phone number may cause you to miss it); missing information, such as proof of income that the state requests; and no longer qualifying, for example after household changes like marriage, divorce, someone moving in or out, or a child aging out of coverage.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "renewal mistakes",
+        "missing information",
+        "household changes",
+        "notice",
+        "income limits"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "Why was my Medicaid renewal denied?",
+        "How can I avoid losing Medicaid at renewal?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Marketplace options after losing Medicaid",
+      "question": "What can I do if I no longer qualify for Medicaid?",
+      "text": "If your state says you no longer qualify, your coverage may end, and your state may share your contact information with the ACA Marketplace, which may contact you by mail, phone, text or email. You may be able to get Marketplace coverage with savings if you lost or will soon lose Medicaid or CHIP, or applied through your state and were denied. If you lose Medicaid because you did not meet work requirements, you may not qualify for premium tax credits. You can apply again at any time.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "lost medicaid",
+        "aca marketplace",
+        "premium tax credits",
+        "special enrollment",
+        "reapply"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Medicaid",
+        "CHIP",
+        "premium tax credits"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Where do I get insurance if I lose Medicaid?",
+        "Can I get Marketplace savings after losing Medicaid?"
+      ]
+    }
+  ]
+}

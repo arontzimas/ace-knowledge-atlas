@@ -1,0 +1,133 @@
+{
+  "url": "https://www.uhc.com/medicare/medicare-education/medicare-plans-overview.html",
+  "title": "Types of Medicare and Medigap Insurance Plans",
+  "domain": "Medicare",
+  "page_type": "guide",
+  "summary": "Overview of the main Medicare coverage types: Original Medicare, Medicare Advantage, Medicare Supplement, Part D, and the three kinds of Special Needs plans.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/Plan_types_Original_Medicare_091126.jpg", "alt": "Original Medicare"},
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/Plan_types_MA_920x520_091126.jpg", "alt": "Medicare Advantage plans"},
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/Plan_types_MS_920x520_091126.jpg", "alt": "Medicare Supplement Insurance plans"},
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/Plan_types_DSNP_920x520_091126.jpg", "alt": "Dual Special Needs plans"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicare is",
+      "question": "What is Medicare?",
+      "text": "Medicare is health insurance for people 65 or older who meet citizenship or residency requirements. You may be eligible sooner if you have a disability or qualifying medical condition. Original Medicare is provided by the federal government, while other Medicare plans are offered by private insurance companies.",
+      "topic": "Medicare basics",
+      "tags": ["medicare", "age 65", "citizenship", "private plans", "federal program"],
+      "entities": ["Medicare", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Medicare?", "Who provides Medicare coverage?", "Who is eligible for Medicare?"]
+    },
+    {
+      "type": "definition",
+      "title": "Original Medicare: Part A and Part B",
+      "question": "What is Original Medicare?",
+      "text": "Original Medicare (Part A and Part B) is health insurance provided by the federal government. Part A helps pay for hospital stays and inpatient care. Part B helps pay for doctor visits and outpatient care.",
+      "topic": "Medicare basics",
+      "tags": ["original medicare", "part a", "part b", "hospital", "outpatient"],
+      "entities": ["Original Medicare", "Part A", "Part B"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What do Part A and Part B cover?", "What is Original Medicare?", "What is the difference between Part A and Part B?"]
+    },
+    {
+      "type": "definition",
+      "title": "Medicare Advantage (Part C) plans",
+      "question": "What are Medicare Advantage plans?",
+      "text": "Medicare Advantage (Part C) plans offer all the benefits of Original Medicare, many with extras like dental, vision, and hearing benefits. Most include prescription drug coverage. These plans are offered by private insurance companies.",
+      "topic": "Medicare Advantage",
+      "tags": ["medicare advantage", "part c", "extra benefits", "drug coverage"],
+      "entities": ["Medicare Advantage", "Part C", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Part C?", "What extra benefits does Medicare Advantage have?", "Does Medicare Advantage include Part D?"]
+    },
+    {
+      "type": "definition",
+      "title": "Medicare Supplement Insurance (Medigap)",
+      "question": "What are Medicare Supplement Insurance plans?",
+      "text": "Medicare Supplement Insurance (Medigap) plans help pay for some of the out-of-pocket costs not covered by Original Medicare, such as medical copayments, coinsurance and deductibles.",
+      "topic": "Medicare Supplement",
+      "tags": ["medigap", "medicare supplement", "copayments", "coinsurance", "deductibles"],
+      "entities": ["Medicare Supplement", "Medigap", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What does Medigap cover?", "How do I pay for costs Original Medicare doesn't cover?", "What is a Medicare Supplement plan?"]
+    },
+    {
+      "type": "definition",
+      "title": "Medicare Part D plans: PDP and MAPD",
+      "question": "What are Medicare Part D plans?",
+      "text": "Medicare Part D plans help cover the costs of prescription drugs. You can enroll in a standalone plan (PDP) or choose a Medicare Advantage plan that includes prescription drug coverage (MAPD).",
+      "topic": "Part D prescription plans",
+      "tags": ["part d", "pdp", "mapd", "prescription drugs"],
+      "entities": ["Part D", "PDP", "MAPD", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What does PDP mean?", "What does MAPD mean?", "How do I get prescription coverage with Medicare?"]
+    },
+    {
+      "type": "definition",
+      "title": "What a Special Needs plan (SNP) is",
+      "question": "What is a Medicare Special Needs plan?",
+      "text": "A Special Needs plan (SNP) is a Medicare Advantage plan with benefits designed to meet specific health care or financial needs. You may be eligible for a SNP if you meet certain conditions. There are three kinds of Special Needs plans: Dual, Chronic, and Institutional.",
+      "topic": "Special Needs Plans",
+      "tags": ["snp", "special needs plan", "medicare advantage", "eligibility"],
+      "entities": ["Special Needs plan", "SNP", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a SNP?", "What kinds of Special Needs plans exist?", "Is a Special Needs plan a Medicare Advantage plan?"]
+    },
+    {
+      "type": "definition",
+      "title": "Dual Special Needs plans (D-SNPs)",
+      "question": "What is a Dual Special Needs plan?",
+      "text": "Dual Special Needs plans (D-SNPs) are Medicare Advantage plans for people who have both Medicare and Medicaid coverage. They combine Original Medicare benefits, prescription drug coverage and support to help coordinate benefits with Medicaid.",
+      "topic": "Special Needs Plans",
+      "tags": ["d-snp", "dual eligible", "medicaid coordination", "medicare advantage"],
+      "entities": ["Dual Special Needs plan", "D-SNP", "Medicaid", "Medicare Advantage"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a D-SNP?", "Which Medicare plan coordinates with Medicaid?", "Do D-SNPs include drug coverage?"]
+    },
+    {
+      "type": "definition",
+      "title": "Chronic Special Needs plans (C-SNPs)",
+      "question": "What is a Chronic Special Needs plan?",
+      "text": "Chronic Special Needs plans (C-SNPs) are Medicare Advantage plans designed for people living with specific chronic or disabling long term health conditions, such as diabetes, chronic heart failure or cardiovascular disorders.",
+      "topic": "Special Needs Plans",
+      "tags": ["c-snp", "chronic conditions", "diabetes", "heart failure", "medicare advantage"],
+      "entities": ["Chronic Special Needs plan", "C-SNP", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a C-SNP?", "Is there a Medicare plan for diabetes?", "What conditions does a Chronic Special Needs plan serve?"]
+    },
+    {
+      "type": "comparison",
+      "title": "I-SNPs versus IE-SNPs",
+      "question": "What is the difference between an I-SNP and an IE-SNP?",
+      "text": "Institutional Special Needs plans (I-SNPs) are specialized Medicare Advantage plans designed for people who live in a long term care setting such as a nursing home. Institutional Equivalent Special Needs plans (IE-SNPs) are specialized Medicare Advantage plans for individuals who need nursing home-level care and live in assisted living, independent living or memory care communities.",
+      "topic": "Special Needs Plans",
+      "tags": ["i-snp", "ie-snp", "nursing home", "assisted living", "memory care"],
+      "entities": ["Institutional Special Needs plan", "Institutional Equivalent Special Needs plan", "I-SNP", "IE-SNP"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["What Medicare plan is for nursing home residents?", "Is there a Medicare plan for assisted living?", "What is an IE-SNP?"]
+    }
+  ]
+}

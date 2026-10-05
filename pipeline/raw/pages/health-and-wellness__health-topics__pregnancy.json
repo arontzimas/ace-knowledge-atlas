@@ -1,0 +1,316 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/health-topics/pregnancy",
+  "title": "Pregnancy and prenatal care",
+  "domain": "Care & Member Experience",
+  "page_type": "hub",
+  "summary": "Provides an overview of prenatal care, doula care, maternity support programs, postpartum care and member resources for pregnancy.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/pregnancy-woman-sitting-with-hands-on-belly-desktop-1920x728.jpg",
+      "alt": "Woman sitting with hands on belly"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/health-topics/pregnancy/_jcr_content/root/regioncontainer-main/responsivegrid/container_2111939943/container_1347733_co_1162941694/container/image.coreimg.90.1280.jpeg/1784328953568/doula-care-doula-and-expecting-mom-desktop-600x380.jpeg",
+      "alt": "Doula and expecting mom"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/HealthAndWellness/Infographics/Prenatal-visit-checklist-2026.pdf",
+      "alt": "Download the Prenatal Visit Checklist (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What prenatal care is",
+      "question": "What is prenatal care?",
+      "text": "Prenatal care is the care you receive while you are pregnant. If you think you could be pregnant, schedule a doctor's appointment for early prenatal care, which is a good way to start on a path to a healthy pregnancy. UnitedHealthcare provides resources for every stage of pregnancy, from prenatal care to postpartum support.",
+      "topic": "Women's & family health",
+      "tags": [
+        "prenatal care",
+        "pregnancy",
+        "early care",
+        "doctor appointment"
+      ],
+      "entities": [
+        "prenatal care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is prenatal care?",
+        "When should I see a doctor if I think I'm pregnant?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Prenatal appointment schedule",
+      "question": "How often are prenatal appointments?",
+      "text": "Prenatal appointments typically start at 8 weeks. For most pregnancies, you will see your doctor every 4 weeks. UnitedHealthcare offers a video series to give an idea of what to expect at each appointment, and a downloadable Prenatal Visit Checklist with what to bring and helpful questions to ask.",
+      "topic": "Women's & family health",
+      "tags": [
+        "prenatal appointments",
+        "8 weeks",
+        "every 4 weeks",
+        "prenatal visit checklist"
+      ],
+      "entities": [
+        "Prenatal Visit Checklist"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "When do prenatal visits start?",
+        "How often do you see a doctor when pregnant?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a doula is",
+      "question": "What is a doula?",
+      "text": "A doula is a person who has a lot of knowledge and training related to birthing. A doula can help you access trusted information and understand your options to support pregnancy. UnitedHealthcare offers information about the benefits of a doula, standards for doula care and how to find a doula.",
+      "topic": "Women's & family health",
+      "tags": [
+        "doula",
+        "birth support",
+        "pregnancy",
+        "doula care"
+      ],
+      "entities": [
+        "doula"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does a doula do?",
+        "How do I find a doula?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "High-risk pregnancy",
+      "question": "What is a high-risk pregnancy?",
+      "text": "A high-risk pregnancy means you and/or your baby are at risk of complications. UnitedHealthcare offers resources to help you understand risk factors, learn ways to manage a high-risk pregnancy, and find out what to expect if your baby needs to spend time in the neonatal intensive care unit (NICU).",
+      "topic": "Women's & family health",
+      "tags": [
+        "high-risk pregnancy",
+        "NICU",
+        "complications",
+        "risk factors"
+      ],
+      "entities": [
+        "NICU"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What makes a pregnancy high risk?",
+        "What happens if my baby needs the NICU?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Nutrition and exercise during pregnancy",
+      "question": "How do nutrition and exercise matter during pregnancy?",
+      "text": "During pregnancy, healthy choices can make a difference. Eating a balanced diet and keeping up with a steady level of exercise are two ways to help support your baby's growth and development. UnitedHealthcare offers a healthy pregnancy quiz as a quick way to check what you know and pick up new tips.",
+      "topic": "Women's & family health",
+      "tags": [
+        "pregnancy nutrition",
+        "exercise",
+        "healthy pregnancy",
+        "balanced diet"
+      ],
+      "entities": [
+        "healthy pregnancy quiz"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What should I eat when pregnant?",
+        "Can I exercise during pregnancy?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Maternity support for individual and employer members",
+      "question": "What maternity support does UnitedHealthcare offer?",
+      "text": "Individual and employer members can find resources to support them throughout pregnancy and after they give birth. Members can watch maternity video courses to learn what to expect during each trimester, plus get tips on breastfeeding and more. To find out what a plan covers, sign in to your member account.",
+      "topic": "Women's & family health",
+      "tags": [
+        "maternity support",
+        "video courses",
+        "trimester",
+        "breastfeeding"
+      ],
+      "entities": [
+        "maternity support"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does my plan offer maternity support?",
+        "Are there pregnancy classes through UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Healthy First Steps rewards for Community Plan members",
+      "question": "What is Healthy First Steps?",
+      "text": "Healthy First Steps is a program for UnitedHealthcare Community Plan members. Members may be eligible to earn rewards for prenatal, postpartum and children's wellness appointments. To learn more, call 1-800-599-5985, Monday through Friday, 8 a.m. to 5 p.m. local time, or sign in to your plan account.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "Healthy First Steps",
+        "Community Plan",
+        "rewards",
+        "prenatal",
+        "postpartum"
+      ],
+      "entities": [
+        "Healthy First Steps",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I earn rewards for prenatal visits?",
+        "What is the Healthy First Steps phone number?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Wellhop for Mom & Baby",
+      "question": "What is Wellhop for Mom & Baby?",
+      "text": "In participating states, UnitedHealthcare Community Plan members can join the Wellhop for Mom & Baby program. Members meet online with other expectant moms for group video conversations every other week.",
+      "topic": "Women's & family health",
+      "tags": [
+        "Wellhop",
+        "Mom & Baby",
+        "group video",
+        "Community Plan",
+        "expectant moms"
+      ],
+      "entities": [
+        "Wellhop for Mom & Baby",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there an online group for expecting moms?",
+        "What is Wellhop?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Postpartum care and recovery",
+      "question": "What is the postpartum period?",
+      "text": "After you give birth, you enter the postpartum period, also called the fourth trimester. Many changes happen during this time for you and your newborn. UnitedHealthcare offers information on common postpartum concerns and conditions, including postpartum depression, and on caring for yourself during recovery.",
+      "topic": "Women's & family health",
+      "tags": [
+        "postpartum",
+        "fourth trimester",
+        "recovery",
+        "postpartum depression"
+      ],
+      "entities": [
+        "postpartum care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the fourth trimester?",
+        "What is postpartum recovery like?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Managing depression and anxiety around pregnancy",
+      "question": "When should I seek help for feelings after having a baby?",
+      "text": "A new baby brings all kinds of emotions, and it is normal to feel stressed, anxious or experience the baby blues. But when these feelings become constant or overwhelming, it may be time to seek help. UnitedHealthcare offers information on the signs to watch for and how to get support before and after pregnancy.",
+      "topic": "Behavioral health",
+      "tags": [
+        "postpartum depression",
+        "baby blues",
+        "anxiety",
+        "perinatal mental health"
+      ],
+      "entities": [
+        "baby blues"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "Is it normal to feel anxious after having a baby?",
+        "What are the baby blues?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Federal and state help preparing for baby",
+      "question": "Where can I get help with supplies for a new baby?",
+      "text": "Expecting moms may feel both excitement and stress when preparing for a baby's arrival. Federal and state programs may be able to help you get the support and supplies you need for your new baby. UnitedHealthcare's pregnancy resources are aimed at women who become moms through pregnancy, and the page also acknowledges motherhood through foster parenting or adoption.",
+      "topic": "Women's & family health",
+      "tags": [
+        "new baby",
+        "federal programs",
+        "state programs",
+        "baby supplies"
+      ],
+      "entities": [
+        "federal and state programs"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How do I get help for baby supplies?",
+        "Are there programs for new moms?"
+      ]
+    }
+  ]
+}

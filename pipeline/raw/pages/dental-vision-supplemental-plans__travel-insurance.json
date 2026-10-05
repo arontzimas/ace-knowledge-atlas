@@ -1,0 +1,227 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance",
+  "title": "SafeTrip travel insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "hub",
+  "summary": "Overview of UnitedHealthcare Global SafeTrip travel insurance plans, add-ons, benefits and contact information.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/safetrip/Safetrip-hub-page-dad-holding-daughter-desktop-1920x700.jpg",
+      "alt": "Father holding his daughter while traveling"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "SafeTrip travel insurance overview",
+      "question": "What is UnitedHealthcare Global SafeTrip travel insurance?",
+      "text": "UnitedHealthcare Global SafeTrip supports travelers with trip protection that helps manage unexpected interruptions, delays, cancellations and accidents, whether traveling internationally or within the United States. It can be paired with travel medical insurance, which supports health needs when outside the country.",
+      "topic": "Travel insurance",
+      "tags": [
+        "safetrip",
+        "trip protection",
+        "travel medical",
+        "trip delay",
+        "cancellation"
+      ],
+      "entities": [
+        "UnitedHealthcare Global SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is SafeTrip travel insurance?",
+        "Does UnitedHealthcare offer travel insurance?",
+        "Can I pair trip protection with travel medical insurance?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "SafeTrip's three travel insurance plan types",
+      "question": "What SafeTrip travel plans are available?",
+      "text": "SafeTrip offers three plan types. International Travel Medical Plus combines international medical coverage and travel protection, including trip cancellation, interruption, delay and baggage coverage, plus medical and security assistance. International Travel Medical is emergency medical insurance for trips outside the United States, with up to $1 million for the medical expense limit and coverage for medical evacuation and medical assistance. Travel Protection is available for U.S. domestic travel only, with trip cancellation, interruption, delay and baggage coverage and full AD&D coverage.",
+      "topic": "Travel insurance",
+      "tags": [
+        "international travel medical",
+        "travel protection",
+        "international travel medical plus",
+        "plan types",
+        "domestic travel"
+      ],
+      "entities": [
+        "International Travel Medical Plus",
+        "International Travel Medical",
+        "Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between SafeTrip plans?",
+        "Which SafeTrip plan covers medical care abroad?",
+        "Is there a SafeTrip plan just for U.S. trips?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Extreme sports, equipment and rental car add-ons",
+      "question": "What add-on coverage can I add to SafeTrip travel insurance?",
+      "text": "SafeTrip travelers can add insurance for extreme sports coverage, sporting equipment delay or loss, and rental car damage. UnitedHealthcare describes this as special coverage for a special trip, and links to a dedicated page that explains the travel insurance add-ons.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel add-ons",
+        "extreme sports",
+        "sporting equipment",
+        "rental car damage"
+      ],
+      "entities": [
+        "SafeTrip add-ons"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I add rental car coverage to travel insurance?",
+        "Does SafeTrip cover extreme sports?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What travel insurance is",
+      "question": "What is travel insurance?",
+      "text": "Travel insurance is coverage that eases worry when something goes wrong away from home, whether a person is traveling for fun, work, volunteering or another reason. UnitedHealthcare notes there is plenty that can go wrong away from home, and travel insurance lets travelers focus on the important things knowing they are covered.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel insurance",
+        "trip coverage",
+        "volunteering",
+        "business travel"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does travel insurance do?",
+        "Why do I need travel insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Four benefits of SafeTrip travel insurance",
+      "question": "What benefits does SafeTrip travel insurance provide?",
+      "text": "UnitedHealthcare lists four benefits. Protect your investment: reimbursement for expenses related to trip delays, cancellations and baggage loss. Get the care you deserve: staff can help find the right doctor easily and quickly. Stay covered abroad: international travel medical coverage can reimburse small medical costs or cover larger medical expenses. Enjoy 24/7 access to help: travelers can call the in-house Emergency Response Center (ERC) anytime.",
+      "topic": "Travel insurance",
+      "tags": [
+        "emergency response center",
+        "24/7 help",
+        "trip reimbursement",
+        "medical abroad"
+      ],
+      "entities": [
+        "SafeTrip",
+        "Emergency Response Center"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there 24/7 assistance with SafeTrip?",
+        "What does SafeTrip's Emergency Response Center do?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "SafeTrip by the numbers",
+      "question": "How large is SafeTrip's support and provider network?",
+      "text": "UnitedHealthcare describes SafeTrip as offering around-the-clock support and a global provider network. Its page lists four figures for SafeTrip: 24/7 support, 150+ countries, 2.4 million+ providers and 45+ years of experience.",
+      "topic": "Travel insurance",
+      "tags": [
+        "24/7 support",
+        "150+ countries",
+        "2.4 million providers",
+        "45 years experience"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many countries does SafeTrip cover?",
+        "How many providers are in the SafeTrip network?",
+        "How long has SafeTrip been around?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "SafeTrip resources and sales contact",
+      "question": "How do I contact SafeTrip about a plan or group travel?",
+      "text": "People with questions, who need help choosing a plan or who are covering a large group can contact the SafeTrip information and sales team toll free at 1-800-732-5309, internationally at 1-410-453-6380, or by email at safetrip_info@uhcglobal.com. The page also links to plan comparison, trip types, claims filing and a partner page.",
+      "topic": "Travel insurance",
+      "tags": [
+        "contact",
+        "sales team",
+        "group travel",
+        "safetrip support"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "What is the SafeTrip phone number?",
+        "Who do I call to buy group travel insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When to choose domestic versus international SafeTrip plans",
+      "question": "Which SafeTrip plan type fits domestic or international trips?",
+      "text": "Travel Protection plans are available for U.S. domestic travel only, while International Travel Medical and International Travel Medical Plus plans are meant for trips outside the United States. SafeTrip also directs readers to a plan comparison page and a trip types page to help decide which plan fits a journey.",
+      "topic": "Travel insurance",
+      "tags": [
+        "domestic travel",
+        "international travel",
+        "choose a plan",
+        "plan comparison"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a different plan for travel inside the U.S.?",
+        "How do I choose a SafeTrip plan?"
+      ]
+    }
+  ]
+}

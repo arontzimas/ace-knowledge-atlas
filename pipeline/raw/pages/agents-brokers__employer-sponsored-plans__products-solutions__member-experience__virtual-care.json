@@ -1,0 +1,328 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/virtual-care",
+  "title": "Virtual health for group health plans",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare virtual health offerings for employer plans, including virtual primary care, 24/7 Virtual Visits, behavioral health, teledentistry and condition-specific monitoring.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/virtual-care/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324567357/virtual-health-life-woman-ipad-876x400.jpeg",
+      "alt": "Virtual health"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6337577119112-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Unlocking the true potential of virtual health"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Growing demand for virtual care",
+      "question": "How much demand is there for virtual care among consumers and employers?",
+      "text": "UnitedHealthcare cites a 2021 survey in which nearly 90% of Americans said they wanted to continue using virtual care for non-urgent health needs. It also cites the Business Group on Health 2023 survey: 57% of employers were looking to add even more virtual health solutions in 2023, and 74% believe virtual health will have a significant impact on how care is delivered in the future.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual care",
+        "telehealth",
+        "employer survey",
+        "demand",
+        "business group on health"
+      ],
+      "entities": [
+        "Business Group on Health",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Do employers plan to add more virtual health benefits?",
+        "What share of Americans want to keep using telehealth?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Virtual primary care growth",
+      "question": "How fast are virtual primary care offerings growing among employers?",
+      "text": "Anticipated employer offerings of virtual primary care are expected to grow from 32% in 2022 to 69% in 2025, according to the Business Group on Health 2023 survey cited by UnitedHealthcare. The company says it is ahead of the curve, with virtual primary care available in most open access plans.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual primary care",
+        "open access",
+        "employer offerings",
+        "growth",
+        "business group on health"
+      ],
+      "entities": [
+        "Business Group on Health",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is virtual primary care included in UnitedHealthcare open access plans?",
+        "How common is virtual primary care in employer plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Three commitments behind virtual health",
+      "question": "What commitments guide UnitedHealthcare's virtual health offerings?",
+      "text": "UnitedHealthcare says its virtual health solutions support three commitments. They help people navigate a fragmented system, since members can find virtual care via myuhc.com, the UnitedHealthcare app or an advocate. They enhance benefits through internal and external collaboration. They also help reduce total cost of care, since virtual care is often less expensive than in-person care.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual health",
+        "navigation",
+        "collaboration",
+        "total cost of care",
+        "myuhc.com"
+      ],
+      "entities": [
+        "myuhc.com",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do members find virtual care with UnitedHealthcare?",
+        "Is virtual care cheaper than in-person care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual urgent and primary care offerings",
+      "question": "What virtual urgent and primary care options does UnitedHealthcare offer?",
+      "text": "For some of employees' most common needs, from urgent care to wellness exams, UnitedHealthcare offers virtual primary care to build the patient-provider relationship virtually, 24/7 Virtual Visits for care when and where it is needed, and virtual specialists curated for employers' clients.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual primary care",
+        "24/7 virtual visits",
+        "virtual specialists",
+        "urgent care",
+        "wellness exams"
+      ],
+      "entities": [
+        "24/7 Virtual Visits",
+        "Virtual Specialists"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What are 24/7 Virtual Visits?",
+        "Can employees see a specialist virtually?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual behavioral health solutions",
+      "question": "What virtual behavioral health services are available through UnitedHealthcare?",
+      "text": "UnitedHealthcare's virtual behavioral health solutions are designed to make care more accessible across a continuum of needs. They include virtual visits for behavioral health care, an Employee Assistance Program (EAP) available around the clock, an Emotional Health Line, virtual behavioral therapy and coaching, and an on-demand self-help app.",
+      "topic": "Behavioral health",
+      "tags": [
+        "virtual behavioral health",
+        "eap",
+        "emotional health line",
+        "coaching",
+        "self-help app"
+      ],
+      "entities": [
+        "Employee Assistance Program",
+        "EAP",
+        "Emotional Health Line"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare offer virtual therapy and coaching?",
+        "What is the Emotional Health Line?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dentist Virtual Visits through DialCare",
+      "question": "What do Dentist Virtual Visits from DialCare Teledentistry include?",
+      "text": "Dentist Virtual Visits from DialCare Teledentistry let employees connect with a licensed dentist anytime, anywhere. Benefits include two virtual visits per year at no cost-share and 24/7 access to consultations for nonemergency dental conditions, second opinions, treatment options and clinically necessary prescriptions from state-licensed, fully credentialed dentists. Dentist virtual visits are currently unavailable in Maine or Texas.",
+      "topic": "Virtual care",
+      "tags": [
+        "teledentistry",
+        "dialcare",
+        "dentist virtual visits",
+        "no cost-share",
+        "dental"
+      ],
+      "entities": [
+        "DialCare",
+        "Dentist Virtual Visits"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "How many virtual dentist visits are free per year?",
+        "Is teledentistry available in Texas?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Condition-specific virtual care and monitoring",
+      "question": "What condition-specific virtual care does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare describes advanced digital therapeutics that give employees new ways to get and stay healthier. They include Level2 Specialty Care, remote monitoring solutions for chronic conditions and at-home screening kits through Health Screening Solutions.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "remote monitoring",
+        "digital therapeutics",
+        "level2",
+        "at-home screening",
+        "chronic conditions"
+      ],
+      "entities": [
+        "Level2 Specialty Care",
+        "Health Screening Solutions"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare offer remote monitoring for chronic conditions?",
+        "What at-home screening kits are available?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "24/7 Virtual Visits network and limits",
+      "question": "What are the limits of 24/7 Virtual Visits?",
+      "text": "24/7 Virtual Visits are delivered by a Designated Virtual Network Provider via video, or audio-only where permitted by state law. Unless otherwise required, benefits are available only when services are delivered through a Designated Virtual Network Provider. The service is not intended for emergency or life-threatening conditions, and may not be available at all times, in all locations or for all members.",
+      "topic": "Virtual care",
+      "tags": [
+        "24/7 virtual visits",
+        "designated virtual network provider",
+        "emergency",
+        "audio-only",
+        "limitations"
+      ],
+      "entities": [
+        "24/7 Virtual Visits"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I use 24/7 Virtual Visits for an emergency?",
+        "Do virtual visits have to be with a designated network provider?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual primary care licensing and limits",
+      "question": "What restrictions apply to virtual primary care?",
+      "text": "Virtual primary care is provided by a provider via video, chat, email or audio-only where permitted under state law. Services are available only if the provider is licensed in the state where the member is located at the time of the appointment. It is not intended for emergency or life-threatening conditions, and certain prescriptions may not be available.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual primary care",
+        "state licensure",
+        "prescriptions",
+        "emergency",
+        "limitations"
+      ],
+      "entities": [
+        "Virtual primary care"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can a virtual primary care doctor see me while I'm traveling?",
+        "Can all prescriptions be written in a virtual visit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "EAP scope and confidentiality",
+      "question": "What can an Employee Assistance Program (EAP) do and not do?",
+      "text": "UnitedHealthcare states that EAP material is for informational purposes only. EAP staff cannot diagnose problems or suggest treatment, and the EAP is not a substitute for a doctor's care. Health information is kept confidential in accordance with the law. The EAP is not an insurance program and may be discontinued at any time, and legal consultation is not provided for issues that may involve legal action against UnitedHealthcare or its affiliates.",
+      "topic": "Behavioral health",
+      "tags": [
+        "eap",
+        "confidentiality",
+        "not insurance",
+        "legal consultation",
+        "limitations"
+      ],
+      "entities": [
+        "Employee Assistance Program",
+        "EAP"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Is EAP counseling confidential?",
+        "Can an EAP diagnose a condition?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual health guided by human insights",
+      "question": "What is UnitedHealthcare's philosophy on virtual health?",
+      "text": "In its video on virtual health, UnitedHealthcare says unlocking the potential of virtual health requires human insight, not only new platforms and technology. From virtual visits to remote monitoring and digital tools, it aims to connect people to care that is affordable, supportive and simple to access, saying its approach does not replace the human element but amplifies it.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual health",
+        "human insight",
+        "remote monitoring",
+        "digital tools",
+        "access"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How does UnitedHealthcare approach virtual health?",
+        "Does virtual health replace human care?"
+      ]
+    }
+  ]
+}

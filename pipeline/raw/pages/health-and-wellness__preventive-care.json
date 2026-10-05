@@ -1,0 +1,318 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/preventive-care",
+  "title": "What's preventive care and what's covered?",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Explains what preventive care is, how it is covered, what happens at an annual exam, and how to prepare for a preventive care visit.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/preventive-care-doctor-and-patient-desktop-3840x686.jpg",
+      "alt": "Doctor and patient during a preventive care visit"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/HealthAndWellness/PDF/M57233-J-Understanding-Preventive-Care-health-tip-flier.pdf",
+      "alt": "Understanding blood pressure readings (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What preventive care is",
+      "question": "What is preventive care?",
+      "text": "Preventive care is routine health care that helps you stay on top of your health and catch anything before it becomes serious. UnitedHealthcare compares preventive care appointments to car maintenance, such as regular oil checks and brake inspections. Eating whole, nutritious foods, staying active, limiting alcohol, managing stress and getting routine checkups are all part of preventive care.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "preventive care",
+        "routine checkup",
+        "wellness",
+        "primary care"
+      ],
+      "entities": [
+        "preventive care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is preventive care?",
+        "Why do I need routine checkups?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How preventive care is covered",
+      "question": "How is preventive care covered by health insurance?",
+      "text": "Most health plans cover eligible preventive care services at 100% with $0 out-of-pocket costs when you see a network provider. Certain preventive items and services, including immunizations, are provided with no cost-sharing as specified by applicable law, including the Affordable Care Act and state law. Some plans may require copayments, coinsurance or deductibles for other routine services, so review your plan documents.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "preventive care coverage",
+        "$0 cost",
+        "network provider",
+        "ACA",
+        "cost-sharing"
+      ],
+      "entities": [
+        "ACA",
+        "Patient Protection and Affordable Care Act"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is preventive care free with insurance?",
+        "Do I pay anything for an annual physical?",
+        "Does the ACA cover preventive services?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What counts as preventive care",
+      "question": "What services are considered preventive care?",
+      "text": "Preventive care includes the services you get as part of a routine well exam: your annual physical exam, vaccines, well-baby and well-child care, and recommended tests and screenings at certain ages for breast cancer (mammogram), colon cancer, prostate cancer, lung cancer and cervical cancer (pelvic exam and Pap smear). It also covers other screenings, such as for osteoporosis and diabetes, and preventive OB/GYN care.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "preventive services",
+        "screenings",
+        "vaccines",
+        "well-child",
+        "annual physical"
+      ],
+      "entities": [
+        "mammogram",
+        "Pap smear"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Which screenings are preventive?",
+        "Are vaccines preventive care?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What is not considered preventive care",
+      "question": "What is not considered preventive care?",
+      "text": "Certain tests and screenings are not always considered preventive care. Diagnostic care, bloodwork and sexually transmitted infection (STI) testing may or may not be considered preventive, and specialist visits are listed separately. Ask your doctor which tests are considered preventive, such as cholesterol and blood glucose, and which you may have to pay for out of pocket, such as a thyroid panel.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "diagnostic care",
+        "bloodwork",
+        "STI testing",
+        "out-of-pocket",
+        "preventive vs diagnostic"
+      ],
+      "entities": [
+        "preventive care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is bloodwork covered as preventive care?",
+        "What is the difference between preventive and diagnostic care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why annual wellness visits matter",
+      "question": "Why is a yearly preventive care visit important?",
+      "text": "During an annual exam, a primary care provider (PCP) can focus on keeping you healthy and catching illnesses earlier, before they become larger problems. A PCP may ask about your medicines and other providers, order tests based on family or health history, check whether you are up to date on shots, and talk about diet and physical activity, which help prevent chronic conditions like diabetes and heart disease.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "annual wellness visit",
+        "primary care provider",
+        "early detection",
+        "chronic disease prevention"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why see a doctor every year?",
+        "What does a PCP check during a yearly visit?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "What to expect at a preventive care exam",
+      "question": "What happens during a physical exam?",
+      "text": "Each visit looks a little different, but a typical preventive exam includes: 1) height, weight and body mass index (BMI) assessment; 2) heart rate check and heart exam; 3) blood pressure test; 4) lab work; 5) lung exam; 6) cancer screenings based on age and risk factors; and 7) vaccines, with some, like the flu shot, recommended annually.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "physical exam",
+        "BMI",
+        "blood pressure",
+        "lab work",
+        "what to expect"
+      ],
+      "entities": [
+        "body mass index"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is in a physical exam?",
+        "What tests are done at an annual checkup?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Key health numbers: heart rate and blood pressure",
+      "question": "What is a healthy resting heart rate and normal blood pressure?",
+      "text": "A healthy resting heart rate for adults is typically between 60 and 100 beats per minute (bpm). Normal blood pressure is considered 120/80 mm Hg or less. UnitedHealthcare notes it is important to know your numbers, including body mass index (BMI), blood pressure, cholesterol and glucose, so you can keep them in check.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "blood pressure",
+        "heart rate",
+        "BMI",
+        "cholesterol",
+        "know your numbers"
+      ],
+      "entities": [
+        "blood pressure",
+        "BMI"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a normal blood pressure?",
+        "What is a healthy resting heart rate?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to prepare for a preventive care visit",
+      "question": "What should I bring to my annual checkup?",
+      "text": "To make the most of your checkup, bring: a list of your medications, including over-the-counter products, prescriptions, vitamins and supplements; your personal and family health history; your questions, concerns and any symptoms; and, if helpful, a family member or friend to help catch the details. Jot down important information and ask your doctor for a copy of your appointment notes.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "checkup preparation",
+        "medication list",
+        "health history",
+        "questions for doctor"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What do I bring to a physical?",
+        "How do I prepare for my doctor's appointment?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Questions to ask your PCP about screenings",
+      "question": "What screening questions should I ask my doctor?",
+      "text": "UnitedHealthcare suggests asking your PCP when to be screened for cervical cancer and colorectal cancer, including the benefits and risks of different tests; whether to be tested for sexually transmitted infections or screened for prostate cancer; how often to check cholesterol and blood pressure and what your numbers should be; how often to screen for diabetes; whether you need a bone density test; and what other screenings are recommended.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "cancer screening",
+        "cholesterol",
+        "diabetes screening",
+        "bone density",
+        "questions for PCP"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What screenings should I ask my doctor about?",
+        "When should I get a colon cancer screening?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Where to get a preventive exam",
+      "question": "Where can I get a physical exam?",
+      "text": "Typically you see your primary care provider (PCP) for your annual checkup. You can see any provider you would like as long as they are in your plan's network; otherwise you may pay out of pocket for the preventive care visit. Members can use UnitedHealthcare's provider search to find a doctor and make an appointment.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "network provider",
+        "primary care",
+        "physical exam",
+        "find a doctor",
+        "out-of-network"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where can I go for my annual physical?",
+        "Can I see any doctor for a preventive visit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive care checklist by age and gender",
+      "question": "Is there a checklist of screenings for my age?",
+      "text": "UnitedHealthcare offers an online preventive care checklist. You enter your age (in years or months), gender identity, sex assigned at birth and pregnancy status to see a checklist of common tests and screenings for your age and gender. It can help you know what to expect at your appointment.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "preventive care checklist",
+        "screenings by age",
+        "online tool"
+      ],
+      "entities": [
+        "preventive care checklist"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Where can I get a list of screenings by age?",
+        "What tests do I need at my age?"
+      ]
+    }
+  ]
+}

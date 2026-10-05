@@ -1,0 +1,203 @@
+{
+  "url": "https://www.uhc.com/member-resources/wellness-rewards-programs/naviguard-out-of-network-billing-support",
+  "title": "Out-of-network balance billing support from Naviguard",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Explains the Naviguard service that negotiates out-of-network balance medical bills for eligible UnitedHealthcare members, with eligibility, process and results.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/woman-reading-documents-desktop-1920x752.jpg",
+      "alt": "Woman reading documents"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6388336939112-Thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Naviguard member stories"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Naviguard is",
+      "question": "What is Naviguard?",
+      "text": "Naviguard is a service created to help reduce the amount a member may owe for medical care from out-of-network providers. Using advanced analytics and industry expertise, advisors review a member's case and guide them through the bill resolution process. A negotiation team engages directly with health care providers when necessary to resolve balance billing disputes.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "naviguard",
+        "out-of-network",
+        "balance billing",
+        "bill negotiation"
+      ],
+      "entities": [
+        "Naviguard"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is Naviguard?",
+        "Can UnitedHealthcare negotiate my out-of-network bill?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Who can use Naviguard and what it costs",
+      "question": "Who can use Naviguard and does it cost extra?",
+      "text": "Naviguard is available to UnitedHealthcare members who have qualifying employer-sponsored health plans. There is no additional cost for the service. To find out if they have access, members can call the member phone number on their health plan ID card.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "naviguard",
+        "eligibility",
+        "employer-sponsored",
+        "no additional cost"
+      ],
+      "entities": [
+        "Naviguard"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Is Naviguard free?",
+        "How do I find out if I can use Naviguard?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When to use Naviguard",
+      "question": "When should I contact Naviguard about a bill?",
+      "text": "After out-of-network care, a member should look at the explanation of benefits (EOB) from UnitedHealthcare. If the amount owed is higher than the member's cost share, they may receive a balance medical bill from the provider. When the bill arrives, the member should call before deciding to pay so Naviguard can review it and, if needed, negotiate with the provider.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "naviguard",
+        "eob",
+        "balance bill",
+        "cost share",
+        "call before paying"
+      ],
+      "entities": [
+        "Naviguard",
+        "EOB"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Should I pay an out-of-network bill right away?",
+        "How do I know if I have a balance bill?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How Naviguard negotiates and how long it takes",
+      "question": "How does Naviguard reduce a balance medical bill?",
+      "text": "If Naviguard determines a member was billed too much, its negotiators may contact the provider to try to agree on a lower amount, including for excessive charges from specialists, X-ray services and lab analysis. Naviguard uses industry and provider knowledge combined with market data to determine the right rate, handles all negotiating and keeps the member updated. On average, a case initiated by a member takes 30 to 45 days.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "naviguard",
+        "negotiation",
+        "market data",
+        "30 to 45 days"
+      ],
+      "entities": [
+        "Naviguard"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How long does Naviguard take?",
+        "What bills can Naviguard negotiate?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Naviguard results",
+      "question": "How much does Naviguard reduce out-of-network bills?",
+      "text": "Naviguard reports an average reduction of about $2,600 per case and an average reduction of 73% off out-of-network billed charges. The page also says its team of experts has worked more than 1.4 million cases to help reduce out-of-network costs.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "naviguard",
+        "$2,600",
+        "73% reduction",
+        "1.4 million cases"
+      ],
+      "entities": [
+        "Naviguard"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How much can Naviguard save me?",
+        "What is Naviguard's track record?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to start or follow up on a Naviguard case",
+      "question": "How do I open a Naviguard case?",
+      "text": "To open a case with Naviguard, call UnitedHealthcare Member Services at 833-593-4155. To ask questions about an existing case, contact Naviguard at 866-218-5205, Monday to Friday, 9 a.m. to 5 p.m. CST.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "naviguard",
+        "phone number",
+        "open a case",
+        "member services"
+      ],
+      "entities": [
+        "Naviguard",
+        "UnitedHealthcare Member Services"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is the Naviguard phone number?",
+        "How do I check on my Naviguard case?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Naviguard-eligible claims are marked",
+      "question": "How do I know if my claim qualifies for Naviguard?",
+      "text": "If a member has an out-of-network claim that is eligible for Naviguard services, it is noted on the claim. Members can see this by signing in to their member account or opening the UnitedHealthcare app.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "naviguard",
+        "claims",
+        "member account",
+        "uhc app"
+      ],
+      "entities": [
+        "Naviguard",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Where do I see whether a claim is eligible for Naviguard?",
+        "Does the UHC app show Naviguard claims?"
+      ]
+    }
+  ]
+}

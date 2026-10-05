@@ -1,0 +1,337 @@
+{
+  "url": "https://www.uhc.com/communityplan/tennessee/plans/medicaid/choices",
+  "title": "TennCare Long-Term Services & Supports (LTSS)",
+  "domain": "Medicaid",
+  "page_type": "product",
+  "summary": "Plan page for TennCare CHOICES and Employment and Community First (ECF) CHOICES long-term services and supports from UnitedHealthcare Community Plan, with benefit groups, service limits, care coordination, dental limits, transportation and Katie Beckett information.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/memberinformation/TN-Katie-Beckett-Benefit-Table.pdf",
+      "alt": "Katie Beckett Benefit Table"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/misc/TN-Mileage-Reimbursement-Flyer.pdf",
+      "alt": "Mileage Reimbursement"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/handbook/en/TN-MemberHandbook-EN.pdf",
+      "alt": "Member Handbook English"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "TennCare CHOICES and its three groups",
+      "question": "What is TennCare CHOICES in Long-Term Services and Supports?",
+      "text": "TennCare CHOICES is for adults age 21 and older with a physical disability and seniors age 65 and older. It offers Home and Community Based Services (HCBS) to help a person live in their own home or the community, and also provides nursing home care when needed. Group 1 is for people of all ages receiving nursing home care. Group 2 is for people who qualify for nursing home care but choose home care. Group 3 is for people who don't qualify for nursing home care but need home care to stay at home safely. To see if you qualify, call 1-800-690-1606.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "tenncare choices",
+        "hcbs",
+        "group 1",
+        "group 2",
+        "group 3",
+        "nursing home care"
+      ],
+      "entities": [
+        "TennCare CHOICES",
+        "Home and Community Based Services",
+        "HCBS"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are the CHOICES groups?",
+        "Can I get home care instead of a nursing home in Tennessee?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Employment and Community First (ECF) CHOICES",
+      "question": "What is Employment and Community First CHOICES?",
+      "text": "Employment and Community First CHOICES is for people of all ages who have an intellectual or developmental disability (I/DD), including people with significant disabilities. Services help people gain as much independence as possible and live with family or in the community, not in an institution. Residential services are available for adults who do not live with family. The program can help explore working and learn skills for work, finding a job and keeping a job, whether part-time, full-time or self-employment.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "ecf choices",
+        "intellectual disability",
+        "developmental disability",
+        "employment supports",
+        "independence"
+      ],
+      "entities": [
+        "Employment and Community First CHOICES",
+        "ECF CHOICES"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is ECF CHOICES?",
+        "Does Tennessee Medicaid help people with disabilities find jobs?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "ECF CHOICES benefit Groups 4 through 8",
+      "question": "What are ECF CHOICES Groups 4, 5, 6, 7 and 8?",
+      "text": "Group 4 (Essential Family Supports) is for families caring for a child under 21 with I/DD living at home. Group 5 (Essential Supports for Employment and Independent Living) is for adults 21 and older with I/DD who don't qualify for nursing home level of care. Group 6 (Comprehensive Supports) is for adults 21 and older who would qualify for nursing home care. Group 7 (Intensive Behavioral Family Supports) is for a small number of children under 21 with severe behavior needs. Group 8 (Comprehensive Behavioral Supports) is for a small number of adults moving into the community from a highly structured setting.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "ecf choices groups",
+        "group 4",
+        "group 5",
+        "group 6",
+        "group 7",
+        "group 8"
+      ],
+      "entities": [
+        "ECF CHOICES"
+      ],
+      "personas": [
+        "Caregiver",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Which ECF CHOICES group is for children with I/DD?",
+        "What is Group 6 in ECF CHOICES?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "CHOICES home and community-based service limits",
+      "question": "What are the service limits for CHOICES HCBS?",
+      "text": "CHOICES HCBS limits listed on the page include: personal care visits up to 2 per day at least 4 hours apart; attendant care up to 1080 hours per calendar year (up to 1400 hours for people who need help with chores or errands too); home-delivered meals up to 1 meal per day; adult day care up to 2080 hours per calendar year; in-home respite up to 216 hours per year; inpatient respite up to 9 days per year; assistive technology up to $900 per year; and minor home modifications up to $6,000 per project, $10,000 per year and $20,000 per lifetime.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "service limits",
+        "attendant care",
+        "respite",
+        "home modifications",
+        "adult day care",
+        "assistive technology"
+      ],
+      "entities": [
+        "CHOICES HCBS",
+        "TennCare"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How many hours of attendant care does CHOICES cover?",
+        "What is the home modification limit under CHOICES?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Katie Beckett program for children",
+      "question": "What is Tennessee's Katie Beckett program?",
+      "text": "Tennessee's Katie Beckett program is for children under the age of 18 with significant disabilities or complex medical needs who are not Medicaid eligible because of their parent's income or assets. The program has two parts, A and B, and provides services and/or help paying for medical care that private insurance does not cover.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "katie beckett",
+        "children with disabilities",
+        "complex medical needs",
+        "under 18",
+        "tennessee"
+      ],
+      "entities": [
+        "Katie Beckett program",
+        "TennCare"
+      ],
+      "personas": [
+        "Caregiver",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is the Katie Beckett waiver?",
+        "Can my child get help if our income is too high for Medicaid?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What a CHOICES care coordinator does",
+      "question": "What does a care coordinator do for TennCare CHOICES members?",
+      "text": "A Care Coordinator provides information about CHOICES and answers questions, helps you get the right kind of long-term services and supports in the right setting, coordinates your physical health, behavioral health and long-term services needs, helps fix problems with your care, and communicates with your providers. The care coordinator also checks at least once a year that you still need the level of care provided in a nursing home or, for Group 3, are still at risk of going into a nursing home.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "care coordinator",
+        "annual check",
+        "care coordination",
+        "choices"
+      ],
+      "entities": [
+        "TennCare CHOICES",
+        "Care Coordinator"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Who coordinates my long-term care in TennCare?",
+        "How often is my level of care reviewed in CHOICES?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ECF CHOICES support coordinator role",
+      "question": "What does a support coordinator do in ECF CHOICES?",
+      "text": "A Support Coordinator helps you identify the services and supports you need, explore employment options and ways to be part of your community, understand all of the services, providers and settings you can choose from, choose your services, providers and settings, and write your support plan based on your choices and preferences. The coordinator also makes sure you get the services in your support plan. If you aren't sure who your Support Coordinator is, call 1-800-690-1606.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "support coordinator",
+        "support plan",
+        "ecf choices",
+        "employment options"
+      ],
+      "entities": [
+        "ECF CHOICES",
+        "Support Coordinator"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is a support plan in ECF CHOICES?",
+        "Who is my support coordinator?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Adult dental limits in CHOICES",
+      "question": "What adult dental coverage do CHOICES members have?",
+      "text": "CHOICES Groups 1, 2 and 3 and ECF CHOICES Groups 4, 5, 6 and 8 include adult dental services, covering basic dental care for adults age 21 and older including exams, cleanings and fillings. Limits are up to $5,000 per calendar year and no more than $7,500 over three calendar years in a row. Children under 21 already have dental care through TennCare.",
+      "topic": "Dental coverage",
+      "tags": [
+        "adult dental",
+        "$5,000 limit",
+        "$7,500",
+        "exams cleanings fillings",
+        "tenncare"
+      ],
+      "entities": [
+        "TennCare",
+        "CHOICES",
+        "ECF CHOICES"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does TennCare CHOICES cover dental for adults?",
+        "What is the yearly dental limit for CHOICES members?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to arrange a TennCare medical ride",
+      "question": "How do I get transportation to a medical appointment with TennCare?",
+      "text": "Call 1-866-405-0238 (TTY 711) to set up a ride, at least 2 business days before the appointment whenever possible. Have your Medicaid ID card ready, know your provider's address and the date and time, and tell the transporter about special needs like a wheelchair. If your return time wasn't scheduled, call to say you're ready to be picked up. In an emergency call 911. Eligible members may also use the Mileage Reimbursement Program, effective April 1, 2025, of up to $.70 per mile.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "transportation",
+        "tennessee carriers",
+        "mileage reimbursement",
+        "$.70 per mile",
+        "medical rides"
+      ],
+      "entities": [
+        "Tennessee Carriers",
+        "TennCare",
+        "Mileage Reimbursement Program"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I schedule a ride to the doctor with TennCare?",
+        "Does TennCare reimburse mileage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Behavioral health access and crisis lines",
+      "question": "How do TennCare members get behavioral health help and authorization?",
+      "text": "Required mental health care is 100% covered with no copay and includes therapy, substance abuse treatment and medications. TennCare members in Middle Tennessee can call 1-800-690-1606 (TTY 711) to be matched with a provider; all services must be authorized, so you must call before receiving services. An Emergency Crisis Service team helps members obtain emergency care 24 hours a day at 1-800-867-6758, and the Tennessee REDLINE offers addiction information and referrals at 1-800-889-9789.",
+      "topic": "Behavioral health",
+      "tags": [
+        "crisis line",
+        "authorization",
+        "substance abuse",
+        "mental health",
+        "no copay"
+      ],
+      "entities": [
+        "United Behavioral Health",
+        "Tennessee REDLINE",
+        "TennCare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Who do I call for a mental health emergency with TennCare?",
+        "Do behavioral health services need authorization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Enrollment help and eligibility for CHOICES",
+      "question": "How do I enroll in the TennCare LTSS plan?",
+      "text": "TennCare eligibility depends on a number of different criteria, and members are directed to the State of Tennessee's Eligibility Categories page. The TennCare Medicaid plan specialists can answer questions and help you enroll by calling 1-800-690-1606 (TTY 711), 24 hours a day, 7 days a week. The plan is available in the listed Tennessee counties, which include Davidson, Hamilton, Knox, Shelby and many others.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "enroll",
+        "eligibility categories",
+        "1-800-690-1606",
+        "tennessee counties"
+      ],
+      "entities": [
+        "TennCare",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I enroll in CHOICES?",
+        "Is the TennCare CHOICES plan available in my county?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/hsa-hra-fsa-differences",
+  "title": "Differences between HSAs, HRAs, and FSAs",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Compares HSAs, HRAs and FSAs on eligibility, funding, spending, ownership if you leave a job and tax advantages, and explains how they can be used together.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6266405299001-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "What's the difference between HSA, HRA, and FSA?"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "comparison",
+      "title": "How you get an HSA, HRA or FSA",
+      "question": "How do I get an HSA, HRA or FSA?",
+      "text": "To get a health savings account (HSA), you must have a high deductible health plan that meets a deductible amount set by the IRS. You get a health reimbursement account (HRA) when you sign up for the plan, if your employer offers this type of health plan. A flexible spending account (FSA) is established through your employer and does not have to be tied to a health plan.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "hra",
+        "fsa",
+        "eligibility",
+        "how to get"
+      ],
+      "entities": [
+        "HSA",
+        "HRA",
+        "FSA",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How do I qualify for an HSA versus an FSA?",
+        "Does an FSA require a health plan?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Who funds an HSA, HRA or FSA",
+      "question": "Who contributes to an HSA, HRA and FSA?",
+      "text": "You fund an HSA, contributing pre-tax money via payroll deductions up to annual limits, and your employer, family and others can also contribute. An HRA is funded entirely by your employer, and you cannot put your own money into it. With an FSA, you contribute via payroll deductions and your employer can also contribute.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "hra",
+        "fsa",
+        "who funds",
+        "payroll deductions"
+      ],
+      "entities": [
+        "HSA",
+        "HRA",
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can my employer contribute to my HSA?",
+        "Who pays into an HRA?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "What you can spend each account on",
+      "question": "What can I spend HSA, HRA and FSA money on?",
+      "text": "HSA funds can only be used for qualified medical expenses, which does not include paying for premiums. You can use an HRA for premiums and medical expenses. An FSA can be used for eligible medical and dependent care expenses, but health insurance premiums do not qualify, and the amount you can spend is capped.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "hra",
+        "fsa",
+        "qualified medical expenses",
+        "premiums"
+      ],
+      "entities": [
+        "HSA",
+        "HRA",
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I pay premiums with an HSA?",
+        "Can an HRA pay health insurance premiums?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Which account stays with you after a job change",
+      "question": "Which account can I take with me if I leave my job?",
+      "text": "If you leave your job, you can take your HSA with you, because once you have established an HSA it is yours forever and stays with you if you change employers, change health plans or retire. You cannot take an HRA with you when you go, because it belongs to your employer.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "hra",
+        "leaving a job",
+        "portability",
+        "ownership"
+      ],
+      "entities": [
+        "HSA",
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do I keep my HSA when I change jobs?",
+        "Does an HRA go with me if I quit?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Tax advantages of HSAs, HRAs and FSAs",
+      "question": "What are the tax advantages of an HSA, HRA and FSA?",
+      "text": "HSA tax benefits include tax-deductible contributions, and account holders can build up the HSA by earning tax-free interest and tax-free investment returns; spending on qualified out-of-pocket medical expenses is also tax-free. An HRA is tax-free for both you and your employer. With an FSA, you do not pay federal, state or Social Security taxes on this money.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "hra",
+        "fsa",
+        "tax advantages",
+        "tax-free"
+      ],
+      "entities": [
+        "HSA",
+        "HRA",
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Which health account has the best tax benefits?",
+        "Are FSA contributions taxed?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HSA savings, limits and rollover",
+      "question": "How much can I save in an HSA over time?",
+      "text": "Every dollar you contribute to and save in an HSA is tax-free, and spending HSA dollars on qualified out-of-pocket medical expenses is also tax-free. There is no limit to how much you can save over time, but there are annual contribution limits. Since it is your HSA, the money stays with you even if you change employers or health plans, or retire, and unused funds continue to roll over year to year.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "annual contribution limit",
+        "rollover",
+        "tax-free",
+        "no savings cap"
+      ],
+      "entities": [
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there a limit on how much I can have in my HSA?",
+        "Does HSA money roll over?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "FSA use-it-or-lose-it rule",
+      "question": "Can I lose money in an FSA?",
+      "text": "Flexible spending accounts may follow the use-it-or-lose-it rule, meaning that if you do not spend your FSA funds within your plan year, you may not be able to carry them over to the next. It is a good idea to avoid putting more money into your FSA than you can spend in a plan year.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "use it or lose it",
+        "plan year",
+        "forfeit",
+        "contribution planning"
+      ],
+      "entities": [
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the FSA use-it-or-lose-it rule?",
+        "How much should I put in my FSA?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Using an FSA and HRA together",
+      "question": "Can I use an FSA and an HRA together?",
+      "text": "You can use an FSA and an HRA together. If you have an FSA, expenses typically come from that account first, and funds from the HRA are then used to cover other medical expenses. Using an HSA, HRA or FSA in combination may or may not be possible depending on your circumstances, because of the possibility of double-dipping.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "hra",
+        "combining accounts",
+        "double-dipping"
+      ],
+      "entities": [
+        "FSA",
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have both an FSA and an HRA?",
+        "Which account pays first, an FSA or an HRA?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Using an FSA and HSA together",
+      "question": "Can I use an FSA and an HSA at the same time?",
+      "text": "It is uncommon to have an FSA and HSA at the same time, but not impossible. One exception is pairing an HSA with a limited-purpose FSA, also called an HSA-compatible FSA or post-deductible FSA. You can use the limited-purpose FSA only for certain expenses, like dental or vision care, until you reach your health plan's deductible, which saves more of your HSA dollars for future expenses.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "hsa",
+        "limited-purpose fsa",
+        "hsa-compatible fsa",
+        "post-deductible fsa"
+      ],
+      "entities": [
+        "FSA",
+        "HSA",
+        "Limited-purpose FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have an HSA and an FSA?",
+        "What is an HSA-compatible FSA?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Using an HRA and HSA together",
+      "question": "Can I use an HRA and an HSA together?",
+      "text": "You can use an HRA and an HSA at the same time if you are enrolled in a high deductible health plan (HDHP), but the IRS has specific rules as to how they work together. For example, you cannot use HSA funds to cover medical expenses that were reimbursed by your employer in an HRA. You can also use them together if you opt out of your HRA reimbursement of qualified medical expenses, while keeping reimbursement for premiums.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "hsa",
+        "hdhp",
+        "irs rules",
+        "combining accounts"
+      ],
+      "entities": [
+        "HRA",
+        "HSA",
+        "HDHP",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have an HRA and an HSA?",
+        "Can I use HSA funds for expenses my HRA reimbursed?"
+      ]
+    }
+  ]
+}

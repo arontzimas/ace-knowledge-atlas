@@ -1,0 +1,118 @@
+{
+  "url": "https://www.uhc.com/medicare/shop/estimate/ms-costs.html",
+  "title": "Medicare Supplement Insurance Plan Costs",
+  "domain": "Medicare",
+  "page_type": "guide",
+  "summary": "Explains the costs associated with Original Medicare and AARP Medicare Supplement plans and how to choose a plan letter based on premium versus out-of-pocket tradeoffs.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/Elderly-women-in-wheelchair-with-caregiver-920-520.jpg", "alt": "Elderly woman in wheelchair with caregiver"},
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/older-man-on-phone-desktop-920-520.jpg", "alt": "Older man on phone"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "What to weigh when choosing a Medigap plan",
+      "question": "What should I consider when choosing a Medicare Supplement plan?",
+      "text": "UnitedHealthcare offers a variety of Medicare Supplement plans with different costs and coverage levels. When you choose a Medicare Supplement plan, consider premiums, your out-of-pocket medical expenses, and what Original Medicare will pay for. Your health needs and budget will help you decide which plan might be best for you.",
+      "topic": "Medicare Supplement",
+      "tags": ["choosing a plan", "premiums", "out-of-pocket", "budget", "medigap"],
+      "entities": ["UnitedHealthcare", "Medicare Supplement", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["How do I pick a Medigap plan?", "What factors affect Medicare Supplement choice?", "Should I choose based on premium or out-of-pocket cost?"]
+    },
+    {
+      "type": "definition",
+      "title": "Monthly premium for Medigap",
+      "question": "What is the monthly premium on a Medicare Supplement plan?",
+      "text": "A monthly premium is the fee you pay to the plan in exchange for coverage. Each Medicare Supplement plan has a different monthly premium.",
+      "topic": "Medicare Supplement",
+      "tags": ["monthly premium", "medigap cost", "coverage fee"],
+      "entities": ["Medicare Supplement"],
+      "personas": ["Medicare shopper"],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": ["What is a Medigap premium?", "Do all Medicare Supplement plans cost the same?", "How much is a Medigap monthly premium?"]
+    },
+    {
+      "type": "stat",
+      "title": "Part B deductible is $283 in 2026",
+      "question": "What is the Medicare Part B deductible in 2026?",
+      "text": "A deductible is the amount you pay out-of-pocket for covered services before Medicare and/or your Medicare Supplement plan begins to pay. Most Medicare Supplement plans provide coverage for your Part A hospital deductible. In most cases you're responsible for your Medicare Part B deductible, which is an annual cost of $283 in 2026.",
+      "topic": "Medicare basics",
+      "tags": ["part b deductible", "$283", "2026", "part a deductible", "medigap"],
+      "entities": ["Part A", "Part B", "Medicare Supplement"],
+      "personas": ["Medicare shopper"],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": ["How much is the Part B deductible in 2026?", "Does Medigap cover the Part A deductible?", "Do I pay the Part B deductible with a Medicare Supplement plan?"]
+    },
+    {
+      "type": "definition",
+      "title": "Copay, coinsurance and out-of-pocket limit",
+      "question": "What is the difference between a copay, coinsurance and an out-of-pocket maximum in Medicare?",
+      "text": "A copay is a set, flat amount paid each time, such as a $20 copay for each in-office doctor visit. Coinsurance requires you to pay a percentage of the Medicare-approved amount each time. An out-of-pocket limit is a maximum amount of out-of-pocket costs you pay per calendar year. Since Medicare Parts A and B don't have an out-of-pocket maximum, your out-of-pocket medical expenses can add up to hundreds or thousands per year.",
+      "topic": "Costs & cost-sharing",
+      "tags": ["copay", "coinsurance", "out-of-pocket limit", "part a", "part b"],
+      "entities": ["Part A", "Part B", "Medicare Supplement"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Does Original Medicare have an out-of-pocket limit?", "What is Medicare coinsurance?", "What is a copay in Medicare?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Who pays what: Medicare, you and Medigap",
+      "question": "How do Medicare Supplement plans provide more coverage than Original Medicare alone?",
+      "text": "Medicare pays its share of costs: Part A covers inpatient hospital stays, skilled nursing facility, hospice and home health care, while Part B covers doctor's services, hospital outpatient care, durable medical equipment, home health care and some preventive services. You pay out-of-pocket costs such as deductibles, coinsurance and copayments, plus a monthly premium. Medigap helps fill in some of these gaps, with benefits and costs varying by the plan selected.",
+      "topic": "Medicare Supplement",
+      "tags": ["part a", "part b", "medigap", "gaps in coverage", "out-of-pocket"],
+      "entities": ["Part A", "Part B", "Medigap", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What does Medicare Part A and Part B cover?", "What gaps does Medigap fill?", "What do I pay out of pocket under Original Medicare?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Plans G, C and F: most coverage, higher premium",
+      "question": "Which Medicare Supplement plans offer the most coverage?",
+      "text": "If you prefer more coverage and less out-of-pocket expense, Plans G, C or F may be right for you. These plans typically have a higher premium and offer the most supplemental coverage, paying up to 100% of your out-of-pocket costs for many Medicare-approved services, depending on the plan. Only applicants first eligible for Medicare before 2020 may purchase Plans C and F.",
+      "topic": "Medicare Supplement",
+      "tags": ["plan g", "plan c", "plan f", "higher premium", "comprehensive coverage"],
+      "entities": ["Plan G", "Plan C", "Plan F", "Medicare Supplement"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["What Medigap plan covers the most?", "Which Medigap plans have higher premiums?", "Can I still buy Plan F?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Plans A and B: basic Medigap coverage",
+      "question": "What do Medicare Supplement Plans A and B cover?",
+      "text": "Medicare Supplement Plan A offers just the Basic Benefits, while Plan B covers Basic Benefits plus a benefit for the Medicare Part A deductible, which could be one of the largest out-of-pocket expenses if you need to spend time in a hospital. Both are options for people who prefer a lower monthly premium with out-of-pocket expenses based on their need.",
+      "topic": "Medicare Supplement",
+      "tags": ["plan a", "plan b", "basic benefits", "part a deductible", "lower premium"],
+      "entities": ["Plan A", "Plan B", "Medicare Supplement"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["What is the difference between Plan A and Plan B?", "Which Medigap plan covers the hospital deductible cheaply?", "What are the basic benefits of Medigap?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Plans K, L and N cost-sharing tradeoffs",
+      "question": "How do Medicare Supplement Plans K, L and N share costs?",
+      "text": "Plans K and L are cost-sharing plans with lower monthly premiums. They pay a percentage of the coinsurance instead of the full amount, and you are responsible for the rest; once the out-of-pocket limit is reached, these plans pay 100% of covered services for the rest of the calendar year. Plan N covers Medicare Part B coinsurance once the Part B deductible is met, but you pay copayments for covered doctor office and emergency room visits in exchange for a mid-level premium.",
+      "topic": "Medicare Supplement",
+      "tags": ["plan k", "plan l", "plan n", "out-of-pocket limit", "copayments"],
+      "entities": ["Plan K", "Plan L", "Plan N", "Medicare Supplement"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["Do Plans K and L have an out-of-pocket limit?", "What copays does Plan N charge?", "Which Medigap plan has a mid-level premium?"]
+    }
+  ]
+}

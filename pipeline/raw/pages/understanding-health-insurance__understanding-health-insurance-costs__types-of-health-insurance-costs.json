@@ -1,0 +1,263 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs",
+  "title": "Types of health insurance costs",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Defines premiums, deductibles, coinsurance, copayments and out-of-pocket limits and explains how they work together over a plan year.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/_jcr_content/root/regioncontainer-main/responsivegrid/container/container/image.coreimg.90.1280.jpeg/1749590456810/types-of-health-insurance-costs-woman-on-phone-desktop-600x386.jpeg",
+      "alt": "Woman on phone (types of health insurance costs)"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6281121195001-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "How a health plan works"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a premium is",
+      "question": "What is a health insurance premium?",
+      "text": "To keep your plan active, you will likely pay a monthly premium, which is your way to access the plan. If you have an employer-sponsored health plan, your premium is likely deducted from your paycheck. If you bought an individual plan, you pay the insurer.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "monthly cost",
+        "paycheck deduction",
+        "individual plan"
+      ],
+      "entities": [
+        "Premium"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a premium?",
+        "Is my premium taken out of my paycheck?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Paying premiums on Medicare and Medicaid plans",
+      "question": "How do I pay premiums on a Medicare or Medicaid plan?",
+      "text": "If you have a UnitedHealthcare Medicare Advantage plan or prescription drug plan with a monthly premium, you have several options for paying your premium. If you have a Medicaid plan, contact your state's Medicaid program to learn whether any premium may apply.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "medicare advantage",
+        "prescription drug plan",
+        "medicaid"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "Medicare Part D",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How can I pay my Medicare Advantage premium?",
+        "Do I pay a premium on Medicaid?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a deductible is",
+      "question": "What is a deductible?",
+      "text": "A deductible is the amount you pay out of pocket for your care before your insurance plan starts to pick up the tab. Like car insurance, it is an amount you agree to contribute before insurance kicks in. Typically, the higher the deductible, the lower the premium, and the lower the deductible, the higher the premium.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "deductible",
+        "out-of-pocket",
+        "premium trade-off",
+        "car insurance"
+      ],
+      "entities": [
+        "Deductible",
+        "Premium"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a health insurance deductible?",
+        "Does a higher deductible mean a lower premium?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "High deductible plans suit healthy individuals",
+      "question": "Who is a high deductible health plan good for?",
+      "text": "A high deductible health plan (HDHP) may be ideal for healthy individuals who do not foresee having many medical expenses in the coming year. Higher deductible plans typically come with lower premiums.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "hdhp",
+        "high deductible",
+        "healthy individuals",
+        "lower premium"
+      ],
+      "entities": [
+        "HDHP",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I choose a high deductible plan?",
+        "Is an HDHP right for me if I'm healthy?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What coinsurance is",
+      "question": "What is coinsurance?",
+      "text": "After you have met your deductible, depending on your plan, you may pay coinsurance for some services. Coinsurance is a percentage you pay after meeting your deductible. Some of the most common percentage breakdowns are 80/20 and 90/10.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "coinsurance",
+        "percentage",
+        "after deductible",
+        "80/20",
+        "90/10"
+      ],
+      "entities": [
+        "Coinsurance",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does 80/20 coinsurance mean?",
+        "When do I start paying coinsurance?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a copayment is",
+      "question": "What is a copay and how is it different from coinsurance?",
+      "text": "A copayment, or copay, is different from coinsurance. It is a fixed amount you pay for a covered service. It is common to have separate copay rates for different types of care, for example a primary care visit versus a specialist like a dermatologist, and you may also pay a copay for prescriptions. You will often pay your copay at the time of service.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copay",
+        "fixed amount",
+        "specialist visit",
+        "prescription copay",
+        "time of service"
+      ],
+      "entities": [
+        "Copay",
+        "Coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a copay?",
+        "Do I pay a copay at the doctor's office?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What an out-of-pocket maximum is",
+      "question": "What is an out-of-pocket maximum or limit?",
+      "text": "Your out-of-pocket maximum or limit is the most you have to pay for covered services within a plan year, including your deductible and any copays and coinsurance. It does not include your monthly premium payments or anything you spent on services not covered by your plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket maximum",
+        "out-of-pocket limit",
+        "plan year",
+        "covered services"
+      ],
+      "entities": [
+        "Out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an out-of-pocket max?",
+        "Do premiums count toward my out-of-pocket limit?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How a health plan works through the year",
+      "question": "How do health plan costs work step by step?",
+      "text": "1) At the start of the plan year you pay 100% of covered health services until you meet your deductible. 2) After that, your plan shares costs through coinsurance, for example you pay 20% and the plan pays 80%. 3) You may also pay a fixed copay for certain services, like a doctor's appointment. 4) Coinsurance and copays count toward your out-of-pocket limit, but premiums do not. 5) After you reach the limit, your plan pays 100%.",
+      "topic": "How insurance works",
+      "tags": [
+        "how health plans work",
+        "deductible",
+        "coinsurance",
+        "copay",
+        "out-of-pocket limit"
+      ],
+      "entities": [
+        "Deductible",
+        "Coinsurance",
+        "Copay",
+        "Out-of-pocket limit"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does health insurance work from start to finish?",
+        "What happens after I meet my deductible?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Premium and deductible trade-off",
+      "question": "How do premiums and deductibles trade off?",
+      "text": "Some plans have higher premiums and lower deductibles. Others have lower premiums and higher deductibles. A monthly premium keeps your plan active, while a deductible is what you pay for covered care before your plan starts to pay. Weighing the two helps you pick a plan that fits your budget and expected care needs.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "deductible",
+        "trade-off",
+        "plan comparison"
+      ],
+      "entities": [
+        "Premium",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I pay a higher premium for a lower deductible?",
+        "How do premiums and deductibles compare?"
+      ]
+    }
+  ]
+}

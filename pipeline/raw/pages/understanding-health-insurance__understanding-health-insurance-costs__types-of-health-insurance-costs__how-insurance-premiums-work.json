@@ -1,0 +1,179 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/how-insurance-premiums-work",
+  "title": "Understanding health insurance premiums",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what a health insurance premium is, what can and cannot affect it, how to pay it and ways to lower it.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/how-insurance-premiums-work/_jcr_content/root/regioncontainer-main/responsivegrid/container/containerfloatingcon_1072194111/image.coreimg.90.1280.jpeg/1749590920854/understanding-health-insurance-premiums-father-son-blocks-desktop-600x404.jpeg",
+      "alt": "understanding-health-insurance-premiums-father-son-blocks-desktop-600x404"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a health insurance premium is",
+      "question": "What is a health insurance premium?",
+      "text": "A health insurance premium is the monthly price you pay for your policy, or the monthly cost of your health insurance. The cost can be influenced by the type of plan you have, your age, your lifestyle and more. Typically, a lower deductible means a higher premium, and vice versa. Other factors, such as where you live and your age, are also considered in setting your premium.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "monthly cost",
+        "deductible",
+        "age",
+        "location"
+      ],
+      "entities": [
+        "Premium",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a premium?",
+        "What determines my health insurance premium?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How premiums are paid",
+      "question": "How do I pay my health insurance premium?",
+      "text": "If you have your own health plan from the Marketplace, you will likely pay your premium each month. If your insurance is through an employer, your premiums will likely be taken out of your paychecks.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium payment",
+        "marketplace plan",
+        "employer coverage",
+        "paycheck"
+      ],
+      "entities": [
+        "Marketplace",
+        "Premium"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is my premium deducted from my paycheck?",
+        "Do I pay premiums monthly on a Marketplace plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Only five factors can set premium cost",
+      "question": "What factors can legally affect my health insurance premium?",
+      "text": "Under health care law, only five specific factors can influence how much a health insurance premium costs. Premium cost can be influenced by the type of plan you have, your age, where you live and your lifestyle, and tobacco users pay quite a bit more for premiums than non-users.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium factors",
+        "health care law",
+        "age",
+        "tobacco use",
+        "location"
+      ],
+      "entities": [
+        "Premium",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How are health insurance premiums calculated?",
+        "What can affect my premium by law?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Factors insurers cannot use to set premiums",
+      "question": "What can't affect my health insurance premium?",
+      "text": "Insurance companies cannot include some factors when setting prices. One is sex, so men and women cannot be charged a different price for the same plan. The other is health status or medical history, which means health plans must cover services for pre-existing conditions.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "sex",
+        "pre-existing conditions",
+        "medical history",
+        "aca protections"
+      ],
+      "entities": [
+        "ACA",
+        "Pre-existing conditions"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can insurers charge more for pre-existing conditions?",
+        "Can women be charged more for health insurance?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Ways to lower your premium",
+      "question": "Can I lower my health insurance premium?",
+      "text": "If you have an ACA Marketplace plan, you might qualify for tax credits or cost-sharing reductions, which could lower your premiums. Tobacco users pay quite a bit more for premiums than non-users, so quitting may help. If you do not go to the doctor often and it makes sense for your health needs, you might consider switching to a plan with a lower premium.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "lower premium",
+        "tax credits",
+        "cost-sharing reductions",
+        "tobacco",
+        "aca marketplace"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Premium tax credits",
+        "Cost-sharing reductions"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How can I reduce my health insurance premium?",
+        "Do tobacco users pay higher premiums?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How to choose the right plan and premium",
+      "question": "How do I choose the right health insurance plan and premium?",
+      "text": "Understanding health insurance helps you choose the right plan. Get familiar with the different types of insurance, insurance costs and financial subsidies. Look through your medical history to see what you have paid for and compare it against your options. If you have a doctor you want to stick with, check the provider directory to make sure they are in the network.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "choosing a plan",
+        "medical history",
+        "provider directory",
+        "subsidies",
+        "costs"
+      ],
+      "entities": [
+        "Provider directory"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "How do I pick a health plan and premium?",
+        "What should I check before picking a premium?"
+      ]
+    }
+  ]
+}

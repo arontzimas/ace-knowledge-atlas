@@ -1,0 +1,231 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/health-topics/sleep-tips",
+  "title": "Sleep for health",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Explains how much sleep adults need, the consequences of poor sleep and practical tips for sleeping better.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/health-topics/sleep-tips/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324703499/sleep-for-health-alarm-clock-by-bed-920x520.jpeg",
+      "alt": "Alarm clock by a bed"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/HealthAndWellness/PDF/M57233-H-Sleep-for-Health-health-tip-flier.pdf",
+      "alt": "Sleep for Health tips flier"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Nearly 35 percent of adults sleep too little",
+      "question": "How many adults get less than 7 hours of sleep?",
+      "text": "Nearly 35 percent of adults get less than the recommended 7 or more hours of sleep per night. UnitedHealthcare notes that sleep affects every aspect of waking life and is essential to overall well-being, and encourages people to seek help if they are not getting a good night's rest.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "sleep",
+        "7 hours",
+        "sleep deprivation",
+        "adults"
+      ],
+      "entities": [
+        "sleep"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many hours of sleep do adults need?",
+        "Is 5 or 6 hours of sleep enough?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short-term and long-term effects of poor sleep",
+      "question": "What happens when you do not get enough sleep?",
+      "text": "In the short term, poor sleep may result in loss of attention span, poor decision-making, fatigue and irritability. The long-term implications include an increased risk for obesity, diabetes, high blood pressure, heart disease and stroke, and depression.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "poor sleep",
+        "health risks",
+        "obesity",
+        "heart disease",
+        "depression"
+      ],
+      "entities": [
+        "sleep"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the health risks of not sleeping enough?",
+        "Does lack of sleep cause heart disease?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why get 7-9 hours of sleep",
+      "question": "Why should I get 7 to 9 hours of sleep?",
+      "text": "Getting 7 to 9 hours of sleep each night helps maintain brain function, helps reduce your risk for disease, helps improve daytime performance and safety, and helps improve your emotional health.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "7-9 hours",
+        "brain function",
+        "emotional health",
+        "disease risk"
+      ],
+      "entities": [
+        "sleep"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the benefits of 7 to 9 hours of sleep?",
+        "How much sleep is recommended?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Power down screens before bed",
+      "question": "How do screens affect sleep?",
+      "text": "Blue light from screens can disrupt your circadian rhythm and affect your ability to sleep. UnitedHealthcare suggests turning off mobile devices at least 30 minutes before you go to bed to help your body recharge.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "blue light",
+        "screens",
+        "circadian rhythm",
+        "bedtime"
+      ],
+      "entities": [
+        "circadian rhythm"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Should I stop using my phone before bed?",
+        "Does blue light affect sleep?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Keep a regular sleep schedule and bedroom",
+      "question": "How can I make my sleep routine and bedroom better?",
+      "text": "Try going to bed and waking up around the same time every day, even on weekends. Make your bedroom all about sleep: a comfortable mattress, pillow and bedding help, and the room should be dark, cool and quiet. You might consider using white noise to mask startling sounds.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "sleep schedule",
+        "bedroom",
+        "white noise",
+        "consistent bedtime"
+      ],
+      "entities": [
+        "white noise"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How do I set up my bedroom for better sleep?",
+        "Should I keep the same bedtime on weekends?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Caffeine and alcohol affect sleep",
+      "question": "Should I avoid caffeine and alcohol before bed?",
+      "text": "Because caffeine is a stimulant, it may disrupt sleep, so UnitedHealthcare advises avoiding caffeine after lunch. Also avoid alcohol before bed: even though alcohol might make you feel sleepy, it can disrupt sleep later in the night.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caffeine",
+        "alcohol",
+        "sleep disruption",
+        "stimulant"
+      ],
+      "entities": [
+        "caffeine"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "When should I stop drinking coffee for better sleep?",
+        "Does alcohol help you sleep?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "What to do if you cannot fall asleep",
+      "question": "What should I do if I'm still awake after 20 minutes?",
+      "text": "If you do not fall asleep within 20 minutes or so, get up and go into another room. Do something relaxing, such as reading or listening to soft music, until you feel tired.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "insomnia",
+        "can't sleep",
+        "relaxation",
+        "20 minutes"
+      ],
+      "entities": [
+        "sleep"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What should I do when I can't fall asleep?",
+        "How long should I lie in bed before getting up?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Questions to ask your doctor about sleep problems",
+      "question": "What should I ask my doctor about sleep problems?",
+      "text": "UnitedHealthcare suggests asking: Would it help to keep a sleep diary and what should I track? Are there lifestyle changes that could help me sleep better? What are the benefits and risks of prescription and over-the-counter sleep aids? Would a sleep study in a sleep lab be beneficial? Talk with your doctor before taking any sleep remedy, including herbal or natural products.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "sleep diary",
+        "sleep study",
+        "sleep aids",
+        "ask your doctor"
+      ],
+      "entities": [
+        "sleep study"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a sleep study?",
+        "What should I ask a doctor about insomnia?"
+      ]
+    }
+  ]
+}

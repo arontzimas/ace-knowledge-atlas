@@ -1,0 +1,143 @@
+{
+  "url": "https://www.uhc.com/medicare/medicare-education/medicare-eligibility.html",
+  "title": "Medicare Eligibility: Who Qualifies for Medicare Coverage?",
+  "domain": "Medicare",
+  "page_type": "guide",
+  "summary": "Explains who qualifies for Medicare by age, disability or medical condition, how automatic enrollment works, eligibility for each private plan type, citizenship rules, and veterans' benefits.",
+  "published": null,
+  "assets": [
+    {"kind": "video", "src": "https://www.youtube.com/watch?v=Nd9smOrwZu0", "alt": "Are you eligible for Medicare? Medicare eligibility requirements"}
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "Who becomes eligible for Medicare",
+      "question": "Am I eligible for Medicare?",
+      "text": "Most people become eligible for Medicare when they turn 65. You can also become eligible if you have a qualifying disability at any age (eligibility begins after 24 months of receiving Social Security Disability Insurance benefits), or if you have a diagnosis of end-stage renal disease (ESRD) or amyotrophic lateral sclerosis (ALS, also called Lou Gehrig's disease) at any age.",
+      "topic": "Medicare basics",
+      "tags": ["eligibility", "age 65", "disability", "esrd", "als"],
+      "entities": ["Medicare", "SSDI", "ESRD", "ALS"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": ["Who qualifies for Medicare?", "Can I get Medicare before 65?", "Does ALS or kidney failure qualify me for Medicare?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Automatic versus self-enrollment in Original Medicare",
+      "question": "Will I be enrolled in Original Medicare automatically?",
+      "text": "You will be enrolled in Original Medicare automatically if you are receiving Social Security or Railroad Retirement Board benefits when you turn 65, or if you are eligible because of a disability or medical condition. You must enroll yourself in Medicare Part A and Part B if you are not receiving Social Security benefits when you become eligible, online at www.ssa.gov, in person at your local Social Security office or by phone at 1-800-772-1213 / TTY 1-800-325-0778.",
+      "topic": "Medicare enrollment",
+      "tags": ["automatic enrollment", "self-enroll", "social security", "part a", "part b"],
+      "entities": ["Original Medicare", "Part A", "Part B", "Social Security", "Railroad Retirement Board"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Awareness",
+      "questions": ["When am I automatically enrolled in Medicare?", "How do I sign up for Medicare if I don't get Social Security?", "How can I enroll in Part A and B?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Age 65 is what matters for eligibility",
+      "question": "Will I be eligible for Medicare at age 65?",
+      "text": "You are eligible for Medicare when you turn 65, whether you are working, not working or retired, and whether or not you receive Social Security or other retirement benefits. Your age is what matters. If you receive Social Security Disability Insurance payments, you will be eligible for Medicare the month you receive your 25th benefit payment, while ESRD or ALS qualifies you immediately or within a few months depending on your diagnosis.",
+      "topic": "Medicare basics",
+      "tags": ["age 65", "25th payment", "retired or working", "social security disability"],
+      "entities": ["Medicare", "SSDI", "ESRD", "ALS"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": ["Do I need to be retired to get Medicare at 65?", "When does Medicare start for SSDI recipients?", "Does Social Security have to start for me to be eligible?"]
+    },
+    {
+      "type": "faq",
+      "title": "Eligibility if you work past 65",
+      "question": "Will I still be eligible for Medicare if I work past age 65?",
+      "text": "Yes. If you plan to keep working or you have employer health coverage through a spouse, you may be able to delay enrolling in Medicare. Depending on your situation you may not be able to delay; for example, if your employer has fewer than 20 employees, you may be required to enroll in Medicare.",
+      "topic": "Medicare enrollment",
+      "tags": ["working past 65", "delay enrollment", "spouse coverage", "20 employees"],
+      "entities": ["Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Can I still get Medicare if I keep working?", "Do small employers force me onto Medicare?", "Can I delay Medicare if my spouse works?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Eligibility rules for each private Medicare plan",
+      "question": "How do I qualify for a private Medicare plan?",
+      "text": "Once you are enrolled in Original Medicare (Part A and Part B), you can choose coverage from a private insurance company. To be eligible for a Medicare Advantage (Part C) plan, you must have Original Medicare and live in the plan service area. A Chronic Special Needs plan (C-SNP) requires Original Medicare and a qualifying chronic condition. A Dual Special Needs plan (D-SNP) requires that you qualify for both Medicare and Medicaid. A Medicare Supplement (Medigap) plan requires Original Medicare. A Part D plan requires Part A or Part B. All Special Needs plans are Medicare Advantage plans.",
+      "topic": "Medicare basics",
+      "tags": ["plan eligibility", "medicare advantage", "c-snp", "d-snp", "medigap", "part d"],
+      "entities": ["Medicare Advantage", "C-SNP", "D-SNP", "Medicare Supplement", "Part D"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What do I need to join a Medicare Advantage plan?", "Who qualifies for a C-SNP?", "What do I need to buy a Medigap plan?"]
+    },
+    {
+      "type": "faq",
+      "title": "Citizenship and residency requirements",
+      "question": "Do I need to be a U.S. citizen to be eligible for Medicare?",
+      "text": "Yes, or a qualified legal resident. To qualify as a legal resident, you must have lived in the United States for at least 5 years in a row before applying for Medicare coverage.",
+      "topic": "Medicare basics",
+      "tags": ["citizenship", "legal resident", "5 years", "eligibility"],
+      "entities": ["Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": ["Can a green card holder get Medicare?", "How long must I live in the U.S. to qualify for Medicare?", "Is citizenship required for Medicare?"]
+    },
+    {
+      "type": "faq",
+      "title": "Premium-free Part A if you never worked",
+      "question": "Can I get Medicare coverage if I never worked?",
+      "text": "Maybe. Citizens or permanent residents age 65 or older, or with a qualifying disability or medical condition, are eligible for Medicare. You can enroll in Medicare Part A at no cost if your spouse (living or deceased, including a divorced spouse) receives or is eligible to receive Social Security or RRB benefits, if you or your spouse worked long enough in a government job through which you paid Medicare taxes, or if you are the dependent parent of a fully insured deceased child.",
+      "topic": "Medicare basics",
+      "tags": ["never worked", "premium-free part a", "spouse benefits", "government job", "medicare taxes"],
+      "entities": ["Part A", "Social Security", "Railroad Retirement Board"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Can I get free Part A through my spouse?", "What if I never paid Medicare taxes?", "Does a divorced spouse qualify for premium-free Part A?"]
+    },
+    {
+      "type": "faq",
+      "title": "Medicare for veterans with VA or TRICARE",
+      "question": "What if I qualify for veterans' benefits?",
+      "text": "If you're a U.S. veteran, you may have other insurance, such as TRICARE or Veterans Affairs (VA) benefits, but you may still want to enroll in a Medicare plan, and the VA recommends it. Care through the VA covers services at VA facilities or others authorized by the VA, while Medicare can cover care at private hospitals and doctors outside the VA system. Having both means you can get care in more places.",
+      "topic": "Medicare basics",
+      "tags": ["veterans", "va benefits", "tricare", "private hospitals", "dual coverage"],
+      "entities": ["TRICARE", "Veterans Affairs", "Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Should veterans enroll in Medicare?", "Can I use Medicare and VA benefits together?", "Does VA coverage replace Medicare?"]
+    },
+    {
+      "type": "faq",
+      "title": "Disability and Medicare timing",
+      "question": "I'm on disability. When will I be eligible for Medicare?",
+      "text": "It depends on your disability. If you have been receiving Social Security Disability Insurance benefits for at least 24 months, you should be eligible for Medicare coverage.",
+      "topic": "Medicare basics",
+      "tags": ["ssdi", "24 months", "disability", "eligibility"],
+      "entities": ["SSDI", "Medicare"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["How long on SSDI before Medicare?", "Do I get Medicare automatically with disability?", "When does disability Medicare start?"]
+    },
+    {
+      "type": "steps",
+      "title": "Next steps once you're eligible",
+      "question": "I'm eligible for Medicare. What do I do next?",
+      "text": "If you first become eligible because you are turning 65, you will have an Initial Enrollment Period (IEP) that begins three months before the month of your 65th birthday and ends three months afterward. During your IEP, you can enroll in Original Medicare (Part A and/or Part B). Then you can choose to enroll in a Medicare Advantage (Part C) or Medicare Part D prescription drug plan, or apply for a Medicare Supplement (Medigap) insurance plan.",
+      "topic": "Medicare enrollment",
+      "tags": ["next steps", "iep", "original medicare", "choose a plan"],
+      "entities": ["Initial Enrollment Period", "Original Medicare", "Medicare Advantage", "Part D", "Medigap"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["What should I do first when I become eligible for Medicare?", "In what order do I enroll in Medicare plans?", "When can I pick a Medicare Advantage or Part D plan?"]
+    }
+  ]
+}

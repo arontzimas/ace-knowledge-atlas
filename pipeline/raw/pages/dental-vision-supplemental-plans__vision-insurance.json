@@ -1,0 +1,148 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/vision-insurance",
+  "title": "Vision insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Introduces UnitedHealthcare branded vision insurance plans, what vision insurance typically covers and how to combine it with other supplemental plans.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/Vision-mom-helping-daughter-desktop-1920x725.jpg",
+      "alt": "Mother helping her daughter with eyeglasses"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare vision plans for individuals and families",
+      "question": "What vision insurance does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare branded vision plans for individuals and families are underwritten by Golden Rule Insurance Company. They offer a range of options designed to help cover and budget for ongoing vision care expenses. Plans can be viewed by state with a ZIP code or by calling 1-855-893-4612.",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision insurance",
+        "golden rule",
+        "eye care insurance",
+        "vision plans by state"
+      ],
+      "entities": [
+        "UnitedHealthcare vision plans",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Where can I buy vision insurance for my family?",
+        "Who underwrites UnitedHealthcare vision plans?",
+        "How do I find vision plans in my state?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What vision insurance typically covers",
+      "question": "What does vision insurance cover?",
+      "text": "With vision insurance, a person typically has benefits that cover some of the routine costs for vision care, like routine eye exams, glasses or contact lenses. Plan design and availability vary by state, and the vision plans are administered by Spectera, Inc. UnitedHealthcare directs shoppers to the plan brochure for specific information.",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision insurance",
+        "eye exam",
+        "glasses",
+        "contact lenses",
+        "spectera"
+      ],
+      "entities": [
+        "Spectera, Inc.",
+        "Vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does vision insurance cover glasses and contacts?",
+        "What is covered by a vision plan?",
+        "Who administers UnitedHealthcare vision plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Adding vision to health or dental coverage",
+      "question": "Can I add a vision plan to my health insurance?",
+      "text": "Vision plans can be bought to add to health insurance, or vision coverage can be bought along with other supplemental plans, such as a dental plan. UnitedHealthcare notes that this combination is available in most states and that additional premium is required.",
+      "topic": "Vision coverage",
+      "tags": [
+        "add vision",
+        "dental and vision",
+        "additional premium",
+        "supplemental plans"
+      ],
+      "entities": [
+        "Vision insurance",
+        "Dental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I buy vision and dental together?",
+        "Do I pay extra to add vision to a plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision plans can help manage eye care costs",
+      "question": "Why choose a vision insurance plan?",
+      "text": "UnitedHealthcare says vision insurance plans can help people better manage vision care costs by giving them the benefits they need to stay on top of their eye health. The page frames this under the heading 'See why choosing a vision insurance plan may be worth it for you.'",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision insurance",
+        "eye health",
+        "budgeting",
+        "vision care costs"
+      ],
+      "entities": [
+        "Vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is vision insurance worth it?",
+        "How does vision insurance help with costs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision plan primary insured must be 18 or older",
+      "question": "Is there an age requirement to buy a vision plan?",
+      "text": "A footnote on UnitedHealthcare's vision insurance page states that the primary insured must be 18 years of age or older. Plan design and availability vary by state, and shoppers can check the plan brochure for specific information.",
+      "topic": "Vision coverage",
+      "tags": [
+        "age requirement",
+        "primary insured",
+        "eligibility",
+        "vision plans by state"
+      ],
+      "entities": [
+        "Vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "How old do I have to be to get vision insurance?",
+        "Who can be the primary insured on a vision plan?"
+      ]
+    }
+  ]
+}

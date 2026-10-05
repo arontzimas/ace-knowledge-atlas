@@ -1,0 +1,265 @@
+{
+  "url": "https://www.uhc.com/employer",
+  "title": "Group health insurance for employers",
+  "domain": "Employer Solutions",
+  "page_type": "hub",
+  "summary": "Hub page introducing UnitedHealthcare group health insurance, plan and benefit categories, and sign-in and contact options for employers of all sizes.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/Employer-businesswoman-desktop-1920x700.jpg",
+      "alt": "Employer hub banner image of a businesswoman"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/employer/_jcr_content/root/regioncontainer-main/responsivegrid/container_1742951442/container_1347733_co/container/image.coreimg.90.1280.jpeg/1728324802351/employer-medical-plans-illustration-desktop-384x204.jpeg",
+      "alt": "Illustration for employer medical plans"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/employer/_jcr_content/root/regioncontainer-main/responsivegrid/container_1742951442/container_1347733_co_2022601139/container/image.coreimg.90.1280.jpeg/1728324809967/employer-pharmacy-benefits-illustration-desktop-384x204.jpeg",
+      "alt": "Illustration for employer pharmacy benefits"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare serves employers of every size",
+      "question": "What kinds of employers does UnitedHealthcare provide group health benefits for?",
+      "text": "UnitedHealthcare describes itself as the carrier of choice for over 235,000 employers, from multinational Fortune 500 companies to small family-run shops. The company says it has the experience to deliver a group health benefits solution built for each employer, whatever its size.",
+      "topic": "Broker resources",
+      "tags": [
+        "group health insurance",
+        "employers",
+        "carrier",
+        "small business",
+        "large employers"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many employers use UnitedHealthcare for group health insurance?",
+        "Does UnitedHealthcare offer group plans for both small and large companies?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Small business vs large organization solutions",
+      "question": "How does UnitedHealthcare define small business and large organization employer solutions?",
+      "text": "UnitedHealthcare groups employer solutions by size. Small businesses are those with up to 50 employees, with options designed to help save money and support employees' health and well-being needs. Large organizations are those with 50+ employees, with plans for complex needs, including solutions for the public sector, labor unions, organizations with over 5,000 employees and group retirees.",
+      "topic": "Plan funding models",
+      "tags": [
+        "small business",
+        "large organizations",
+        "employer size",
+        "public sector",
+        "group retirees"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "labor unions"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What counts as a small business for UnitedHealthcare group coverage?",
+        "Does UnitedHealthcare have plans for labor unions or group retirees?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medical plan choices for employers",
+      "question": "What types of group medical plans can employers choose from at UnitedHealthcare?",
+      "text": "UnitedHealthcare offers employers a variety of group health plans and networks, including open access, high deductible, preferred provider and more. The plans are described as taking a whole-person approach to health, with benefits such as wellness programs, behavioral health support and care management services.",
+      "topic": "Plan funding models",
+      "tags": [
+        "medical plans",
+        "open access",
+        "high deductible",
+        "preferred provider",
+        "networks"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What group health plan types does UnitedHealthcare offer?",
+        "Does UnitedHealthcare offer high deductible group plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Integrated pharmacy benefits from Optum Rx",
+      "question": "What pharmacy benefits does UnitedHealthcare offer employers?",
+      "text": "UnitedHealthcare offers employers integrated pharmacy benefits from Optum Rx. The company states that these integrated pharmacy benefits may help improve health outcomes for employees and may help lower employer costs, and they sit alongside UnitedHealthcare's medical plan options.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "pharmacy benefits",
+        "integrated",
+        "employer costs",
+        "health outcomes"
+      ],
+      "entities": [
+        "Optum Rx",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Who provides UnitedHealthcare employer pharmacy benefits?",
+        "Are UnitedHealthcare pharmacy benefits integrated with medical?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Specialty benefits fill care gaps",
+      "question": "What specialty benefits can employers add to a UnitedHealthcare package?",
+      "text": "UnitedHealthcare says employers can enhance their benefits package and close potential care gaps with specialty coverage. The specialty benefits named on its employer page include dental, vision, accident and critical illness coverage, with more options available.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "specialty benefits",
+        "dental",
+        "vision",
+        "accident",
+        "critical illness"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What specialty benefits does UnitedHealthcare offer employers?",
+        "Can employers add dental and vision to group coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Behavioral health benefits for employees",
+      "question": "What behavioral health solutions does UnitedHealthcare offer employers?",
+      "text": "UnitedHealthcare offers behavioral health benefits for employers that are meant to help employees prioritize their mental health and wellness. The employer page names solutions such as virtual services, on-demand programs and clinical care.",
+      "topic": "Wellness programs",
+      "tags": [
+        "behavioral health",
+        "mental health",
+        "virtual services",
+        "on-demand programs",
+        "clinical care"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What mental health benefits can an employer offer through UnitedHealthcare?",
+        "Does UnitedHealthcare have virtual behavioral health for employees?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How current employer groups sign in",
+      "question": "How do current employer groups sign in to manage their UnitedHealthcare benefits?",
+      "text": "Current employer groups manage benefits through the uhceservices portal, which UnitedHealthcare says should be accessed from a desktop or tablet device. Employers can also sign in to Employer eServices to manage their benefits. Education materials and benefit information are available through UnitedHealthcare's employer resources.",
+      "topic": "Broker resources",
+      "tags": [
+        "sign in",
+        "uhceservices",
+        "employer eservices",
+        "benefits administration",
+        "portal"
+      ],
+      "entities": [
+        "uhceservices",
+        "Employer eServices"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I log in to uhceservices?",
+        "Where do employers manage their UnitedHealthcare benefits online?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How to contact a UnitedHealthcare representative",
+      "question": "How can an employer reach a UnitedHealthcare representative about group coverage?",
+      "text": "Employers can fill out the UnitedHealthcare contact form to have a representative reach out, or call a UnitedHealthcare representative at 1-800-650-5826. Current employer groups can use the same number to get help with their plan.",
+      "topic": "Broker resources",
+      "tags": [
+        "contact",
+        "representative",
+        "group coverage",
+        "phone",
+        "sales"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Get support",
+      "stage": "Decision",
+      "questions": [
+        "What phone number do employers call for UnitedHealthcare group plans?",
+        "How do I talk to a UnitedHealthcare rep about employee benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why work with UnitedHealthcare",
+      "question": "What does UnitedHealthcare say sets it apart for employers?",
+      "text": "UnitedHealthcare says employers can learn what sets it apart as an industry leader by looking at three areas: lowering costs, expanding care access and advancing innovation. It also notes that its e-service platforms are meant to make benefits administration easier for employers to manage and support.",
+      "topic": "Cost management",
+      "tags": [
+        "value",
+        "lower costs",
+        "care access",
+        "innovation",
+        "e-services"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why choose UnitedHealthcare as an employer carrier?",
+        "What does UnitedHealthcare offer to simplify benefits administration?"
+      ]
+    }
+  ]
+}

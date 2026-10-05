@@ -1,0 +1,210 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/open-enrollment/understanding-coverage/tips-for-choosing-a-health-insurance-plan",
+  "title": "3 tips for choosing your health insurance plan through work",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "A three-step checklist for choosing an employer health plan: check network providers, consider your care needs and decide how you want to manage costs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/open-enrollment/understanding-coverage/tips-for-choosing-a-health-insurance-plan/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/image.coreimg.90.1280.jpeg/1728324457740/checklist-mom-and-toddler-african-american-1000x560-mobile.jpeg",
+      "alt": "Checklist image of a mother and toddler"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "steps",
+      "title": "Three tips for choosing a plan through work",
+      "question": "What are the tips for choosing a health insurance plan through my employer?",
+      "text": "At open enrollment, you can use a three-step checklist to weigh the plans your employer offers. 1) Check to see which providers are in network. 2) Consider your health care needs for the year ahead. 3) Decide how you prefer to manage your costs, for example by keeping your monthly premium low or by paying more each month to pay less when you need care.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "choosing a plan",
+        "open enrollment checklist",
+        "network",
+        "care needs",
+        "costs"
+      ],
+      "entities": [
+        "Employer-sponsored health plans"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How do I choose a health plan at work?",
+        "What should I look for when picking a health insurance plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Check which providers are in network",
+      "question": "Why should I check if my providers are in network?",
+      "text": "Finding a doctor or clinic that is in network may help keep costs lower, and many plans will only cover network providers. When reviewing plans, check whether your primary doctor, provider or clinic is in network; check whether your mental health providers, dentists and specialty providers are in network; and find out whether there is partial coverage for out-of-network providers.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "in-network",
+        "provider network",
+        "out-of-network",
+        "mental health providers",
+        "specialists"
+      ],
+      "entities": [
+        "Health plan network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should my doctor be in my plan's network?",
+        "What providers should I check before choosing a plan?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Using provider search for a UnitedHealthcare plan",
+      "question": "How do I find out which doctors are in a UnitedHealthcare network?",
+      "text": "If you are considering a UnitedHealthcare plan, you can search for network providers and clinics using the UnitedHealthcare provider search tool. Knowing which providers are in network may help you narrow your health plan choices. For example, if you prefer a specific doctor, you will likely want to be sure that doctor is in network for the plan you choose.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "provider search",
+        "in-network",
+        "find a doctor",
+        "narrowing plan choices"
+      ],
+      "entities": [
+        "UnitedHealthcare provider search"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How can I see if my doctor takes UnitedHealthcare?",
+        "Where is the UnitedHealthcare provider search tool?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Consider your care needs for the year ahead",
+      "question": "How do my health care needs affect which plan I should pick?",
+      "text": "Coverage needs may change from year to year, for example because of different medication needs or a procedure planned for the upcoming year. Before you enroll, think about the care you or your family may need in the year ahead. The checklist suggests asking what you see the doctor for, whether you have a major procedure planned, whether you take medications and who else needs coverage through your plan.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "care needs",
+        "medications",
+        "planned procedure",
+        "dependents",
+        "plan selection"
+      ],
+      "entities": [
+        "Employer-sponsored health plans"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What health needs should I consider before enrolling?",
+        "Should a planned surgery change which plan I choose?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Lower premium versus lower copay plans",
+      "question": "Should I choose a lower premium plan or a lower copay plan?",
+      "text": "Some people prefer to keep their monthly premium low, while others choose to pay higher monthly premiums so they may pay less in copays when they need care. A lower premium plan can save money if you do not have major care needs. A lower copay plan may cost less when you visit a doctor, clinic or urgent care. Compare each plan's deductible, coinsurance and out-of-pocket limit as well.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "copay",
+        "lower premium plan",
+        "lower copay plan",
+        "deductible"
+      ],
+      "entities": [
+        "Premium",
+        "Copay",
+        "Deductible",
+        "Coinsurance",
+        "Out-of-pocket limit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Is it better to have a low premium or low copays?",
+        "How do I decide how to manage health costs with my plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How a lower premium plan works",
+      "question": "What does a lower premium plan mean for my paycheck?",
+      "text": "If you do not have any major care needs, you can save money by finding a plan that charges a lower premium each month. This means the plan takes less money out of your paychecks to pay for insurance. Compare your plan options to see which plan's premium amount requires you to pay the least.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "lower premium",
+        "paycheck deduction",
+        "employer plan",
+        "monthly premium"
+      ],
+      "entities": [
+        "Premium"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "How can I pay less each month for health insurance?",
+        "Does a lower premium mean less taken from my paycheck?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Compare copays and cost-sharing to avoid surprises",
+      "question": "How can I avoid cost surprises with my health plan?",
+      "text": "Some plans give you the option to spend less when you pay for care, like visiting the doctor. Consider the cost of copays when you visit a doctor, clinic or urgent care, and compare each plan's deductible, coinsurance and out-of-pocket limit to see which plans may help you save more. Researching these costs and understanding how you and your plan share costs together helps you avoid cost surprises later.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copays",
+        "deductible",
+        "coinsurance",
+        "out-of-pocket limit",
+        "cost surprises"
+      ],
+      "entities": [
+        "Copay",
+        "Deductible",
+        "Coinsurance",
+        "Out-of-pocket limit"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "What costs should I compare between health plans?",
+        "How do I avoid surprise medical costs?"
+      ]
+    }
+  ]
+}

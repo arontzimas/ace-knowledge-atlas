@@ -1,0 +1,333 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace",
+  "title": "UnitedHealthcare Individual & Family ACA Marketplace plans",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Landing page for UnitedHealthcare Individual & Family ACA Marketplace plans covering plan types, universal benefits, enrollment steps, help numbers and what to do if plans aren't available in a ZIP code.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/ifp-uhc-proper-young-mom-and-daughter-1920x700.jpg",
+      "alt": "Young mother and daughter, banner for ACA Marketplace plans"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/_jcr_content/root/regioncontainer-main/responsivegrid/container/image.coreimg.90.1280.jpeg/1728324719507/ifp-mom-toddler-on-device-1248x832.jpeg",
+      "alt": "Mother and toddler looking at a device"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6379509307112-thumbnail.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Get coverage and benefits you can count on"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "The Marketplace and ACA plan names",
+      "question": "What is the Marketplace and what are ACA plans?",
+      "text": "The Marketplace (also called the Exchange) is where ACA health plans are sold. If you buy your own health insurance for you or your family, the Marketplace is for you. You might also hear these plans called Obamacare or Individual & Family plans. UnitedHealthcare says they are all the same thing: affordable health plan options for you and your family.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "marketplace",
+        "exchange",
+        "obamacare",
+        "individual and family plans",
+        "aca"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Exchange",
+        "Obamacare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the health insurance Marketplace?",
+        "Is Obamacare the same as an ACA plan?",
+        "What does Exchange mean in health insurance?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "UnitedHealthcare ACA plans offered in 30 states",
+      "question": "In how many states does UnitedHealthcare offer ACA Marketplace plans?",
+      "text": "UnitedHealthcare offers Individual & Family plans in 30 states, including Texas, Florida and Georgia. Plan details vary by state, such as premiums, network and certain benefits. The company says some universal benefits are available to everyone no matter where they live.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "30 states",
+        "state availability",
+        "texas",
+        "florida",
+        "georgia"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "Individual & Family plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Which states does UnitedHealthcare sell ACA plans in?",
+        "Are UnitedHealthcare ACA plans available in Texas?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Five ACA plan types by cost level",
+      "question": "How do the UnitedHealthcare ACA plan types compare on cost?",
+      "text": "UnitedHealthcare compares its ACA plans with dollar-sign indicators for monthly premium and annual deductible. Essential is $ premium and $$$$ deductible, Bronze only. Value is $$ and $$$, all metal levels. Standard is $$$ and $$, all metal levels. Advantage is $$$$ and $, Silver and Gold. Copay Focus is $$$$ premium with a $0 medical deductible, all metal levels.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan types",
+        "premium",
+        "deductible",
+        "metal levels",
+        "copay focus"
+      ],
+      "entities": [
+        "Essential",
+        "Value",
+        "Standard",
+        "Advantage",
+        "Copay Focus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Which UnitedHealthcare ACA plan has the lowest premium?",
+        "Which plan has a $0 medical deductible?",
+        "What metal levels does each ACA plan come in?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive services included at no extra cost",
+      "question": "What services do UnitedHealthcare ACA plans cover at no additional cost?",
+      "text": "With an Individual & Family ACA Marketplace plan you are covered for a variety of services at no additional cost, such as annual checkups, flu shots and other routine vaccines, well child visits, diabetes screenings and more, as recommended by your provider or PCP. If you think you might need a specialist, check whether your plan requires a referral in the UHC app or at myuhc.com/exchange.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "preventive care",
+        "no additional cost",
+        "checkups",
+        "vaccines",
+        "referrals"
+      ],
+      "entities": [
+        "UHC app",
+        "myuhc.com/exchange"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is a yearly checkup free on an ACA plan?",
+        "Do ACA plans cover flu shots?",
+        "Do I need a referral to see a specialist?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual urgent care and pharmacy benefits",
+      "question": "What virtual care and prescription benefits come with UnitedHealthcare ACA plans?",
+      "text": "Plans include 24/7 virtual urgent care starting as low as zero dollars, letting you see a provider online from wherever you are. Pharmacy benefits start at $10 for a one-month supply of generic medications at network pharmacies like Walgreens or Walmart, and certain medications to help manage cardiac health, mental health, diabetes and other conditions are available for $0 out of pocket.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "virtual urgent care",
+        "generic drugs",
+        "$10 prescriptions",
+        "$0 medications",
+        "network pharmacies"
+      ],
+      "entities": [
+        "Walgreens",
+        "Walmart",
+        "virtual urgent care"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How much do generic prescriptions cost on a UnitedHealthcare ACA plan?",
+        "Is virtual urgent care free?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Digital fitness and gym options with One Pass Select",
+      "question": "What fitness perks do UnitedHealthcare ACA plans offer?",
+      "text": "For members who want to stay active, ACA plans give access to digital fitness classes through One Pass Select at zero dollars. Members can also choose to get a discounted membership to thousands of popular gyms and even $0 grocery delivery.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "one pass select",
+        "digital fitness",
+        "gym membership",
+        "grocery delivery",
+        "wellness"
+      ],
+      "entities": [
+        "One Pass Select"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does my ACA plan include a gym discount?",
+        "What is One Pass Select?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Estimating costs and finding network providers",
+      "question": "How can I avoid surprise costs on an ACA plan?",
+      "text": "To avoid surprise costs, UnitedHealthcare says to find network providers and pharmacies, and to use its cost estimator tool in the UHC app or at myuhc.com/exchange before you get care.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost estimator",
+        "network providers",
+        "surprise costs",
+        "uhc app",
+        "pharmacies"
+      ],
+      "entities": [
+        "UHC app",
+        "myuhc.com/exchange"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "How do I estimate what care will cost before I go?",
+        "How do I check that a doctor is in network?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Three steps to begin ACA plan enrollment",
+      "question": "How do I start enrolling in a UnitedHealthcare ACA Marketplace plan?",
+      "text": "The enrollment process begins in 3 steps: 1) Enter your ZIP code, then answer a few questions about your family and income. 2) See if you qualify for a subsidy and view recommended plan options. 3) Choose the best plan option for you and UnitedHealthcare will help you enroll. Thinking ahead about current medications, preferred providers and pharmacies can help you find a plan that fits your needs and budget.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "enrollment steps",
+        "zip code",
+        "subsidy",
+        "plan options",
+        "how to enroll"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "subsidy"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I sign up for an ACA plan?",
+        "What are the steps to enroll in a Marketplace plan?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Activating ACA coverage after you enroll",
+      "question": "What do I need to do after I enroll in an ACA Marketplace plan?",
+      "text": "After you enroll in a plan, you'll need to do a few things to activate your coverage: 1) Confirm your eligibility status and plan choice. 2) Send verification documents to the health insurance Marketplace. 3) Make your first premium payment.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "activate coverage",
+        "first premium payment",
+        "verification documents",
+        "eligibility"
+      ],
+      "entities": [
+        "health insurance Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Why isn't my ACA coverage active yet?",
+        "Do I have to pay my first premium to start coverage?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "If UnitedHealthcare ACA plans aren't in your area",
+      "question": "What if UnitedHealthcare ACA plans aren't available where I live?",
+      "text": "Your ZIP code and county determine which ACA plans are available. If UnitedHealthcare plans aren't offered in your area, you can call a licensed insurance agent at 1-877-732-0569 or go to HealthMarkets to see ACA plans from other companies. In New York, ACA plans from other companies may be available through New York State of Health, and in Massachusetts through the Massachusetts Health Connector.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan availability",
+        "zip code",
+        "healthmarkets",
+        "new york",
+        "massachusetts"
+      ],
+      "entities": [
+        "HealthMarkets",
+        "New York State of Health",
+        "Massachusetts Health Connector"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What if there are no ACA plans in my county?",
+        "Where do I shop for ACA plans in New York?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Help lines for shoppers and members",
+      "question": "What phone numbers can I call about UnitedHealthcare ACA plans?",
+      "text": "Shoppers can talk with a licensed insurance agent at 1-800-557-6718, TTY 711, from 8 a.m. to 8 p.m. ET Monday through Friday and 9 a.m. to 5:30 p.m. ET Saturday; the line is closed Sunday. Existing members can call Member Services at 1-877-265-9199, TTY 711, which offers 24/7 Member Services plus Care Support, or sign in to the member site.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "phone numbers",
+        "licensed agent",
+        "member services",
+        "hours",
+        "tty 711"
+      ],
+      "entities": [
+        "UnitedHealthcare Member Services"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What are the hours to talk to an ACA insurance agent?",
+        "How do I reach member services for my ACA plan?"
+      ]
+    }
+  ]
+}

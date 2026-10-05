@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/benefits/dental",
+  "title": "Medicaid Dental Coverage for Children and Adults",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains Medicaid and CHIP dental coverage for adults and children, required elements of children's dental programs, common covered treatments and access challenges.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/woman-brushing-teeth.png", "alt": "Close-up of a young White woman brushing her teeth in the bathroom"}
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover dental care for adults?",
+      "question": "Does Medicaid cover dental care for adults?",
+      "text": "Each state manages its own Medicaid program, so each state can choose what dental benefits it provides to adult Medicaid enrollees. Most states cover emergency dental services for adults, but less than half of U.S. states currently provide comprehensive dental care. There are no minimum requirements for Medicaid dental coverage for adults.",
+      "topic": "Community Plan benefits",
+      "tags": ["adult dental", "emergency dental", "state variation", "comprehensive dental"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["Will Medicaid pay for my dental care as an adult?", "Do all states cover adult dental under Medicaid?"]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover children's dental care?",
+      "question": "Does Medicaid cover children's dental care?",
+      "text": "Medicaid covers dental services for children under age 21 who are enrolled in Medicaid. State agencies can design their dental programs but must cover more than just emergency services. All children's dental programs need to include relief of pain and infections, restoration of teeth and maintenance of dental health. Medically necessary dental care is covered whether or not it is in a state's Medicaid plan.",
+      "topic": "CHIP & children's coverage",
+      "tags": ["children's dental", "under 21", "epsdt", "medically necessary", "pain relief"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["What dental care do Medicaid kids get?", "Is dental required for children under 21 on Medicaid?"]
+    },
+    {
+      "type": "faq",
+      "title": "Does CHIP cover dental care?",
+      "question": "Does CHIP cover dental care?",
+      "text": "In some states, CHIP dental benefits are the same as the state's Medicaid program. In other states, CHIP is a separate program and a state can offer children's dental benefits equal to one of 3 options: the most popular federal employee dental plan for dependents, the most popular plan selected for dependents in the state's employee dental plan, or dental coverage from the most popular private insurance plan in the state.",
+      "topic": "CHIP & children's coverage",
+      "tags": ["chip dental", "separate chip", "benchmark dental plans", "children"],
+      "entities": ["CHIP", "Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["What dental benefits does CHIP include?", "Is CHIP dental coverage the same as Medicaid?"]
+    },
+    {
+      "type": "definition",
+      "title": "Children's dental services commonly covered",
+      "question": "What children's dental services does Medicaid cover?",
+      "text": "There's no standard list of children's Medicaid dental services; states choose what is covered and how often. Some cover checkups and cleanings 2 times a year, others only 1 routine visit. Common treatments include dental exams and X-rays, dental sealants (thin plastic coatings painted on molars) and fluoride treatments. Medicaid will typically cover other services when medically necessary, such as braces or wisdom tooth removal, though guidelines vary by state.",
+      "topic": "CHIP & children's coverage",
+      "tags": ["sealants", "fluoride", "x-rays", "braces", "checkups"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["Does Medicaid cover braces for kids?", "Are dental sealants covered by Medicaid?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Why regular dental visits matter",
+      "question": "Why is oral health important?",
+      "text": "The health of your mouth, teeth and gums is linked to your overall health. Tooth decay and gum disease can lead to bad breath, mouth infections and loss of teeth, and there may also be a link between oral infections and diabetes, heart disease and stroke. Besides brushing and flossing each day, it's important to visit the dentist for regular checkups and cleanings so problems can be caught early.",
+      "topic": "Dental coverage",
+      "tags": ["oral health", "tooth decay", "gum disease", "checkups", "prevention"],
+      "entities": [],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Why do I need regular dental checkups?", "Is oral health linked to heart disease?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Barriers to children's dental care",
+      "question": "What makes it hard for children on Medicaid to get dental care?",
+      "text": "Millions of children and teens qualify for free or low-cost health and dental coverage through Medicaid and CHIP, but access to care is a challenge. Some children may not have a dentist in their neighborhood or may lack transportation. Some families don't know children need to see a dentist regularly, even without obvious problems, or that their children are eligible for dental services. Language barriers can also make it harder. The page points families to InsureKidsNow.gov to find a dentist who accepts Medicaid and CHIP.",
+      "topic": "CHIP & children's coverage",
+      "tags": ["access to care", "transportation", "language barriers", "insurekidsnow", "find a dentist"],
+      "entities": ["InsureKidsNow.gov", "Medicaid", "CHIP"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": ["How do I find a dentist that takes Medicaid for my child?", "Why don't kids on Medicaid always get dental care?"]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-an-hdhp",
+  "title": "What's a high deductible health plan (HDHP)?",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Explains high deductible health plans: how they work, who they suit, HSA pairing, preventive care, and advantages and disadvantages.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-an-hdhp/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324758650/hdhp-young-couple-eating-breakfast-desktop-912x560.jpeg",
+      "alt": "Young couple eating breakfast"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is a high deductible health plan?",
+      "question": "What is a high deductible health plan (HDHP)?",
+      "text": "A high deductible health plan (HDHP) is a type of health insurance plan that offers lower premiums in exchange for higher out-of-pocket costs. With an HDHP, a person pays less each month, but more when they get care compared to other health plans.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP",
+        "high deductible",
+        "lower premium",
+        "out-of-pocket costs"
+      ],
+      "entities": [
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an HDHP?",
+        "Do high deductible plans have lower premiums?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who should consider an HDHP",
+      "question": "Who should enroll in a high deductible health plan?",
+      "text": "HDHPs may be a good fit for someone who is in fairly good health and typically sees their doctor only once a year for preventive care. Factors to consider during the plan year include how often a person plans to see their doctor, how many tests or screenings they think they will need, whether they plan to use a health savings account (HSA), and whether their employer contributes to the HSA.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP",
+        "good health",
+        "HSA",
+        "employer contribution",
+        "screenings"
+      ],
+      "entities": [
+        "HDHP",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is an HDHP right for me?",
+        "Who benefits from a high deductible plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Any plan type can be an HDHP",
+      "question": "How is an HDHP different from a PPO, HMO, POS or EPO?",
+      "text": "HDHP is a way to describe any health insurance plan with a high deductible. As long as a plan includes a minimum deductible that meets the limit for that year, it is considered an HDHP. Any plan can be a high deductible health plan, whether it is a PPO, HMO, POS or EPO plan.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HDHP",
+        "PPO",
+        "HMO",
+        "POS",
+        "EPO",
+        "deductible limit"
+      ],
+      "entities": [
+        "HDHP",
+        "PPO",
+        "HMO",
+        "POS",
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can an HMO be a high deductible plan?",
+        "Is HDHP a plan type or a deductible level?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "HDHPs are HSA-eligible plans",
+      "question": "What is an HSA-eligible health plan?",
+      "text": "High deductible health plans are also called HSA-eligible plans. They are the only type of health insurance that can be paired with a health savings account (HSA). HSAs can help pay for certain out-of-pocket health care costs and get a person closer to reaching their deductible. An HSA comes with perks such as tax-free saving, employer contributions and the freedom to take the HSA along when switching jobs.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "HSA",
+        "HSA-eligible",
+        "HDHP",
+        "tax-free",
+        "employer contributions"
+      ],
+      "entities": [
+        "HSA",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have an HSA with any plan?",
+        "What is an HSA-eligible plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How an HDHP works step by step",
+      "question": "How does an HDHP work?",
+      "text": "High deductible health plans help protect against really high-cost, even unplanned, services such as hospital stays, surgeries and complex treatment. Until the network deductible is reached, a person pays all health care costs. After that, the cost of covered care is split with the plan through copays or coinsurance. After reaching the network out-of-pocket maximum, the plan picks up the tab for future covered services.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP",
+        "deductible",
+        "coinsurance",
+        "out-of-pocket maximum"
+      ],
+      "entities": [
+        "HDHP",
+        "out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How does a high deductible plan work?",
+        "What happens after I meet my deductible?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "HDHP example with a $1,700 deductible",
+      "question": "Can you give an example of how an HDHP works?",
+      "text": "As an example, a high deductible health plan has a network deductible of $1,700. After a surgery and a hospital stay, the member may reach that deductible. They then split the cost of covered services with the plan and pay 20% of the bill. After a few more doctor visits and some high-cost tests they could reach the out-of-pocket maximum, and the plan would pay for all covered services until the end of the plan year.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP example",
+        "$1,700 deductible",
+        "20 percent",
+        "out-of-pocket maximum"
+      ],
+      "entities": [
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much would I pay with a $1,700 deductible?",
+        "Example of deductible and coinsurance"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does an HDHP cover preventive care?",
+      "question": "Does a high deductible plan cover preventive care?",
+      "text": "Even though a high deductible health plan has higher out-of-pocket costs, high deductible health plans typically cover preventive care, like an annual wellness exam. This includes things like vaccines, and tests and screenings for certain health conditions.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP",
+        "preventive care",
+        "wellness exam",
+        "vaccines",
+        "screenings"
+      ],
+      "entities": [
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is my annual physical covered on an HDHP?",
+        "Are vaccines covered on a high deductible plan?",
+        "Do high deductible plans cover preventive care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of an HDHP",
+      "question": "What are the advantages of an HDHP?",
+      "text": "If a person plans to rarely see their doctor throughout the plan year, an HDHP may be a good option. Advantages of a high deductible health plan include lower premiums compared to other plans and the option to pair with an HSA.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP advantages",
+        "lower premiums",
+        "HSA"
+      ],
+      "entities": [
+        "HDHP",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the pros of a high deductible plan?",
+        "What are the advantages of an HDHP?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Disadvantages of an HDHP",
+      "question": "What are the disadvantages of an HDHP?",
+      "text": "A high deductible health plan is not for everyone or every family. A person may not benefit if they frequent their doctor's office or anticipate unplanned urgent care visits, like for sick kids, especially if they do not plan to use an HSA. Disadvantages can include expensive out-of-pocket costs if more care is needed than planned, and deductibles that can be very high.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP disadvantages",
+        "high out-of-pocket",
+        "urgent care",
+        "deductible"
+      ],
+      "entities": [
+        "HDHP",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the cons of an HDHP?",
+        "When is a high deductible plan a bad idea?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Choosing between plan types and an HDHP",
+      "question": "How should I decide whether an HDHP is right for me?",
+      "text": "UnitedHealthcare suggests first deciding whether a PPO, HMO, POS or EPO plan is preferred. Then decide whether a high deductible health plan version is right. High deductible health plans can be a great fit if they match a person's care needs, so all options should be compared before choosing a plan.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "choose a plan",
+        "HDHP",
+        "compare plans"
+      ],
+      "entities": [
+        "HDHP",
+        "PPO",
+        "HMO",
+        "POS",
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "How do I pick between HMO, PPO and HDHP?",
+        "What should I decide first when choosing a plan?"
+      ]
+    }
+  ]
+}

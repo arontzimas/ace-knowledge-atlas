@@ -1,0 +1,151 @@
+{
+  "url": "https://www.uhc.com/news-articles",
+  "title": "UHC Health Matters: News & articles",
+  "domain": "Company & News",
+  "page_type": "hub",
+  "summary": "Landing page for UnitedHealthcare's news and articles library, with category links and a featured employee story about the Special Needs Initiative.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/news-articles-happy-couple-with-device-on-couch-desktop-3840x1086.jpg",
+      "alt": "Happy couple with a device on a couch"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6393722668112-thumbail-v2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Spencer's lived experience inspires his purpose at UnitedHealthcare"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "UHC Health Matters news and articles",
+      "question": "What is UHC Health Matters?",
+      "text": "UHC Health Matters is UnitedHealthcare's news and articles hub. It offers the latest news and articles on topics that support a person's health journey, from healthy living to understanding Medicare benefits to health insurance tips and more.",
+      "topic": "Newsroom",
+      "tags": [
+        "health matters",
+        "news and articles",
+        "healthy living",
+        "medicare",
+        "health insurance tips"
+      ],
+      "entities": [
+        "UHC Health Matters"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is UHC Health Matters?",
+        "Where does UnitedHealthcare publish health and insurance articles?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "News and article categories",
+      "question": "What categories of articles does UnitedHealthcare publish?",
+      "text": "The UnitedHealthcare news and articles hub is organized into five categories: Benefits & coverage, Community, Healthy living, Medicare and Newsroom.",
+      "topic": "Newsroom",
+      "tags": [
+        "article categories",
+        "benefits and coverage",
+        "community",
+        "healthy living",
+        "medicare"
+      ],
+      "entities": [
+        "UHC Health Matters"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What topics does UHC Health Matters cover?",
+        "Where do I find UnitedHealthcare newsroom articles?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Special Needs Initiative growth since 2017",
+      "question": "How big has UnitedHealthcare's Special Needs Initiative become?",
+      "text": "In a featured employee video, a UnitedHealthcare employee says the Special Needs Initiative has grown immensely since it started in 2017. It began with one family advisor connecting with 10 families. Now each year it brings in more than 30,000 new families and connects them to one of over 400 family advisors working on a team.",
+      "topic": "Women's & family health",
+      "tags": [
+        "special needs initiative",
+        "family advisors",
+        "30,000 families",
+        "2017"
+      ],
+      "entities": [
+        "Special Needs Initiative"
+      ],
+      "personas": [
+        "Caregiver",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many families does UnitedHealthcare's Special Needs Initiative serve?",
+        "How many family advisors does the Special Needs Initiative have?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How a family advisor supported one family",
+      "question": "What does a Special Needs Initiative family advisor do?",
+      "text": "In the featured video, a UnitedHealthcare employee whose daughter has special needs says his Special Needs Initiative family advisor connected all the dots for his family. The advisor helped them start a new journey of dealing with the aftermath of his daughter's illness and the newness of being a dad with a child with special needs.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "family advisor",
+        "special needs",
+        "caregiver support",
+        "employee story"
+      ],
+      "entities": [
+        "Special Needs Initiative"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How can a family advisor help a family with a child with special needs?",
+        "What support does the Special Needs Initiative provide?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare employee stories",
+      "question": "Where can I read stories from UnitedHealthcare employees?",
+      "text": "UnitedHealthcare features employee stories on its news and articles hub. The stories introduce employees whose work is helping people live healthier lives and are collected on a page titled Meet the people behind UnitedHealthcare.",
+      "topic": "Newsroom",
+      "tags": [
+        "employee stories",
+        "people behind unitedhealthcare",
+        "company culture"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does UnitedHealthcare share employee stories?",
+        "Who works at UnitedHealthcare and what do they do?"
+      ]
+    }
+  ]
+}

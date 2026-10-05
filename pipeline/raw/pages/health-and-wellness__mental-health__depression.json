@@ -1,0 +1,208 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/mental-health/depression",
+  "title": "Depression",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Explains kinds of depression, signs and symptoms, ways to cope, which providers can help and crisis hotlines.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/mental-health/depression/_jcr_content/root/regioncontainer-main/responsivegrid/container/image_copy.coreimg.90.1280.jpeg/1728324704569/two-women-outside-920x520.jpeg",
+      "alt": "Two women outside"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Opening up about depression",
+      "question": "Why is it important to talk openly about depression?",
+      "text": "Depression may feel like something you want to hide, but giving your mental health proper care and attention may be a healthy path toward feeling better. Being honest with yourself about how you feel can help you navigate true depression or certain days when you feel down. Open conversations may help decrease the stigma around depression and encourage more people to speak up.",
+      "topic": "Behavioral health",
+      "tags": [
+        "depression",
+        "stigma",
+        "mental health",
+        "open conversation"
+      ],
+      "entities": [
+        "depression"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why is it hard to talk about depression?",
+        "How do I start talking about depression?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Major depression vs persistent depressive disorder",
+      "question": "What are the two most common forms of depression?",
+      "text": "According to the National Institute of Mental Health, the two most common forms are major depression and persistent depressive disorder. Major depression means having symptoms most of the day, every day, for at least 2 weeks, and it can happen once or several times in a lifetime. Persistent depressive disorder (dysthymia) involves symptoms lasting typically at least two years, with less severe symptoms like low energy or poor concentration.",
+      "topic": "Behavioral health",
+      "tags": [
+        "major depression",
+        "persistent depressive disorder",
+        "dysthymia",
+        "NIMH"
+      ],
+      "entities": [
+        "National Institute of Mental Health",
+        "persistent depressive disorder"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is major depression?",
+        "What is dysthymia?",
+        "How long do depression symptoms last?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Depression tied to life events or seasons",
+      "question": "What other forms of depression are there?",
+      "text": "Other forms of depression develop under specific circumstances. Perinatal depression is major depression during pregnancy or after the baby is born (postpartum depression). Seasonal affective disorder, or SAD, happens when the seasons change, especially when daylight hours are short. Depression with symptoms of psychosis is a severe form in which a person experiences delusions or hallucinations.",
+      "topic": "Behavioral health",
+      "tags": [
+        "perinatal depression",
+        "postpartum depression",
+        "seasonal affective disorder",
+        "psychosis"
+      ],
+      "entities": [
+        "seasonal affective disorder",
+        "perinatal depression"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is perinatal depression?",
+        "What is seasonal affective disorder?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Signs and symptoms of depression",
+      "question": "What are the signs and symptoms of depression?",
+      "text": "Common signs include feeling sad, anxious or empty; loss of interest in favorite activities; overeating or not wanting to eat; difficulty sleeping or sleeping too much; feeling very tired; aches, pains, headaches, cramps or digestive problems that do not improve with treatment; and thoughts of death or suicide. Symptoms may need to be present most of the day, every day, for at least 2 weeks. Talk with your doctor or call the SAMHSA National Helpline at 1-800-662-4357.",
+      "topic": "Behavioral health",
+      "tags": [
+        "depression symptoms",
+        "warning signs",
+        "SAMHSA helpline",
+        "2 weeks"
+      ],
+      "entities": [
+        "SAMHSA National Helpline"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "What are the symptoms of depression?",
+        "How do I know if I am depressed?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Everyday ideas that may help with depression",
+      "question": "What can I do to help with depression?",
+      "text": "UnitedHealthcare suggests being around people you love, staying active because exercise releases endorphins, eating for a better mood, meditating, spending time with animals, and talking to a therapist. Therapy can be a way to proactively manage stress and mental well-being. Apps like Talkspace offer 24/7 access to therapists, and members can check what mental health resources their plan offers.",
+      "topic": "Behavioral health",
+      "tags": [
+        "coping with depression",
+        "exercise",
+        "meditation",
+        "therapy",
+        "Talkspace"
+      ],
+      "entities": [
+        "Talkspace"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What helps with depression naturally?",
+        "Does exercise help depression?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What kind of doctor to see for depression",
+      "question": "What kind of doctor should I see for depression?",
+      "text": "Natural remedies may work well for some people, but others may need medical treatment for depression and anxiety. It may help to choose a mental health provider who specializes in depression. You might also consider virtual therapy through Mind Your Health provided by Teladoc Health, which lets you meet at a time and place that is convenient, or use mental health resources offered through your UnitedHealthcare benefit plan.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "mental health provider",
+        "virtual therapy",
+        "Mind Your Health",
+        "Teladoc Health",
+        "depression treatment"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Who treats depression?",
+        "Should I see a therapist or psychiatrist for depression?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Crisis and emergency care hotlines",
+      "question": "What hotlines are available for mental health crises?",
+      "text": "UnitedHealthcare lists four hotlines: the Suicide and Crisis Lifeline (call or text 988) for emotional distress or suicidal thoughts; emergency services (call 911) for immediate life-threatening needs; the Substance Use Helpline (1-855-780-5955, TTY 711) for alcohol and drug concerns; and the National Domestic Violence Hotline (1-800-799-SAFE (7233) or text START to 88788).",
+      "topic": "Behavioral health",
+      "tags": [
+        "crisis hotline",
+        "988",
+        "911",
+        "substance use helpline",
+        "domestic violence hotline"
+      ],
+      "entities": [
+        "988 Suicide and Crisis Lifeline",
+        "Substance Use Helpline",
+        "National Domestic Violence Hotline"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "What is the number for the substance use helpline?",
+        "What hotlines help in a mental health crisis?"
+      ]
+    }
+  ]
+}

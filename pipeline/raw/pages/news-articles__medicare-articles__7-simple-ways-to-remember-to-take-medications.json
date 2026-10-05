@@ -1,0 +1,227 @@
+{
+  "url": "https://www.uhc.com/news-articles/medicare-articles/7-simple-ways-to-remember-to-take-medications",
+  "title": "7 simple ways to remember to take medications",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Offers seven strategies for staying on schedule with medications, including lists, pill organizers, routines and apps.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/medicare-articles/7-simple-ways-to-remember-to-take-medications/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1728324993804/ba-blog-rx-take-meds-2400x1596.jpeg",
+      "alt": "Blog image for 7 simple ways to remember to take medications"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Many older adults take several prescriptions",
+      "question": "How many prescriptions do older adults take?",
+      "text": "According to Centers for Disease Control and Prevention data, in a given month 68% of older adults have three or more prescription drugs to manage, and 41% have five or more medications. With that many pills to remember, it can be easy to miss a dose or accidentally double up on one.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "polypharmacy",
+        "older adults",
+        "prescriptions",
+        "CDC data"
+      ],
+      "entities": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many medications do seniors take?",
+        "Why is it hard to remember medications?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Risks of missed or incorrect doses",
+      "question": "What happens if I miss or double my medication?",
+      "text": "Missed or incorrect doses can lead to worsening of symptoms, trips to the emergency room and poor health over time. Skipping blood pressure medication can increase the risk of heart disease and stroke, according to the American Heart Association. Not taking diabetes medications as directed can lead to high blood sugar and risk of diabetic coma, or low blood sugar, which raises the risk of falls.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "medication adherence",
+        "missed doses",
+        "blood pressure medication",
+        "diabetes medication"
+      ],
+      "entities": [
+        "American Heart Association",
+        "American Diabetes Association"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What happens if I skip my blood pressure pill?",
+        "Why is taking medicine on time important?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Strategy 1: Make a medication list",
+      "question": "How do I make a medication list?",
+      "text": "Make a list with your doctor's help or review it together. Tell your doctor all medications you take, including prescriptions, over-the-counter drugs, vitamins and supplements, and any concerns such as cost or side effects. For each medication ask: What is it for? How much do I take and how often? Are there side effects? Share the list with all your doctors and keep a copy in your wallet or purse.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "medication list",
+        "drug interactions",
+        "questions for doctor",
+        "side effects"
+      ],
+      "entities": [
+        "National Institute on Aging"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What should be on my medication list?",
+        "What should I ask my doctor about each medicine?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 2: Ask about easy ways to fill prescriptions",
+      "question": "What are easier ways to fill prescriptions?",
+      "text": "If getting to the pharmacy is difficult, check with your doctor, pharmacy or health plan for more convenient options, such as ordering a 90-day supply through home delivery by mail. Many pharmacies offer refill reminders by phone, text or email, can coordinate refills so you pick up multiple medications on the same day, or offer presorted packs of each day's medication.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "90-day supply",
+        "home delivery",
+        "refill reminders",
+        "pharmacy"
+      ],
+      "entities": [
+        "home delivery pharmacy"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I get a 90-day supply by mail?",
+        "Do pharmacies offer refill reminders?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 3: Use a pill organizer",
+      "question": "Does a pill organizer help?",
+      "text": "An old-fashioned pillbox with separate tabs for each day of the week is still one of the simplest and most effective ways to organize your medications. There are many variations to shop around for, and you can upgrade to an electronic pillbox that will blink, beep or alert you with medication reminders.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "pill organizer",
+        "pillbox",
+        "reminders",
+        "medication management"
+      ],
+      "entities": [
+        "pill organizer"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the best way to organize pills?",
+        "Are there electronic pillboxes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 4: Store medication sensibly",
+      "question": "Where should I store my medications?",
+      "text": "Keep medications in a safe but easily accessible spot. The National Institutes of Health recommends a cool, dry place, like a kitchen shelf away from the stove or sink. If young children live with you or visit often, keep both prescription and over-the-counter medications out of their reach.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "medication storage",
+        "cool dry place",
+        "child safety",
+        "NIH"
+      ],
+      "entities": [
+        "National Institutes of Health"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How should I store prescription drugs?",
+        "Where should medicines be kept around kids?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategies 5 and 6: Routine and calendar",
+      "question": "What daily routines help me remember medications?",
+      "text": "Taking medications at the same time and place each day makes them easier to remember; set a phone alarm or sync doses with habits like eating breakfast or brushing your teeth. A large, easy-to-read calendar posted in a visible spot, such as the kitchen fridge, can help you track medications each day. Mark the calendar when you have taken your medicine.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "medication routine",
+        "phone alarm",
+        "calendar",
+        "habit"
+      ],
+      "entities": [
+        "medication routine"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How do I build a medication routine?",
+        "Should I use a calendar for my medicines?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 7: Use a medication reminder app",
+      "question": "Are there apps that remind me to take medications?",
+      "text": "Several smartphone apps offer medication reminders and drug interaction information. Some help you set a medication schedule, and others prompt you to track healthy habits, such as drinking more water or checking your blood pressure. UnitedHealthcare Medicare Advantage members with prescription drug coverage can also download the UnitedHealthcare app to view drug coverage details.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "medication reminder app",
+        "UnitedHealthcare app",
+        "drug coverage",
+        "Medicare Advantage"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "Medicare Advantage"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What app helps me take my pills on time?",
+        "Can I see my drug coverage in the UHC app?"
+      ]
+    }
+  ]
+}

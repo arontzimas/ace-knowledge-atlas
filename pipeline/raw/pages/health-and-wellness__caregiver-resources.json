@@ -1,0 +1,265 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/caregiver-resources",
+  "title": "Resources for caregivers",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Defines caregiving, lists common caregiver tasks, and points to self-care, organizing tools, support organizations and insurance-related resources for caregivers.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/caregiver-resources/_jcr_content/root/regioncontainer-main/responsivegrid/container_1369142633/image.coreimg.90.1280.jpeg/1728324430694/caregiver-resources-find-resources-grandpa-grandkid-desktop-702x380.jpeg",
+      "alt": "Grandfather and grandchild"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/caregiver-resources/_jcr_content/root/regioncontainer-main/responsivegrid/container_1369142633_382611038/image.coreimg.90.1280.jpeg/1728324436526/caregiver-resources-connect-mother-daughter-desktop-702x380.jpeg",
+      "alt": "Mother and daughter"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/IndividualAndFamilies/PDF/Caregiver_Organizer.pdf",
+      "alt": "Download the Care Organizer (pdf)"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/IndividualAndFamilies/PDF/Advance_Care_Planning_Worksheet.pdf",
+      "alt": "Download the advance care planning worksheet (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a caregiver is",
+      "question": "What is a caregiver?",
+      "text": "A caregiver may be a family member, friend or neighbor. It is generally a person who provides unpaid assistance with activities of daily living and sometimes medical tasks, too. Every care situation is different, and caregiving may have been expected for a long time or may have come as a surprise.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caregiver",
+        "unpaid care",
+        "activities of daily living",
+        "family caregiver"
+      ],
+      "entities": [
+        "caregiver"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does it mean to be a caregiver?",
+        "Who counts as a caregiver?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Informal caregiver role",
+      "question": "What is an informal caregiver?",
+      "text": "An informal caregiver is a non-professional who provides care voluntarily, typically a friend, partner or family member. Caregivers often help with day-to-day tasks as well as decision making and working with a formal care team.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "informal caregiver",
+        "care team",
+        "family caregiver"
+      ],
+      "entities": [
+        "informal caregiver"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an informal caregiver?",
+        "What does an unpaid caregiver do?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common caregiver activities",
+      "question": "What tasks do caregivers help with?",
+      "text": "Caregiver activities include hands-on care such as dressing, bathing, grooming, toileting, moving safely, meal prep and feeding; errands such as groceries, laundry and cleaning; health matters such as communicating with health professionals, organizing appointments and managing medications; transportation to appointments; financial and legal matters; emotional and social support; and advocacy, including learning about the condition and making care decisions.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caregiver tasks",
+        "hands-on care",
+        "medication management",
+        "transportation",
+        "advocacy"
+      ],
+      "entities": [
+        "caregiver"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does a family caregiver do?",
+        "What tasks are involved in caregiving?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Care Organizer for caregiving information",
+      "question": "Is there a tool to organize caregiving information?",
+      "text": "UnitedHealthcare offers a Care Organizer, available as a downloadable PDF, to help caregivers keep track of caregiving information. It helps gather important details in one place, from lists of providers and medications to home and financial information. Caregivers can also use care guides for specific health care needs.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "care organizer",
+        "caregiver tools",
+        "medication list",
+        "organization"
+      ],
+      "entities": [
+        "Care Organizer"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Where can I find a caregiver organizer?",
+        "How do I keep track of a loved one's medications and providers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Self-care for caregivers",
+      "question": "Why is self-care important for caregivers?",
+      "text": "Being a caregiver can feel like a lot of responsibility, and it is natural to feel stressed or burdened. Caring for your own health and well-being is as important as other tasks. Caregiver support resources can help you understand your responsibilities and options for assistance, consider when to hire a professional in-home caregiver, balance duties with self-care, stay organized and communicate better with your loved one.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caregiver self-care",
+        "caregiver strain",
+        "in-home caregiver",
+        "well-being"
+      ],
+      "entities": [
+        "caregiver"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "How can caregivers take care of themselves?",
+        "When should I hire an in-home caregiver?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Caregiver support topics library",
+      "question": "What caregiver support topics does UnitedHealthcare cover?",
+      "text": "UnitedHealthcare's caregiver library includes support topics such as getting paid for the care you provide, caring for a caregiver, caregiver burnout and coping strategies, resources for new caregivers and letting go of caregiver guilt. Family caregiving topics include signs an aging parent may need help, adjusting to an elder care facility, moving an aging parent in, sharing caregiving duties as a family and communication tips.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caregiver support",
+        "aging parents",
+        "family caregiving",
+        "elder care facility"
+      ],
+      "entities": [
+        "caregiver resources"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How do I know when my aging parent needs help?",
+        "How can family members share caregiving duties?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Caregiver support organizations and respite care",
+      "question": "Where can caregivers find local support?",
+      "text": "Caregivers can find programs from both national and local organizations. These resources include caregiver support groups and events, home care services, respite care, adult day centers, geriatric case managers and more.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caregiver support groups",
+        "respite care",
+        "adult day center",
+        "geriatric case manager"
+      ],
+      "entities": [
+        "caregiver support organizations"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Where can I find caregiver support groups?",
+        "What is respite care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Financial, legal and insurance help for caregivers",
+      "question": "Where can caregivers get help with insurance and legal paperwork?",
+      "text": "Many caregivers help with financial, legal and health insurance matters, such as signing someone up for Medicare, Medicaid or other health insurance. There may be paperwork and authorizations to complete before helping with more complex issues like advance care planning. UnitedHealthcare offers an advance care planning worksheet as a downloadable PDF.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "advance care planning",
+        "caregiver paperwork",
+        "Medicare",
+        "Medicaid",
+        "legal"
+      ],
+      "entities": [
+        "advance care planning",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What is advance care planning?",
+        "How do I help a parent sign up for Medicare?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can caregivers get support through insurance?",
+      "question": "Can caregivers get support through the insurance of the person they care for?",
+      "text": "If the person you are caring for has UnitedHealthcare insurance, several programs may help caregivers: Medicare Made Clear explains how Medicare works and what is covered; the Just Plain Clear glossary defines thousands of health care terms in plain language; the Pharmacy Locator helps Medicare members find pharmacies, with home mail delivery on some plans; and the Drug Cost Estimator helps Medicare members estimate drug costs.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "caregiver",
+        "Medicare Made Clear",
+        "Just Plain Clear",
+        "Pharmacy Locator",
+        "Drug Cost Estimator"
+      ],
+      "entities": [
+        "Medicare Made Clear",
+        "Just Plain Clear",
+        "Pharmacy Locator",
+        "Drug Cost Estimator"
+      ],
+      "personas": [
+        "Caregiver",
+        "Medicare shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What tools help me manage a parent's Medicare plan?",
+        "Is there a drug cost estimator for Medicare?"
+      ]
+    }
+  ]
+}

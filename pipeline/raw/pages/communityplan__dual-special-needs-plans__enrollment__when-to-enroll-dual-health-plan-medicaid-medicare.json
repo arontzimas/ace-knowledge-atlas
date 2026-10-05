@@ -1,0 +1,92 @@
+{
+  "url": "https://www.uhc.com/communityplan/dual-special-needs-plans/enrollment/when-to-enroll-dual-health-plan-medicaid-medicare",
+  "title": "When can you enroll in a dual health plan if you have Medicaid and Medicare?",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains when people with Medicaid and Medicare can enroll in a Dual Special Needs plan, including special enrollment situations, coverage start dates and key Annual Enrollment Period dates.",
+  "published": "2025-01-06",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/dual-special-needs-plans/enrollment/when-to-enroll-dual-health-plan-medicaid-medicare/_jcr_content/root/responsivegrid/container/section/grid/column_1075496993/image.coreimg.png/1781284188042/learning-center-visual-aid-dsnp-enrollment-aeptimeline-monthly.png", "alt": "AEP Timeline"},
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/dual-special-needs-plans/enrollment/when-to-enroll-dual-health-plan-medicaid-medicare/_jcr_content/root/responsivegrid/container/section/grid/column_1075496993/image_copy.coreimg.jpeg/1781284206436/learning-center-visual-aid-dsnp-enrollment-aeptimeline-at-age-65.jpeg", "alt": "Age 65 timeline"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "D-SNP enrollment may not require waiting for AEP",
+      "question": "Do I have to wait for the Annual Enrollment Period to join a dual plan?",
+      "text": "The Medicare Annual Enrollment Period (AEP) happens once a year in the fall, when anyone eligible can change their health plan. But if you qualify for a Dual Special Needs plan, you may not have to wait. You may be able to enroll right away.",
+      "topic": "Dual eligible coverage",
+      "tags": ["annual enrollment period", "aep", "special enrollment", "d-snp", "enroll any time"],
+      "entities": ["Dual Special Needs plan", "Annual Enrollment Period"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["Can I join a dual plan outside of open enrollment?", "Do dual-eligible people have to wait for fall enrollment?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Situations that let you enroll today",
+      "question": "When can I enroll in a dual plan right away?",
+      "text": "You may be eligible to enroll today if you are 65 and newly eligible for Medicare or have a qualifying disability; are retiring and losing your current coverage; have moved out of your current Medicare plan's service area; have Extra Help, Medicaid or a Medicare Savings Program (MSP) or recently experienced a change in coverage eligibility; or were enrolled in a plan by Medicare or by the state and want to choose a different plan.",
+      "topic": "Dual eligible coverage",
+      "tags": ["special enrollment period", "sep", "turning 65", "retiring", "moved", "extra help"],
+      "entities": ["Extra Help", "Medicare Savings Program", "Medicaid", "Dual Special Needs plan"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["What qualifies me for a special enrollment period for a dual plan?", "Can I enroll in a D-SNP when I move?"]
+    },
+    {
+      "type": "faq",
+      "title": "Enrolling or switching if you already have both programs",
+      "question": "What if I already have both Medicare and Medicaid?",
+      "text": "You can enroll or switch dual plans once per Special Enrollment Period (SEP) when enrolling into a HIDE (Highly Integrated Dually Eligible) or FIDE (Fully Integrated Dually Eligible) integrated plan, or during the Medicare Annual Enrollment Period (AEP). After you're enrolled you don't have to renew; as long as you stay eligible, your dual health plan renews automatically each year. But you do need to recertify for Medicaid every year to stay qualified.",
+      "topic": "Dual eligible coverage",
+      "tags": ["hide", "fide", "integrated plans", "auto-renew", "medicaid recertification"],
+      "entities": ["HIDE", "FIDE", "Special Enrollment Period", "Annual Enrollment Period", "Medicaid"],
+      "personas": ["Current member", "Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Member",
+      "questions": ["How often can I switch dual plans?", "Do I need to recertify Medicaid to keep my dual plan?"]
+    },
+    {
+      "type": "comparison",
+      "title": "When dual plan coverage starts",
+      "question": "When will my dual plan coverage start?",
+      "text": "It depends on when you enroll. If you enroll when you first become eligible, coverage begins the first day of the month you qualify for Medicare. If you enroll in a Special Enrollment Period (SEP), coverage begins the first day of the next month. If you enroll in the Annual Enrollment Period (AEP), coverage begins the first day of the next year.",
+      "topic": "Dual eligible coverage",
+      "tags": ["coverage start date", "sep", "aep", "first day of next month", "effective date"],
+      "entities": ["Special Enrollment Period", "Annual Enrollment Period", "Dual Special Needs plan"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["When does my D-SNP take effect?", "If I enroll during AEP, when does coverage begin?"]
+    },
+    {
+      "type": "stat",
+      "title": "Key AEP dates for dual plans",
+      "question": "What are the key dates for the Medicare Annual Enrollment Period?",
+      "text": "October 1: start looking for dual health plans available where you live. October 15: first day of the Annual Enrollment Period (AEP), when you can enroll or switch to a dual health plan for the next calendar year. December 7: last day you can enroll in a plan before AEP ends. January 1: the day your new plan becomes active if you enroll during AEP.",
+      "topic": "Medicare enrollment",
+      "tags": ["october 15", "december 7", "january 1", "aep dates", "timeline"],
+      "entities": ["Annual Enrollment Period", "Dual Special Needs plan"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["When does Medicare open enrollment start and end?", "When does a plan I choose in AEP start?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Enroll early to use the extra benefits sooner",
+      "question": "Why should I enroll in a dual plan as early as I can?",
+      "text": "The sooner you enroll in a dual health plan, the sooner you can start using the extra benefits that come with it. Benefits and features vary by plan and area, and limitations and exclusions apply.",
+      "topic": "Dual eligible coverage",
+      "tags": ["enroll early", "extra benefits", "d-snp"],
+      "entities": ["Dual Special Needs plan"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["Should I wait to enroll in a dual plan?", "Is there a benefit to joining early?"]
+    }
+  ]
+}

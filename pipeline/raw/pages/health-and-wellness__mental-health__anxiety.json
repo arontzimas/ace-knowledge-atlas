@@ -1,0 +1,232 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/mental-health/anxiety",
+  "title": "Anxiety and anxiety disorders",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Describes anxiety disorders, their causes and symptoms, when to seek help, ways to reduce anxiety and the main types of anxiety disorders.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/mental-health/anxiety/_jcr_content/root/regioncontainer-main/responsivegrid/container_271166736/container_1598734524/image.coreimg.90.1280.jpeg/1728324450527/anxiety-woman-meditating-by-laptop-686x686.jpeg",
+      "alt": "Woman meditating by laptop"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What an anxiety disorder is",
+      "question": "What is an anxiety disorder?",
+      "text": "An anxiety disorder is defined as having racing thoughts or feelings paralyzed by fear, or when thoughts feel out of control. Anxiety may at times be a healthy emotion that alerts you to pay better attention to your mental health, but when intrusive what-if worries start to affect daily life, you may have an anxiety disorder. More than 40 million adults in the United States are affected.",
+      "topic": "Behavioral health",
+      "tags": [
+        "anxiety disorder",
+        "definition",
+        "mental health",
+        "worry"
+      ],
+      "entities": [
+        "anxiety disorder"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an anxiety disorder?",
+        "When does anxiety become a disorder?",
+        "How common are anxiety disorders?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What causes anxiety",
+      "question": "What causes anxiety?",
+      "text": "The exact cause of anxiety is unknown, but research points to genetic factors and negative events or stressful life experiences playing a role. Some health conditions or medication side effects may also produce or aggravate symptoms. Anxiety can happen as a reaction to relationships, health, school, work, finances, unexpected changes or big life events.",
+      "topic": "Behavioral health",
+      "tags": [
+        "anxiety causes",
+        "genetics",
+        "stress",
+        "medication side effects"
+      ],
+      "entities": [
+        "anxiety"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What triggers anxiety?",
+        "Can medications cause anxiety?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Signs and symptoms of an anxiety disorder",
+      "question": "What are the symptoms of an anxiety disorder?",
+      "text": "Signs and symptoms of an anxiety disorder may include thoughts that won't go away, a hard time focusing, avoiding situations out of worry, using alcohol, drugs or tobacco to cope, eating more or less than usual, a sense of danger or doom, feeling nervous, restless, weak or fatigued, increased heart rate, fast breathing, headaches, muscle pain, trouble sleeping, stomach pain, and dizziness.",
+      "topic": "Behavioral health",
+      "tags": [
+        "anxiety symptoms",
+        "signs",
+        "panic",
+        "sleep problems"
+      ],
+      "entities": [
+        "anxiety disorder"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are signs of anxiety?",
+        "What does an anxiety disorder feel like?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When to seek professional help for anxiety",
+      "question": "When should I seek professional help for anxiety?",
+      "text": "If you are experiencing the signs of anxiety listed, it may be time to get help; finding a mental health provider is an important first step. You may also consider mental health virtual therapy with a psychologist, counselor or coach at a time and place that is convenient. If you or a loved one has suicidal thoughts or plans, call 911 right away or call or chat the 988 Suicide and Crisis Lifeline.",
+      "topic": "Behavioral health",
+      "tags": [
+        "seek help",
+        "mental health provider",
+        "virtual therapy",
+        "988 lifeline"
+      ],
+      "entities": [
+        "988 Suicide and Crisis Lifeline",
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "When should I see a therapist for anxiety?",
+        "Can I do therapy online for anxiety?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Untreated anxiety can worsen but is treatable",
+      "question": "Will anxiety go away on its own?",
+      "text": "It is not uncommon for people struggling with anxiety to hope it will go away on its own, but if left untreated, symptoms may get much worse. With the right combination of therapy, stress management and medication, anxiety is considered treatable.",
+      "topic": "Behavioral health",
+      "tags": [
+        "anxiety treatment",
+        "therapy",
+        "stress management",
+        "medication"
+      ],
+      "entities": [
+        "anxiety"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is anxiety treatable?",
+        "What treats anxiety?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Ways to help reduce anxiety",
+      "question": "What are some ways to reduce anxiety?",
+      "text": "Ways to help reduce anxiety include stopping what you are doing and breathing in and out slowly, eating well-balanced meals, getting enough sleep, focusing on what you can change, exercising, limiting alcohol and caffeine, and reframing negative thoughts. You can also bring yourself back to the moment with something tangible, like holding an ice cube, or redirect your energy by going for a walk.",
+      "topic": "Behavioral health",
+      "tags": [
+        "reduce anxiety",
+        "coping skills",
+        "breathing",
+        "sleep",
+        "exercise"
+      ],
+      "entities": [
+        "anxiety"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How can I calm anxiety?",
+        "What are quick coping techniques for anxiety?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Types of anxiety disorders",
+      "question": "What are the different types of anxiety disorders?",
+      "text": "Different types of anxiety disorders exist, and knowing which type you may be dealing with can help you understand how to cope and seek help. UnitedHealthcare lists generalized anxiety disorder, social anxiety disorder (social phobia), panic disorder, post-traumatic stress disorder (PTSD) and phobias.",
+      "topic": "Behavioral health",
+      "tags": [
+        "generalized anxiety disorder",
+        "panic disorder",
+        "social anxiety",
+        "PTSD",
+        "phobias"
+      ],
+      "entities": [
+        "PTSD",
+        "generalized anxiety disorder",
+        "panic disorder"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What kinds of anxiety disorders are there?",
+        "What is the difference between panic disorder and GAD?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "988 Lifeline for suicidal thoughts",
+      "question": "Who do I call if I or a loved one has suicidal thoughts?",
+      "text": "If you or a loved one has suicidal thoughts or plans, call 911 right away. The 988 Suicide and Crisis Lifeline is also available 24/7, providing confidential support and prevention and crisis resources. Call 988 or chat online at 988lifeline.org/chat. TTY users can use their preferred relay service or dial 711 and then 988.",
+      "topic": "Behavioral health",
+      "tags": [
+        "988",
+        "suicide prevention",
+        "crisis",
+        "TTY",
+        "911"
+      ],
+      "entities": [
+        "988 Suicide and Crisis Lifeline"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "What is the 988 lifeline?",
+        "How do I get crisis help?"
+      ]
+    }
+  ]
+}

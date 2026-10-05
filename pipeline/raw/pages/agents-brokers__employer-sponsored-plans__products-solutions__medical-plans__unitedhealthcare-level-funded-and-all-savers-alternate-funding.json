@@ -1,0 +1,277 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/medical-plans/unitedhealthcare-level-funded-and-all-savers-alternate-funding",
+  "title": "UnitedHealthcare Level Funded",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Explains UnitedHealthcare Level Funded group health plans, including surplus refund potential, fixed monthly costs, stop loss insurance and ACA exemptions.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6346954014112-thumbnail.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Level Funded group health plans video"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Employers/PDF/EI3428066_Why-LF-up-to-50_Flier_lr.pdf",
+      "alt": "Flier: Level Funded for groups 2-50"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Employers/PDF/EI3428067_Why-LF-51_Flier_lr.pdf",
+      "alt": "Flier: Level Funded for groups 51+"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What UnitedHealthcare Level Funded plans are",
+      "question": "What is a level funded health plan?",
+      "text": "UnitedHealthcare Level Funded plans are designed to give employers a different way to balance cost savings with benefits employees want. They offer employers predictability, with the potential of upfront savings and a surplus refund. A fixed monthly rate covers claims and plan administration, much like a fully insured plan.",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "self-funded",
+        "fixed monthly rate",
+        "surplus refund",
+        "predictability"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does level funded mean?",
+        "How is level funded different from fully insured?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Surplus refund potential at year-end",
+      "question": "Can a level funded plan get money back?",
+      "text": "Level Funded plans are based on the medical and pharmacy claims of plan participants. If those claims are lower than expected, the employer's health plan may get a surplus refund at year-end. The page notes that employers should consult a tax and/or legal advisor about any restrictions or obligations, and that surplus refunds are available only where allowed by law.",
+      "topic": "Plan funding models",
+      "tags": [
+        "surplus refund",
+        "claims",
+        "year-end",
+        "level funded",
+        "tax advisor"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do level funded plans give refunds if claims are low?",
+        "When is a level funded surplus refund paid?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fixed monthly payment protected by stop loss",
+      "question": "Do level funded plan costs change month to month?",
+      "text": "No. Level Funded plans lock in a fixed monthly payment for the plan year, regardless of actual plan participant medical and pharmacy claims. Stop loss insurance protects employers from unexpected high claims.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fixed monthly cost",
+        "stop loss",
+        "predictable costs",
+        "high claims",
+        "level funded"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded",
+        "stop loss insurance"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is the monthly cost fixed on a level funded plan?",
+        "What protects a level funded employer from big claims?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Two kinds of stop loss insurance",
+      "question": "What are individual and aggregate stop loss insurance?",
+      "text": "A level-funded plan includes two kinds of stop loss insurance. Individual stop loss protects the plan if claims costs are higher than expected for a particular plan participant. Aggregate stop loss protects the plan if claims costs are higher than expected across the entire group. Stop loss pays covered medical and pharmacy claims costs above expected levels.",
+      "topic": "Plan funding models",
+      "tags": [
+        "stop loss",
+        "individual stop loss",
+        "aggregate stop loss",
+        "claims risk",
+        "level funded"
+      ],
+      "entities": [
+        "stop loss insurance"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is aggregate stop loss?",
+        "What is the difference between individual and aggregate stop loss?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Level funded surplus applies to next year",
+      "question": "What happens to savings if claims are low on a level funded plan?",
+      "text": "In a level funded plan, if medical and pharmacy claims costs are lower than expected at the end of the plan year, the savings do not stay with the insurance company as they do with a fully insured plan. Instead, the plan earns a surplus refund that the employer can apply to the following year's plan, where allowed by law.",
+      "topic": "Plan funding models",
+      "tags": [
+        "surplus refund",
+        "fully insured",
+        "savings",
+        "plan year",
+        "level funded"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Who keeps savings in level funded vs fully insured?",
+        "Can a surplus refund be applied to next year's plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ACA exemptions in level funded plans",
+      "question": "How do level funded plans affect ACA compliance and taxes?",
+      "text": "Because Level Funded plans are a type of self-funded plan, employers may be exempt from many state premium taxes and Affordable Care Act (ACA) regulations, including adjusted community rating. UnitedHealthcare lists exemption from many ACA regulations, lower state premium taxes, potential savings and more flexibility as advantages.",
+      "topic": "Regulatory & compliance",
+      "tags": [
+        "aca",
+        "adjusted community rating",
+        "premium taxes",
+        "self-funded",
+        "compliance"
+      ],
+      "entities": [
+        "Affordable Care Act",
+        "ACA",
+        "adjusted community rating"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Consideration",
+      "questions": [
+        "Are level funded plans exempt from ACA rules?",
+        "Do level funded plans pay state premium taxes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan designs and networks for level funded",
+      "question": "What plan designs and networks are available with Level Funded?",
+      "text": "Employers can customize a Level Funded benefits package from dozens of plan designs, networks and specialty options. Portfolios include HSA, PPO and EPO plans, with network options such as the nation's largest proprietary network of 1.7M physicians and health care professionals and 7,000+ hospitals (UnitedHealthcare internal analysis, June 30, 2023).",
+      "topic": "Plan funding models",
+      "tags": [
+        "plan designs",
+        "hsa",
+        "ppo",
+        "epo",
+        "networks"
+      ],
+      "entities": [
+        "HSA",
+        "PPO",
+        "EPO",
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can level funded plans include an HSA plan?",
+        "How large is the Level Funded provider network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Wellness, reporting and bundling with level funded",
+      "question": "What extras come with UnitedHealthcare Level Funded?",
+      "text": "Level Funded plans include wellness programs and services designed to help plan participants get healthier at no additional cost. Employers also get up-to-date reporting on claims costs and network utilization, plus digital tools to help simplify plan management. They may also save when bundling a UnitedHealthcare specialty plan, like vision and dental, with a medical plan.",
+      "topic": "Cost management",
+      "tags": [
+        "wellness programs",
+        "reporting",
+        "utilization",
+        "bundling",
+        "specialty plans"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do level funded plans include wellness programs?",
+        "Can I bundle dental and vision with level funded medical?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Level funded gaining popularity with small businesses",
+      "question": "Are level funded plans common among small businesses?",
+      "text": "UnitedHealthcare's video states that level-funded health plans have grown in popularity among small businesses nationwide, citing the Kaiser Family Foundation Employer Health Benefits Surveys of 2019 and 2024, which define a small business as a group with 3-199 employees. UnitedHealthcare offers separate Level Funded fliers for groups of 2-50 and for groups of 51+.",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "small business",
+        "kff",
+        "adoption",
+        "fliers"
+      ],
+      "entities": [
+        "Kaiser Family Foundation",
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why are small businesses choosing level funded plans?",
+        "Is there a level funded flier for groups over 50?"
+      ]
+    }
+  ]
+}

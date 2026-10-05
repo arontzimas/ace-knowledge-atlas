@@ -1,0 +1,187 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/add-ons",
+  "title": "SafeTrip travel insurance add-ons",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Explains SafeTrip add-ons for extreme sports, sporting equipment loss and delay, and rental car damage, and which plans they pair with.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/safetrip/add-ons-man-with-suitcase-on-phone-desktop.jpg",
+      "alt": "Man with a suitcase on the phone"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/add-ons/_jcr_content/root/regioncontainer-main/responsivegrid/container_827966370/container/image_copy.coreimg.90.1280.jpeg/1778436997970/add-ons-three-people-paragliding-desktop.jpeg",
+      "alt": "Three people paragliding"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/add-ons/_jcr_content/root/regioncontainer-main/responsivegrid/container_827966370/container_copy/image_copy.coreimg.90.1280.jpeg/1778437006592/add-ons-women-golfing-desktop.jpeg",
+      "alt": "Women golfing"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/add-ons/_jcr_content/root/regioncontainer-main/responsivegrid/container_827966370/container_copy_240987918/image_copy.coreimg.90.1280.jpeg/1778437016946/add-ons-couple-driving-desktop.jpeg",
+      "alt": "Couple driving a rental car"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Extreme sports activities add-on",
+      "question": "What does the SafeTrip extreme sports add-on cover?",
+      "text": "The SafeTrip extreme sports add-on is for adrenaline seekers, such as people skydiving, parachuting, white-water rafting, paragliding or doing another adventure sport. The add-on covers accidents, injury and medical evacuation, so travelers can focus on the fun ahead.",
+      "topic": "Travel insurance",
+      "tags": [
+        "extreme sports",
+        "skydiving",
+        "medical evacuation",
+        "adventure travel",
+        "add-on"
+      ],
+      "entities": [
+        "SafeTrip extreme sports add-on"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover skydiving or paragliding?",
+        "What does an extreme sports travel add-on include?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Sporting equipment loss and delay add-on",
+      "question": "What does sporting equipment loss and delay coverage cover?",
+      "text": "Sports like skiing or golf often require specialized, expensive equipment. If something happens to equipment on a trip, SafeTrip's sporting equipment loss and delay add-on can reimburse the traveler. It covers delays, loss and damage.",
+      "topic": "Travel insurance",
+      "tags": [
+        "sporting equipment",
+        "ski gear",
+        "golf clubs",
+        "equipment loss",
+        "add-on"
+      ],
+      "entities": [
+        "SafeTrip sporting equipment add-on"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover lost golf clubs or skis?",
+        "What is sporting equipment loss and delay coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Rental car damage add-on",
+      "question": "What does the SafeTrip rental car damage add-on cover?",
+      "text": "The SafeTrip rental car damage add-on covers damages from accidents, vandalization, theft and extreme weather. UnitedHealthcare notes that many car insurance policies do not cover rentals and suggests not taking a chance on an auto insurance policy.",
+      "topic": "Travel insurance",
+      "tags": [
+        "rental car damage",
+        "collision",
+        "theft",
+        "vandalism",
+        "add-on"
+      ],
+      "entities": [
+        "SafeTrip rental car add-on"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover rental car damage?",
+        "Does my car insurance cover rental cars?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Which add-ons work with which SafeTrip plan",
+      "question": "Which SafeTrip plans can I add extreme sports, equipment or rental car coverage to?",
+      "text": "According to the add-ons table, extreme sports activities coverage is available with International Travel Medical and International Travel Medical Plus but not Travel Protection. Sporting equipment loss and delay coverage is marked for Travel Protection and International Travel Medical Plus. Rental car coverage is marked for Travel Protection and International Travel Medical Plus. UnitedHealthcare says to make sure a desired add-on is compatible with the plan.",
+      "topic": "Travel insurance",
+      "tags": [
+        "add-on compatibility",
+        "travel protection",
+        "international travel medical",
+        "plan comparison"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Can I add rental car coverage to International Travel Medical?",
+        "Which SafeTrip plans allow extreme sports coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why consider trip protection add-ons",
+      "question": "Why would I buy travel insurance add-ons?",
+      "text": "Travel insurance add-ons give more coverage than the base plans. These options allow a traveler to be reimbursed for things that are not covered by typical travel insurance plans. For example, the sporting equipment add-on covers the delay or loss of skis or golf clubs, so a traveler can get local equipment and will not be stuck without sports gear.",
+      "topic": "Travel insurance",
+      "tags": [
+        "add-ons",
+        "extra coverage",
+        "base plan",
+        "sports gear"
+      ],
+      "entities": [
+        "SafeTrip add-ons"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are travel insurance add-ons worth it?",
+        "What do add-ons cover that base plans don't?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does travel insurance cover car rental",
+      "question": "Does travel insurance cover car rental?",
+      "text": "SafeTrip offers a rental car damage add-on that covers damages from accidents, vandalization, theft and extreme weather. UnitedHealthcare notes that many people's car insurance does not cover rentals, so the add-on is an alternative to relying on an auto insurance policy for a rental car.",
+      "topic": "Travel insurance",
+      "tags": [
+        "rental car",
+        "car insurance",
+        "add-on",
+        "collision damage"
+      ],
+      "entities": [
+        "SafeTrip rental car add-on"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is rental car insurance included in travel insurance?",
+        "Should I buy rental car coverage from SafeTrip?"
+      ]
+    }
+  ]
+}

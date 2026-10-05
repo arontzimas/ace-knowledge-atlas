@@ -1,0 +1,283 @@
+{
+  "url": "https://www.uhc.com/member-resources/mental-health-programs",
+  "title": "Mental health services and behavioral health programs",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Overview of mental and behavioral health programs available to UnitedHealthcare members, including Calm Health, the Substance Use Helpline, EAP, coaching programs and 24/7 crisis hotlines.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/supportive-pair-1440x676-web.jpg",
+      "alt": "Two people supporting each other"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Mental and behavioral health coverage depends on plan",
+      "question": "What mental and behavioral health programs may be covered?",
+      "text": "Coverage depends on the specific health plan. Mental health services, like therapy or counseling, can help on their own or as part of a larger care plan. Behavioral health programs, such as coaching, can also be used on their own or with other care. Members can sign in to their member account or the UHC app to view their mental health benefits.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mental health",
+        "behavioral health",
+        "therapy",
+        "coaching",
+        "coverage"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What mental health benefits does my plan have?",
+        "What is the difference between mental health and behavioral health programs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Calm Health app features",
+      "question": "What does the Calm Health app include?",
+      "text": "The Calm Health app offers mindfulness programs designed by psychologists to support mental well-being. Features may include guided meditation, relaxation and sleep support tools, programs to help manage stress and build resilience, and progress tracking and personalized recommendations. It may be covered at no additional cost by the health plan.",
+      "topic": "Behavioral health",
+      "tags": [
+        "calm health",
+        "mindfulness",
+        "meditation",
+        "stress",
+        "sleep"
+      ],
+      "entities": [
+        "Calm Health"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is Calm Health free with my plan?",
+        "What features does Calm Health have?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Substance Use Helpline",
+      "question": "How do I reach the UnitedHealthcare Substance Use Helpline?",
+      "text": "UnitedHealthcare members and their families can call the 24-hour Substance Use Helpline at 1-855-780-5955 (TTY 711) to speak with a recovery advocate. The support is private and anonymous, at no extra cost through their health plan.",
+      "topic": "Behavioral health",
+      "tags": [
+        "substance use",
+        "helpline",
+        "recovery advocate",
+        "24-hour",
+        "anonymous"
+      ],
+      "entities": [
+        "Substance Use Helpline"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is the substance use helpline phone number?",
+        "Can my family call the Substance Use Helpline?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual Behavioral Coaching",
+      "question": "What is Virtual Behavioral Coaching?",
+      "text": "Virtual Behavioral Coaching (VBC) helps people learn ways to handle stress, feeling overwhelmed or exhaustion and gives tools to improve well-being. Participants may get simple tips to manage stress, build resilience and handle challenges, plus private weekly one-on-one sessions with a dedicated coach. It may be covered at no additional cost for members with health plans through work.",
+      "topic": "Behavioral health",
+      "tags": [
+        "virtual behavioral coaching",
+        "vbc",
+        "stress",
+        "one-on-one coach",
+        "employer plan"
+      ],
+      "entities": [
+        "Virtual Behavioral Coaching"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is VBC?",
+        "Can I get a coach for stress through my employer plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Child and family behavioral coaching",
+      "question": "What is Child and Family Behavioral Health Coaching?",
+      "text": "Child and Family Behavioral Health Coaching from Bend Health offers counseling for families with kids ages 1-17 and young adults ages 18-25. It may include monthly online coaching sessions, unlimited messaging support between sessions and referrals to therapists or psychiatrists if more support is needed. It may help with issues such as anxiety, ADHD, depression, bullying and sleep problems.",
+      "topic": "Behavioral health",
+      "tags": [
+        "child coaching",
+        "family coaching",
+        "bend health",
+        "adhd",
+        "anxiety"
+      ],
+      "entities": [
+        "Bend Health"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does UnitedHealthcare offer behavioral coaching for kids?",
+        "What does Bend Health coaching include?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Employee Assistance Program (EAP)",
+      "question": "What does the Employee Assistance Program offer?",
+      "text": "Employee Assistance Programs (EAPs) provide confidential support for personal or work-related concerns. With an EAP, members may get 24/7 access to support, referrals to licensed professionals and short-term counseling at no additional cost. EAP is among programs that may be available to members with health plans through work.",
+      "topic": "Behavioral health",
+      "tags": [
+        "eap",
+        "employee assistance program",
+        "confidential",
+        "short-term counseling",
+        "24/7"
+      ],
+      "entities": [
+        "Employee Assistance Program"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is an EAP?",
+        "Does my employer plan include short-term counseling?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Family Support Program",
+      "question": "What is the Family Support Program?",
+      "text": "The Family Support Program helps families navigate complex mental health needs and care transitions. Support may include help creating care plans, guidance during hospital-to-home transitions, and resources for conditions such as autism spectrum disorder, bipolar disorder and depression. It supports caregivers of children ages 0-17 with mental health needs and families needing high-level care.",
+      "topic": "Behavioral health",
+      "tags": [
+        "family support program",
+        "care plans",
+        "caregivers",
+        "hospital-to-home",
+        "children 0-17"
+      ],
+      "entities": [
+        "Family Support Program"
+      ],
+      "personas": [
+        "Caregiver",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there help for parents of a child with mental health needs?",
+        "What support is there after a child leaves the hospital?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Finding a mental health provider and virtual visits",
+      "question": "How do I find a mental health provider or a virtual visit?",
+      "text": "Members can find a network mental health provider, search for LGBTQ+ friendly doctors, and ask local providers whether they offer virtual mental health visits, also called teletherapy, by phone or video. Coverage depends on the plan, so members can sign in to their member account or the UHC app to see available benefits.",
+      "topic": "Behavioral health",
+      "tags": [
+        "find a provider",
+        "teletherapy",
+        "virtual mental health",
+        "lgbtq+ friendly"
+      ],
+      "entities": [
+        "Teletherapy"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I find a therapist on my UnitedHealthcare plan?",
+        "Can I do therapy by video?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mind Your Health for people without insurance",
+      "question": "Is there mental health support without an insurance plan?",
+      "text": "Mind Your Health, provided by Teladoc Health, gives access to unlimited online therapy without insurance for one monthly fee. UnitedHealthcare describes virtual therapy as a flexible and convenient way to get mental health care.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mind your health",
+        "teladoc health",
+        "online therapy",
+        "no insurance"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get therapy without health insurance?",
+        "What is Mind Your Health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "24/7 crisis and emergency hotlines",
+      "question": "What crisis hotlines are available 24/7?",
+      "text": "Help is available 24/7 in English and Spanish. For emotional distress or suicidal thoughts, call or text 988. For immediate, life-threatening needs, call 911. The Substance Use Helpline is 1-855-780-5955 (TTY 711). The National Domestic Violence Hotline is 1-800-799-SAFE (7233) or text START to 88788.",
+      "topic": "Behavioral health",
+      "tags": [
+        "988",
+        "crisis hotline",
+        "911",
+        "domestic violence hotline",
+        "substance use helpline"
+      ],
+      "entities": [
+        "988 Lifeline",
+        "National Domestic Violence Hotline",
+        "Substance Use Helpline"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What number do I call for a mental health crisis?",
+        "Is there a hotline for domestic violence?"
+      ]
+    }
+  ]
+}

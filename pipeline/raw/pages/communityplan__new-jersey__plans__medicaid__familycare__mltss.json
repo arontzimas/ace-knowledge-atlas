@@ -1,0 +1,226 @@
+{
+  "url": "https://www.uhc.com/communityplan/new-jersey/plans/medicaid/familycare/mltss",
+  "title": "NJ FamilyCare Managed Long Term Services and Supports (MLTSS)",
+  "domain": "Medicaid",
+  "page_type": "product",
+  "summary": "Plan page for New Jersey FamilyCare MLTSS from UnitedHealthcare Community Plan, explaining what MLTSS is, added benefits, eligibility, contact numbers and member resources.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/new-jersey/plans/medicaid/familycare/mltss/_jcr_content/root/responsivegrid/container/section/grid/column/iparsys/iparsys/grid/column/image.coreimg.jpeg/1682115801079/ncqa-ltss-distinction.jpeg",
+      "alt": "NCQA LTSS Distinction Seal"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/handbook/en/NJ-MemberHandbook-En.pdf",
+      "alt": "Member Handbook (English)"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/providerdirectory/NJ_MLTSS_Provider_List_by_County.pdf",
+      "alt": "Directory of MLTSS providers and facilities"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What MLTSS is in New Jersey",
+      "question": "What is Managed Long Term Services and Supports (MLTSS)?",
+      "text": "Managed Long Term Services and Supports (MLTSS) programs are focused on serving frail, elderly and disabled individuals. The program combines traditional health care benefits, such as doctor visits, hospital stays and labs, with long term services and supports that provide help in the home or community with daily living activities. The plan is available statewide in New Jersey.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "mltss",
+        "new jersey",
+        "long-term care",
+        "nj familycare",
+        "frail elderly"
+      ],
+      "entities": [
+        "MLTSS",
+        "NJ FamilyCare",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is NJ FamilyCare MLTSS?",
+        "Does MLTSS cover both medical care and help at home?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Added benefits for MLTSS members",
+      "question": "What extra benefits do MLTSS members get beyond NJ FamilyCare?",
+      "text": "NJ FamilyCare is a comprehensive health insurance program. In addition to NJ FamilyCare services, MLTSS members also receive care management, home and vehicle modifications, home delivered meals, personal emergency response systems, mental health and addiction services, assisted living, community residential services and nursing home care.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "care management",
+        "home modifications",
+        "home delivered meals",
+        "assisted living",
+        "nursing home care",
+        "pers"
+      ],
+      "entities": [
+        "NJ FamilyCare",
+        "MLTSS"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does NJ MLTSS cover assisted living?",
+        "What services come with MLTSS in New Jersey?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who is eligible for MLTSS",
+      "question": "Who is eligible for NJ FamilyCare MLTSS?",
+      "text": "Members who have been assessed for long-term services and supports and have met both the financial and clinical eligibility requirements established by the State for MLTSS are eligible to receive care management and supportive services. The purpose of MLTSS is to enable individuals who are at the nursing home level of care to receive person-centered services in the least restrictive and most integrated setting.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "mltss eligibility",
+        "financial eligibility",
+        "clinical eligibility",
+        "nursing home level of care",
+        "least restrictive setting"
+      ],
+      "entities": [
+        "MLTSS",
+        "NJ FamilyCare"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "How do I qualify for MLTSS in New Jersey?",
+        "Do I need a nursing-home level of care for MLTSS?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "NJ FamilyCare, copayments and related terms",
+      "question": "What do NJ FamilyCare, copayments, Medicaid/MLTSS and SSI mean?",
+      "text": "NJ FamilyCare is a state health insurance program for people with low income who meet certain eligibility requirements, and programs can vary from state to state. Co-payments are amounts you pay directly to the provider for a service, and certain NJ FamilyCare beneficiaries are required to pay them. Medicare is a federal health insurance program for people 65 or older, disabled persons or those with end-stage renal disease, and eligibility is not based on income. SSI stands for Supplemental Security Income.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "glossary",
+        "nj familycare",
+        "copayments",
+        "medicare",
+        "ssi"
+      ],
+      "entities": [
+        "NJ FamilyCare",
+        "Medicare",
+        "SSI",
+        "MLTSS"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is NJ FamilyCare?",
+        "Do NJ FamilyCare members pay copayments?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How to reach NJ FamilyCare MLTSS support",
+      "question": "How do I contact UnitedHealthcare about NJ FamilyCare MLTSS?",
+      "text": "To request a member handbook or provider directory, call Member Services at 1-800-941-4647 (TTY 711). The NJ FamilyCare plan specialists can answer questions and help you enroll at 1-800-941-4647, available 24 hours a day, 7 days a week. To speak with Care Management for MLTSS, call 1-800-645-9409 (TTY 711).",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "member services",
+        "care management",
+        "phone numbers",
+        "enrollment help",
+        "new jersey"
+      ],
+      "entities": [
+        "NJ FamilyCare",
+        "MLTSS",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is the phone number for NJ FamilyCare MLTSS care management?",
+        "How do I enroll in NJ FamilyCare with UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "NJ MLTSS handbooks and special support programs",
+      "question": "What member handbooks are available for NJ MLTSS?",
+      "text": "Member resources include the English and Spanish member handbooks, and a member handbook insert for community-based palliative care last updated 05/22/2026. The page also lists a Housing Support member handbook (last updated 06/26/2025) and a Nutrition Support member handbook (last updated 07/01/2025). Members get access to a member-only website where they can chat with a nurse online and more.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "member handbook",
+        "housing support",
+        "nutrition support",
+        "palliative care",
+        "member website"
+      ],
+      "entities": [
+        "NJ FamilyCare",
+        "MLTSS"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there a housing support handbook for NJ MLTSS members?",
+        "Where do I find the NJ FamilyCare member handbook?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Finding dentists and pharmacies for MLTSS",
+      "question": "How do MLTSS members find a dentist, drug list or pharmacy?",
+      "text": "The page provides a Preferred Drug List in English and Spanish, a PDL updates document, a pharmacy lookup tool and information on Direct Member Reimbursement. To find an in-network dentist, members follow a link to another website and select NJ UnitedHealthcare Community Plan. The page also lists the New Jersey Smiles Program directory with county-by-county dental provider lists for all 21 counties.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "preferred drug list",
+        "pharmacy",
+        "new jersey smiles",
+        "find a dentist",
+        "county directories"
+      ],
+      "entities": [
+        "New Jersey Smiles",
+        "Preferred Drug List",
+        "NJ FamilyCare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where is the MLTSS preferred drug list?",
+        "How do I find a dentist for NJ FamilyCare MLTSS?"
+      ]
+    }
+  ]
+}

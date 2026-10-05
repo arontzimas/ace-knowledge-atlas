@@ -1,0 +1,226 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-faq",
+  "title": "AI for better care: Your questions answered",
+  "domain": "Company & News",
+  "page_type": "faq",
+  "summary": "FAQ stating how UnitedHealthcare does and does not use AI, including coverage, prior authorization, clinical, reimbursement and claims decisions.",
+  "published": "2025-11-26",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-faq/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1764084230873/patient-consulting-with-doctor-1200x627.jpeg",
+      "alt": "Patient consulting with doctor"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "What is artificial intelligence?",
+      "question": "What is artificial intelligence (AI)?",
+      "text": "AI performs tasks that typically require human intelligence, including learning, reasoning and making decisions based on data and algorithms. Generative AI is a type of AI that creates new data or content, such as images, music or text, that did not previously exist. Unlike other AI designed to recognize patterns and make predictions, generative AI can create new and original content.",
+      "topic": "AI & innovation",
+      "tags": [
+        "artificial intelligence",
+        "generative ai",
+        "definition",
+        "algorithms"
+      ],
+      "entities": [
+        "AI",
+        "Generative AI"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does AI mean?",
+        "What is generative AI?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI for coverage decisions?",
+      "question": "Does UnitedHealthcare use AI to make coverage decisions?",
+      "text": "No. UnitedHealthcare says coverage decisions are made based on standard coverage criteria, medical necessity guidelines and the terms of member plans. AI is used to help inform providers, families and other caregivers about what sort of assistance and care a patient may need, whether in a health care facility or at home.",
+      "topic": "AI & innovation",
+      "tags": [
+        "coverage decisions",
+        "medical necessity",
+        "member plans",
+        "ai"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI decide what my insurance covers?",
+        "How does UnitedHealthcare make coverage decisions?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI for prior authorization?",
+      "question": "Does UnitedHealthcare use AI to make prior authorization decisions?",
+      "text": "No. UnitedHealthcare uses AI to gather clinical data and support clinical and administrative professionals throughout the decision-making process, but it does not employ AI to issue any adverse clinical determinations.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "adverse determination",
+        "clinical data",
+        "ai"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI deny prior authorization requests?",
+        "Does UnitedHealthcare use AI for prior auth?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI for clinical decisions?",
+      "question": "Does UnitedHealthcare use AI to make clinical decisions?",
+      "text": "UnitedHealthcare has developed AI solutions, powered by its own data sets, that help surface insights and information based on the latest medical knowledge, patient history and historical outcomes data. According to UnitedHealthcare, AI never replaces the health care provider's decision and only enables it.",
+      "topic": "AI & innovation",
+      "tags": [
+        "clinical decisions",
+        "provider decision",
+        "medical knowledge",
+        "outcomes data"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI make medical decisions for my doctor?",
+        "How does AI support clinicians at UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI to recommend treatment?",
+      "question": "Does UnitedHealthcare use AI to recommend courses of treatment?",
+      "text": "Algorithms surface relevant insights and recommend potential treatment options to providers based on evidence-based clinical guidelines and outcomes data. However, UnitedHealthcare says all treatment decisions are made by clinicians, with AI used as a tool to assist and inform them.",
+      "topic": "AI & innovation",
+      "tags": [
+        "treatment recommendations",
+        "clinicians",
+        "evidence-based guidelines",
+        "ai"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI recommend my treatment?",
+        "Who makes treatment decisions at UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI for reimbursement rates?",
+      "question": "Does UnitedHealthcare use AI to determine hospital or provider reimbursement rates?",
+      "text": "No. UnitedHealthcare states that the process it uses to determine the pricing of its reimbursement rates does not use AI.",
+      "topic": "AI & innovation",
+      "tags": [
+        "reimbursement rates",
+        "provider pricing",
+        "hospital rates",
+        "ai"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI set provider payment rates?",
+        "How does UnitedHealthcare set reimbursement rates?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI to determine length of coverage?",
+      "question": "Does UnitedHealthcare use AI to determine length of coverage?",
+      "text": "No. UnitedHealthcare uses AI as a guide to help inform providers, families and other caregivers about what types of interventions or care a patient may need, whether in a health care facility or at home.",
+      "topic": "AI & innovation",
+      "tags": [
+        "length of coverage",
+        "interventions",
+        "caregivers",
+        "ai"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does AI decide how long my coverage lasts?",
+        "Does UnitedHealthcare use AI to limit care duration?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does UnitedHealthcare use AI to reject claims?",
+      "question": "Does UnitedHealthcare use AI to reject medical claims?",
+      "text": "No. UnitedHealthcare states that it does not use, and has never used, AI to make adverse decisions related to claims.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "claims",
+        "claim denial",
+        "adverse decisions",
+        "ai"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare use AI to deny claims?",
+        "Can AI reject my medical claim?"
+      ]
+    }
+  ]
+}

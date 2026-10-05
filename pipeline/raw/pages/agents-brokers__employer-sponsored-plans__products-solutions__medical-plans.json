@@ -1,0 +1,343 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/medical-plans",
+  "title": "Medical plans",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Overview of UnitedHealthcare employer medical plans, including network strategy, Centers of Excellence, payment integrity, the Premium program and the range of plan options.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/medical-plans/_jcr_content/root/regioncontainer-main/responsivegrid/image.coreimg.90.1280.jpeg/1728324493162/broker-consultant-medical-plan-doctor-with-patient-772x460.jpeg",
+      "alt": "Doctor with patient"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6269635494001-Thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "UnitedHealth Premium Program"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/medical-plan-portfolio-b2b-placemat.pdf",
+      "alt": "Medical plan portfolio placemat"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/payment-integrity-sell-sheet.pdf",
+      "alt": "Sell sheet: Payment integrity solutions"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "How UnitedHealthcare medical plans are built",
+      "question": "What is UnitedHealthcare's approach to employer medical plans?",
+      "text": "UnitedHealthcare medical plans are built with tailored network strategies and innovative benefit and plan designs to help meet the care and cost needs of employers and their employees. Plan designs are built for access, supported by the nation's largest proprietary network, and designed to guide employees to evidence-based, cost-efficient care.",
+      "topic": "Plan funding models",
+      "tags": [
+        "medical plans",
+        "network strategy",
+        "plan design",
+        "evidence-based care",
+        "proprietary network"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What makes UnitedHealthcare employer medical plans different?",
+        "Does UnitedHealthcare have a large proprietary network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan designs that encourage health ownership",
+      "question": "How do UnitedHealthcare plan designs encourage healthier choices?",
+      "text": "UnitedHealthcare plan designs and popular benefits, such as $0 copays and virtual care access, are built to help promote healthier choices and encourage employees to take steps toward better health. Plans also include tools and resources to help employees understand their plan and navigate the health care system to get care at the right place, at the right time.",
+      "topic": "Wellness programs",
+      "tags": [
+        "$0 copays",
+        "virtual care",
+        "plan navigation",
+        "health ownership",
+        "tools"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do UnitedHealthcare plans offer $0 copays?",
+        "What tools help employees understand their health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Provider collaboration and Naviguard",
+      "question": "How does UnitedHealthcare work with providers to control costs?",
+      "text": "UnitedHealthcare works with providers through incentives, value-based arrangements and collaborative data sharing to help enable quality, cost-efficient care. Tools and resources like Naviguard aim to protect all parties from egregious billing, to ensure providers are paid quickly for their services and to keep out-of-network charges in check for members.",
+      "topic": "Cost management",
+      "tags": [
+        "providers",
+        "value-based care",
+        "naviguard",
+        "out-of-network",
+        "billing"
+      ],
+      "entities": [
+        "Naviguard",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is Naviguard?",
+        "How does UnitedHealthcare keep out-of-network charges down?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Centers of Excellence shorten transplant stays",
+      "question": "What results does UnitedHealthcare report for its Centers of Excellence program?",
+      "text": "UnitedHealthcare's Centers of Excellence (COE) program is designed to drive lower costs, fewer complications and shorter recovery times. As an example, the page cites a 22% shorter length of hospital stay for transplant patients compared to the national benchmark, based on a Milliman transplant cost estimate and an Optum book-of-business comparison.",
+      "topic": "Cost management",
+      "tags": [
+        "centers of excellence",
+        "transplant",
+        "length of stay",
+        "recovery time",
+        "cost"
+      ],
+      "entities": [
+        "Centers of Excellence",
+        "COE",
+        "Milliman",
+        "Optum"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are Centers of Excellence in health insurance?",
+        "How much shorter are hospital stays at Centers of Excellence?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Payment integrity and wasteful spending",
+      "question": "How much health care spending is wasteful, and what does payment integrity save?",
+      "text": "Experts estimate that 25% of all health care spending is wasteful, according to a 2019 JAMA study cited by UnitedHealthcare. Its payment integrity solutions use strategies such as focused claims reviews to help identify errors and fraud or abuse, which the page says has resulted in $34.86 average savings per member per month (2018 UnitedHealthcare ASO data).",
+      "topic": "Cost management",
+      "tags": [
+        "payment integrity",
+        "claims review",
+        "wasteful spending",
+        "fraud and abuse",
+        "savings pmpm"
+      ],
+      "entities": [
+        "Payment integrity",
+        "JAMA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is payment integrity in health insurance?",
+        "How much can payment integrity save per member per month?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Primary care engagement and lower costs",
+      "question": "How does primary care engagement affect health care costs?",
+      "text": "UnitedHealthcare cites National Health Expenditures data showing that patients who regularly engaged with a primary care provider (PCP) had 10% lower costs than those who did not, and that PCPs can impact 62% of the health care dollar. UnitedHealthcare works with providers on site of care guidance, reducing unnecessary or duplicative testing and cost-effective prescribing.",
+      "topic": "Cost management",
+      "tags": [
+        "primary care",
+        "pcp",
+        "provider relationships",
+        "duplicative testing",
+        "site of care"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do patients with a primary care provider have lower costs?",
+        "How much of the health care dollar do PCPs influence?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Range of UnitedHealthcare medical plan options",
+      "question": "Which medical plan options does UnitedHealthcare offer employers?",
+      "text": "UnitedHealthcare lists a selection of medical plan options: Choice and Choice Plus; UnitedHealthcare Navigate and UnitedHealthcare Charter; Surest; Tiered benefits; NexusACO; UnitedHealthcare FlexWork; UnitedHealthcare Level Funded and All Savers Alternate Funding; a Preventive Plan; and International benefits. Options range from broad open access networks to more focused access.",
+      "topic": "Plan funding models",
+      "tags": [
+        "plan options",
+        "open access",
+        "navigate",
+        "charter",
+        "surest"
+      ],
+      "entities": [
+        "Choice Plus",
+        "Navigate",
+        "Charter",
+        "Surest",
+        "NexusACO",
+        "FlexWork",
+        "All Savers"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What medical plans does UnitedHealthcare offer to employers?",
+        "What is NexusACO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Flexible features in many medical plans",
+      "question": "Can UnitedHealthcare medical plans include out-of-network coverage?",
+      "text": "UnitedHealthcare's medical plan placemat shows options ranging from broad open access networks to more focused access. Many plans have flexible design features that allow for out-of-network coverage and additional savings opportunities for employers and employees. Brokers can use the portfolio tool to design benefit packages for their clients.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "open access",
+        "focused network",
+        "out-of-network",
+        "plan design",
+        "placemat"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do UnitedHealthcare group plans cover out-of-network care?",
+        "Is there a summary of all UnitedHealthcare medical plans for brokers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Level Funded and All Savers Alternate Funding",
+      "question": "What are Level Funded and All Savers Alternate Funding plans?",
+      "text": "UnitedHealthcare Level Funded and All Savers Alternate Funding plans are designed for more flexibility and simplicity. Because they are based on participants' actual medical claims, plans may get a surplus refund at year-end if claims are lower than expected. Benefits include more savings (exemption from many ACA regulations and state premium taxes), more stability (fixed monthly costs and safeguards against high claims) and more flexibility (plan designs, wellness programs and telemedicine at no additional cost).",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "all savers",
+        "surplus refund",
+        "aca exemption",
+        "fixed monthly cost"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded",
+        "All Savers Alternate Funding",
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is All Savers Alternate Funding?",
+        "What are the benefits of level funded plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealth Premium designation program",
+      "question": "What is the UnitedHealth Premium program?",
+      "text": "The UnitedHealth Premium designation program uses evidence-based measures to prioritize high-performing providers. Providers earn blue hearts for consistent delivery of quality care, and only then are they measured on their ability to manage costs efficiently. Designations appear in UnitedHealthcare online physician directories at myuhc.com, are for informational purposes only and should not be the sole basis for choosing a physician.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "premium designation",
+        "quality care",
+        "cost efficiency",
+        "provider directory",
+        "physician selection"
+      ],
+      "entities": [
+        "UnitedHealth Premium",
+        "myuhc.com"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What do the blue hearts mean on UnitedHealthcare provider listings?",
+        "How does UnitedHealthcare choose Premium providers?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Open access network size",
+      "question": "How large is UnitedHealthcare's open-access national network?",
+      "text": "A UnitedHealthcare open-access plan featured on the medical plans page offers a large national network with more than 1 million doctors and over 6,000 hospitals, based on UnitedHealthcare Employer & Individual network statistics ending Q2 2020. The page presents this alongside a flier on UnitedHealthcare Choice Plus.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "open access",
+        "national network",
+        "doctors",
+        "hospitals",
+        "network statistics"
+      ],
+      "entities": [
+        "Choice Plus",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many doctors are in UnitedHealthcare's open access network?",
+        "Which UnitedHealthcare plan has a large national network?"
+      ]
+    }
+  ]
+}

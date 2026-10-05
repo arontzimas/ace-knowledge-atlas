@@ -1,0 +1,206 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/health-topics/diabetes",
+  "title": "What is diabetes?",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Introduces diabetes, its common symptoms, prediabetes and type 1 and type 2 diabetes, and the role of exercise and diet.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/health-topics/diabetes/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1347733_co/container/image.coreimg.90.1280.jpeg/1775665700586/diabetes-family-cooking-dinner-560x374.jpeg",
+      "alt": "Family cooking dinner"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/health-topics/diabetes/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1347733_co_659852160/container/image.coreimg.90.1280.jpeg/1775665719908/diabetes-women-at-exercise-club-560x374.jpeg",
+      "alt": "Women at an exercise club"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "1 in 10 Americans live with diabetes",
+      "question": "What does it mean to live with diabetes?",
+      "text": "For the 1 in 10 Americans living with diabetes, it means managing blood sugar (glucose) levels. Glucose is the main source of energy for the body's cells, and insulin plays an important role in managing it. Whether newly diagnosed or living with diabetes for some time, careful diabetes management may make a world of difference.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "diabetes",
+        "blood sugar",
+        "glucose",
+        "insulin",
+        "prevalence"
+      ],
+      "entities": [
+        "diabetes",
+        "insulin"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How common is diabetes?",
+        "What is glucose?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common symptoms of diabetes",
+      "question": "What are the symptoms of diabetes?",
+      "text": "Symptoms include feeling thirsty or hungry, peeing more often, feeling tired, itchy skin, dry mouth, unintended weight loss, blurry vision, frequent infections, cuts that heal slowly, breath that smells like acetone or nail polish remover (a sign of ketones rising to unsafe levels), nausea and abdominal pain. Call your doctor right away if you have these symptoms.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "diabetes symptoms",
+        "ketones",
+        "thirst",
+        "blurry vision"
+      ],
+      "entities": [
+        "diabetes",
+        "diabetic ketoacidosis"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are early signs of diabetes?",
+        "What does diabetes feel like?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why diabetes symptoms need quick action",
+      "question": "Why should diabetes symptoms be treated quickly?",
+      "text": "Without medical intervention, a person with diabetes may suffer from damaged organs, lose consciousness and even slip into a life-threatening coma, also called diabetic ketoacidosis (DKA). Being able to act quickly may potentially save a person's life.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "diabetic ketoacidosis",
+        "DKA",
+        "emergency",
+        "organ damage"
+      ],
+      "entities": [
+        "diabetic ketoacidosis"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is diabetic ketoacidosis?",
+        "Can untreated diabetes be life-threatening?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What prediabetes is",
+      "question": "What is prediabetes?",
+      "text": "Prediabetes is when your blood sugar levels are high, but not high enough to be considered diabetes. If prediabetes is left unchecked, it can turn into type 2 diabetes. There are positive steps you can take to get prediabetes under control.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "prediabetes",
+        "blood sugar",
+        "type 2 diabetes prevention"
+      ],
+      "entities": [
+        "prediabetes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is prediabetes?",
+        "Can prediabetes turn into diabetes?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What type 1 diabetes is",
+      "question": "What is type 1 diabetes?",
+      "text": "Type 1 diabetes (T1D) is an autoimmune condition in which the body mistakenly attacks and destroys the cells in the pancreas that make insulin. It was once known as juvenile diabetes because most people diagnosed are in elementary school or are preteens. There is no way to prevent type 1 diabetes, and symptoms may appear quickly.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "type 1 diabetes",
+        "autoimmune",
+        "insulin",
+        "pancreas"
+      ],
+      "entities": [
+        "type 1 diabetes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What causes type 1 diabetes?",
+        "Can type 1 diabetes be prevented?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What type 2 diabetes is",
+      "question": "What is type 2 diabetes?",
+      "text": "Type 2 diabetes, the most common form of diabetes, is when your body does not use insulin properly. Some people are prediabetic before becoming diabetic. It used to be known as adult-onset diabetes, but today more kids are being diagnosed, possibly because of the rise in childhood obesity. No one knows exactly what causes diabetes, but there are known risk factors.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "type 2 diabetes",
+        "insulin resistance",
+        "childhood obesity",
+        "risk factors"
+      ],
+      "entities": [
+        "type 2 diabetes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is type 2 diabetes?",
+        "What is the difference between type 1 and type 2 diabetes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Exercise and diet in managing diabetes",
+      "question": "Can exercise and diet help manage or prevent diabetes?",
+      "text": "When it comes to managing, delaying or preventing diabetes, exercise and diet can both play a big role. These are two areas where you have ways to help control your health. UnitedHealthcare also offers guidance on coping with a new diabetes diagnosis and on controlling diabetes with exercise.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "diabetes management",
+        "exercise",
+        "diet",
+        "prevent diabetes"
+      ],
+      "entities": [
+        "diabetes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How can I prevent type 2 diabetes?",
+        "Does exercise help control diabetes?"
+      ]
+    }
+  ]
+}

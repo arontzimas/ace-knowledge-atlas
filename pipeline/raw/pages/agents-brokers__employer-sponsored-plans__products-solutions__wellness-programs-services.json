@@ -1,0 +1,255 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/wellness-programs-services",
+  "title": "Wellness programs and services",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare wellness programs for employers, including Real Appeal, UnitedHealthcare Rewards, One Pass Select and Quit For Life, with engagement results.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Wellness programs for whole-person well-being",
+      "question": "What do UnitedHealthcare wellness programs cover?",
+      "text": "UnitedHealthcare describes its wellness programs and services as a diverse set of solutions that support an individual's overall well-being, not just physical health. The company states they are proven to improve member health and lower costs.",
+      "topic": "Wellness programs",
+      "tags": [
+        "wellness programs",
+        "well-being",
+        "member health",
+        "lower costs",
+        "employer wellness"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What wellness programs does UnitedHealthcare offer employers?",
+        "Do wellness programs lower health costs?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Real Appeal weight loss program",
+      "question": "What is Real Appeal?",
+      "text": "Real Appeal is a UnitedHealthcare weight loss program that delivers better health opportunities to members' doorsteps, including a complimentary kit of weight loss resources and online coaching. UnitedHealthcare reports it has helped more than 900,000 participants, with an average of 3.4% body weight loss per person.",
+      "topic": "Wellness programs",
+      "tags": [
+        "real appeal",
+        "weight loss",
+        "online coaching",
+        "body weight",
+        "wellness"
+      ],
+      "entities": [
+        "Real Appeal"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does Real Appeal include?",
+        "How much weight do Real Appeal participants lose on average?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "88% lost weight with Real Appeal",
+      "question": "What percentage of Real Appeal participants lost weight?",
+      "text": "UnitedHealthcare reports that 88% lost weight with Real Appeal. The figure comes from its book of business through May 2022 and a cohort of participants at risk who were in the program 26+ weeks and attended 9+ ILIs (N > 50,000).",
+      "topic": "Wellness programs",
+      "tags": [
+        "real appeal",
+        "weight loss results",
+        "book of business",
+        "participants",
+        "outcomes"
+      ],
+      "entities": [
+        "Real Appeal"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How effective is Real Appeal?",
+        "What does 88% weight loss with Real Appeal mean?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "UnitedHealthcare Rewards incentive program",
+      "question": "What is UnitedHealthcare Rewards?",
+      "text": "UnitedHealthcare Rewards is an incentive program that rewards employees with dollars for tracking steps or sleep, getting an annual checkup and more. Employees choose their activities as well as how to spend their earnings. The company reports that 94% of first-time participants earned a reward and 70% have paired a device to engage in weekly and daily challenges (UHC Rewards book of business, 2023).",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "uhc rewards",
+        "incentives",
+        "steps",
+        "annual checkup",
+        "wearable devices"
+      ],
+      "entities": [
+        "UnitedHealthcare Rewards",
+        "UHC Rewards"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do employees earn UnitedHealthcare Rewards?",
+        "What percent of first-time Rewards users earn a reward?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "One Pass Select fitness benefit",
+      "question": "What is One Pass Select?",
+      "text": "One Pass Select is a subscription-based program that helps employees prioritize health and wellness through a low-cost, extensive nationwide gym network and digital fitness offerings. UnitedHealthcare reports 76% engagement and an average 20% savings on retail gym memberships.",
+      "topic": "Wellness programs",
+      "tags": [
+        "one pass select",
+        "fitness",
+        "gym membership",
+        "digital fitness",
+        "engagement"
+      ],
+      "entities": [
+        "One Pass Select"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What is One Pass Select?",
+        "How much does One Pass Select save on gym memberships?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Quit For Life tobacco cessation program",
+      "question": "What is Quit For Life?",
+      "text": "Quit For Life is a clinically proven tobacco cessation program that gives participants a personal action plan, confidential coaching and other resources to help them quit tobacco. UnitedHealthcare reports that 50% quit tobacco, and that over 30+ years the program has helped more than 6 million participants, with 93% participant satisfaction.",
+      "topic": "Wellness programs",
+      "tags": [
+        "quit for life",
+        "tobacco cessation",
+        "coaching",
+        "quit rate",
+        "satisfaction"
+      ],
+      "entities": [
+        "Quit For Life"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "How does Quit For Life help people stop smoking?",
+        "What is the quit rate for Quit For Life?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "How Quit For Life defines quit success",
+      "question": "How is quit-rate success measured in Quit For Life?",
+      "text": "UnitedHealthcare's Quit For Life results are measured among responders to a survey at 6 months post-program enrollment, with quit-rate success defined as 30+ days of abstinence from all forms of tobacco. The figures use employer book-of-business cumulative results from 2006 through Q1 2024.",
+      "topic": "Wellness programs",
+      "tags": [
+        "quit for life",
+        "quit rate",
+        "tobacco",
+        "survey",
+        "methodology"
+      ],
+      "entities": [
+        "Quit For Life"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What counts as quitting in the Quit For Life program?",
+        "When is Quit For Life success measured?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Employee Assistance Program support",
+      "question": "What does the Employee Assistance Program (EAP) offer?",
+      "text": "The Employee Assistance Program (EAP) is designed for support when employees and their families are feeling anxious and do not know where to turn. A no-cost call connects them to an EAP specialist who will listen to their concerns and refer them to expert care and resources if needed.",
+      "topic": "Behavioral health",
+      "tags": [
+        "eap",
+        "mental health support",
+        "no-cost",
+        "specialist",
+        "family support"
+      ],
+      "entities": [
+        "Employee Assistance Program",
+        "EAP"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Is the EAP free for employees?",
+        "Who answers an EAP call?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Boosting wellness benefit engagement",
+      "question": "Why do in-demand wellness benefits see low engagement?",
+      "text": "UnitedHealthcare notes that in-demand wellness benefits are seeing low engagement and says employers play a vital role in getting employees to use their benefits. It says encouraging engagement through education and incentives is a win-win for all, and links to an article on how employers can boost wellness benefit engagement.",
+      "topic": "Wellness programs",
+      "tags": [
+        "engagement",
+        "wellness benefits",
+        "education",
+        "incentives",
+        "utilization"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How can employers get employees to use wellness benefits?",
+        "Why is wellness program engagement low?"
+      ]
+    }
+  ]
+}

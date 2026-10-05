@@ -1,0 +1,275 @@
+{
+  "url": "https://www.uhc.com/member-resources/pharmacy-benefits",
+  "title": "Pharmacy and prescription drug benefits",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Overview of how members use pharmacy benefits, including Prescription Drug Lists, drug tiers, network pharmacies, home delivery and Optum Rx.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/young-pharmacist-filling-prescription-desktop.jpg",
+      "alt": "Young pharmacist filling a prescription"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Prescription Drug List (PDL)",
+      "question": "What is a Prescription Drug List?",
+      "text": "A prescription drug benefit includes a list of medications covered by the plan, called a Prescription Drug List (PDL). It may also be called a formulary or drug list. When a doctor prescribes a medication, the member should check the PDL to see if it is covered.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "pdl",
+        "formulary",
+        "drug list",
+        "covered medications"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "Formulary"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is a formulary?",
+        "How do I know if my medication is covered?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Prescription drug tiers",
+      "question": "What are prescription drug tiers?",
+      "text": "Drug tiers group medications by value and cost. Tier 1 medications provide the highest overall value, are mostly generic and cost $. Tier 2 medications provide good overall value, are mainly preferred brand-name drugs and cost $$. Tier 3 medications provide the lowest overall value and cost $$$, and many have lower-cost options in Tiers 1 or 2, so members should ask their doctor.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "drug tiers",
+        "generic drugs",
+        "preferred brand",
+        "tier 1",
+        "tier 3"
+      ],
+      "entities": [
+        "Drug tiers"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "What does Tier 1 mean for prescriptions?",
+        "Why does my brand-name drug cost more?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Ask about lower-cost medication options",
+      "question": "How can I lower prescription costs?",
+      "text": "If a prescribed medication is in a higher cost tier, a member can ask their doctor whether a lower-cost option will work. A similar drug or generic version can often work just as well. UnitedHealthcare also notes pharmacy programs that may be available to help members save on costs.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "lower cost",
+        "generic",
+        "cost tier",
+        "savings"
+      ],
+      "entities": [
+        "Generic drugs"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "How do I save money on my prescriptions?",
+        "Can I ask for a generic drug?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Prior authorization for some medications",
+      "question": "Do some medications need prior authorization?",
+      "text": "Some medications need prior authorization, which means the doctor must explain why the member needs the drug and then the plan decides how or if it will cover it. To start the prior authorization process, the member can call the number on their member ID card.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "medication coverage",
+        "member id card",
+        "doctor"
+      ],
+      "entities": [
+        "Prior authorization"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I start prior authorization for a prescription?",
+        "Why does my medication need prior authorization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "PDLs can change",
+      "question": "How often does a Prescription Drug List change?",
+      "text": "A Prescription Drug List may change. Members with prescriptions they take regularly should review their PDL regularly and watch for notifications about PDL updates and possible cost changes.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "pdl changes",
+        "notifications",
+        "cost changes",
+        "review"
+      ],
+      "entities": [
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can my drug list change?",
+        "How will I know if my medication coverage changes?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What Optum Rx is",
+      "question": "What is Optum Rx?",
+      "text": "Optum Rx is the UnitedHealthcare pharmacy service provider that members may see named on their prescription benefits. It offers coverage through a large network of retail chain pharmacies and independent pharmacies, and through its mail order pharmacy, Optum Home Delivery.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "optum rx",
+        "pharmacy network",
+        "mail order",
+        "optum home delivery"
+      ],
+      "entities": [
+        "Optum Rx",
+        "Optum Home Delivery"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Who is Optum Rx?",
+        "Why does Optum Rx appear on my prescription card?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Find a network pharmacy",
+      "question": "How do I find a network pharmacy?",
+      "text": "Choosing a network pharmacy may help a member save on medication costs. Members can sign in to their member account to view the list of pharmacies in their plan's network. UnitedHealthcare also links to a search of the Optum Rx pharmacy network and says to confirm a plan's specific coverage details before filling a prescription.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "network pharmacy",
+        "pharmacy search",
+        "optum rx",
+        "save money"
+      ],
+      "entities": [
+        "Optum Rx"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I find an in-network pharmacy?",
+        "Does using a network pharmacy save money?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Home delivery of prescriptions",
+      "question": "How do I set up home delivery for prescriptions?",
+      "text": "With some plans, members can fill prescriptions at a participating network pharmacy or with home delivery. Plans that include home delivery help members avoid regular trips to the pharmacy and may save money. Members can enroll through their online account or by calling the number on their member ID card.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "home delivery",
+        "mail order",
+        "enroll",
+        "member id card"
+      ],
+      "entities": [
+        "Optum Home Delivery"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I get my prescriptions delivered?",
+        "How do I enroll in home delivery?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Optum Specialty Pharmacy delivery",
+      "question": "How does Optum Specialty Pharmacy deliver medications?",
+      "text": "Optum Specialty Pharmacy offers convenient delivery of medications directly to members using experienced carriers. If medications require special handling or refrigeration, they are packed and shipped accordingly. There is no cost for standard shipping or handling.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "specialty pharmacy",
+        "delivery",
+        "refrigeration",
+        "no shipping cost"
+      ],
+      "entities": [
+        "Optum Specialty Pharmacy"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is shipping free with Optum Specialty Pharmacy?",
+        "How are refrigerated medications shipped?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Pharmacy information for specific plans",
+      "question": "Where do I find pharmacy information for Medicare, ACA or Oxford plans?",
+      "text": "UnitedHealthcare provides separate pharmacy information pages for specific plans: Medicare prescription drug coverage, ACA Marketplace plans and Oxford plans (including the Oxford pharmacy network). Members can also shop over-the-counter products and everyday essentials through Optum Now.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "medicare prescription drug",
+        "aca marketplace",
+        "oxford",
+        "over-the-counter",
+        "optum now"
+      ],
+      "entities": [
+        "Medicare",
+        "ACA Marketplace",
+        "Oxford",
+        "Optum Now"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Where is pharmacy information for Oxford plans?",
+        "Where can I buy over-the-counter items with Optum?"
+      ]
+    }
+  ]
+}

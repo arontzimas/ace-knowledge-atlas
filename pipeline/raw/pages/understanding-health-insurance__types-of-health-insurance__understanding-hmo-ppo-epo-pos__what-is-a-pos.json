@@ -1,0 +1,230 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-a-pos",
+  "title": "What's a POS health plan?",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Explains how a point of service plan works, its referral and PCP rules, advantages, costs, and comparison with PPO and HMO plans.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-a-pos/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324764988/pos-health-plan-family-desktop-912x608.jpeg",
+      "alt": "Family (POS health plan)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is a POS health plan?",
+      "question": "What is a point of service (POS) plan?",
+      "text": "A point of service (POS) plan is a less common type of health insurance that partners with a group of clinics, hospitals and doctors to provide care. A person pays less out of pocket for care within the network. Many POS plans require coordination with a primary care provider (PCP) for treatment and referrals. A POS may suit someone who wants flexibility to see out-of-network providers, is comfortable paying more, and already works with a PCP.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS",
+        "point of service",
+        "PCP",
+        "network",
+        "out-of-network"
+      ],
+      "entities": [
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a POS plan?",
+        "Who is a POS plan good for?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why it is called point of service",
+      "question": "Why is it called a point-of-service plan?",
+      "text": "These plans are known as point-of-service plans because each time a person needs health care, which is the time or point of service, they can decide to stay in-network and let their primary care physician manage care, or go outside the network and seek care from a doctor of their choosing.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS",
+        "point of service",
+        "in-network",
+        "out-of-network"
+      ],
+      "entities": [
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why is it called a POS plan?",
+        "Can I choose in or out of network each time?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How does a POS plan work?",
+      "question": "How does a POS plan work?",
+      "text": "POS plans have similarities to both PPO and HMO plans. Like a PPO, POS insurance offers the flexibility to see any provider, but at an added cost, and staying in the network saves money on copays or coinsurance. The only exception is emergency care, which the plan covers in or out of network. Like an HMO, a POS plan requires working with a PCP to coordinate treatment and referrals to specialists, and sometimes for out-of-network providers.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS",
+        "PCP",
+        "referral",
+        "copay",
+        "coinsurance",
+        "emergency"
+      ],
+      "entities": [
+        "POS",
+        "PPO",
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do POS plans work?",
+        "Does a POS cover out-of-network emergencies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of a POS plan",
+      "question": "What are the advantages of a POS plan?",
+      "text": "POS health insurance offers flexibility in provider choice, but may come with some hoops to jump through, like referrals. The three biggest advantages of a POS plan are out-of-network coverage, more providers to choose from, and, if preapprovals are needed, that the PCP takes care of them.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS advantages",
+        "out-of-network coverage",
+        "preapproval",
+        "provider choice"
+      ],
+      "entities": [
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the pros of a POS plan?",
+        "Does a PCP handle preapprovals on a POS?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "POS plan cost considerations",
+      "question": "How much does a POS plan cost compared with HMO and PPO?",
+      "text": "Typically, POS plan premiums are higher than HMOs, but lower than PPOs. Other cost considerations include how much care a person or family might need during the plan year, and how often they might see specialists or out-of-network providers.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "POS cost",
+        "premium",
+        "HMO",
+        "PPO",
+        "specialists"
+      ],
+      "entities": [
+        "POS",
+        "HMO",
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Are POS premiums higher than HMO?",
+        "Is a POS cheaper than a PPO?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "POS vs. PPO plans",
+      "question": "What is the difference between a POS and a PPO plan?",
+      "text": "Generally, POS and PPO plans have two main differences. Unlike PPO plans, many POS plans require choosing a PCP to help manage care. And many POS plans require referrals to see specialists or some out-of-network providers.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS vs PPO",
+        "PCP",
+        "referral",
+        "specialist"
+      ],
+      "entities": [
+        "POS",
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How is a POS different from a PPO?",
+        "What are the main differences between POS and PPO plans?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "POS vs. PPO vs. HMO at a glance",
+      "question": "How do POS, PPO and HMO plans compare on cost, referrals and PCP?",
+      "text": "On cost, POS has a lower monthly premium, PPO a higher monthly premium, and HMO usually lower premiums. Referrals are needed for POS and HMO, not PPO. Out-of-network care is covered under POS and PPO, not HMO. A primary care provider is required under POS and HMO, not PPO.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS",
+        "PPO",
+        "HMO",
+        "comparison",
+        "premium",
+        "referral"
+      ],
+      "entities": [
+        "POS",
+        "PPO",
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "POS vs PPO vs HMO comparison",
+        "Which plan types require a primary care provider?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do I need a referral with a POS plan?",
+      "question": "Do I need a referral with a POS plan?",
+      "text": "Yes. To schedule an appointment with a specialist, POS plans require a referral from the primary care provider. A referral may also be needed for some out-of-network providers. For example, to see a dermatologist, the PCP has to submit a referral before an appointment can be scheduled.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS referral",
+        "specialist",
+        "dermatologist",
+        "PCP"
+      ],
+      "entities": [
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does a POS plan require referrals?",
+        "Do I need a referral to see a dermatologist on a POS plan?"
+      ]
+    }
+  ]
+}

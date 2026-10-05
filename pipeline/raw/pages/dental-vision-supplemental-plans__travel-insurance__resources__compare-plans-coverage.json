@@ -1,0 +1,178 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/compare-plans-coverage",
+  "title": "Compare SafeTrip travel insurance plans and coverage options",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "guide",
+  "summary": "Compares SafeTrip Travel Protection, International Travel Medical and International Travel Medical Plus coverage in a plan-by-plan table.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/compare-plans-coverage/_jcr_content/root/regioncontainer-main/responsivegrid/container/containerfloatingcon/image.coreimg.90.1280.jpeg/1776378684490/comparison-woman-looking-at-sunset-desktop-1028x540.jpeg",
+      "alt": "Woman looking at a sunset"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "How to approach comparing SafeTrip plans",
+      "question": "How should I compare travel insurance plans?",
+      "text": "When comparing travel insurance, SafeTrip says to first consider where the trip is headed, because trips within the United States (domestic travel) are covered by different plans than international trips. Next, think about which problems and emergencies to cover: some plans cover travel issues like delays and cancellations, others cover medical needs in foreign countries, and the most comprehensive plans cover both.",
+      "topic": "Travel insurance",
+      "tags": [
+        "compare plans",
+        "domestic vs international",
+        "coverage needs",
+        "travel issues"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How do I compare travel insurance plans?",
+        "What should I think about before choosing travel insurance?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Three SafeTrip plan types at a glance",
+      "question": "What are the differences among Travel Protection, International Travel Medical and Plus plans?",
+      "text": "Travel Protection is for trips entirely within the United States and reimburses problems such as delayed or lost baggage, delayed flights and cancellations. International Travel Medical fills the gap when standard health insurance likely does not cover a traveler in other countries, including on cruises. International Travel Medical Plus is the most comprehensive, covering both travel problems and medical needs on international trips, including cruises.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel protection",
+        "international travel medical",
+        "plus plan",
+        "cruise coverage"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Which SafeTrip plan is the most comprehensive?",
+        "Does International Travel Medical cover cruises?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Trip protection coverage by plan",
+      "question": "Which SafeTrip plans cover trip cancellation, interruption, delay and baggage?",
+      "text": "In the plan comparison table, trip cancellation, trip interruption and trip delay coverage are marked for Travel Protection and International Travel Medical Plus, but not for International Travel Medical. Baggage loss and delay and travel assistance services are marked for all three plans.",
+      "topic": "Travel insurance",
+      "tags": [
+        "trip cancellation",
+        "trip interruption",
+        "baggage loss",
+        "travel assistance",
+        "plan table"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Does International Travel Medical cover trip cancellation?",
+        "Which plans include baggage coverage?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Medical coverage by plan",
+      "question": "Which SafeTrip plans cover medical care, evacuation and dental?",
+      "text": "In the comparison table, accidental death and dismemberment is marked for all three plans. Accident and sickness coverage, emergency dental benefits, medical evacuation, emergency reunion and medical repatriation are marked for International Travel Medical and International Travel Medical Plus, but not for Travel Protection.",
+      "topic": "Travel insurance",
+      "tags": [
+        "accident and sickness",
+        "emergency dental",
+        "medical evacuation",
+        "medical repatriation",
+        "ad&d"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Does Travel Protection cover medical evacuation?",
+        "Which SafeTrip plans include emergency dental?",
+        "What is medical repatriation coverage?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Additional services and optional add-ons by plan",
+      "question": "Which SafeTrip plans include virtual visits and optional add-ons?",
+      "text": "The comparison table marks service animal boarding, virtual visits and destination profiles for International Travel Medical and International Travel Medical Plus. Optional rental car damage is marked for Travel Protection and Plus. Optional extreme sports activities coverage is marked for International Travel Medical and Plus. Optional sporting equipment loss and delay is marked for Plus only.",
+      "topic": "Travel insurance",
+      "tags": [
+        "virtual visits",
+        "service animal boarding",
+        "optional add-ons",
+        "destination profiles"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Does SafeTrip include virtual doctor visits?",
+        "Which plan allows sporting equipment coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Health insurance and international trips",
+      "question": "Does my health insurance work internationally?",
+      "text": "SafeTrip says most standard health insurance plans likely do not cover a traveler in other countries. International Travel Medical plans fill that gap by providing health coverage on international trips, including cruises.",
+      "topic": "Travel insurance",
+      "tags": [
+        "health insurance abroad",
+        "international travel medical",
+        "cruise",
+        "coverage gap"
+      ],
+      "entities": [
+        "International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Will my regular health insurance cover me overseas?",
+        "Do I need travel medical insurance for a cruise?"
+      ]
+    }
+  ]
+}

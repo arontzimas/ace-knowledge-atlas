@@ -1,0 +1,319 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/er-redirection-strategies",
+  "title": "ER impact: 3 ways to help employers manage ER utilization",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Describes three strategies employers can use to redirect non-emergent ER visits to appropriate, lower-cost care settings, with UnitedHealthcare data and a case example.",
+  "published": "2026-04-01",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/images/mother-holding-child-during-doctors-visit-1200x627.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Mother holding child during a doctor's visit"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/pdfs/costmgmt-er-redirection-article.pdf",
+      "alt": "Download this article (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Emergent ER visits are rising",
+      "question": "Are emergency room visits increasing?",
+      "text": "Emergent visits increased 6% and accounted for two-thirds of all emergency department visits between the third quarter of 2024 and the second quarter of 2025, and this trend is expected to continue over the next decade. By 2035, overall emergency department visits are projected to grow 5%, largely driven by an anticipated 8% rise in emergent visits.",
+      "topic": "Cost management",
+      "tags": [
+        "ER utilization",
+        "emergent visits",
+        "trend",
+        "emergency department"
+      ],
+      "entities": [
+        "emergency room"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How fast are ER visits growing?",
+        "What share of ER visits are emergent?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "ER visits cost far more than other settings",
+      "question": "How much more does the ER cost than urgent care?",
+      "text": "The ER serves a critical function but comes with a much higher price tag than other care settings. About $8.3B is spent annually on ER trips that could have been treated more cost-effectively elsewhere. A non-emergent ER visit tends to cost UnitedHealthcare clients and members 10 times more than an urgent care visit.",
+      "topic": "Cost management",
+      "tags": [
+        "ER cost",
+        "urgent care",
+        "non-emergent",
+        "$8.3B",
+        "site of care"
+      ],
+      "entities": [
+        "emergency room",
+        "urgent care"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "How much does a non-emergent ER visit cost compared with urgent care?",
+        "How much is spent on avoidable ER visits?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Low health care literacy raises ER use 3.7 times",
+      "question": "How does health care literacy affect ER use?",
+      "text": "Generally healthy people with low health care literacy were 3.7 times more likely to visit the ER than those with high health care knowledge. Low health care literacy means lacking understanding about how to access and use health care benefits. UnitedHealthcare says boosting health care knowledge may be critical to helping employees maximize benefits and manage costs.",
+      "topic": "Cost management",
+      "tags": [
+        "health care literacy",
+        "ER use",
+        "benefits education",
+        "3.7x"
+      ],
+      "entities": [
+        "health care literacy"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why do people with low health literacy use the ER more?",
+        "How much more likely is ER use with low health literacy?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why employees choose the ER",
+      "question": "Why do employees go to the ER for non-emergencies?",
+      "text": "Employees may go to the ER by default, assuming they can receive prompt treatment. Other reasons include a limited understanding of benefits coverage, a belief that treatment will be quicker, or insufficient access to alternative health care options nearby. UnitedHealthcare's Craig Kurtzweil notes these decisions are often made in the moment, which is why the employer as educator role is so important.",
+      "topic": "Cost management",
+      "tags": [
+        "ER default",
+        "benefits understanding",
+        "access to care",
+        "employer as educator"
+      ],
+      "entities": [
+        "emergency room"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why do people choose the ER over urgent care?",
+        "What drives non-emergent ER visits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 1: Educate employees on appropriate ER use",
+      "question": "How can employers educate employees about where to go for care?",
+      "text": "Employers can dedicate time in employee meetings or email communications to topics such as network versus out-of-network providers, how prior authorizations can give insight into upcoming costs, and where to go for care based on different needs. Education should continue throughout the plan year, not only at open enrollment. Best practices include varying communications by preference, listening to feedback, reviewing claims data, aligning messages to timely topics and diversifying tactics.",
+      "topic": "Cost management",
+      "tags": [
+        "benefits education",
+        "open enrollment",
+        "site of care",
+        "communications",
+        "claims data"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What should employers teach employees about ER use?",
+        "How often should benefits education happen?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Case example: trucking company ER education campaign",
+      "question": "Did an ER education campaign reduce non-emergent visits?",
+      "text": "A trucking company with high ER usage and low virtual visit rates worked with UnitedHealthcare on an education campaign using direct mail, email and a magnet for the truck cabin listing appropriate care options. The goal was to divert non-emergent ER visits to urgent care and primary care. Preliminary results showed a 17% decrease in non-emergent visits.",
+      "topic": "Cost management",
+      "tags": [
+        "case study",
+        "ER education",
+        "trucking",
+        "direct mail",
+        "17% decrease"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there an example of reducing ER visits through education?",
+        "What results came from the ER education campaign?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 2: Improve access to alternative care settings",
+      "question": "How can employers improve access to alternatives to the ER?",
+      "text": "ER use can fall when employers address access-to-care challenges, including nonmedical factors such as economic stability, education and neighborhoods. Where care options are limited, employers can adopt a network strategy that includes a robust virtual network or on-demand care. Wellness incentive programs that offer low- to no-cost preventive screenings can encourage employees to establish an in-person or virtual relationship with a primary care provider.",
+      "topic": "Cost management",
+      "tags": [
+        "access to care",
+        "virtual network",
+        "primary care provider",
+        "wellness incentives",
+        "network strategy"
+      ],
+      "entities": [
+        "primary care provider",
+        "virtual care"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How can employers reduce ER use in areas with few care options?",
+        "Does having a PCP reduce ER visits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategy 3: Carrier support to navigate care",
+      "question": "How does UnitedHealthcare help members use the right care setting?",
+      "text": "By analyzing member claim data, UnitedHealthcare Advocates can proactively identify at-risk members with complex conditions and provide one-on-one support, including directing them to appropriate sites of care or enrolling them in care management programs. Members enrolled in Complex Care Concierge saw a 10% drop in ER visits.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "Advocates",
+        "complex care",
+        "claims data",
+        "care management",
+        "10% drop in ER visits"
+      ],
+      "entities": [
+        "UnitedHealthcare Advocates",
+        "Complex Care Concierge"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is Complex Care Concierge?",
+        "How do Advocates reduce ER visits?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Predictive model redirected 3,100 ER visits",
+      "question": "How much did UnitedHealthcare's ER campaign save?",
+      "text": "UnitedHealthcare scored members on their likelihood of using the ER for non-emergent care, using diagnosis and claims history, ER utilization, demographics, plan information and other variables. Members with a high likelihood were targeted with a 2024 communications campaign. The campaign redirected 3,100 ER visits and produced an estimated $7.6M in cost savings.",
+      "topic": "Cost management",
+      "tags": [
+        "predictive model",
+        "ER redirection",
+        "$7.6M savings",
+        "3,100 visits",
+        "campaign"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How many ER visits were redirected in the campaign?",
+        "What savings come from ER redirection?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Post-ER-visit outreach process",
+      "question": "What happens after a member visits the ER?",
+      "text": "UnitedHealthcare has a post-ER-visit strategy in which Advocates reach out after a member seeks ER care. 1) Real-time Admit Discharge Transfer (ADT) alerts trigger outreach. 2) A registered nurse contacts the member within a short time of discharge. 3) The nurse answers post-visit questions, connects the member to a PCP or specialist for follow-up, and explains other site-of-care options for future needs.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "ADT alerts",
+        "post-ER follow-up",
+        "nurse outreach",
+        "Advocates",
+        "discharge"
+      ],
+      "entities": [
+        "Admit Discharge Transfer alerts",
+        "UnitedHealthcare Advocates"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an ADT alert?",
+        "Does UnitedHealthcare follow up after an ER visit?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Lower total cost of care versus benchmarks",
+      "question": "Does UnitedHealthcare lower total cost of care?",
+      "text": "A third-party study found UnitedHealthcare delivered a more than 11% lower total cost of care for employers compared with national benchmarks. Contributing to the savings were lower-than-average outpatient costs, likely driven by efforts to navigate members from higher-cost settings like the ER toward lower-cost settings when appropriate.",
+      "topic": "Cost management",
+      "tags": [
+        "total cost of care",
+        "benchmark",
+        "outpatient costs",
+        "11% lower"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "How much lower is UnitedHealthcare's total cost of care?",
+        "What drives lower outpatient costs?"
+      ]
+    }
+  ]
+}

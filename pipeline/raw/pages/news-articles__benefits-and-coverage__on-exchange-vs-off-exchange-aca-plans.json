@@ -1,0 +1,228 @@
+{
+  "url": "https://www.uhc.com/news-articles/benefits-and-coverage/on-exchange-vs-off-exchange-aca-plans",
+  "title": "On-exchange vs. off-exchange ACA Marketplace plans",
+  "domain": "Individual & Family",
+  "page_type": "article",
+  "summary": "Article contrasting on-exchange and off-exchange ACA plans, including subsidy eligibility, ICHRA and QSEHRA reimbursement, and when off-exchange plans may make sense.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/benefits-and-coverage/on-exchange-vs-off-exchange-aca-plans/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.png/1728325029537/2025-onexchange-vs-offexchange-16x9.png",
+      "alt": "On-exchange versus off-exchange ACA plans illustration"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What are ACA Marketplace plans?",
+      "question": "What is an ACA Marketplace plan?",
+      "text": "ACA Marketplace plans are health care plans that people can buy on their own, rather than through an employer or another government-run program, like Medicare or Medicaid. The article explains that these plans can be bought either on-exchange or off-exchange.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "aca marketplace",
+        "individual plans",
+        "on-exchange",
+        "off-exchange"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an ACA plan?",
+        "Can I buy ACA plans outside the Marketplace?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "On-exchange ACA plans",
+      "question": "What is an on-exchange ACA plan?",
+      "text": "On-exchange plans are plans that you purchase through the health insurance Marketplace. These plans are ACA-compliant, meaning they must cover 10 essential health benefits. If you shop on-exchange you may be eligible for financial help in the form of monthly premium subsidies and cost-sharing reductions, which can significantly lower what you pay each month and your out-of-pocket costs when you receive care.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "on-exchange",
+        "essential health benefits",
+        "premium subsidies",
+        "cost-sharing reductions"
+      ],
+      "entities": [
+        "essential health benefits",
+        "premium subsidies",
+        "cost-sharing reductions"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does on-exchange mean?",
+        "Do on-exchange plans qualify for subsidies?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Off-exchange ACA plans",
+      "question": "What is an off-exchange ACA plan?",
+      "text": "Off-exchange plans are health insurance plans you buy directly from an insurance company or broker, outside of the health insurance Marketplace. They still fall under ACA compliance, providing minimum coverage and essential health benefits, but may offer more flexibility in coverage options. One of the biggest differences is that you won't be eligible for the premium subsidies and cost-sharing reductions available with on-exchange plans.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "off-exchange",
+        "direct from insurer",
+        "broker",
+        "no subsidies",
+        "aca-compliant"
+      ],
+      "entities": [
+        "off-exchange plans",
+        "essential health benefits"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an off-exchange plan?",
+        "Are off-exchange plans ACA compliant?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "On-exchange versus off-exchange at a glance",
+      "question": "How do on-exchange and off-exchange ACA plans differ?",
+      "text": "On-exchange plans are bought through the health insurance Marketplace and may come with premium subsidies and cost-sharing reductions. Off-exchange plans are bought directly from an insurance company or broker and are not eligible for those subsidies, but may offer more flexibility in coverage options. Both are ACA-compliant. The article labels on-exchange as subsidy smart and off-exchange as more options.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "on-exchange vs off-exchange",
+        "subsidies",
+        "flexibility",
+        "aca-compliant"
+      ],
+      "entities": [
+        "on-exchange plans",
+        "off-exchange plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "On-exchange vs off-exchange: which is better?",
+        "Which type of ACA plan gets subsidies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Off-exchange plans for high earners",
+      "question": "When do off-exchange plans make sense for high earners?",
+      "text": "If your income disqualifies you from Marketplace subsidies, off-exchange plans could offer comparable coverage, without the subsidy factored in, at a potentially lower premium. UnitedHealthcare lists being a high earner as one situation where an off-exchange plan might be a good fit.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "off-exchange",
+        "high earner",
+        "no subsidy",
+        "premium"
+      ],
+      "entities": [
+        "off-exchange plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I buy off-exchange if I earn too much for subsidies?",
+        "Can an off-exchange plan have a lower premium?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Off-exchange plans with employer reimbursement",
+      "question": "Why do ICHRA and QSEHRA users shop off-exchange?",
+      "text": "Individual coverage health reimbursement arrangements (ICHRA) and qualified small employer health reimbursement arrangements (QSEHRA) allow employers to reimburse employees for some or all of the premiums for health insurance they purchase on their own. Most people who are offered an ICHRA or QSEHRA will not qualify for subsidies and will likely need to shop off-exchange plans.",
+      "topic": "Plans through work",
+      "tags": [
+        "ichra",
+        "qsehra",
+        "employer reimbursement",
+        "off-exchange",
+        "subsidies"
+      ],
+      "entities": [
+        "ICHRA",
+        "QSEHRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need an off-exchange plan if my employer offers an ICHRA?",
+        "Can I get subsidies with a QSEHRA?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Off-exchange plans for specific coverage needs",
+      "question": "Can off-exchange plans offer a wider variety of options?",
+      "text": "Shopping off-exchange plans can offer a wider variety of options for those looking for different plans, one of three situations the article lists where off-exchange may be a good fit; the others are being a high earner or having employer reimbursement. UnitedHealthcare advises considering factors like network coverage, premiums, deductibles and out-of-pocket costs.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "off-exchange",
+        "plan variety",
+        "network",
+        "deductibles",
+        "out-of-pocket costs"
+      ],
+      "entities": [
+        "off-exchange plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What should I compare when shopping off-exchange?",
+        "Do off-exchange plans have more plan options?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No-cost help choosing an ACA plan",
+      "question": "Does UnitedHealthcare offer help choosing between on- and off-exchange plans?",
+      "text": "Whether you're looking for a subsidy-eligible on-exchange plan or an ICHRA-eligible off-exchange plan, UnitedHealthcare says it can help guide you through your choices. With an easy online enrollment process, UnitedHealthcare offers no-cost 1-on-1 help finding a plan to fit your needs.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "1-on-1 help",
+        "online enrollment",
+        "no cost",
+        "plan guidance"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Is there free help choosing an ACA plan?",
+        "Can I get one-on-one help enrolling?"
+      ]
+    }
+  ]
+}

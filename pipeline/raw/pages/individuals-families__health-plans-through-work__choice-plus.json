@@ -1,0 +1,144 @@
+{
+  "url": "https://www.uhc.com/individuals-families/health-plans-through-work/choice-plus",
+  "title": "UnitedHealthcare Choice Plus plans",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare Choice Plus employer-sponsored health plans, which allow visits to network specialists without a PCP referral and include out-of-network coverage, plus covered services and member app access.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What are Choice Plus plans?",
+      "question": "What is a UnitedHealthcare Choice Plus plan?",
+      "text": "With UnitedHealthcare Choice Plus health plans, you have the freedom to choose a network physician or specialist from the UnitedHealthcare Choice Plus network without visiting a primary care provider (PCP) for a referral. You save money when you use the national network.",
+      "topic": "Plans through work",
+      "tags": [
+        "choice plus",
+        "no referral",
+        "network",
+        "pcp",
+        "specialist"
+      ],
+      "entities": [
+        "UnitedHealthcare Choice Plus",
+        "primary care provider"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a referral on a Choice Plus plan?",
+        "What is a Choice Plus health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Out-of-network coverage on Choice Plus",
+      "question": "Does Choice Plus cover out-of-network providers?",
+      "text": "With UnitedHealthcare Choice Plus health plans, you also have coverage if you use out-of-network providers, while you save money when you use the national network. You can choose a network physician or specialist from the Choice Plus network without visiting a primary care provider (PCP) for a referral.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "choice plus",
+        "out-of-network",
+        "national network",
+        "coverage"
+      ],
+      "entities": [
+        "UnitedHealthcare Choice Plus"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I go out of network with Choice Plus?",
+        "Is out-of-network care covered on Choice Plus plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Services covered by Choice Plus plans",
+      "question": "What services do Choice Plus plans cover?",
+      "text": "Choice Plus plans provide well-rounded coverage for many services, including preventive care (100% at network facility), physician and specialist office visits, lab, X-ray and diagnostic services, urgent care and emergency services, inpatient hospital services, rehabilitation and skilled nursing facility services, and mental health services.",
+      "topic": "Plans through work",
+      "tags": [
+        "covered services",
+        "preventive care",
+        "urgent care",
+        "inpatient",
+        "mental health"
+      ],
+      "entities": [
+        "UnitedHealthcare Choice Plus"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is preventive care free on Choice Plus?",
+        "Does Choice Plus cover mental health services?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Health and wellness resources with Choice Plus",
+      "question": "What wellness resources are included with Choice Plus?",
+      "text": "An array of health and wellness resources is included with UnitedHealthcare Choice Plus plans, alongside covered services such as preventive care, physician and specialist office visits and mental health services. The resources named on the page are the Online Health Assessment, Personal Health Record and Online Health Coaching modules.",
+      "topic": "Wellness programs",
+      "tags": [
+        "online health assessment",
+        "personal health record",
+        "health coaching",
+        "wellness"
+      ],
+      "entities": [
+        "Online Health Assessment",
+        "Personal Health Record",
+        "Online Health Coaching"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is the Online Health Assessment?",
+        "Does Choice Plus include health coaching?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Managing Choice Plus benefits in the app",
+      "question": "How do Choice Plus members manage their benefits?",
+      "text": "Choice Plus members can use the UnitedHealthcare app on a mobile device for instant access to see benefits, manage health plan details, find network providers and more. Members can also sign in to their member account or use a mobile browser.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "member account",
+        "manage benefits",
+        "find providers"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there an app for Choice Plus members?",
+        "How do I sign in to my Choice Plus account?"
+      ]
+    }
+  ]
+}

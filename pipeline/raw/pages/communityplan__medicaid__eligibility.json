@@ -1,0 +1,262 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/eligibility",
+  "title": "Medicaid Eligibility",
+  "domain": "Medicaid",
+  "page_type": "guide",
+  "summary": "Explains who is eligible for Medicaid, how MAGI income limits work, the Medicaid work requirement beginning January 1, 2027, Medicaid expansion, and how eligibility varies by state.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/assets/images/twix/mother-daughter-couch.jpg",
+      "alt": "Mother and daughter on a couch"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Medicaid is health insurance with eligibility rules",
+      "question": "Who is Medicaid for?",
+      "text": "Medicaid is health insurance. You can get it if you meet certain requirements. It could be right for you if you have a low income. It's also for children, pregnant women, older adults and people with disabilities. Learning about Medicaid eligibility is the first step when looking into Medicaid plans.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "medicaid",
+        "eligibility",
+        "low income",
+        "health insurance"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "Am I eligible for Medicaid?",
+        "What is Medicaid eligibility?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Groups eligible for Medicaid",
+      "question": "Who's eligible for Medicaid?",
+      "text": "Medicaid eligibility rules are different in each state. If a person meets the criteria in their state, they can enroll in Medicaid. People who are eligible include children under age 18 in families with very low income, children in foster care, people who are pregnant and have very low income, certain parents or caretakers with very low income, most older adults (65 and over) who receive Supplemental Security Income (SSI), and people with disabilities who receive SSI.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "who qualifies",
+        "ssi",
+        "foster care",
+        "pregnancy",
+        "older adults",
+        "disabilities"
+      ],
+      "entities": [
+        "Medicaid",
+        "Supplemental Security Income",
+        "SSI"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who qualifies for Medicaid?",
+        "Do people on SSI qualify for Medicaid?",
+        "Are foster children eligible for Medicaid?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "How the MAGI income test works",
+      "question": "What is the income limit for Medicaid?",
+      "text": "Medicaid income limits vary from state to state, and household size also affects income eligibility. The Affordable Care Act established Modified Adjusted Gross Income (MAGI) as a way to determine income eligibility. MAGI is based on adjusted gross income plus tax-exempt interest. Assets and resources like bank accounts, homes or vehicles are not counted, and certain income like SSI and child support is not considered. You may be eligible if your MAGI is at or below a set percentage of the Federal Poverty Level (FPL), which depends on your state.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "income limit",
+        "magi",
+        "federal poverty level",
+        "household size",
+        "assets"
+      ],
+      "entities": [
+        "MAGI",
+        "Modified Adjusted Gross Income",
+        "Federal Poverty Level",
+        "Affordable Care Act"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is the income limit for Medicaid?",
+        "Do assets count for Medicaid eligibility?",
+        "What is MAGI?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicaid work requirement starts January 1, 2027",
+      "question": "Is there a Medicaid work requirement?",
+      "text": "In 2025, the president signed a bill that changed the Medicaid program and put a new Medicaid work requirement into place, starting on January 1, 2027. The new rules are for people aged 19-64 who enroll in Medicaid. They'll need to show that they are working 80 hours per month, or doing other qualifying activities such as paid work, educational programs, job training or community service.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "work requirement",
+        "2027",
+        "80 hours",
+        "community service",
+        "ages 19-64"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Consideration",
+      "questions": [
+        "Do I have to work to keep Medicaid?",
+        "How many hours do I need to work for Medicaid?",
+        "When do Medicaid work requirements begin?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who is exempt from the Medicaid work requirement",
+      "question": "Who does not have to meet the Medicaid work requirement?",
+      "text": "People who are medically frail, pregnant or postpartum, or parents and caretakers of children 13 or younger do not have to meet the Medicaid work requirements that begin January 1, 2027.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "work requirement",
+        "exemptions",
+        "medically frail",
+        "pregnant",
+        "caretakers"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Are pregnant women exempt from Medicaid work requirements?",
+        "Do parents of young children have to work for Medicaid?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What Medicaid expansion is",
+      "question": "What is Medicaid expansion?",
+      "text": "Medicaid expansion was part of the Affordable Care Act (ACA), a law signed in 2010 with the goal of helping make health insurance more affordable for people with low incomes. Expansion began in 2014. Each state decided individually whether to adopt it, so your eligibility may depend on whether your state has expanded its program.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "medicaid expansion",
+        "aca",
+        "2014",
+        "state choice"
+      ],
+      "entities": [
+        "Affordable Care Act",
+        "ACA",
+        "Medicaid expansion"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicaid expansion?",
+        "Did every state expand Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid eligibility vary by state?",
+      "question": "Does Medicaid eligibility vary by state?",
+      "text": "Yes. Each state has different eligibility requirements for Medicaid, based on income, household size, disability, family status or other factors. To find out if you're eligible, visit the website for Medicaid in your state and check the eligibility requirements.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "state differences",
+        "household size",
+        "disability",
+        "family status"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Is Medicaid different in each state?",
+        "How do I find my state's Medicaid requirements?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do you lose Medicaid with a dual plan?",
+      "question": "If I get a dual health plan, do I lose my Medicaid benefits?",
+      "text": "No. People who have both Medicaid and Medicare can get a dual health plan. This lets you keep all your Medicaid benefits, plus get extra Medicare benefits too. A dual health plan is designed for people who are covered by both programs.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "dual health plan",
+        "keep medicaid",
+        "medicare benefits",
+        "d-snp"
+      ],
+      "entities": [
+        "Medicaid",
+        "Medicare",
+        "Dual health plan"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Will I lose Medicaid if I join a dual plan?",
+        "Can I keep Medicaid and get Medicare benefits?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Medicaid renewal also called redetermination",
+      "question": "What is Medicaid renewal?",
+      "text": "Medicaid renewal is also called Medicaid redetermination. This is when the state checks if you still qualify to get Medicaid benefits. Yearly renewals are how states confirm that members still meet the requirements to keep Medicaid benefits.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "renewal",
+        "redetermination",
+        "recertification",
+        "state check"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is Medicaid redetermination?",
+        "Is renewal the same as redetermination?"
+      ]
+    }
+  ]
+}

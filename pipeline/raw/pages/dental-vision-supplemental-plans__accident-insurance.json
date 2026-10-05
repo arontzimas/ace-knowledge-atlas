@@ -1,0 +1,253 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/accident-insurance",
+  "title": "Accident insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare branded accident insurance cash-benefit plans, what they cover, why they may matter and key disclosures.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/accident-mother-daughter-hiking-desktop-1920x680.jpg",
+      "alt": "Mother and daughter hiking"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What accident insurance is",
+      "question": "What is accident insurance?",
+      "text": "Accident insurance is also known as supplemental accident insurance or personal accident insurance. With accident coverage, cash benefits help pay for expenses related to a qualifying accident. UnitedHealthcare says that can include things like ambulance care, physical therapy, lost wages and more.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "accident insurance",
+        "cash benefit",
+        "ambulance",
+        "physical therapy",
+        "lost wages"
+      ],
+      "entities": [
+        "Accident insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does accident insurance pay for?",
+        "What is personal accident insurance?",
+        "Does accident insurance pay for lost wages?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare accident plans and underwriter",
+      "question": "Who offers UnitedHealthcare accident insurance plans?",
+      "text": "UnitedHealthcare branded accident plans are underwritten by Golden Rule Insurance Company and offer a variety of cash-benefit options. These plans help pay for expenses related to accidental injuries. Plans can be viewed by state using a ZIP code, or by calling 1-866-671-0378.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "accident plans",
+        "golden rule",
+        "cash benefit",
+        "accidental injuries"
+      ],
+      "entities": [
+        "Accident insurance",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who underwrites UnitedHealthcare accident insurance?",
+        "How do I get an accident insurance quote?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Is accident insurance worth it",
+      "question": "Is accident insurance worth it?",
+      "text": "UnitedHealthcare notes that accidents often happen when least expected, and while medical insurance may cover some related costs, extra expenses can add up and lead to financial strain. With accident insurance, the cash benefit payout can help pay for these expenses. The page points to a savings survey as context for why extra cash can matter.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "accident insurance",
+        "worth it",
+        "financial strain",
+        "emergency savings"
+      ],
+      "entities": [
+        "Accident insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need accident insurance if I have health insurance?",
+        "Is it worth buying accident insurance?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Share of adults without emergency savings",
+      "question": "How many U.S. adults lack emergency savings?",
+      "text": "According to Bankrate's 2023 annual emergency savings report, cited by UnitedHealthcare, 22% of U.S. adults claim they have no emergency savings and 57% are not comfortable with what they have for emergency savings. UnitedHealthcare uses this to show why a cash benefit payout from accident insurance can help when extra expenses add up.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "emergency savings",
+        "bankrate",
+        "financial strain",
+        "survey statistic"
+      ],
+      "entities": [
+        "Bankrate"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What percent of Americans have no emergency savings?",
+        "Why do people buy accident insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Accident cash benefits can be spent as you choose",
+      "question": "How can I use an accident insurance cash benefit?",
+      "text": "With an accident insurance plan, the policyholder decides how to use the cash benefit. The page lists expense categories that the benefit can help pay for, and notes the benefit is paid in a stated amount regardless of the actual expense incurred.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "cash benefit",
+        "flexible spending",
+        "stated amount",
+        "accident expenses"
+      ],
+      "entities": [
+        "Accident insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What can I spend an accident insurance payout on?",
+        "Does accident insurance pay a set amount?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Services an accident plan can help cover",
+      "question": "What does an accident insurance plan cover?",
+      "text": "An accident insurance plan can help pay for services directly related to an accidental injury, including ambulance service, hospital emergency room care, physical therapy and urgent care center service. Injuries listed include burns, concussions, dislocations, fractures and lacerations. Most services must occur within a certain number of hours and days from the accident, limits may apply, and covered services vary by plan and state.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "covered services",
+        "fractures",
+        "concussion",
+        "emergency room",
+        "urgent care"
+      ],
+      "entities": [
+        "Accident insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does accident insurance cover fractures and concussions?",
+        "Does accident insurance cover the ER and ambulance?",
+        "Is there a time limit to get treated after an accident?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Accident plans are limited-benefit supplements",
+      "question": "Is accident insurance a substitute for health insurance?",
+      "text": "UnitedHealthcare states that accident insurance products provide limited benefits and are supplements to health insurance, not a substitute for the minimum essential coverage required by the Affordable Care Act (ACA). Lack of major medical coverage or other minimum essential coverage may result in an additional payment with taxes. The products pay benefits in a stated amount regardless of the actual expense incurred.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "limited benefits",
+        "aca",
+        "minimum essential coverage",
+        "tax payment"
+      ],
+      "entities": [
+        "Accident insurance",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can accident insurance replace my health plan?",
+        "Is accident insurance ACA compliant?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Accident insurance has no network limits",
+      "question": "Do I have to use a network with accident insurance?",
+      "text": "A footnote on UnitedHealthcare's accident insurance page states there are no network limitations for these accident insurance plans, but a person may be bound to certain networks and providers with their major medical plan.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "network",
+        "no network limits",
+        "major medical",
+        "providers"
+      ],
+      "entities": [
+        "Accident insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need to go in network for accident insurance benefits?",
+        "Can I see any doctor with accident insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Pairing accident insurance with short term plans",
+      "question": "Can I add accident insurance to a short term insurance plan?",
+      "text": "According to UnitedHealthcare, all products require separate applications, and separate policies or certificates are issued unless the product is a rider or optional benefits. Short term plans have a limited duration, are not renewable, are medically underwritten and do not cover preexisting conditions. They do not meet minimum essential coverage requirements, so signing up may result in a tax penalty, and their expiration does not trigger an ACA special enrollment opportunity.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term insurance",
+        "separate applications",
+        "preexisting conditions",
+        "special enrollment",
+        "tax penalty"
+      ],
+      "entities": [
+        "Short term health insurance",
+        "ACA",
+        "Accident insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can I buy accident insurance with short term health insurance?",
+        "Does short term insurance cover preexisting conditions?",
+        "Does losing short term coverage give me a special enrollment period?"
+      ]
+    }
+  ]
+}

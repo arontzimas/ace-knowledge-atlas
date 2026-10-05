@@ -1,0 +1,221 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/safetrip-travel-protection-plans",
+  "title": "SafeTrip Travel Protection plans for U.S. residents traveling domestically",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Describes SafeTrip Travel Protection plans that cover delays, cancellations, baggage and AD&D for U.S. residents traveling within the United States.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/safetrip/sunset-family-bench-1920x700-desktop.jpg",
+      "alt": "Family sitting on a bench at sunset"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "SafeTrip Travel Protection for U.S. domestic trips",
+      "question": "What are SafeTrip Travel Protection plans?",
+      "text": "SafeTrip Travel Protection plans are for U.S. residents traveling within the United States. They cover the unforeseen costs of delays, cancellations and lost baggage, so travelers can handle unexpected complications while traveling through the country.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel protection",
+        "domestic travel",
+        "us residents",
+        "trip delay",
+        "lost baggage"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is SafeTrip Travel Protection?",
+        "Is there travel insurance for trips within the United States?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What domestic travel insurance is",
+      "question": "What is domestic travel insurance?",
+      "text": "Domestic travel insurance covers the costs from unexpected travel issues within a traveler's home country. These plans reimburse the traveler for problems with a trip, such as delays or lost baggage. SafeTrip's Travel Protection plans help U.S. residents traveling within the United States.",
+      "topic": "Travel insurance",
+      "tags": [
+        "domestic travel insurance",
+        "reimbursement",
+        "trip problems",
+        "home country"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does domestic travel insurance cover?",
+        "How is domestic travel insurance different from international?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Interruption, delay and cancellation coverage",
+      "question": "Does domestic travel insurance cover missed connections and cancelled trips?",
+      "text": "SafeTrip plans can help cover the cost of missed connections, flight delays, rescheduled travel and cancelled trips, along with other travel troubles. UnitedHealthcare says these events are stressful but do not have to be expensive.",
+      "topic": "Travel insurance",
+      "tags": [
+        "trip interruption",
+        "trip delay",
+        "trip cancellation",
+        "missed connection"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover flight delays?",
+        "Will travel insurance cover a canceled trip?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Accidental death and dismemberment coverage",
+      "question": "Does SafeTrip Travel Protection include AD&D?",
+      "text": "SafeTrip Travel Protection plans include accidental death and dismemberment coverage. UnitedHealthcare says that if a traveler or someone with them is seriously hurt on the trip, the logistics can get complicated and expensive, and SafeTrip can help cover the cost.",
+      "topic": "Travel insurance",
+      "tags": [
+        "ad&d",
+        "accidental death",
+        "dismemberment",
+        "serious injury"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does domestic travel insurance include accidental death coverage?",
+        "What is AD&D on a travel plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Baggage and pet kenneling coverage",
+      "question": "Does Travel Protection cover lost baggage and pet boarding?",
+      "text": "SafeTrip assists with expenses when baggage is delayed or lost on flights and a traveler has to buy new necessities while waiting. If a return flight is canceled or delayed and a pet has to spend extra time being boarded, the plan covers the add-on costs for the extra kenneling and care.",
+      "topic": "Travel insurance",
+      "tags": [
+        "baggage loss",
+        "baggage delay",
+        "pet kenneling",
+        "flight delay"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover pet boarding if my flight is delayed?",
+        "What if my luggage is lost on a domestic trip?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How SafeTrip trip protection works",
+      "question": "How do I get and use a SafeTrip Travel Protection plan?",
+      "text": "1) Book your trip. 2) Get a quote for a Travel Protection plan. 3) Purchase the plan. 4) If you encounter unexpected delays or other issues, make a claim. SafeTrip covers the cost of unexpected expenses that are covered by your plan. Depending on coverage, you might be reimbursed if your trip is cancelled, travel is delayed, the airline loses your luggage or you need to kennel your pet longer than expected.",
+      "topic": "Travel insurance",
+      "tags": [
+        "how it works",
+        "make a claim",
+        "get a quote",
+        "reimbursement"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Decision",
+      "questions": [
+        "When do I buy Travel Protection?",
+        "How do I make a travel insurance claim?",
+        "What triggers a Travel Protection reimbursement?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Rental car damage add-on for Travel Protection",
+      "question": "Can I add rental car coverage to Travel Protection?",
+      "text": "A SafeTrip Travel Protection plan can be extended with rental car damage coverage as an add-on. UnitedHealthcare describes this as special coverage for a special trip and links to a page about travel insurance add-ons.",
+      "topic": "Travel insurance",
+      "tags": [
+        "rental car damage",
+        "travel add-ons",
+        "travel protection"
+      ],
+      "entities": [
+        "SafeTrip Travel Protection",
+        "SafeTrip add-ons"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I buy rental car insurance with SafeTrip Travel Protection?",
+        "What add-ons does Travel Protection allow?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Travel Protection compared with international options",
+      "question": "What if my trip includes travel outside the United States?",
+      "text": "Travel Protection plans are only for trips within the United States. If a trip includes any travel outside the United States, UnitedHealthcare suggests International Travel Medical Plus (no deductibles; trip cancellation, interruption, delay and baggage coverage; medical and security assistance; option to add Extreme Sports and Rental car coverage) or International Travel Medical (no deductibles; up to $1 million medical expense limit; medical evacuation and medical assistance; option to add Extreme Sports coverage).",
+      "topic": "Travel insurance",
+      "tags": [
+        "international travel",
+        "travel protection",
+        "no deductibles",
+        "medical evacuation"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical Plus",
+        "International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Does Travel Protection work abroad?",
+        "Which SafeTrip plan covers international trips?"
+      ]
+    }
+  ]
+}

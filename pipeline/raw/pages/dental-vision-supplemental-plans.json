@@ -1,0 +1,319 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans",
+  "title": "Supplemental insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "hub",
+  "summary": "Overview of UnitedHealthcare supplemental plans, including dental, vision, fixed benefit, accident, critical illness, hospital, travel and term life coverage.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/_jcr_content/root/regioncontainer-main/responsivegrid/container_42904207/container/image.coreimg.90.1280.jpeg/1728324795147/dvs-dental-vision-illustration-desktop-384x232.jpeg",
+      "alt": "Illustration for dental and vision plans"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/_jcr_content/root/regioncontainer-main/responsivegrid/container_42904207/container_copy/image.coreimg.90.1280.jpeg/1728324797446/dvs-wallet-illustration-desktop-384x232.jpeg",
+      "alt": "Wallet illustration representing protecting finances"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What supplemental health insurance is",
+      "question": "What is supplemental insurance?",
+      "text": "Supplemental health insurance provides help with, or supplements, a health plan by providing additional benefits that can help with out-of-pocket expenses such as deductibles, coinsurance and copays, or even cover routine dental or vision products. UnitedHealthcare notes that a medical insurance plan is not going to cover everything, so completing coverage with supplemental plans can help protect against unexpected costs.",
+      "topic": "How insurance works",
+      "tags": [
+        "supplemental insurance",
+        "out-of-pocket costs",
+        "deductible",
+        "coinsurance",
+        "copay"
+      ],
+      "entities": [
+        "Supplemental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does supplemental health insurance do?",
+        "Do I need supplemental insurance on top of my medical plan?",
+        "What costs does supplemental insurance help with?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who underwrites UnitedHealthcare supplemental plans",
+      "question": "Who provides UnitedHealthcare supplemental insurance plans?",
+      "text": "UnitedHealthcare's supplemental plans, such as dental, vision or fixed benefit health insurance plans, can help cover medical expenses not covered by a medical plan. These plans are underwritten by Golden Rule Insurance Company, a UnitedHealthcare company, and help round out other health insurance coverage. Shoppers can enter a ZIP code to find a plan or call 1-855-972-1023 (TTY 711).",
+      "topic": "How insurance works",
+      "tags": [
+        "golden rule",
+        "underwriter",
+        "supplemental plans",
+        "find a plan"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who underwrites UnitedHealthcare dental and vision plans?",
+        "What is Golden Rule Insurance Company?",
+        "How do I find supplemental plans by ZIP code?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Dental insurance versus dental savings memberships",
+      "question": "What is the difference between dental insurance and a dental savings membership?",
+      "text": "Dental insurance plans offer coverage for many common dental care services. Dental savings memberships are an alternative to insurance that helps people save on qualified services from participating providers. UnitedHealthcare states that dental discount memberships are not insurance.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental insurance",
+        "dental savings membership",
+        "discount plan",
+        "not insurance"
+      ],
+      "entities": [
+        "Dental insurance",
+        "Dental savings membership"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is a dental savings membership the same as dental insurance?",
+        "Dental insurance vs dental discount plan?",
+        "What is a dental savings membership?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What vision insurance helps cover",
+      "question": "What does vision insurance help pay for?",
+      "text": "Vision insurance plans can help people cover and budget for vision care expenses such as routine eye exams, prescription glasses and/or contact lenses. UnitedHealthcare lists vision insurance among its supplemental options alongside dental insurance and fixed benefit health insurance.",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision insurance",
+        "eye exams",
+        "glasses",
+        "contact lenses"
+      ],
+      "entities": [
+        "Vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does vision insurance cover eye exams and glasses?",
+        "What is vision insurance for?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fixed benefit health insurance overview",
+      "question": "What is fixed benefit health insurance?",
+      "text": "Fixed indemnity insurance, also marketed as fixed benefit health insurance, is meant to help ease some common hospital and doctor out-of-pocket costs with cash benefits paid for qualified medical services. UnitedHealthcare states that the product provides limited benefits, is a supplement to health insurance, and is not a substitute for the minimum essential coverage required by the Affordable Care Act (ACA).",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "fixed indemnity",
+        "fixed benefit",
+        "cash benefit",
+        "aca",
+        "limited benefits"
+      ],
+      "entities": [
+        "Fixed indemnity insurance",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a fixed indemnity plan?",
+        "Is fixed benefit insurance a replacement for major medical coverage?",
+        "How do fixed benefit plans pay?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Limited-benefit warning for fixed indemnity products",
+      "question": "Does a fixed indemnity plan satisfy ACA minimum essential coverage?",
+      "text": "UnitedHealthcare states that fixed indemnity products provide limited benefits and are a supplement to health insurance, not a substitute for the minimum essential coverage required by the Affordable Care Act. Lack of major medical coverage or other minimum essential coverage may result in an additional payment with taxes. These products pay benefits in a stated amount regardless of the actual expenses incurred, and not all plans on the page are fixed benefit plans.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "minimum essential coverage",
+        "aca",
+        "tax penalty",
+        "fixed indemnity"
+      ],
+      "entities": [
+        "ACA",
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can a fixed indemnity plan replace my health insurance?",
+        "Will I owe a tax payment if I only have a supplemental plan?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "More supplemental options beyond dental and vision",
+      "question": "What other supplemental plans does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare lists several more options: accident insurance helps with costs of qualifying accidental injuries and pays regardless of other coverage; critical illness insurance pays lump sum cash benefits for qualifying serious illnesses; hospital insurance pays a fixed cash amount per day for hospital stays; international travel insurance covers medical emergencies, lost passports or baggage and travel assistance; term life insurance pays beneficiaries a lump sum on death; and mental health virtual therapy is offered for one monthly cost.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "accident insurance",
+        "critical illness",
+        "hospital insurance",
+        "travel insurance",
+        "term life",
+        "virtual therapy"
+      ],
+      "entities": [
+        "Accident insurance",
+        "Critical illness insurance",
+        "Hospital insurance",
+        "Term life insurance",
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What types of supplemental insurance are available?",
+        "What does accident insurance versus critical illness insurance cover?",
+        "What is hospital insurance versus term life insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why combine supplemental plans",
+      "question": "Why combine insurance plans and non-insurance health products?",
+      "text": "UnitedHealthcare says combining insurance plans and non-insurance health products is a way to build a mix of healthcare options that meet a person's needs. A shopper could also save money compared to buying the plans individually.",
+      "topic": "How insurance works",
+      "tags": [
+        "bundling",
+        "combine plans",
+        "savings",
+        "supplemental insurance"
+      ],
+      "entities": [
+        "Supplemental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is it cheaper to bundle dental, vision and other plans?",
+        "Why would I combine supplemental insurance plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Three reasons to choose supplemental insurance",
+      "question": "Why choose supplemental insurance?",
+      "text": "UnitedHealthcare gives three reasons to consider supplemental plans. Get complete coverage: fill gaps with help paying out-of-pocket costs not covered by a regular medical plan. Protect your finances: cash benefit plans that pay a lump sum can give peace of mind if a critical illness or accident happens. Customize for your needs: with a variety of plans, shoppers can match coverage to their age, family and situation.",
+      "topic": "How insurance works",
+      "tags": [
+        "complete coverage",
+        "protect finances",
+        "customize coverage",
+        "cash benefit"
+      ],
+      "entities": [
+        "Supplemental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the benefits of supplemental insurance?",
+        "How can supplemental plans protect my finances?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Is supplemental insurance worth buying",
+      "question": "Is it worth it to buy supplemental insurance?",
+      "text": "UnitedHealthcare says that because supplemental plans cover many different needs, a person may decide one or more is definitely worth the price for themselves and their family. The page frames supplemental plans as a way to help protect a person and their family when something major happens to their health.",
+      "topic": "How insurance works",
+      "tags": [
+        "supplemental insurance",
+        "worth it",
+        "cost",
+        "family coverage"
+      ],
+      "entities": [
+        "Supplemental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is supplemental health insurance worth the money?",
+        "Should I buy supplemental insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental and vision in Medicare, Medicaid, employer plans",
+      "question": "Do Medicare, Medicaid or employer plans include dental and vision?",
+      "text": "UnitedHealthcare points out that dental, vision and supplemental coverage may be included with some Medicare plans, like Medicare Advantage or Medicare Supplement (Medigap) plans. Dental, vision and other extra benefits are included with some, but not all, Medicaid plans. Employers can also offer specialty plans such as dental, vision and supplemental options to give employees added benefits.",
+      "topic": "Dental coverage",
+      "tags": [
+        "medicare advantage",
+        "medigap",
+        "medicaid",
+        "employer plans",
+        "dental and vision"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "Medicare Supplement",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicare Advantage include dental and vision?",
+        "Do Medicaid plans cover dental and vision?",
+        "Can my employer offer dental and vision plans?"
+      ]
+    }
+  ]
+}

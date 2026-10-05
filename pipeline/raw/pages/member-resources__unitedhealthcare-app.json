@@ -1,0 +1,300 @@
+{
+  "url": "https://www.uhc.com/member-resources/unitedhealthcare-app",
+  "title": "UnitedHealthcare app for members",
+  "domain": "Care & Member Experience",
+  "page_type": "product",
+  "summary": "Overview of what the UnitedHealthcare app lets members do, from finding care and pricing to viewing claims, ID cards and virtual care.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/woman-holding-phone-with-app-open-desktop.jpg",
+      "alt": "Woman holding a phone with the app open"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6371245040112-Thumbnailv2.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "UnitedHealthcare app family experience"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "The UnitedHealthcare app",
+      "question": "What is the UnitedHealthcare app?",
+      "text": "The UnitedHealthcare app is a mobile app that connects members to their health plan details anytime, anywhere. It is designed to give members instant access to the answers and support they need, with 24/7, always-there access to their plan.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "mobile app",
+        "24/7 access",
+        "member tools"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is the UHC app?",
+        "What does the UnitedHealthcare app do?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Find care and pricing in the app",
+      "question": "Can I find providers and estimate costs in the UnitedHealthcare app?",
+      "text": "In the UnitedHealthcare app, members can search for network providers near them, see ratings and reviews, and estimate out-of-pocket costs for different types of visits.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "find care",
+        "network providers",
+        "cost estimates",
+        "ratings and reviews"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "How do I find a network doctor in the UHC app?",
+        "Can I estimate my out-of-pocket costs in the app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Check benefits and coverage in the app",
+      "question": "How do I check my copay and coinsurance in the app?",
+      "text": "The UnitedHealthcare app lets members find copay and coinsurance amounts, view plan spending and see how their plan covers different types of care and services.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "benefits",
+        "copay",
+        "coinsurance",
+        "plan spending",
+        "coverage"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where can I see my copay in the UnitedHealthcare app?",
+        "How do I see what my plan covers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Refill prescriptions from the app",
+      "question": "Can I refill prescriptions in the UnitedHealthcare app?",
+      "text": "Members can request prescription refills right from the UnitedHealthcare app. They can also look up drug prices and search for pharmacies near them.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "prescription refill",
+        "drug prices",
+        "pharmacy search",
+        "uhc app"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I refill a prescription in the UHC app?",
+        "Can I look up drug prices in the app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "View claims in the app",
+      "question": "Can I check my claims status in the UnitedHealthcare app?",
+      "text": "The UnitedHealthcare app lets members check the status of new and past claims. For each claim, members can see the amount billed, what the plan paid and how much they owe.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "claims",
+        "claim status",
+        "amount billed",
+        "what you owe"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I see my claims in the UHC app?",
+        "Where can I see how much I owe on a claim?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan ID cards and digital wallets",
+      "question": "Can I show my insurance card from my phone?",
+      "text": "Members can view and show their UCard or member ID cards in the UnitedHealthcare app when they need them. They can also add their health plan details to Apple Wallet or Google Wallet.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "id card",
+        "ucard",
+        "apple wallet",
+        "google wallet",
+        "digital id"
+      ],
+      "entities": [
+        "UCard",
+        "Apple Wallet",
+        "Google Wallet"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I put my UnitedHealthcare ID card in Apple Wallet?",
+        "Where do I find my digital insurance card?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual care through the app",
+      "question": "Can I schedule a virtual visit in the UnitedHealthcare app?",
+      "text": "If a member's plan includes the benefit, they may be able to schedule a virtual visit through the UnitedHealthcare app for urgent care, routine care and more.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual care",
+        "virtual visit",
+        "urgent care",
+        "routine care"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I start a virtual visit from the UHC app?",
+        "Does the UnitedHealthcare app offer telehealth?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Are all app features available on every plan?",
+      "question": "Are all UnitedHealthcare app features available for every plan?",
+      "text": "No. Not all features are available for every plan, and some plans are not currently supported by the UnitedHealthcare app. Members can check which features apply to them after signing in.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "plan availability",
+        "app features",
+        "supported plans"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Why can't I see some features in the UnitedHealthcare app?",
+        "Does the UHC app work with my plan?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to download or access the app",
+      "question": "How do I get the UnitedHealthcare app?",
+      "text": "1) Use a mobile device to scan the QR code on the app page to download the UnitedHealthcare app. 2) If you only have a desktop or tablet, register or sign in to your member account instead, which gives access to the member site.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "download",
+        "qr code",
+        "register",
+        "member account"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I download the UnitedHealthcare app?",
+        "How do I register if I only have a computer?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Cost estimates are not guarantees",
+      "question": "Are the cost estimates in the app guaranteed?",
+      "text": "All UnitedHealthcare members can access a cost estimate online or on the mobile app. None of the cost estimates are intended to be a guarantee of costs or benefits, and actual costs may vary. Members are directed to the website or mobile application terms of use under Find Care & Costs.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost estimates",
+        "not a guarantee",
+        "out-of-pocket costs",
+        "terms of use"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "Can I rely on UnitedHealthcare cost estimates?",
+        "Is the estimated cost the actual price I will pay?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Family health information in one place",
+      "question": "Can the whole family use one app for health plan information?",
+      "text": "UnitedHealthcare describes the app as making it easier to have the whole family's medical information in one place.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "family",
+        "medical information",
+        "uhc app"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Can I manage my family's plan in one app?",
+        "Does the UHC app support family members?"
+      ]
+    }
+  ]
+}

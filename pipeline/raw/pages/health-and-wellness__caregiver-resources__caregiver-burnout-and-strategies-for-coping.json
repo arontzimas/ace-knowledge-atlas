@@ -1,0 +1,171 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/caregiver-resources/caregiver-burnout-and-strategies-for-coping",
+  "title": "Caregiver burnout and strategies for coping",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Explains what causes caregiver burnout, its signs, ways to cope, respite care and who to see for help.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/health-and-wellness/caregiver-resources/caregiver-burnout-and-strategies-for-coping/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324749905/caregiver-burnout-mother-son-desktop-816x600.jpeg",
+      "alt": "Caregiver with loved one"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What caregiver burnout is",
+      "question": "What is caregiver burnout?",
+      "text": "Caregiver burnout is a state of physical, emotional and/or mental exhaustion that can create an overall sense of stress and negativity. Caring for a loved one can be rewarding but also very stressful, and the emotions behind this stress (caregiver burden) can feel overwhelming. Negative thoughts and feelings are normal, and caregivers are encouraged to give themselves grace.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "caregiver burnout",
+        "exhaustion",
+        "caregiver burden",
+        "stress"
+      ],
+      "entities": [
+        "caregiver burnout"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is caregiver burnout?",
+        "Is it normal to feel negative as a caregiver?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common causes of caregiver burnout",
+      "question": "What causes caregiver burnout?",
+      "text": "Common causes include role confusion, which means separating your role as caregiver from your role as a spouse, parent or friend; unrealistic expectations, such as expecting improvement in someone with Alzheimer's or ALS; lack of control over limited time, resources and skills; unreasonable demands that you feel obligated to take on; and lack of self-awareness about reaching a breaking point.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "burnout causes",
+        "role confusion",
+        "unrealistic expectations",
+        "lack of control"
+      ],
+      "entities": [
+        "caregiver burnout",
+        "Alzheimer's disease",
+        "ALS"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why do caregivers burn out?",
+        "What triggers caregiver stress?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Signs of caregiver burnout",
+      "question": "What are the signs of caregiver burnout?",
+      "text": "Caregiver burnout can look like any high-stress situation. Signs to watch for include feeling overwhelmed or worried, often feeling tired, getting too much or too little sleep, gaining or losing weight, easily becoming upset, losing interest in activities you used to enjoy, often feeling sad, frequent headaches or bodily pain, and abusing alcohol or drugs, including prescription medications.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "burnout signs",
+        "caregiver symptoms",
+        "sleep",
+        "fatigue"
+      ],
+      "entities": [
+        "caregiver burnout"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How do I know if I'm burned out as a caregiver?",
+        "What are symptoms of caregiver stress?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Coping with caregiver emotions",
+      "question": "How can caregivers cope with the emotions of caregiving?",
+      "text": "Finding healthy ways to navigate the many emotions of being a caregiver supports physical and mental well-being, and when you can show up as your best self, the person you care for benefits too. UnitedHealthcare's page offers coping guidance for four emotions caregivers commonly face: anger, depression, fear and guilt.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "coping strategies",
+        "caregiver emotions",
+        "guilt",
+        "anger",
+        "fear"
+      ],
+      "entities": [
+        "caregiver burnout"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "How do I cope with caregiver guilt?",
+        "What are healthy ways to handle caregiver anger?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Respite care for caregivers",
+      "question": "What is respite care?",
+      "text": "Respite care is a way to give yourself a temporary break from caregiver duties and comes in many forms. You can ask a friend or family member to care for your loved one for a few hours a day or week, or you can look into an official respite care facility. There are many options, which can make finding the right support easier than expected.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "respite care",
+        "caregiver break",
+        "temporary care",
+        "support"
+      ],
+      "entities": [
+        "respite care"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "What is respite care for caregivers?",
+        "How can I get a break from caregiving?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Who to see for help with caregiver burnout",
+      "question": "Who can I see for help with caregiver burnout?",
+      "text": "If you are struggling with physical or mental symptoms of caregiver burnout, schedule an appointment with your primary care provider, who can recommend healthy ways to deal with the stress. Mental health programs may also be available to help with coping. Options can include talking to a therapist, journaling, lifestyle changes or finding a way to share caregiving duties with another person.",
+      "topic": "Behavioral health",
+      "tags": [
+        "caregiver burnout",
+        "primary care provider",
+        "therapist",
+        "journaling",
+        "mental health programs"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Who do I talk to about caregiver burnout?",
+        "Can a therapist help with caregiver stress?"
+      ]
+    }
+  ]
+}

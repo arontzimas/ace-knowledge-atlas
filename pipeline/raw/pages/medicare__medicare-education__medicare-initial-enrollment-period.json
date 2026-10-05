@@ -1,0 +1,104 @@
+{
+  "url": "https://www.uhc.com/medicare/medicare-education/medicare-initial-enrollment-period.html",
+  "title": "Medicare Initial Enrollment Period (IEP)",
+  "domain": "Medicare",
+  "page_type": "guide",
+  "summary": "Explains the Medicare Initial Enrollment Period for age, disability and medical-condition eligibility, what happens if you miss it, and when coverage starts.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/hero-images/Older-gentleman-on-mobile-mobile-1000x560.jpg", "alt": "Older gentleman on mobile phone"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What the Initial Enrollment Period is",
+      "question": "What is the Medicare Initial Enrollment Period?",
+      "text": "Your Initial Enrollment Period (IEP) is the first time you can sign up for Medicare due to age, disability or medical condition. During your IEP, you can enroll in Original Medicare (Part A and Part B), a Medicare Part D prescription drug plan, and/or a Medicare Advantage plan, also called Part C.",
+      "topic": "Medicare enrollment",
+      "tags": ["initial enrollment period", "iep", "first enrollment", "part c", "part d"],
+      "entities": ["Initial Enrollment Period", "Original Medicare", "Part D", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is IEP in Medicare?", "When can I first sign up for Medicare?", "What plans can I enroll in during my IEP?"]
+    },
+    {
+      "type": "steps",
+      "title": "IEP dates by eligibility reason",
+      "question": "When does my Initial Enrollment Period begin and end?",
+      "text": "If you become eligible for Medicare by turning 65, your IEP begins three months before the month of your 65th birthday and ends three months after your 65th birthday month. If you become eligible due to disability, your IEP begins three months before the month of your 25th Social Security Disability Insurance (SSDI) benefit payment and ends three months after that month. If you become eligible due to a medical condition, your IEP happens much sooner: within a few months for end stage renal disease (ESRD), or right away for amyotrophic lateral sclerosis (ALS).",
+      "topic": "Medicare enrollment",
+      "tags": ["iep dates", "turning 65", "ssdi", "esrd", "als"],
+      "entities": ["Initial Enrollment Period", "SSDI", "ESRD", "ALS"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["When does my Medicare IEP start if I'm on disability?", "How soon can I get Medicare with ALS?", "When can I sign up before my 65th birthday?"]
+    },
+    {
+      "type": "faq",
+      "title": "Automatic enrollment versus signing up yourself",
+      "question": "Will I be enrolled in Medicare automatically at 65?",
+      "text": "If you start receiving Social Security or Railroad Retirement Board benefits before you turn 65, you should be enrolled in Medicare automatically. If not, you will need to sign up by yourself, online at www.ssa.gov, in person at your local Social Security office or by phone at 1-800-772-1213 / TTY 1-800-325-0778. You may not be notified when you become eligible, so find your Initial Enrollment Period dates and put them in your calendar.",
+      "topic": "Medicare enrollment",
+      "tags": ["automatic enrollment", "social security", "sign up", "railroad retirement"],
+      "entities": ["Original Medicare", "Social Security", "Railroad Retirement Board"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Awareness",
+      "questions": ["Do I need to apply for Medicare myself?", "How do I sign up for Original Medicare?", "Will Social Security enroll me in Medicare?"]
+    },
+    {
+      "type": "faq",
+      "title": "Working past 65 and the IEP",
+      "question": "Do I need Medicare if I work past age 65?",
+      "text": "If you expect to continue working past age 65, you may want to delay enrolling in Medicare. If you have health coverage from your employer or are covered under a spouse's employer plan, you may qualify for a Special Enrollment Period and be able to delay enrolling without penalty. In some situations, such as working for an employer with fewer than 20 employees, you may still be required to take full Medicare benefits at age 65. If you plan to work past 65, you will need to compare your employer health insurance with what you would get through Medicare.",
+      "topic": "Medicare enrollment",
+      "tags": ["working past 65", "employer coverage", "special enrollment period", "20 employees"],
+      "entities": ["Special Enrollment Period", "Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Can I skip Medicare while still working?", "What if my employer has fewer than 20 employees?", "Should I compare my job insurance to Medicare?"]
+    },
+    {
+      "type": "faq",
+      "title": "What happens if you miss your IEP",
+      "question": "What if I miss my Initial Enrollment Period?",
+      "text": "You can enroll in Original Medicare during the General Enrollment Period (GEP) between January 1 and March 31. Medicare Part A, Part B and Part D may charge premium penalties if you miss your initial enrollment dates, unless you qualify for a Special Enrollment Period (SEP). If you enroll in Original Medicare during the GEP, you may be able to add a Medicare Advantage plan or Part D plan between April 1 and June 30 of the same year.",
+      "topic": "Medicare enrollment",
+      "tags": ["missed iep", "general enrollment period", "late penalty", "april 1 to june 30"],
+      "entities": ["General Enrollment Period", "Special Enrollment Period", "Part A", "Part B", "Part D"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["What do I do if I missed Medicare enrollment?", "Can I add Part D after the General Enrollment Period?", "Will I pay a penalty for signing up late?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Medigap requires Parts A and B first",
+      "question": "When can I apply for a Medigap plan?",
+      "text": "Once you are enrolled in both Medicare Part A and Part B, you can apply for a Medicare Supplement insurance (Medigap) plan.",
+      "topic": "Medicare Supplement",
+      "tags": ["medigap", "part a", "part b", "eligibility"],
+      "entities": ["Medicare Supplement", "Medigap", "Part A", "Part B"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Do I need Part B to buy Medigap?", "When can I apply for a Medicare Supplement plan?", "What do I need before applying for Medigap?"]
+    },
+    {
+      "type": "steps",
+      "title": "When Medicare coverage starts after enrolling",
+      "question": "When will my Medicare coverage start once I enroll?",
+      "text": "After you complete your Initial Enrollment Period sign-up, your coverage begins on the first day of the following month; for example, completing enrollment on June 25 means coverage starts July 1. If you qualify for premium-free Part A, coverage begins on the first day of the month you turn 65 (or the month before, if your birthday is on the first). For Part B and premium Part A, signing up before you turn 65 starts coverage the first day of your birthday month; signing up in your birthday month or the three months after starts coverage the first day of the following month.",
+      "topic": "Medicare enrollment",
+      "tags": ["coverage start date", "part a", "part b", "first of the month", "premium-free part a"],
+      "entities": ["Part A", "Part B", "Initial Enrollment Period"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["When does Medicare Part B start?", "If I enroll in June, when does coverage begin?", "When does premium-free Part A start?"]
+    }
+  ]
+}

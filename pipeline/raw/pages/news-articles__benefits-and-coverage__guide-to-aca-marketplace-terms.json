@@ -1,0 +1,278 @@
+{
+  "url": "https://www.uhc.com/news-articles/benefits-and-coverage/guide-to-aca-marketplace-terms",
+  "title": "Your guide to Affordable Care Act Marketplace plan terms",
+  "domain": "Individual & Family",
+  "page_type": "glossary",
+  "summary": "Glossary-style article defining common ACA Marketplace terms such as premium, deductible, copayment, coinsurance, out-of-pocket max, subsidy, network and formulary.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/benefits-and-coverage/guide-to-aca-marketplace-terms/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1728325011142/shot-06-telehealth-diningarea-mario-0908-72dpi.jpeg",
+      "alt": "Person on a telehealth visit in a dining area"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What are ACA Marketplace plans?",
+      "question": "What are ACA Marketplace plans?",
+      "text": "ACA Marketplace plans are health care coverage plans that people can buy on their own, rather than through an employer or another government-run program, like Medicare or Medicaid. You may also hear names like Exchange Plans and Individual & Family Plans. The health care Marketplace (also called the Exchange) is where ACA health care plans are sold.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "aca marketplace",
+        "exchange plans",
+        "individual and family plans",
+        "definition"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Exchange",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an ACA Marketplace plan?",
+        "What are Exchange plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Premium",
+      "question": "What is a premium on an ACA plan?",
+      "text": "A premium is the amount you pay for your ACA health insurance plan every month. The premium amount can vary depending on the metal level and plan type you choose. UnitedHealthcare says it can help estimate your premium and find out if you qualify for a $0 monthly premium, which requires meeting household income requirements for Advanced Premium Tax Credits (APTC).",
+      "topic": "Insurance glossary",
+      "tags": [
+        "premium",
+        "monthly cost",
+        "$0 premium",
+        "aptc",
+        "metal level"
+      ],
+      "entities": [
+        "premium",
+        "Advanced Premium Tax Credits"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does premium mean in health insurance?",
+        "How do I qualify for a $0 monthly premium?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Deductible",
+      "question": "What is a deductible on an ACA plan?",
+      "text": "A deductible is the amount you pay for your covered medical services before your ACA health plan starts to kick in. UnitedHealthcare has a variety of plan options, from low or $0 deductibles to high deductible plans. Copay Focus plans offer a $0 medical deductible, though a deductible may apply for some prescription drug benefits.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "deductible",
+        "$0 deductible",
+        "copay focus",
+        "cost-sharing"
+      ],
+      "entities": [
+        "deductible",
+        "Copay Focus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a deductible in health insurance?",
+        "Which ACA plans have a $0 deductible?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Copayment",
+      "question": "What is a copayment on an ACA plan?",
+      "text": "A copayment is the fixed amount you'll pay for a covered medical service at the time of getting care, and the amount can vary depending on the service. If you prefer predictable copays, UnitedHealthcare offers Copay Focus plans with low copays for most covered services, so you can plan your family's medical expenses ahead of time.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "copayment",
+        "copay",
+        "copay focus",
+        "predictable costs"
+      ],
+      "entities": [
+        "copayment",
+        "Copay Focus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does copay mean?",
+        "Which plan has predictable copays?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Coinsurance",
+      "question": "What is coinsurance on an ACA plan?",
+      "text": "Coinsurance is the portion that you're responsible for paying for a covered medical service. It is one of the cost terms UnitedHealthcare lists for understanding the costs of ACA Marketplace coverage, alongside premium, deductible, copayment and out-of-pocket max.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "coinsurance",
+        "cost-sharing",
+        "covered service",
+        "aca costs"
+      ],
+      "entities": [
+        "coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is coinsurance in health insurance?",
+        "How is coinsurance different from a copay?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Out-of-pocket max",
+      "question": "What is an out-of-pocket maximum?",
+      "text": "The out-of-pocket max is the maximum amount you'll have to pay during the policy period, usually a calendar year, before your health insurance starts to cover 100% of the covered amount.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "out-of-pocket max",
+        "calendar year",
+        "cost cap",
+        "cost-sharing"
+      ],
+      "entities": [
+        "out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the most I could pay in a year on an ACA plan?",
+        "What happens after I hit my out-of-pocket max?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Subsidy",
+      "question": "What is a subsidy for ACA plans?",
+      "text": "A subsidy is money granted by the government to offer health coverage at a reduced cost, or even for no cost, to low-income individuals. UnitedHealthcare offers a subsidy calculator to see if you qualify for savings.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "subsidy",
+        "low income",
+        "savings",
+        "subsidy calculator"
+      ],
+      "entities": [
+        "subsidy"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "What is a health insurance subsidy?",
+        "How do I see if I qualify for ACA savings?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Network",
+      "question": "What is a network on an ACA plan?",
+      "text": "A network includes the facilities, doctors and providers that are contracted to provide care for you when you have ACA Marketplace health insurance coverage. Check the provider network before enrolling in a plan or getting care so you can avoid having to pay out-of-network costs.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "network",
+        "in-network",
+        "out-of-network",
+        "providers"
+      ],
+      "entities": [
+        "network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does in-network mean?",
+        "How do I avoid out-of-network costs?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Formulary",
+      "question": "What is a formulary or drug list?",
+      "text": "A formulary, also known as a drug list, is a list of commonly used medications organized into different cost levels called tiers, with costs decided by a health insurer. You can view the Prescription Drug List (PDL) to see what's covered by an Individual & Family plan.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "formulary",
+        "drug list",
+        "tiers",
+        "prescription drug list"
+      ],
+      "entities": [
+        "formulary",
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a formulary?",
+        "Where can I see which drugs my ACA plan covers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Enrollment status noted in the terms guide",
+      "question": "Can I still enroll if open enrollment has ended?",
+      "text": "The article notes that open enrollment for 2026 Individual & Family ACA Marketplace plans has ended. It adds that people looking for coverage outside the open enrollment period may qualify for a special enrollment period.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "special enrollment period",
+        "2026 plans",
+        "outside open enrollment"
+      ],
+      "entities": [
+        "open enrollment",
+        "special enrollment period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What if I missed ACA open enrollment?",
+        "Can I get a special enrollment period?"
+      ]
+    }
+  ]
+}

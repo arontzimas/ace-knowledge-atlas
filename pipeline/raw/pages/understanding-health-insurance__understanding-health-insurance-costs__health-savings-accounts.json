@@ -1,0 +1,323 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/health-savings-accounts",
+  "title": "What is a health savings account (HSA)?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains HSA eligibility, 2026 IRS contribution limits, tax advantages, eligible expenses, Letters of Medical Necessity and how HSAs differ from FSAs for childcare.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/health-savings-accounts/_jcr_content/root/regioncontainer-main/responsivegrid/container/containerfloatingcon/image_copy.coreimg.90.1280.jpeg/1728324474647/health-savings-accounts-dad-daughter-eating-752x500.jpeg",
+      "alt": "health savings accounts"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What an HSA is and who can open one",
+      "question": "What is a health savings account and who is eligible?",
+      "text": "A health savings account (HSA) is a financial account designed to help you save for qualified health care expenses. Not just anyone can open an HSA: you must be enrolled in a high deductible health plan (HDHP), and not every HDHP is HSA qualified. As defined by the IRS, the plan must have a higher deductible than typical individual health insurance plans and a maximum out-of-pocket limit that includes deductibles, copays and coinsurance.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "health savings account",
+        "hdhp",
+        "irs",
+        "eligibility"
+      ],
+      "entities": [
+        "HSA",
+        "HDHP",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who can open an HSA?",
+        "Do I need a high deductible plan for an HSA?",
+        "Is every HDHP HSA-qualified?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2026 HSA limit for individual coverage",
+      "question": "What is the 2026 HSA contribution limit for an individual?",
+      "text": "For 2026, an individual with coverage under a qualifying high-deductible health plan (deductible not less than $1,700) can contribute up to $4,400 to an HSA for the year, up $100 from 2025. The maximum out-of-pocket for such a plan is capped at $8,500. Each year the IRS sets the limit for how much individuals can contribute to these tax-advantaged accounts.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa contribution limit",
+        "2026",
+        "individual coverage",
+        "$4,400",
+        "irs limit"
+      ],
+      "entities": [
+        "HSA",
+        "IRS",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much can I put in my HSA in 2026?",
+        "What is the HSA limit for one person?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2026 HSA limit for family coverage",
+      "question": "What is the 2026 HSA contribution limit for family coverage?",
+      "text": "For 2026, an individual with family coverage under a qualifying high-deductible health plan (deductible not less than $3,400) can contribute up to $8,750 to an HSA for the year, up $200 from 2025. The maximum out-of-pocket for such a plan is capped at $17,000.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa contribution limit",
+        "2026",
+        "family coverage",
+        "$8,750",
+        "irs limit"
+      ],
+      "entities": [
+        "HSA",
+        "IRS",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is the family HSA limit for 2026?",
+        "How much can a family contribute to an HSA?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HSA catch-up contribution at age 55",
+      "question": "Can I contribute extra to my HSA as I get older?",
+      "text": "When you turn 55, you can contribute an extra $1,000 each year to your HSA, called a catch-up contribution. If you and your spouse are both over the age of 55, you can each contribute $1,000, but your spouse will need to open their own HSA for their portion.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa catch-up",
+        "age 55",
+        "$1,000",
+        "spouse",
+        "contribution"
+      ],
+      "entities": [
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is the HSA catch-up contribution?",
+        "Can my spouse and I both make catch-up contributions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Ownership and rollover advantages of an HSA",
+      "question": "What are the advantages of an HSA?",
+      "text": "With an HSA you own the account, not your employer, and you make deposits like you do with other personal bank accounts, though your employer might add money too. There is no 'use-it-or-lose-it' policy: the funds roll over year to year and stay with you regardless of whether you leave your job or retire. You can also invest your funds.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa advantages",
+        "account ownership",
+        "rollover",
+        "no use-it-or-lose-it",
+        "investing"
+      ],
+      "entities": [
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I keep my HSA if I leave my job?",
+        "Do HSA funds roll over every year?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HSA tax advantages and withdrawals",
+      "question": "How are HSAs taxed?",
+      "text": "Money you contribute to an HSA is tax-deductible, which reduces your taxable income, and interest or income on invested funds is tax-free. If you are under 65 and use the money for qualified medical expenses, you can withdraw it tax-free. If you are over 65, you can withdraw tax-free for medical expenses or use the money for non-medical expenses and pay regular income tax. UnitedHealthcare does not provide tax advice.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa taxes",
+        "tax-free withdrawals",
+        "tax-deductible",
+        "age 65",
+        "investment growth"
+      ],
+      "entities": [
+        "HSA",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are HSA withdrawals taxable?",
+        "What happens to my HSA at age 65?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Penalty for non-qualified HSA withdrawals",
+      "question": "What happens if I use my HSA for non-medical expenses before 65?",
+      "text": "If you cash out HSA money before you are 65 and do not use it for qualified medical expenses, you will have to pay taxes on the amount, and you could be hit with a hefty 20% tax penalty.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa penalty",
+        "20% tax penalty",
+        "non-qualified expenses",
+        "early withdrawal"
+      ],
+      "entities": [
+        "HSA",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there a penalty for withdrawing HSA money early?",
+        "What is the HSA withdrawal penalty?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What HSA funds can pay for",
+      "question": "What expenses can I pay for with an HSA?",
+      "text": "HSA funds are pre-tax dollars that can go toward copays for medical visits, alternative health treatments, period supplies and more. HSA eligible expenses fall into groups such as medical appointments and services, prescription and over-the-counter medications, menstrual care and family planning, natural and alternative care, vision and dental care, and certain vitamins and supplements. The IRS determines the list of qualified medical expenses, and some items need a prescription or Letter of Medical Necessity.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa eligible expenses",
+        "qualified medical expenses",
+        "over-the-counter",
+        "vision and dental",
+        "irs rules"
+      ],
+      "entities": [
+        "HSA",
+        "IRS",
+        "Letter of Medical Necessity"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What can I buy with my HSA?",
+        "Can I use my HSA for dental and vision?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Letter of Medical Necessity for HSA spending",
+      "question": "What is a Letter of Medical Necessity (LMN)?",
+      "text": "A Letter of Medical Necessity (LMN) is a simple letter from a doctor describing why you need a specific service or product and what condition you will use it to treat or prevent. With an LMN you may be able to use HSA funds for items such as gym memberships and fitness equipment, some supplements and vitamins, red light therapy devices, saunas and cold plunges, weight-loss programs and air purifiers.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "letter of medical necessity",
+        "lmn",
+        "hsa eligible expenses",
+        "gym membership",
+        "doctor letter"
+      ],
+      "entities": [
+        "Letter of Medical Necessity",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I use my HSA for a gym membership?",
+        "How do I get a Letter of Medical Necessity?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Using an HSA for childcare",
+      "question": "Can I use an HSA to pay for childcare?",
+      "text": "Childcare and other dependent care are not HSA eligible expenses. However, a type of Flexible Spending Account (FSA), the dependent care FSA, allows you to use pre-tax dollars to pay for things like daycare, babysitters and summer camps. You may be able to have both an FSA and an HSA.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "childcare",
+        "dependent care fsa",
+        "daycare",
+        "summer camps"
+      ],
+      "entities": [
+        "HSA",
+        "FSA",
+        "Dependent care FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I pay for daycare with my HSA?",
+        "Can I have an FSA and an HSA at the same time?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Optum Bank HSA options",
+      "question": "Where can I open an HSA with UnitedHealthcare?",
+      "text": "To find your HSA options, check with your employer or your health plan documents. If an HSA is not available that way, you can explore options at Optum Bank, which is described as the UnitedHealthcare bank of choice.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "optum bank",
+        "hsa options",
+        "employer benefits",
+        "open an hsa"
+      ],
+      "entities": [
+        "Optum Bank",
+        "HSA",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I open an HSA?",
+        "What is Optum Bank?"
+      ]
+    }
+  ]
+}

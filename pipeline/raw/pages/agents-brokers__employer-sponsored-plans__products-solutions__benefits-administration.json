@@ -1,0 +1,274 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/benefits-administration",
+  "title": "UnitedHealthcare Benefit Ecosystem",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes the UnitedHealthcare Benefit Ecosystem, an API-based approach that connects UnitedHealthcare with benefits administration platforms to streamline quoting, enrollment and renewal.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/benefits-administration/_jcr_content/root/regioncontainer-main/responsivegrid/image_226443732_copy.coreimg.90.1280.jpeg/1728324493315/broker-consultant-medical-plan-man-with-headphones-772x460.jpeg",
+      "alt": "Man wearing headphones"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Employers/PDF/packaged-savings-2-99-employer-flier.pdf",
+      "alt": "Packaged Savings for Fully Insured 2-99 flier"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/Employee-Navigator-flier.pdf",
+      "alt": "Employee Navigator flier"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/EI253937950_UHC_ADP_Benefit-Ecosystem_Flier_lr.pdf",
+      "alt": "ADP flier"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What the Benefit Ecosystem is",
+      "question": "What is the UnitedHealthcare Benefit Ecosystem?",
+      "text": "The UnitedHealthcare Benefit Ecosystem is designed to move away from manually intensive, time-consuming, error-prone benefits administration. Benefits administrators can look forward to real-time integration, streamlined enrollment and automated processing for eligibility and renewal. It creates stronger connections between UnitedHealthcare and leading benefits administration platforms.",
+      "topic": "Broker resources",
+      "tags": [
+        "benefit ecosystem",
+        "benefits administration",
+        "real-time integration",
+        "enrollment",
+        "renewal"
+      ],
+      "entities": [
+        "UnitedHealthcare Benefit Ecosystem"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the UnitedHealthcare Benefit Ecosystem?",
+        "How does UnitedHealthcare streamline benefits administration?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "UnitedHealthcare API Marketplace access",
+      "question": "How do brokers access the Benefit Ecosystem?",
+      "text": "The way into the benefits administration platform is through the UnitedHealthcare Application Programming Interface (API) Marketplace. It acts as the door where external stakeholders can securely access and use available APIs, and on the front end only licensed and appointed brokers and consultants are allowed in.",
+      "topic": "Broker resources",
+      "tags": [
+        "api marketplace",
+        "api",
+        "licensed brokers",
+        "secure access",
+        "benefits platforms"
+      ],
+      "entities": [
+        "UnitedHealthcare API Marketplace"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who can use the UnitedHealthcare API Marketplace?",
+        "How do I connect a benefits platform to UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Automation and real-time data sharing",
+      "question": "What does the Benefit Ecosystem automate?",
+      "text": "Easier benefits administration in the UnitedHealthcare Benefit Ecosystem begins with automation. Automated tasks help eliminate hours of work, information may be shared in real time when the customer needs it, and available API integration continues to grow based on the needs of the benefits administration firm.",
+      "topic": "Broker resources",
+      "tags": [
+        "automation",
+        "real-time data",
+        "api integration",
+        "benefits administration",
+        "efficiency"
+      ],
+      "entities": [
+        "UnitedHealthcare Benefit Ecosystem"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does the Benefit Ecosystem share data in real time?",
+        "How much work does benefits automation save?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Benefit Ecosystem advantages for brokers and consultants",
+      "question": "How does the Benefit Ecosystem help brokers and consultants?",
+      "text": "For brokers and consultants, the Benefit Ecosystem simplifies setting up UnitedHealthcare policies on connected benefits administration platforms. It makes it easier to generate quotes, capture employee elections and enrollment, renew plans and more. It also reduces manual work for agency staff and helps eliminate errors.",
+      "topic": "Broker resources",
+      "tags": [
+        "brokers",
+        "quotes",
+        "enrollment",
+        "renewals",
+        "manual work"
+      ],
+      "entities": [
+        "UnitedHealthcare Benefit Ecosystem"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can brokers quote UnitedHealthcare through a benefits platform?",
+        "How does the Benefit Ecosystem reduce errors?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Benefit Ecosystem value by audience",
+      "question": "How does the Benefit Ecosystem help employers, benefits administrators and members?",
+      "text": "For employers, it automates information entry for greater accuracy and fewer member and HR issues, helps simplify benefits management and speeds up data sharing. For benefits administrators, it helps enable instant access to data, increases operational efficiency and drives more value for clients. For members, it helps improve the enrollment experience, supports digital adoption and eases access to coverage information at the point of service.",
+      "topic": "Broker resources",
+      "tags": [
+        "employers",
+        "benefits administrators",
+        "members",
+        "enrollment experience",
+        "data sharing"
+      ],
+      "entities": [
+        "UnitedHealthcare Benefit Ecosystem"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does the Benefit Ecosystem do for HR teams?",
+        "How does the Benefit Ecosystem improve member enrollment?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Quoting API and Benefits details API",
+      "question": "What do the Quoting API and Benefits details API do?",
+      "text": "The Quoting API allows electronic quotes to be transmitted to the digital aggregator tool. The Benefits details API offers benefit and product-level details. Both are among the key enhancements designed to streamline the UnitedHealthcare benefits administration experience.",
+      "topic": "Broker resources",
+      "tags": [
+        "quoting api",
+        "benefits details api",
+        "electronic quotes",
+        "product details",
+        "enhancements"
+      ],
+      "entities": [
+        "Quoting API",
+        "Benefits details API"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the Quoting API?",
+        "Which API provides product-level benefit details?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Customer API and single sign-on",
+      "question": "What do the Customer API interface and single sign-on provide?",
+      "text": "The Customer API interface provides customer-level information such as eligibility rules and demographics. Single sign-on (SSO) allows access to member websites for benefits, claims, wellness, evidence of insurability and more. Both are key enhancements in the UnitedHealthcare Benefit Ecosystem.",
+      "topic": "Broker resources",
+      "tags": [
+        "customer api",
+        "single sign-on",
+        "eligibility rules",
+        "member websites",
+        "evidence of insurability"
+      ],
+      "entities": [
+        "Customer API interface",
+        "SSO"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What customer information does the Customer API provide?",
+        "Does the Benefit Ecosystem support single sign-on?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare Sourcebook for enrollment content",
+      "question": "What is the UnitedHealthcare Sourcebook?",
+      "text": "The UnitedHealthcare Sourcebook is described as a one-stop resource for enrollment content. It provides grab-and-go content for building a client's benefit administration experience, including direct links to provider directories, education content, ongoing member communications and more, gathered in one place and kept updated.",
+      "topic": "Broker resources",
+      "tags": [
+        "sourcebook",
+        "enrollment content",
+        "provider directories",
+        "member communications",
+        "broker tools"
+      ],
+      "entities": [
+        "UnitedHealthcare Sourcebook"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where can brokers find enrollment materials for UnitedHealthcare plans?",
+        "What is in the UnitedHealthcare Sourcebook?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strategic alliances and how to get help",
+      "question": "How can brokers learn more about Benefit Ecosystem alliances?",
+      "text": "Brokers can contact benefit_ecosystem@uhc.com or their UnitedHealthcare representative for more information. The page lists strategic alliance fliers for benefits administration platforms Employee Navigator and ADP, plus Packaged Savings fliers for fully insured 2-99 groups and for PRIME and FACETS 2-99 groups.",
+      "topic": "Broker resources",
+      "tags": [
+        "strategic alliances",
+        "employee navigator",
+        "adp",
+        "packaged savings",
+        "contact"
+      ],
+      "entities": [
+        "Employee Navigator",
+        "ADP",
+        "Packaged Savings"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare integrate with ADP or Employee Navigator?",
+        "Who do I contact about the Benefit Ecosystem?"
+      ]
+    }
+  ]
+}

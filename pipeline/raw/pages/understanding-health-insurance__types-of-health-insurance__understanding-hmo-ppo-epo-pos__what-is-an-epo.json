@@ -1,0 +1,226 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-an-epo",
+  "title": "What is an EPO health plan?",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Explains how an EPO plan works, gated vs non-gated EPOs, advantages, comparison with PPO, and dental EPOs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-an-epo/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324755867/epo-woman-with-dog-desktop-912x560.jpeg",
+      "alt": "Woman with a dog"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is an EPO health plan?",
+      "question": "What is an EPO plan?",
+      "text": "An EPO plan is a common type of health insurance that requires care from a certain network of providers. Generally, EPO insurance covers out-of-network care only in emergencies or special circumstances, like during complex treatment or if the EPO network does not have the type of provider needed. A person will likely have a higher deductible and lower monthly payments than with other types of health plans.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO",
+        "network",
+        "out-of-network",
+        "deductible",
+        "monthly payment"
+      ],
+      "entities": [
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an EPO?",
+        "Does an EPO cover out-of-network care?",
+        "Do EPOs have higher deductibles?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What does EPO stand for?",
+      "question": "What does EPO stand for?",
+      "text": "EPO means exclusive provider organization. The name refers to the rule of staying within the plan's network of select providers. If a person gets care outside the EPO network, they will likely have to pay the full cost of that visit.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO",
+        "exclusive provider organization",
+        "network",
+        "full cost"
+      ],
+      "entities": [
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does EPO mean?",
+        "What happens if I go outside my EPO network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "An EPO combines features of HMOs and PPOs",
+      "question": "How does an EPO work?",
+      "text": "EPOs can be thought of as a combination of HMO and PPO plans. Like a PPO, most EPO plans offer the freedom to see any network provider without a referral and typically do not require choosing a primary care provider (non-gated plans only). Without a PCP sending referrals, a person may have to get preapproval for certain services. Like HMOs, EPOs do not offer out-of-network coverage.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO",
+        "HMO",
+        "PPO",
+        "preapproval",
+        "PCP"
+      ],
+      "entities": [
+        "EPO",
+        "HMO",
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How is an EPO like a PPO?",
+        "Do EPO plans need preapproval?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Gated vs. non-gated EPO plans",
+      "question": "What is the difference between a gated and non-gated EPO plan?",
+      "text": "With a gated EPO plan, a person will typically need a referral from a PCP to see a specialist. With a non-gated EPO plan, generally no referral is needed to see specialists, if the provider is in the network. A person should check the specifics of their plan's benefits to learn whether referrals are needed before seeing a specialist.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "gated EPO",
+        "non-gated EPO",
+        "referral",
+        "PCP",
+        "specialist"
+      ],
+      "entities": [
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is a gated EPO?",
+        "Do I need a referral with a non-gated EPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of an EPO plan",
+      "question": "What are the advantages of an EPO plan?",
+      "text": "EPO insurance offers some benefits like those of PPO and HMO plans, such as flexibility and lower costs. Advantages include no referrals needed (non-gated plans only), usually no requirement to choose a primary care provider, and generally lower out-of-pocket costs than a PPO plan. An EPO may suit someone who wants to choose providers without referrals while staying within the network.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO advantages",
+        "no referrals",
+        "lower cost",
+        "no PCP"
+      ],
+      "entities": [
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the pros of an EPO?",
+        "Are EPOs cheaper than PPOs?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "EPO vs. PPO plans",
+      "question": "What is the difference between an EPO and a PPO?",
+      "text": "One major difference is that unlike PPO plans, EPO plans do not offer coverage for out-of-network care. Because of that limitation, EPO plans usually have lower out-of-pocket costs than PPO plans. On referrals, an EPO needs none if the plan is non-gated, and a PPO needs none. On choosing a primary care provider, an EPO usually does not require it and a PPO does not.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO vs PPO",
+        "out-of-network",
+        "referrals",
+        "primary care provider"
+      ],
+      "entities": [
+        "EPO",
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What's the difference between EPO and PPO?",
+        "Which has lower costs, EPO or PPO?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do I need a referral with an EPO?",
+      "question": "Do I need a referral with an EPO?",
+      "text": "Typically, EPO insurance gives a person the freedom to see any network provider without a referral, which can make getting care simple and convenient. However, with gated EPO plans, a person may need to get referrals from their PCP. They should check their specific plan benefits to see if a referral is needed before seeing a specialist.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO referral",
+        "gated",
+        "specialist",
+        "PCP"
+      ],
+      "entities": [
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I see a specialist on an EPO without a referral?",
+        "Do I need a referral on a non-gated EPO plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a dental EPO plan?",
+      "question": "What is a dental EPO plan?",
+      "text": "EPO dental plans work just like EPO health plans. Generally, a person can see any dental provider in their EPO network without a referral, but should check plan details to be sure. Getting dental care outside the plan's network will cost more, possibly the whole bill.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental EPO",
+        "network",
+        "referral",
+        "out-of-network dental"
+      ],
+      "entities": [
+        "dental EPO",
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a dental EPO?",
+        "Do dental EPO plans need referrals?"
+      ]
+    }
+  ]
+}

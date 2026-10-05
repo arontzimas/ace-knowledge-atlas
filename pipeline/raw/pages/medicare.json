@@ -1,0 +1,78 @@
+{
+  "url": "https://www.uhc.com/medicare",
+  "title": "UnitedHealthcare Medicare Coverage",
+  "domain": "Medicare",
+  "page_type": "hub",
+  "summary": "Landing page that introduces UnitedHealthcare's four Medicare plan families: Medicare Advantage, Medicare Supplement, Part D prescription drug plans, and Dual Special Needs plans.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/graphics/HP_AllAroundCare_Cropped.png", "alt": "Heart"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicare Advantage (Part C) plans offer",
+      "question": "What is a Medicare Advantage plan?",
+      "text": "Medicare Advantage (Part C) plans offer all the benefits of Original Medicare (Part A and Part B), with extras like dental, vision, hearing, and prescription drug coverage. UnitedHealthcare lists Medicare Advantage as one of the main plan types it offers to people shopping for Medicare coverage.",
+      "topic": "Medicare Advantage",
+      "tags": ["medicare advantage", "part c", "original medicare", "extra benefits", "dental vision hearing"],
+      "entities": ["Medicare Advantage", "Part C", "Original Medicare", "Part A", "Part B"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Medicare Advantage?", "What does a Part C plan include?", "Do Medicare Advantage plans cover dental and vision?"]
+    },
+    {
+      "type": "definition",
+      "title": "What Medicare Supplement (Medigap) plans do",
+      "question": "What is a Medicare Supplement plan?",
+      "text": "Medicare Supplement (Medigap) plans help pay some of the out-of-pocket costs that Original Medicare doesn't pay. They are sold by private insurers as a companion to Original Medicare rather than as a replacement for it.",
+      "topic": "Medicare Supplement",
+      "tags": ["medigap", "medicare supplement", "out-of-pocket costs", "original medicare"],
+      "entities": ["Medicare Supplement", "Medigap", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Medigap?", "What does a Medicare Supplement plan pay for?", "How do I cover costs Original Medicare doesn't pay?"]
+    },
+    {
+      "type": "definition",
+      "title": "What Part D prescription drug plans do",
+      "question": "What is a Medicare Part D prescription drug plan?",
+      "text": "Medicare Part D prescription drug plans help pay for prescription drugs. A person can combine a Part D plan with Original Medicare or with a Medicare Supplement (Medigap) plan.",
+      "topic": "Part D prescription plans",
+      "tags": ["part d", "prescription drugs", "original medicare", "medigap", "pdp"],
+      "entities": ["Medicare Part D", "Original Medicare", "Medicare Supplement", "Medigap"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Part D?", "Can I add a drug plan to Original Medicare?", "Can I use a Part D plan with Medigap?"]
+    },
+    {
+      "type": "definition",
+      "title": "What Dual Special Needs plans (D-SNPs) are",
+      "question": "What is a Dual Special Needs plan?",
+      "text": "Dual Special Needs plans (D-SNPs) are Part C plans designed for people who are eligible for both Medicare and Medicaid coverage. Many D-SNPs include extra benefits beyond what Original Medicare provides.",
+      "topic": "Special Needs Plans",
+      "tags": ["d-snp", "dual special needs", "medicare and medicaid", "part c", "extra benefits"],
+      "entities": ["Dual Special Needs plan", "D-SNP", "Part C", "Medicare", "Medicaid"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a D-SNP?", "Is there a Medicare plan for people with Medicare and Medicaid?", "Do dual eligible plans have extra benefits?"]
+    },
+    {
+      "type": "comparison",
+      "title": "UnitedHealthcare's four Medicare plan families",
+      "question": "What kinds of Medicare plans does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare organizes its Medicare coverage into four plan families: Medicare Advantage plans, which bundle Part A and Part B benefits with extras; Medicare Supplement (Medigap) plans, which help with Original Medicare out-of-pocket costs; Part D prescription drug plans; and Dual Special Needs plans for people eligible for both Medicare and Medicaid.",
+      "topic": "Medicare basics",
+      "tags": ["plan types", "medicare advantage", "medigap", "part d", "d-snp"],
+      "entities": ["UnitedHealthcare", "Medicare Advantage", "Medicare Supplement", "Part D", "D-SNP"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["What Medicare plan types are there?", "What are my Medicare coverage options with UnitedHealthcare?", "How do Medicare Advantage, Medigap, Part D and D-SNP differ?"]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/chip",
+  "title": "Children's Health Insurance Program (CHIP)",
+  "domain": "Medicaid",
+  "page_type": "guide",
+  "summary": "Explains CHIP: what it is, covered services, eligibility, cost, how long children can stay enrolled, how to apply, documents needed and how to renew.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/medicaid/chip/_jcr_content/root/responsivegrid/image_copy_copy.coreimg.jpeg/1753822301816/dad-carrying-daughter.jpeg",
+      "alt": "dad-carrying-daughter"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What CHIP is and who it is for",
+      "question": "What is the Children's Health Insurance Program (CHIP)?",
+      "text": "CHIP is a federal and state program that gives health coverage to children who don't have insurance. It's for families who earn too much to get Medicaid but not enough to pay for other health plans. It offers low-cost or no-cost coverage for infants, children and teens. Each state runs its own CHIP program with rules about who qualifies and what's covered.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip",
+        "children",
+        "federal and state",
+        "low cost",
+        "uninsured kids"
+      ],
+      "entities": [
+        "CHIP",
+        "Children's Health Insurance Program",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is CHIP?",
+        "Who is CHIP for?",
+        "What if my income is too high for Medicaid but I can't afford insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How CHIP plans are designed and funded",
+      "question": "How does CHIP work?",
+      "text": "CHIP plans are designed to provide health coverage for eligible children through Medicaid and separate CHIP programs. They help children get coverage if their family's income is too high for Medicaid but too low to pay for private insurance. CHIP is funded by money from the state and federal government's Medicaid program.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip design",
+        "funding",
+        "separate chip program",
+        "income"
+      ],
+      "entities": [
+        "CHIP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How is CHIP funded?",
+        "Is CHIP part of Medicaid?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Services CHIP typically covers",
+      "question": "What services does CHIP cover?",
+      "text": "CHIP benefits differ by state, but most states offer coverage for a range of services, including well-baby doctor visits, dental and vision care, prescriptions, vaccinations, hospital and emergency care, lab and X-rays, and behavioral health care.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip benefits",
+        "well-baby",
+        "dental",
+        "vaccinations",
+        "behavioral health"
+      ],
+      "entities": [
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does CHIP cover dental and vision?",
+        "What does CHIP pay for?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "CHIP is available in all 50 states",
+      "question": "Which states have CHIP plans?",
+      "text": "CHIP is available in all 50 states, Washington, D.C., and 5 U.S. territories. Each state runs its own program and has rules about who can join and what's covered, so benefits can vary depending on where you live. UnitedHealthcare Community Plans offer CHIP plans in Colorado, New York, Pennsylvania, Tennessee and Texas.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip availability",
+        "50 states",
+        "territories",
+        "state programs",
+        "uhc chip states"
+      ],
+      "entities": [
+        "CHIP",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Is CHIP available in my state?",
+        "In which states does UnitedHealthcare offer CHIP?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Applying for CHIP or Medicaid depends on state",
+      "question": "Should I apply for CHIP or Medicaid for my child?",
+      "text": "In some states, you can apply for a CHIP plan for children. In other states, you can apply for a Medicaid plan that includes health insurance for children. A child can also be enrolled in both Medicaid and CHIP, if eligible.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip or medicaid",
+        "dual enrollment",
+        "state differences"
+      ],
+      "entities": [
+        "CHIP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can a child have both Medicaid and CHIP?",
+        "Do I apply for CHIP or Medicaid for kids in my state?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does my child qualify for CHIP?",
+      "question": "Does my child qualify for CHIP?",
+      "text": "CHIP is for children who can't get insurance elsewhere. Your child may qualify even if you don't receive Medicaid. Your state decides if your child qualifies and what's covered, based on financial and non-financial information. Three groups may be covered: children, pregnant women, and targeted low-income children, generally those whose household income is above the state's Medicaid level but still low enough for CHIP.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip eligibility",
+        "targeted low-income children",
+        "pregnant women",
+        "income"
+      ],
+      "entities": [
+        "CHIP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who qualifies for CHIP?",
+        "Can my child get CHIP if I'm not on Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What does CHIP cost?",
+      "question": "What does CHIP cost?",
+      "text": "Routine health and dental check-ups are available with CHIP plans at no extra cost. Depending on your state's coverage, you may still have to pay a small amount for other services when your child gets care. Some states charge a monthly fee for CHIP coverage, but you won't have to pay more than 5% of your family's income for the year.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip cost",
+        "monthly fee",
+        "5% of income",
+        "copay",
+        "checkups"
+      ],
+      "entities": [
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much does CHIP cost?",
+        "Is there a monthly premium for CHIP?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How long can a child stay on CHIP?",
+      "question": "How long can a child stay on CHIP?",
+      "text": "CHIP usually covers eligible children up to age 19, but rules vary by state. You'll be notified every year to renew your CHIP coverage. Eligibility rules, including the age limit, are set by each state, so families should check their own state CHIP program for details.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "age limit",
+        "age 19",
+        "annual renewal"
+      ],
+      "entities": [
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Until what age is a child covered by CHIP?",
+        "Do I need to renew CHIP every year?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to apply for CHIP",
+      "question": "What is the CHIP application process?",
+      "text": "You can apply for and enroll in CHIP at any time. If you qualify, coverage starts right away and you won't need to buy any other insurance. Apply by finding a CHIP program by state on Medicaid.gov, by creating an account or signing in with the ACA Health Insurance Marketplace, or by filling out an application. If anyone in your household qualifies for CHIP after a Marketplace application, your information is sent to your state agency, which will contact you about enrollment.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "apply for chip",
+        "any time",
+        "marketplace",
+        "state agency",
+        "application"
+      ],
+      "entities": [
+        "CHIP",
+        "ACA Marketplace",
+        "Medicaid.gov",
+        "HealthCare.gov"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I apply for CHIP?",
+        "When can I enroll my child in CHIP?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can a non-parent apply for a child's CHIP?",
+      "question": "Can I apply for CHIP if I'm not the child's parent?",
+      "text": "Legal guardians, including grandparents, aunts or uncles, can apply for CHIP. If your child doesn't qualify at first, keep trying. Rules can change and your child may qualify later. Each state decides whether a child qualifies.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "legal guardian",
+        "grandparent",
+        "apply",
+        "kinship care"
+      ],
+      "entities": [
+        "CHIP"
+      ],
+      "personas": [
+        "Caregiver",
+        "Medicaid household"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Can a grandparent apply for CHIP?",
+        "Can a legal guardian enroll a child in CHIP?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Documents needed to apply for CHIP",
+      "question": "What documents are needed to apply for CHIP?",
+      "text": "Check with your state, but you may need the applicant's name, date of birth and Social Security number; proof of income, like pay stubs or W-2s; monthly payments for rent, mortgage or utilities; proof of address, citizenship or immigration status; and current insurance and government benefits.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "documents",
+        "proof of income",
+        "w-2",
+        "citizenship",
+        "application"
+      ],
+      "entities": [
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What do I need to apply for CHIP?",
+        "Do I need proof of income for CHIP?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to renew your child's CHIP coverage",
+      "question": "How can I renew my child's CHIP coverage?",
+      "text": "1) Update your contact information so your state has your current mailing address, phone number and email. 2) Check your mail for a letter from your state's Medicaid or CHIP office saying whether you need to fill out a renewal form. 3) Complete and return the renewal form, with required documents, to your state right away to avoid gaps in coverage.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "chip renewal",
+        "contact information",
+        "renewal form",
+        "avoid gaps"
+      ],
+      "entities": [
+        "CHIP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "How do I renew CHIP?",
+        "What should I do when I get a CHIP renewal letter?"
+      ]
+    }
+  ]
+}

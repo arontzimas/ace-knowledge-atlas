@@ -1,0 +1,238 @@
+{
+  "url": "https://www.uhc.com/individuals-families/health-plans-through-work",
+  "title": "Health insurance plans through work",
+  "domain": "Individual & Family",
+  "page_type": "hub",
+  "summary": "Overview of UnitedHealthcare employer-sponsored health plans for employees, covering network size, digital tools, support, wellness programs, open enrollment and links to plan types.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/health-plans-through-work-desktop-image-1440x257.jpg",
+      "alt": "Health plans through work banner"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/health-plans-through-work/_jcr_content/root/regioncontainer-main/responsivegrid/container_1422661434/image.coreimg.90.1280.png/1742998099571/health-plans-through-work-illustration-desktop-334x225.png",
+      "alt": "Illustration for health plans through work"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "How many Americans get coverage through work",
+      "question": "How many Americans get health insurance through their employer?",
+      "text": "Around 49% of Americans get health insurance coverage through their employers, which is nearly 157 million people, according to a January 2021 figure cited on the page. Employer-sponsored health plans play a big role in benefits packages.",
+      "topic": "Plans through work",
+      "tags": [
+        "employer-sponsored",
+        "statistics",
+        "49 percent",
+        "benefits package"
+      ],
+      "entities": [
+        "employer-sponsored health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What percent of people have employer health insurance?",
+        "How many people get insurance from their job?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "UnitedHealthcare network of providers and hospitals",
+      "question": "How large is the UnitedHealthcare provider network?",
+      "text": "UnitedHealthcare says its network includes 1M+ providers and 6,000+ hospitals, giving greater access to the care you need. Members with pharmacy benefits can access a large, nationwide network of pharmacies that offer greater discounts, convenience and choice.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "network size",
+        "providers",
+        "hospitals",
+        "pharmacy network"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "pharmacy network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many doctors are in the UnitedHealthcare network?",
+        "Does UnitedHealthcare have a nationwide pharmacy network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual Visits for nonemergency care",
+      "question": "What are UnitedHealthcare Virtual Visits through work plans?",
+      "text": "Services like Virtual Visits connect you with a doctor who can treat a wide range of nonemergency medical conditions and even provide prescriptions if needed, 24/7, anytime, anywhere. Certain prescriptions may not be available. Virtual Visits are not intended for emergency or life-threatening conditions, and benefits are available only through a Designated Virtual Network Provider.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visits",
+        "telehealth",
+        "24/7",
+        "nonemergency",
+        "prescriptions"
+      ],
+      "entities": [
+        "Virtual Visits"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I see a doctor by video through my employer plan?",
+        "Are Virtual Visits for emergencies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Member site and UnitedHealthcare app tools",
+      "question": "What digital tools come with UnitedHealthcare employer plans?",
+      "text": "A personalized member site helps manage your plan 24/7: search for a doctor, find and price network care, view claims details, refill prescriptions and manage financial accounts. The UnitedHealthcare app helps you find in-network care options, see claim details, view progress toward your deductible, share your digital health plan ID card, log in with Touch ID and talk to a doctor by video 24/7.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member site",
+        "uhc app",
+        "deductible progress",
+        "digital id card",
+        "claims"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "member site",
+        "Touch ID"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I see my deductible progress in the app?",
+        "What can I do on the UnitedHealthcare member site?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Personalized support for members",
+      "question": "What personal support does UnitedHealthcare offer members?",
+      "text": "UnitedHealthcare says it connects members to support led by trained, caring experts who help with questions and guide you every step of the way, whether you're looking for medical care or ways to manage stress and anxiety. Members can sign in to their account to find the support available through their benefits.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "member support",
+        "personal attention",
+        "stress and anxiety",
+        "member account"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Who do I call for help with my employer health plan?",
+        "Does my plan offer help with stress or anxiety?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Wellness programs at no additional cost",
+      "question": "Do UnitedHealthcare employer plans include wellness programs?",
+      "text": "Depending on your plan, UnitedHealthcare offers a number of wellness programs and services at no additional cost to you, from losing weight and quitting smoking to fitness rewards and more. Members can sign in to their account to find out what's included in their benefits.",
+      "topic": "Wellness programs",
+      "tags": [
+        "wellness programs",
+        "weight loss",
+        "quit smoking",
+        "fitness rewards",
+        "no additional cost"
+      ],
+      "entities": [
+        "UnitedHealthcare wellness programs"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Are weight loss or quit smoking programs included in my plan?",
+        "Where do I find my wellness benefits?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When is open enrollment for employer health plans?",
+      "question": "When can I choose my health plan through my employer?",
+      "text": "Open enrollment is when you can select your health insurance plan for the upcoming year. Your employer sets the open enrollment period, but it may typically be in the fall. UnitedHealthcare suggests taking time to explore your options to learn what type of coverage may best fit your needs.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "employer-sponsored",
+        "fall",
+        "choosing a plan"
+      ],
+      "entities": [
+        "open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "When is open enrollment for work insurance?",
+        "Who decides my open enrollment dates?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare employer plan types",
+      "question": "What UnitedHealthcare plan types are offered through employers?",
+      "text": "The page lists these UnitedHealthcare plans and coverage options for people with insurance through work: Choice plans, Navigate plans, Options PPO plans, Choice Plus plans, Navigate Plus plans, and lost job coverage with COBRA and other insurance options.",
+      "topic": "Plans through work",
+      "tags": [
+        "choice",
+        "navigate",
+        "options ppo",
+        "choice plus",
+        "navigate plus",
+        "cobra"
+      ],
+      "entities": [
+        "Choice",
+        "Navigate",
+        "Options PPO",
+        "Choice Plus",
+        "Navigate Plus",
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What types of employer health plans does UnitedHealthcare have?",
+        "What is the difference between Choice and Navigate plans?"
+      ]
+    }
+  ]
+}

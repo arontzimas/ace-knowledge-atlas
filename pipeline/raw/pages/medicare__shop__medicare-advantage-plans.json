@@ -1,0 +1,143 @@
+{
+  "url": "https://www.uhc.com/medicare/shop/medicare-advantage-plans.html",
+  "title": "Browse Medicare Advantage plans",
+  "domain": "Medicare",
+  "page_type": "product",
+  "summary": "Overview of UnitedHealthcare Medicare Advantage (Part C) plans, including plan types, costs, eligibility, enrollment periods, and dental, vision and hearing benefits.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/hero-images/GP14_DOMINOS_SENIORS_2548_Mobile_1000x560.jpg", "alt": "Woman with dogs"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicare Advantage plans are",
+      "question": "What are Medicare Advantage plans?",
+      "text": "Medicare Advantage (Part C) plans offer all the benefits of Original Medicare, many with extras like dental, vision, and hearing benefits. Most include prescription drug coverage.",
+      "topic": "Medicare Advantage",
+      "tags": ["part c", "medicare advantage", "original medicare", "extra benefits", "prescription drugs"],
+      "entities": ["Medicare Advantage", "Part C", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Part C?", "Does Medicare Advantage include drug coverage?", "What extras come with Medicare Advantage?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Features of UnitedHealthcare Medicare Advantage",
+      "question": "Why choose a UnitedHealthcare Medicare Advantage plan?",
+      "text": "UnitedHealthcare describes itself as America's most chosen Medicare Advantage brand. Its plans may include monthly premiums as low as $0, $0 annual physical exams, lab tests and preventive care, rewards for healthy activities, a large provider network including doctors and specialists, and $0 copays for virtual medical and mental health visits. Members also get the UCard, which opens doors to a network of Medicare Advantage providers and rewards for healthy activities.",
+      "topic": "Medicare Advantage",
+      "tags": ["$0 premium", "preventive care", "virtual visits", "ucard", "rewards"],
+      "entities": ["UnitedHealthcare", "Medicare Advantage", "UCard"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["Can a Medicare Advantage plan have a $0 premium?", "What is the UCard?", "Are virtual doctor visits free with Medicare Advantage?"]
+    },
+    {
+      "type": "definition",
+      "title": "Medicare Advantage plan types offered",
+      "question": "What types of Medicare Advantage plans does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare Medicare Advantage plans include Health Maintenance Organization (HMO) plans, Preferred Provider Organization (PPO) plans, Private Fee-for-Service (PFFS) plans, and Special Needs plans (SNPs). Not all plans are available in all areas.",
+      "topic": "Medicare Advantage",
+      "tags": ["hmo", "ppo", "pffs", "snp", "plan types"],
+      "entities": ["HMO", "PPO", "Private Fee-for-Service", "Special Needs plans", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["Are there HMO and PPO Medicare Advantage plans?", "What is a PFFS plan?", "What types of Medicare Advantage plans can I choose?"]
+    },
+    {
+      "type": "definition",
+      "title": "Medicare Advantage premium and deductible",
+      "question": "What are the premium and deductible costs on a Medicare Advantage plan?",
+      "text": "A monthly premium is a fee you pay to the plan for coverage, and some Medicare Advantage plans have a low or even $0 monthly premium. You may still need to pay a premium for Part B coverage. The annual deductible is the amount you pay out of pocket for health care before your plan begins to pay; most Medicare Advantage plans only have a prescription drug deductible.",
+      "topic": "Medicare Advantage",
+      "tags": ["premium", "deductible", "part b premium", "drug deductible", "costs"],
+      "entities": ["Medicare Advantage", "Part B"],
+      "personas": ["Medicare shopper"],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": ["Do I still pay the Part B premium with Medicare Advantage?", "Do Medicare Advantage plans have deductibles?", "How much is the monthly premium?"]
+    },
+    {
+      "type": "comparison",
+      "title": "Copayment versus coinsurance",
+      "question": "What is the difference between a copay and coinsurance?",
+      "text": "A copayment (copay) is a set amount you pay for a covered medical service or prescription drug; for example, some plans might charge a $40 copay each time you see a specialist. Coinsurance is a percentage of the total cost for a covered medical service or prescription drug. You pay the coinsurance and your plan pays the remaining amount.",
+      "topic": "Medicare Advantage",
+      "tags": ["copay", "coinsurance", "cost sharing", "specialist visit"],
+      "entities": ["Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a copay vs coinsurance?", "How does coinsurance work in Medicare?", "What is a copay for a specialist?"]
+    },
+    {
+      "type": "faq",
+      "title": "Who can enroll in Medicare Advantage",
+      "question": "Who is eligible for a Medicare Advantage plan?",
+      "text": "Most people become eligible for Medicare coverage when they turn 65 or have a qualifying disability or medical condition. Anyone who is eligible for Medicare coverage can enroll in a Medicare Advantage plan if they live in the plan service area.",
+      "topic": "Medicare Advantage",
+      "tags": ["eligibility", "service area", "age 65", "disability"],
+      "entities": ["Medicare Advantage", "Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Who can join a Medicare Advantage plan?", "Do I have to live in a certain area for Medicare Advantage?", "Can I join Medicare Advantage before 65?"]
+    },
+    {
+      "type": "faq",
+      "title": "When to enroll in Medicare Advantage",
+      "question": "When can I enroll in a Medicare Advantage plan?",
+      "text": "You can enroll when you first become eligible, in your Initial Enrollment Period (IEP). If you already have Medicare coverage and want a different plan type, you can change during the Annual Enrollment Period (AEP), October 15 to December 7; the Medicare Advantage Open Enrollment Period (MA OEP), January 1 to March 31; or a Special Enrollment Period (SEP) for qualifying life events, with dates that vary.",
+      "topic": "Medicare enrollment",
+      "tags": ["aep", "ma oep", "iep", "sep", "enrollment periods"],
+      "entities": ["Initial Enrollment Period", "Annual Enrollment Period", "Medicare Advantage Open Enrollment Period", "Special Enrollment Period"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["When can I switch Medicare Advantage plans?", "What are the Medicare Advantage enrollment dates?", "Can I change plans between January and March?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental benefits in a Medicare Advantage plan",
+      "question": "Does a UnitedHealthcare Medicare Advantage plan include dental?",
+      "text": "A UnitedHealthcare Medicare Advantage plan may include dental benefits, which provide coverage for dental services like cleanings, fluoride, fillings, crowns, root canals and more.",
+      "topic": "Dental coverage",
+      "tags": ["dental", "cleanings", "fillings", "crowns", "root canals"],
+      "entities": ["Medicare Advantage", "UnitedHealthcare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Does Medicare Advantage cover dental?", "Are crowns and root canals covered?", "What dental services are in a Medicare Advantage plan?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision and hearing benefits in Medicare Advantage",
+      "question": "Does a UnitedHealthcare Medicare Advantage plan include vision and hearing?",
+      "text": "A UnitedHealthcare Medicare Advantage plan may include a $0 vision exam; vision services help protect your eyesight and may save you money on eyewear. It may also include a $0 routine hearing exam plus savings on thousands of hearing aids.",
+      "topic": "Vision coverage",
+      "tags": ["vision", "hearing", "$0 exam", "hearing aids", "eyewear"],
+      "entities": ["Medicare Advantage", "UnitedHealthcare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Are hearing aids covered by Medicare Advantage?", "Is an eye exam free on Medicare Advantage?", "What vision and hearing benefits do Medicare Advantage plans have?"]
+    },
+    {
+      "type": "stat",
+      "title": "Member recommendation and U.S. News recognition",
+      "question": "How do members rate UnitedHealthcare Medicare Advantage?",
+      "text": "UnitedHealthcare reports that 4 out of 5 members recommend its Medicare Advantage coverage, based on Human8, May 2025. It also states it was named a Best Insurance Company for Medicare Advantage 2026 by U.S. News & World Report two years in a row, based on 2025 and 2026 analysis of all Medicare Advantage plan ratings from CMS and enrollment data.",
+      "topic": "Medicare Advantage",
+      "tags": ["member satisfaction", "u.s. news", "ratings", "4 out of 5", "recommendation"],
+      "entities": ["UnitedHealthcare", "U.S. News & World Report", "Human8", "CMS"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["How satisfied are UnitedHealthcare Medicare Advantage members?", "Is UnitedHealthcare a top-rated Medicare Advantage insurer?", "What did U.S. News say about UnitedHealthcare Medicare Advantage?"]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/communityplan/dual-special-needs-plans/eligibility/full-and-partial-dual-eligibility",
+  "title": "Full vs. partial dual eligibility — what's the difference?",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains the difference between full and partial dual eligibility for Medicare and Medicaid, how Medicare Savings Programs help, and the four partial dual categories (QMB, SLMB, QI, QDWI).",
+  "published": "2022-12-02",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/Resource-Center-Full-and-partial-dual-eligibility.jpg", "alt": "Full vs. partial dual eligibility"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What full dual eligibility means",
+      "question": "What does it mean to have full dual eligibility?",
+      "text": "Dual eligible means someone is eligible for both Medicaid and Medicare. Full dual eligibility means you qualify for full state Medicaid benefits as well as Medicare, and you may also qualify for a Dual Special Needs plan (D-SNP). Medicare pays for most covered care, while Medicaid pays some out-of-pocket costs for copays, coinsurance, deductibles and premiums. Medicaid also covers benefits a D-SNP doesn't, such as long-term care.",
+      "topic": "Dual eligible coverage",
+      "tags": ["full dual eligible", "d-snp", "out-of-pocket costs", "long-term care"],
+      "entities": ["Dual Special Needs plan", "Medicare", "Medicaid"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["What is full dual eligibility?", "What does Medicaid pay for if I'm full dual?"]
+    },
+    {
+      "type": "definition",
+      "title": "What partial dual eligibility means",
+      "question": "What does it mean to have partial dual eligibility?",
+      "text": "Partial dual eligibility means a person qualifies for a Medicare Savings Program (MSP). MSPs are managed by each state's Medicaid program and cover certain Medicare costs, like Medicare Part A and Part B premiums, but people with partial dual eligibility don't receive full Medicaid medical benefits. They may also qualify for a D-SNP; Medicare pays for most care, but partial dual eligibles are responsible for out-of-pocket costs. Coverage is only available in certain areas.",
+      "topic": "Dual eligible coverage",
+      "tags": ["partial dual eligible", "medicare savings program", "msp", "premiums", "d-snp"],
+      "entities": ["Medicare Savings Program", "MSP", "Dual Special Needs plan", "Medicare Part A", "Medicare Part B"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["What is partial dual eligibility?", "What is a Medicare Savings Program?"]
+    },
+    {
+      "type": "assertion",
+      "title": "How Medicare Savings Programs reduce costs",
+      "question": "How does a Medicare Savings Program (MSP) help partial dual eligibles?",
+      "text": "When Medicare members get care, Medicare doesn't cover the full amount; the remainder, called cost share or out-of-pocket costs, is the member's responsibility and may take the form of a premium, copay, coinsurance or deductible. With MSPs, the state Medicaid program helps pay some of these costs for partial dual eligibles. The amount of help depends mainly on two things: how much the person earns (income) and how much they own (assets), such as a house.",
+      "topic": "Dual eligible coverage",
+      "tags": ["cost sharing", "income", "assets", "msp", "out-of-pocket"],
+      "entities": ["Medicare Savings Program", "Medicaid", "Medicare"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": ["How does my state help pay Medicare costs?", "What determines how much help I get from an MSP?"]
+    },
+    {
+      "type": "definition",
+      "title": "QMB: Qualified Medicare Beneficiary",
+      "question": "What is the Qualified Medicare Beneficiary (QMB) program?",
+      "text": "The Qualified Medicare Beneficiary (QMB) program is one of 4 partial dual eligibility categories. QMB helps pay premiums for Medicare Part A (hospital insurance) and Medicare Part B (medical insurance). Members who have QMB eligibility also get cost share coverage for copays, deductibles and coinsurance.",
+      "topic": "Dual eligible coverage",
+      "tags": ["qmb", "part a premiums", "part b premiums", "copays", "deductibles"],
+      "entities": ["Qualified Medicare Beneficiary", "QMB", "Medicare Part A", "Medicare Part B"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What does QMB cover?", "Does QMB pay my Part A and Part B premiums?"]
+    },
+    {
+      "type": "comparison",
+      "title": "SLMB, QI and QDWI partial dual categories",
+      "question": "What are the SLMB, QI and QDWI programs?",
+      "text": "The Specified Low Income Medicare Beneficiary (SLMB) program helps pay premiums for Part B (medical insurance) only. The Qualified Individual (QI) program also helps pay Part B premiums, but these members can have higher income than with SLMB. The Qualified Disabled and Working Individuals (QDWI) program helps pay Medicare Part A (hospital insurance) premiums for people who are disabled but have returned to work and, as a result, lost premium-free Part A coverage.",
+      "topic": "Dual eligible coverage",
+      "tags": ["slmb", "qi", "qdwi", "part b premiums", "part a premiums", "partial dual"],
+      "entities": ["Specified Low Income Medicare Beneficiary", "SLMB", "Qualified Individual", "QI", "Qualified Disabled and Working Individuals", "QDWI"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What is the difference between QMB, SLMB and QI?", "What is QDWI?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Getting help finding a dual-eligible plan",
+      "question": "How do I find a dual-eligible health plan if I might be full or partial dual?",
+      "text": "If you think you, a family member or someone you care for qualifies as a full or partial dual eligible, you can use the plan search on the page to see what plans are available in your area. If you're not sure, you can call UnitedHealthcare at 1-844-812-5967 (TTY 711), 8 a.m. to 8 p.m. local time, 7 days a week, and talk with a licensed agent. Coverage for partial dual eligibles is only available in certain areas.",
+      "topic": "Dual eligible coverage",
+      "tags": ["find a plan", "licensed agent", "phone support", "partial dual"],
+      "entities": ["UnitedHealthcare", "Dual Special Needs plan"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Get support",
+      "stage": "Decision",
+      "questions": ["How do I find out if I'm full or partial dual?", "Who can I call to find a dual plan?"]
+    }
+  ]
+}

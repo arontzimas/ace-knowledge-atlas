@@ -1,0 +1,302 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace/understanding-health-care-marketplace",
+  "title": "What is the health insurance Marketplace?",
+  "domain": "Individual & Family",
+  "page_type": "guide",
+  "summary": "Explains how the health insurance Marketplace works, Bronze, Silver and Gold metal levels, who ACA plans fit, ways to save, and employer reimbursement arrangements like ICHRA and QSEHRA.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/understanding-health-care-marketplace/_jcr_content/root/regioncontainer-main/responsivegrid/grid/container/image.coreimg.90.1280.png/1728324764845/medal-bronze-146x146.png",
+      "alt": "Bronze medal"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/understanding-health-care-marketplace/_jcr_content/root/regioncontainer-main/responsivegrid/grid/container_copy/image_192797255.coreimg.90.1280.png/1728324763207/medal-silver-desktop-234x146-v2.png",
+      "alt": "Silver medal"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/understanding-health-care-marketplace/_jcr_content/root/regioncontainer-main/responsivegrid/grid/container_copy_1192534124/image.coreimg.90.1280.png/1728324762334/medal-gold-146x146.png",
+      "alt": "Gold medal"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6383786291112-thumbnail.jpg",
+      "alt": "Learn more about ACA plan metal levels"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is the health insurance Marketplace?",
+      "question": "What is the health insurance Marketplace?",
+      "text": "The health insurance Marketplace (also known as the ACA Marketplace) is where you can purchase a health plan for you and your family. UnitedHealthcare offers a variety of Individual & Family ACA Marketplace plans, and if plans are available in your area you may be able to shop and enroll directly through UnitedHealthcare.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "marketplace",
+        "aca",
+        "individual and family plans",
+        "enroll directly"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the ACA Marketplace?",
+        "Where can I buy health insurance for my family?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How Marketplace plans work",
+      "question": "How do ACA Marketplace plans work?",
+      "text": "Marketplace plans are categorized by metal levels (Bronze, Silver and Gold) that determine how you and your plan split the cost of care. You may qualify for savings, also called subsidies, to lower health care costs. Most people sign up during open enrollment, which runs November 1 to January 15 in most states, and a qualifying life event like turning 26 or having a baby may let you enroll outside that window.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "metal levels",
+        "subsidies",
+        "open enrollment",
+        "qualifying life event",
+        "how it works"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How does the ACA Marketplace work?",
+        "Can I enroll outside open enrollment?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "UnitedHealthcare ACA members and subsidies",
+      "question": "How many UnitedHealthcare ACA members get subsidies or $0 premiums?",
+      "text": "According to UnitedHealthcare, 9 out of 10 of its ACA Marketplace plan members qualified for a subsidy for their 2025 health coverage. Depending on household income, you may qualify for low or even $0 health plans, and over half of UnitedHealthcare members paid a $0 monthly premium in 2025.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "subsidy",
+        "$0 premium",
+        "2025",
+        "household income",
+        "statistics"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "subsidy"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What share of ACA members pay $0 premium?",
+        "How many people qualify for ACA subsidies?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Bronze, Silver and Gold metal levels explained",
+      "question": "What are Bronze, Silver and Gold ACA plan categories?",
+      "text": "Marketplace plans are organized into 3 categories, Bronze, Silver and Gold, also called metal levels. They determine your cost of care and amount of coverage, but they don't impact the quality or type of care you'll get. A wide range of UnitedHealthcare ACA plans are available in these 3 metal levels.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "metal levels",
+        "bronze",
+        "silver",
+        "gold",
+        "coverage tiers"
+      ],
+      "entities": [
+        "Bronze",
+        "Silver",
+        "Gold"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does metal level mean for health insurance?",
+        "Does Gold coverage mean better doctors?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Choosing between Bronze, Silver and Gold",
+      "question": "Which metal level is right for me?",
+      "text": "Bronze plans suit people who rarely see a doctor: low monthly premium, typically the highest annual deductible, and help with worst-case scenarios like serious illness or injury. Silver plans suit people who typically see their provider for routine preventive care: a slightly higher premium than Bronze, more coverage, and possible cost-sharing reduction savings. Gold plans suit people who see their doctor often: a higher monthly premium but lower costs when you get care.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "bronze vs silver vs gold",
+        "premium",
+        "deductible",
+        "cost-sharing reduction",
+        "how often you see a doctor"
+      ],
+      "entities": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "cost-sharing reductions"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I pick Bronze or Silver?",
+        "Which metal level is best if I see my doctor often?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who an ACA Marketplace plan may fit",
+      "question": "Is an ACA Marketplace plan a good fit for me?",
+      "text": "A UnitedHealthcare Individual & Family ACA Marketplace plan could be a good fit if you're new to buying your own health insurance, don't get or don't want insurance through your employer, are self-employed, aren't eligible for Medicare or Medicaid, or have an employer that offers reimbursement to help cover the cost of a health plan you purchase.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "eligibility",
+        "self-employed",
+        "employer reimbursement",
+        "not eligible for medicare"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who should buy an ACA plan?",
+        "Can self-employed people use the Marketplace?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is the premium tax credit?",
+      "question": "How does the ACA premium tax credit work?",
+      "text": "The premium tax credit is a subsidy that lowers your monthly premium. Generally, the lower your household income, the larger your tax credit. If you qualify, you can use some or all of it to help pay your premium, which can result in a low or $0 monthly cost. It is available for Bronze, Silver and Gold plans, and the credit is sent directly to your insurance company.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "premium tax credit",
+        "household income",
+        "$0 premium",
+        "subsidy"
+      ],
+      "entities": [
+        "premium tax credit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How is my ACA tax credit calculated?",
+        "Does the tax credit work on Bronze plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a cost-sharing reduction (CSR)?",
+      "question": "What is a cost-sharing reduction on an ACA plan?",
+      "text": "A cost-sharing reduction (CSR) is extra savings on top of the premium tax credit, if you qualify. With a CSR you pay less than you normally would for covered health benefits. Available only on Silver plans, the discounts lower out-of-pocket costs like copays, coinsurance and deductibles, and you qualify based on your income level.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "cost-sharing reduction",
+        "csr",
+        "silver plans",
+        "copays",
+        "deductible"
+      ],
+      "entities": [
+        "cost-sharing reduction",
+        "Silver plan"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is CSR in health insurance?",
+        "Which plans offer cost-sharing reductions?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "ICHRA and QSEHRA employer reimbursement",
+      "question": "What are ICHRA and QSEHRA employer reimbursements?",
+      "text": "Some employers offer reimbursement arrangements so employees can buy coverage on their own through the ACA Marketplace instead of employer group health insurance. There are 2 types: Individual Coverage Health Reimbursement Arrangement (ICHRA) and Qualified Small Employer Health Reimbursement Arrangement (QSEHRA). Employers reimburse some or all of the premiums employees pay for health insurance they purchase on their own.",
+      "topic": "Plans through work",
+      "tags": [
+        "ichra",
+        "qsehra",
+        "employer reimbursement",
+        "health reimbursement arrangement"
+      ],
+      "entities": [
+        "ICHRA",
+        "QSEHRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an ICHRA?",
+        "What is the difference between ICHRA and QSEHRA?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Reimbursement arrangements and subsidy eligibility",
+      "question": "Can I get subsidies if my employer offers ICHRA or QSEHRA?",
+      "text": "Typically, if you get an ACA Marketplace health plan with a reimbursement arrangement like ICHRA or QSEHRA, you won't qualify for subsidies. Because you won't qualify for subsidies, you'll need to shop for an off-exchange ACA plan.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "ichra",
+        "qsehra",
+        "off-exchange",
+        "subsidies"
+      ],
+      "entities": [
+        "ICHRA",
+        "QSEHRA",
+        "off-exchange ACA plan"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Do I need an off-exchange plan with an ICHRA?",
+        "Can I get a premium tax credit and an ICHRA?"
+      ]
+    }
+  ]
+}

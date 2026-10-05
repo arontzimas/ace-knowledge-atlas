@@ -1,0 +1,341 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace/aca-plan-navigators-assisters",
+  "title": "Navigators and assisters resources",
+  "domain": "Individual & Family",
+  "page_type": "guide",
+  "summary": "Resource page for navigators and assisters helping people enroll in UnitedHealthcare ACA Marketplace plans, with plan types, CMS training, Special Enrollment Period guidance, member tools and county availability and contact numbers by state.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/aca-plan-navigators-assisters/_jcr_content/root/regioncontainer-main/responsivegrid/image.coreimg.90.1280.png/1760631071966/aca-navigators-assisters-usa-map-2026.png",
+      "alt": "Map of states with ACA plan coverage"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Resources for ACA navigators and assisters",
+      "question": "What resources does UnitedHealthcare offer navigators and assisters?",
+      "text": "UnitedHealthcare provides information and resources for people who help others enroll in an ACA Marketplace plan. These include details on ACA Marketplace plan options, coverage by state, training and education resources, and guidance on helping consumers choose and manage their plan.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "navigators",
+        "assisters",
+        "enrollment help",
+        "training",
+        "resources"
+      ],
+      "entities": [
+        "navigators",
+        "assisters",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Where can navigators find UnitedHealthcare ACA resources?",
+        "What help is available for ACA assisters?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan types and metal levels for assisters",
+      "question": "What plan types should assisters know about?",
+      "text": "UnitedHealthcare ACA Marketplace plans include 5 plan types: Essential (off-exchange only), Value, Advantage, Copay Focus and Standard. Within each plan type, plans are organized into metal levels (Bronze, Silver and Gold) that determine the cost of care and amount of coverage. Metal levels don't impact the quality or type of care provided.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan types",
+        "essential off-exchange",
+        "metal levels",
+        "bronze",
+        "silver",
+        "gold"
+      ],
+      "entities": [
+        "Essential",
+        "Value",
+        "Advantage",
+        "Copay Focus",
+        "Standard"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Which UnitedHealthcare ACA plan is off-exchange only?",
+        "Do metal levels change quality of care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "CMS assister training resources",
+      "question": "Where can assisters find ACA training?",
+      "text": "UnitedHealthcare points assisters to training from the Centers for Medicare & Medicaid Services (CMS) on the federally facilitated Marketplace, appeals, and Medicare and the Marketplace. Assisters can also explore webinars, view past newsletters and find help for outreach to special populations.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "cms",
+        "assister training",
+        "webinars",
+        "federally facilitated marketplace",
+        "outreach"
+      ],
+      "entities": [
+        "Centers for Medicare & Medicaid Services",
+        "federally facilitated Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Where is CMS assister training?",
+        "What training do ACA navigators need?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Special Enrollment Period eligibility for assisters",
+      "question": "Who qualifies for a Special Enrollment Period?",
+      "text": "Some people may be eligible to enroll in an ACA Marketplace plan outside the annual open enrollment period (OEP) if they have a qualifying life event. These include having or adopting a baby, getting married, turning 26, getting divorced or a change in employment status.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "special enrollment period",
+        "qualifying life event",
+        "open enrollment",
+        "turning 26"
+      ],
+      "entities": [
+        "Special Enrollment Period",
+        "open enrollment period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What life events qualify someone for an SEP?",
+        "Does a job change qualify for a Special Enrollment Period?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Losing Medicaid is a qualifying life event",
+      "question": "Can someone who loses Medicaid enroll in an ACA plan?",
+      "text": "If you're working with someone who no longer qualifies for Medicaid coverage, you may be able to help them find a new health plan. Losing Medicaid coverage is considered a qualifying life event, which means they may be eligible for a Special Enrollment Period for an ACA Marketplace plan.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "medicaid renewal",
+        "special enrollment period",
+        "loss of medicaid",
+        "qualifying life event"
+      ],
+      "entities": [
+        "Medicaid",
+        "Special Enrollment Period",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What can someone do after losing Medicaid?",
+        "Is losing Medicaid a reason for a Special Enrollment Period?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Two ways members can find providers",
+      "question": "How can members search for network providers?",
+      "text": "UnitedHealthcare describes 2 options for finding providers. Members can sign in to their plan account and go to Find Care to search for network providers. Or they can see if their doctor may be covered without signing in by using the guest provider search.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "find providers",
+        "guest provider search",
+        "find care",
+        "network"
+      ],
+      "entities": [
+        "Find Care",
+        "guest provider search"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I search for a doctor without signing in?",
+        "Where do I find network providers for my ACA plan?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Two ways to find network pharmacies",
+      "question": "How do members find network pharmacies for ACA plans?",
+      "text": "There are 2 options for searching for pharmacies. Members can sign in to their plan account and go to Pharmacies & Prescriptions to view nearby network pharmacies. Or they can view a general list of pharmacy locations by searching the Optum Rx pharmacy network.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "pharmacy search",
+        "optum rx",
+        "network pharmacies",
+        "prescriptions"
+      ],
+      "entities": [
+        "Optum Rx",
+        "Pharmacies & Prescriptions"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I find a pharmacy in network?",
+        "What is the Optum Rx pharmacy network search?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Using member ID cards",
+      "question": "What should members know about their health plan ID card?",
+      "text": "Assisters can educate plan members on how to use their member (health plan) ID card, how to view their ID card using the UnitedHealthcare app, what to do if they need to request a new card and more.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member id card",
+        "uhc app",
+        "request new card"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I see my ID card in the UnitedHealthcare app?",
+        "How do I request a replacement health plan ID card?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "State coverage pages list counties and phone numbers",
+      "question": "Where can I find ACA plan availability by county and state?",
+      "text": "The page lists quick facts for each state where UnitedHealthcare offers ACA Marketplace plans, including available counties and a contact number. States listed include Alabama, Arizona, Colorado, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Louisiana, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Nebraska, New Jersey, New Mexico, North Carolina, New York, Ohio, Oklahoma, South Carolina, Tennessee, Texas, Virginia, Washington, Wisconsin and Wyoming. Plan availability is subject to change, so confirm it during enrollment.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "state availability",
+        "counties",
+        "contact numbers",
+        "plan availability"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Which states have UnitedHealthcare ACA plans?",
+        "How do I check if my county is covered?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ACA plan availability in Arizona",
+      "question": "Which Arizona counties have UnitedHealthcare ACA plans?",
+      "text": "UnitedHealthcare lists ACA Marketplace plans in Arizona counties Gila, La Paz, Maricopa, Mohave, Pima, Pinal and Santa Cruz. The contact number is 1-877-482-9045, TTY 711, available 8 a.m. to 8 p.m. local time, Monday through Friday.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "arizona",
+        "counties",
+        "maricopa",
+        "phone number"
+      ],
+      "entities": [
+        "UnitedHealthcare of Arizona"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Are UnitedHealthcare ACA plans available in Maricopa County?",
+        "What number do I call for Arizona ACA plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ACA plan availability in New York",
+      "question": "Which New York counties have UnitedHealthcare ACA plans?",
+      "text": "UnitedHealthcare lists ACA Marketplace plans in New York counties Bronx, Dutchess, Kings, Nassau, New York, Orange, Putnam, Queens, Richmond, Rockland, Suffolk, Sullivan, Ulster and Westchester. The contact number is 1-800-980-5357, TTY 711, available 8 a.m. to 8 p.m. local time, Monday through Friday.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "new york",
+        "counties",
+        "brooklyn",
+        "queens",
+        "phone number"
+      ],
+      "entities": [
+        "UnitedHealthcare of New York"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare sell ACA plans in Brooklyn?",
+        "Which NY counties are covered?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ACA plan availability in Texas",
+      "question": "Where in Texas are UnitedHealthcare ACA plans available?",
+      "text": "The Texas listing covers many counties across the state and uses contact number 1-866-811-2704, TTY 711, available 8 a.m. to 8 p.m. local time, Monday through Friday. Two separate Texas listings appear: Texas - Sanitas in Bexar County, and Texas - Kelsey Seybold in Brazoria, Fort Bend, Galveston, Harris and Montgomery counties.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "texas",
+        "sanitas",
+        "kelsey seybold",
+        "counties",
+        "bexar"
+      ],
+      "entities": [
+        "Sanitas",
+        "Kelsey-Seybold Clinic",
+        "UnitedHealthcare of Texas"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is the Sanitas ACA plan in Texas?",
+        "Are Kelsey-Seybold plans available in Harris County?"
+      ]
+    }
+  ]
+}

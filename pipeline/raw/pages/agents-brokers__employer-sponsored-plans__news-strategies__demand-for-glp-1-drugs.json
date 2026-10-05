@@ -1,0 +1,331 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/demand-for-glp-1-drugs",
+  "title": "Rising GLP-1 demand challenges employer health plans",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Explains the cost and adherence challenges GLP-1 drugs create for employer plans and UnitedHealthcare's whole-person Total Weight Support approach.",
+  "published": "2026-03-30",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/demand-for-glp-1-drugs/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/grid_copy_copy_copy_/container_2111132048/image.coreimg.90.1280.png/1760544598201/tl-costmgmt-glp1-article-thumbnail-400x466.png",
+      "alt": "Thumbnail image for GLP-1 article"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/pdfs/thought-leadership-cost-management-glp1-article.pdf",
+      "alt": "Download the article"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Obesity prevalence and cost",
+      "question": "How common and costly is obesity in the U.S.?",
+      "text": "With 2 in 5 adults and 1 in 5 children considered obese, obesity is prevalent in America and also expensive. Obesity and related conditions cost the U.S. health system nearly $173B a year. Combined with other chronic and metabolic conditions, such as type 2 diabetes, heart disease and some types of cancer, that cost rises to $4.9T.",
+      "topic": "Cost management",
+      "tags": [
+        "obesity",
+        "chronic conditions",
+        "metabolic conditions",
+        "health costs",
+        "glp-1"
+      ],
+      "entities": [
+        "GLP-1"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How much does obesity cost the U.S. health system?",
+        "What share of adults and children are obese?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Metabolic conditions drive employer spend",
+      "question": "How much of employer health spend comes from metabolic conditions?",
+      "text": "In 2023, 28% of UnitedHealthcare members had a metabolic condition, and those members accounted for 56% of their employer's total health care spend, 4x more than those without a metabolic condition. Sixty percent of surveyed employers said they are looking for more support from the health care industry in improving care management for costly conditions.",
+      "topic": "Cost management",
+      "tags": [
+        "metabolic conditions",
+        "employer spend",
+        "care management",
+        "chronic conditions",
+        "survey"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "What percent of employer health spend is from metabolic conditions?",
+        "Do employers want help managing costly conditions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Don't treat GLP-1s as a single-point solution",
+      "question": "Should employers rush to cover GLP-1 drugs?",
+      "text": "UnitedHealthcare's Chief Data & Analytics Officer Craig Kurtzweil and Chief Medical Officer Dr. Rhonda Randall caution employers not to rush decisions about covering GLP-1s. They suggest a whole-person approach, noting that people taking these drugs are more successful at achieving and maintaining weight loss as part of a comprehensive lifestyle management program, and that employers get more value from coverage in that case.",
+      "topic": "Cost management",
+      "tags": [
+        "glp-1",
+        "coverage decision",
+        "lifestyle management",
+        "whole-person",
+        "weight loss"
+      ],
+      "entities": [
+        "GLP-1",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Should my company cover GLP-1 drugs?",
+        "Are GLP-1s more effective with lifestyle programs?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What GLP-1 drugs are and how they work",
+      "question": "What are GLP-1 medications?",
+      "text": "Glucagon-like peptide-1 (GLP-1) medications were originally developed to help manage type 2 diabetes. They stimulate the body to produce more insulin when blood sugar levels start to rise, which helps lower glucose. Most are administered by injection, although oral versions are becoming more widely available. Drugs named include Ozempic, Rybelsus, Wegovy, Zepbound and Mounjaro.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "glp-1",
+        "type 2 diabetes",
+        "insulin",
+        "injection",
+        "ozempic"
+      ],
+      "entities": [
+        "GLP-1",
+        "Ozempic",
+        "Rybelsus",
+        "Wegovy",
+        "Zepbound",
+        "Mounjaro"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a GLP-1 drug?",
+        "How do GLP-1 medications lower blood sugar?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "GLP-1 spending up more than 500%",
+      "question": "How much has U.S. spending on GLP-1 drugs grown?",
+      "text": "Total U.S. spending on drugs like Ozempic, Rybelsus, Wegovy, Zepbound and Mounjaro increased by more than 500% between 2018 and 2023, from $13.7B to $71.7B. Several, such as Wegovy and Zepbound, were approved for treating obesity, obstructive sleep apnea, and heart attack or stroke prevention in people who have already had a cardiovascular event.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "glp-1",
+        "drug spending",
+        "wegovy",
+        "zepbound",
+        "approved uses"
+      ],
+      "entities": [
+        "GLP-1",
+        "Wegovy",
+        "Zepbound"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How fast is GLP-1 spending growing?",
+        "What conditions are Wegovy and Zepbound approved for?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "PMPM costs rose 91% after starting GLP-1s",
+      "question": "How much do GLP-1 drugs raise per-member costs?",
+      "text": "The average cost of GLP-1 drugs can exceed $1,000 per patient per month. Costs per member per month (PMPM) increased 91% between the 12 months before members started a GLP-1 and the 12 months after. ER visits also increased 10% among members after starting a GLP-1, which the article links partly to side effects such as nausea and other gastrointestinal issues.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "glp-1",
+        "pmpm",
+        "drug cost",
+        "er visits",
+        "employer spend"
+      ],
+      "entities": [
+        "GLP-1",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much does a GLP-1 cost per month?",
+        "Do GLP-1 drugs increase employer costs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "58% stop GLP-1s before benefit",
+      "question": "How many patients stop taking GLP-1 drugs early?",
+      "text": "58% of patients stop taking GLP-1s before seeing a clinically meaningful health benefit. The article attributes low adherence partly to the months it can take to reach the full effective dose and to side effects such as nausea, diarrhea, constipation and vomiting. UnitedHealthcare's Kurtzweil says employers are not seeing a significant return on investment or improvements in employee health.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "glp-1",
+        "adherence",
+        "side effects",
+        "discontinuation",
+        "roi"
+      ],
+      "entities": [
+        "GLP-1"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why do people stop taking GLP-1 drugs?",
+        "Do employers get a return on GLP-1 coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Clinical caution about GLP-1 long-term effects",
+      "question": "What long-term concerns exist about GLP-1 drugs?",
+      "text": "UnitedHealthcare's Chief Medical Officer Dr. Rhonda Randall says carriers are still learning where GLP-1s are most effective and what their long-term side effects are, and she is concerned that people may lose more muscle mass than fat cells. This reinforces pairing the drugs with lifestyle changes and other weight loss support. GLP-1s for weight loss are currently injections, with pill forms in development.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "glp-1",
+        "muscle mass",
+        "long-term effects",
+        "lifestyle changes",
+        "pill forms"
+      ],
+      "entities": [
+        "GLP-1"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do GLP-1 drugs cause muscle loss?",
+        "Are there pill versions of GLP-1 weight loss drugs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How UnitedHealthcare evaluates new drugs",
+      "question": "How does UnitedHealthcare decide how to cover new drugs like GLP-1s?",
+      "text": "Carriers are evaluating the efficacy and use cases of new drugs to determine how they should be covered, based on the latest clinical studies and medical evidence. Susan Maddux, chief pharmacy officer for UnitedHealthcare Employer & Individual, says UnitedHealthcare constantly monitors drugs under development and potential new uses for approved ones, typically starting discussions to build a strategy even before approval.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "drug coverage",
+        "clinical evidence",
+        "pharmacy strategy",
+        "new drugs",
+        "monitoring"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "GLP-1"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does UnitedHealthcare decide on drug coverage?",
+        "Does UnitedHealthcare plan ahead for new drug approvals?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Total Weight Support program",
+      "question": "What is UnitedHealthcare's Total Weight Support?",
+      "text": "Total Weight Support is a UnitedHealthcare program that addresses multiple aspects of an employee's weight management, including pharmaceutical, clinical and behavioral support. It teaches sustainable lifestyle habits such as balanced diet and more physical activity, supports drug adherence and side-effect management if GLP-1s or other weight-loss medications are used, and provides digital tools and social support throughout the member journey.",
+      "topic": "Wellness programs",
+      "tags": [
+        "total weight support",
+        "weight management",
+        "glp-1 adherence",
+        "lifestyle",
+        "digital tools"
+      ],
+      "entities": [
+        "Total Weight Support",
+        "GLP-1"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What is Total Weight Support?",
+        "Does UnitedHealthcare offer a weight loss program that supports GLP-1 users?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Employers should build comprehensive weight strategies",
+      "question": "What should employers do about GLP-1 coverage pressure?",
+      "text": "While employers may feel pressure from employees to cover GLP-1s, the article says it is imperative to consider the costs and adherence challenges. It advises employers to work with their carrier to build a benefits strategy that includes a comprehensive weight-loss approach addressing the many factors that can contribute to obesity and related conditions. Employers who cover them and later stop may also have to explain the decision.",
+      "topic": "Cost management",
+      "tags": [
+        "glp-1",
+        "benefits strategy",
+        "employee pressure",
+        "weight loss",
+        "coverage"
+      ],
+      "entities": [
+        "GLP-1",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Decision",
+      "questions": [
+        "How should employers respond to employees asking for GLP-1 coverage?",
+        "What happens if an employer stops covering GLP-1s?"
+      ]
+    }
+  ]
+}

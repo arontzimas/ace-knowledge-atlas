@@ -1,0 +1,202 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace/using-a-choice-arrangement",
+  "title": "What is a CHOICE Arrangement?",
+  "domain": "Individual & Family",
+  "page_type": "guide",
+  "summary": "Explains the CHOICE Arrangement (formerly ICHRA), how employers set a monthly allowance toward an individual ACA plan, its benefits, the five-step process, and cost basics.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/using-a-choice-arrangement/_jcr_content/root/regioncontainer-main/responsivegrid/container/image.coreimg.90.1280.png/1788320029845/illustration-plan-recommendations.png",
+      "alt": "Illustration of plan recommendations"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is a CHOICE Arrangement?",
+      "question": "What is a CHOICE Arrangement for health insurance?",
+      "text": "CHOICE Arrangement stands for Custom Health Option and Individual Care Expense Arrangement, formerly known as ICHRA. It is a health benefit some employers offer that helps pay for some or all of an individual health insurance plan. The employee enrolls in an individual health plan that fits their needs, and the employer sets a monthly allowance to pay or reimburse the employee's plan premium.",
+      "topic": "Plans through work",
+      "tags": [
+        "choice arrangement",
+        "ichra",
+        "employer allowance",
+        "individual health plan",
+        "reimbursement"
+      ],
+      "entities": [
+        "CHOICE Arrangement",
+        "ICHRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does CHOICE Arrangement stand for?",
+        "Is a CHOICE Arrangement the same as an ICHRA?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Benefits of a CHOICE Arrangement",
+      "question": "What are the benefits of a CHOICE Arrangement?",
+      "text": "A CHOICE Arrangement gives you the flexibility to choose a plan that fits your coverage needs and budget, and many plans offer broad provider networks that may cover the doctors and specialists you prefer. Other benefits include tax-advantaged contributions (you don't pay income tax on contributions from your employer) and a policy that stays with you, so you can keep your plan even if you leave your job.",
+      "topic": "Plans through work",
+      "tags": [
+        "tax-advantaged",
+        "portable coverage",
+        "provider networks",
+        "flexibility"
+      ],
+      "entities": [
+        "CHOICE Arrangement"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I keep my plan if I leave my job with a CHOICE Arrangement?",
+        "Are employer contributions to a CHOICE Arrangement taxable?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How a CHOICE Arrangement works in five steps",
+      "question": "How does a CHOICE Arrangement work?",
+      "text": "1) Your employer sets a monthly allowance amount toward your individual plan. 2) You consider the type of ACA plan you want, shopping and enrolling in an off-exchange ACA individual plan. 3) You shop for an individual health plan. 4) You enroll in coverage, which must be a qualified ACA-compliant plan. 5) Your employer reimburses you; the allowance may be applied through payroll deductions, or you may pay premiums directly and submit qualified expenses for reimbursement.",
+      "topic": "Plans through work",
+      "tags": [
+        "choice arrangement",
+        "how it works",
+        "off-exchange",
+        "allowance",
+        "reimbursement"
+      ],
+      "entities": [
+        "CHOICE Arrangement",
+        "off-exchange ACA plan"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are the steps to use a CHOICE Arrangement?",
+        "How do I get reimbursed under a CHOICE Arrangement?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Why CHOICE Arrangement shoppers use off-exchange plans",
+      "question": "Can I use federal subsidies with a CHOICE Arrangement?",
+      "text": "You'll shop and enroll in an off-exchange ACA individual plan because if your employer provides a CHOICE Arrangement contribution toward your health plan, you can't also receive federal premium subsidies for the same coverage.",
+      "topic": "Plans through work",
+      "tags": [
+        "subsidies",
+        "off-exchange",
+        "premium tax credit",
+        "employer contribution"
+      ],
+      "entities": [
+        "CHOICE Arrangement",
+        "off-exchange ACA plan"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Why is an off-exchange plan required with a CHOICE Arrangement?",
+        "Do I qualify for a premium tax credit with an employer allowance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Where to shop with a CHOICE Arrangement",
+      "question": "Where can I shop for a plan with a CHOICE Arrangement?",
+      "text": "Depending on your employer, you may be able to shop for a health care plan through a private enrollment experience through a CHOICE Arrangement administrator, a licensed insurance broker, or directly with an insurance carrier like UnitedHealthcare. Whichever route you take, your coverage must be a qualified ACA-compliant plan.",
+      "topic": "Plans through work",
+      "tags": [
+        "shop for plan",
+        "broker",
+        "administrator",
+        "carrier",
+        "aca-compliant"
+      ],
+      "entities": [
+        "CHOICE Arrangement",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Can I buy a CHOICE Arrangement plan directly from UnitedHealthcare?",
+        "Do I need a broker for a CHOICE Arrangement?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Cost of a plan with a CHOICE Arrangement",
+      "question": "How much does a plan with a CHOICE Arrangement cost?",
+      "text": "If your plan's premium is less than your employer's monthly allowance, your employer may reimburse the full cost. If the premium is more than your allowance, you typically pay the difference. Keeping this in mind can help you pick a plan that balances your coverage and budget needs.",
+      "topic": "Plans through work",
+      "tags": [
+        "premium",
+        "allowance",
+        "cost",
+        "reimbursement"
+      ],
+      "entities": [
+        "CHOICE Arrangement"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What if my premium is higher than my employer allowance?",
+        "Will my employer pay my whole premium?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How CHOICE Arrangement reimbursement is paid",
+      "question": "How do I pay premiums with a CHOICE Arrangement?",
+      "text": "After you've enrolled, your employer allowance helps pay for the cost of the plan. This may happen through payroll deductions, or you may have to pay premiums directly to your insurance company. If you pay your insurance company directly, you'll need to submit qualified expenses to your employer or CHOICE Arrangement administrator for reimbursement.",
+      "topic": "Plans through work",
+      "tags": [
+        "premium payment",
+        "payroll deduction",
+        "qualified expenses",
+        "reimbursement"
+      ],
+      "entities": [
+        "CHOICE Arrangement"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Do I pay my premium myself with a CHOICE Arrangement?",
+        "How do I submit expenses for reimbursement?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/supporting-women-going-through-menopause",
+  "title": "Rethinking menopause support for today's workforce",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Explains why menopause is a workforce and productivity issue for employers and offers six strategies for supporting women in midlife.",
+  "published": "2026-06-12",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/supporting-women-going-through-menopause/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1748446191351/women-walking-arm-in-arm-1200x627.jpeg",
+      "alt": "Women walking arm in arm"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What menopause is and its common symptoms",
+      "question": "What is menopause and what symptoms can it cause?",
+      "text": "Menopause is a biological process that marks the end of a woman's reproductive years, typically occurring between the ages of 45 and 55. The transition from perimenopause to post-menopause can bring physical and emotional symptoms, including hot flashes, night sweats, mood swings, fatigue and difficulty concentrating. These symptoms vary in intensity and duration and can affect a woman's ability to perform her job.",
+      "topic": "Women's & family health",
+      "tags": [
+        "menopause",
+        "perimenopause",
+        "symptoms",
+        "hot flashes",
+        "workforce"
+      ],
+      "entities": [
+        "menopause",
+        "perimenopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What age does menopause usually happen?",
+        "What are common menopause symptoms?",
+        "How can menopause affect work performance?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Nearly 3 in 4 women say menopause affects work",
+      "question": "How many women say menopause symptoms affect their work?",
+      "text": "Nearly 3 in 4 women report that menopause symptoms impact some aspect of their work life, and decreased productivity can carry significant economic effects for organizations. UnitedHealthcare describes menopause as becoming a measurable workforce and productivity issue for employers because women in midlife represent a growing share of the workforce.",
+      "topic": "Women's & family health",
+      "tags": [
+        "menopause",
+        "productivity",
+        "workforce",
+        "retention",
+        "employer"
+      ],
+      "entities": [
+        "menopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What percentage of women say menopause affects work?",
+        "Why should employers care about menopause?",
+        "Does menopause reduce workplace productivity?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Midlife women remain a large share of the workforce",
+      "question": "How many women in midlife are still working?",
+      "text": "It is estimated that 86% of women ages 50-54 and 79% of women ages 55-60 are still active in the workplace. Women in these age groups represent 20% of today's workforce, which is why UnitedHealthcare says it is important for them to feel supported by their employers and for their specific health needs to be addressed.",
+      "topic": "Women's & family health",
+      "tags": [
+        "workforce",
+        "women ages 50-60",
+        "menopause",
+        "employer support"
+      ],
+      "entities": [
+        "menopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What share of the workforce are women in midlife?",
+        "How many women ages 50 to 60 are still working?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Women's health as a life-stage strategy",
+      "question": "Why are employers rethinking women's health benefits?",
+      "text": "Employers are rethinking women's health more broadly. Supporting women across life stages, from early adulthood through menopause, is increasingly a strategic lever for cost management, productivity and retention. UnitedHealthcare's Craig Kurtzweil notes that women's health discussions often focus on maternity or infertility-based services, while menopause has had a wide impact across the female population in UnitedHealthcare's book of business.",
+      "topic": "Women's & family health",
+      "tags": [
+        "women's health",
+        "life stage",
+        "cost management",
+        "retention",
+        "maternity"
+      ],
+      "entities": [
+        "UnitedHealthcare Employer & Individual"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is menopause covered in women's health strategy?",
+        "How do employers support women across life stages?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Six strategies for supporting midlife women",
+      "question": "What are the six ways employers can support women going through menopause?",
+      "text": "UnitedHealthcare outlines six strategies employers can use to build a more inclusive culture and benefits plan for women navigating menopause: educate the workforce, provide flexible work arrangements, offer mental health support, provide access to robust women's health benefits, encourage open communication, and support overall health and well-being.",
+      "topic": "Women's & family health",
+      "tags": [
+        "menopause",
+        "employer strategies",
+        "inclusive benefits",
+        "women's health"
+      ],
+      "entities": [
+        "menopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How can employers support menopause at work?",
+        "What are menopause-friendly workplace strategies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Educate managers and employees about menopause",
+      "question": "How can employers educate their workforce about menopause?",
+      "text": "The first step in supporting women going through menopause is to educate both management and employees. Many people, including women themselves, may not fully understand how menopause can affect daily life. Training sessions or workshops can help break down stigma and build a more empathetic workforce, and can cover how to recognize menopause symptoms and strategies for managing them.",
+      "topic": "Women's & family health",
+      "tags": [
+        "menopause",
+        "education",
+        "stigma",
+        "training",
+        "workshops"
+      ],
+      "entities": [
+        "menopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do I train managers on menopause?",
+        "Why educate employees about menopause?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Flexible work arrangements for menopause symptoms",
+      "question": "How can flexible work help employees with menopause?",
+      "text": "Offering flexible work arrangements is described as one of the most effective ways to support women during menopause. Options include flexible start and end times, working from home, or taking short breaks during the day. For example, a woman with hot flashes may need to step away from her desk to cool down, and someone with fatigue may benefit from a schedule that allows for rest.",
+      "topic": "Women's & family health",
+      "tags": [
+        "flexible work",
+        "menopause",
+        "hot flashes",
+        "fatigue",
+        "remote work"
+      ],
+      "entities": [
+        "menopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What workplace flexibility helps with menopause?",
+        "Should employers offer flexible schedules for menopause?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mental health support during menopause",
+      "question": "What mental health resources help employees going through menopause?",
+      "text": "Menopause can significantly affect mental health, with many women experiencing increased stress, anxiety and mood swings. Employers can offer access to behavioral health resources such as employee assistance programs (EAPs) or the Calm Health app, which offers personalized recommendations and support for women navigating menopause. These resources give women tools to manage their mental health and cope with menopause-related challenges.",
+      "topic": "Behavioral health",
+      "tags": [
+        "menopause",
+        "mental health",
+        "EAP",
+        "Calm Health",
+        "anxiety"
+      ],
+      "entities": [
+        "Calm Health",
+        "EAP"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Calm Health support menopause?",
+        "How do EAPs help with menopause stress?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Women's health benefits that cover menopause care",
+      "question": "What benefits should cover perimenopause and menopause?",
+      "text": "Robust women's health benefits can be crucial for supporting women through perimenopause and menopause. That includes a large network of providers or virtual providers, and coverage of treatments such as hormone replacement therapy (HRT) and medications that help with hot flashes and osteoporosis. Through UHC Hub, employers can shop a portfolio of vendors selected by UnitedHealthcare, including offerings that provide personalized 24/7 virtual support and guidance for menopause.",
+      "topic": "Women's & family health",
+      "tags": [
+        "menopause benefits",
+        "hormone replacement therapy",
+        "UHC Hub",
+        "virtual support",
+        "osteoporosis"
+      ],
+      "entities": [
+        "UHC Hub",
+        "hormone replacement therapy"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is hormone replacement therapy part of menopause benefits?",
+        "What is UHC Hub for menopause support?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Open communication and overall wellness support",
+      "question": "How can employers encourage open communication and overall wellness for menopause?",
+      "text": "Employers can build a culture where women feel comfortable discussing menopause needs through regular check-ins, anonymous feedback mechanisms and managers trained to handle sensitive conversations with empathy. Employers can also support overall well-being through wellness programs, on-site fitness centers, clinics and pharmacies. UHC Store, available through the UnitedHealthcare app and myuhc.com, offers options including Embr Labs, Elektra Health and Ovia Health by Labcorp.",
+      "topic": "Women's & family health",
+      "tags": [
+        "communication",
+        "wellness programs",
+        "UHC Store",
+        "Embr Labs",
+        "Elektra Health",
+        "Ovia Health"
+      ],
+      "entities": [
+        "UHC Store",
+        "Embr Labs",
+        "Elektra Health",
+        "Ovia Health by Labcorp",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is UHC Store?",
+        "What vendors support menopause through UHC Store?",
+        "How can managers talk about menopause?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Menopause as a productivity and experience lever",
+      "question": "Why is menopause support a performance and equity issue?",
+      "text": "Menopause often coincides with peak career years, which makes support both an equity and a performance issue. As more women remain in the workforce longer, menopause is becoming a defining moment in the employee experience. Employers that take a proactive, life-stage approach to women's health may be better positioned to improve performance, retention and long-term cost trends.",
+      "topic": "Women's & family health",
+      "tags": [
+        "menopause",
+        "productivity",
+        "employee experience",
+        "retention",
+        "cost trends"
+      ],
+      "entities": [
+        "menopause"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does menopause support improve retention?",
+        "Why is menopause an employee experience issue?"
+      ]
+    }
+  ]
+}

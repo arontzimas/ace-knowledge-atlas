@@ -1,0 +1,180 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/copays",
+  "title": "Understanding copays",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what a copay is, how copays work, how they differ from coinsurance and an example of copays at a primary care and specialist visit.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6277704718001-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Copays made clear"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a copay is",
+      "question": "What is a copay?",
+      "text": "A copay, or copayment, is a fixed amount you pay for a covered health care service, usually at the time you receive the service. It is common to have separate copay rates for different types of care. For example, the copay to see your primary care doctor may differ from the copay to see a specialist, like a dermatologist. Sometimes you might pay a copay for prescriptions.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copay",
+        "copayment",
+        "fixed amount",
+        "specialist",
+        "prescriptions"
+      ],
+      "entities": [
+        "Copay"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a copayment?",
+        "Do I pay a copay for specialists?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How copays work",
+      "question": "How do copays work?",
+      "text": "Copay amounts, such as $15 or $20 for a doctor visit, can vary depending on the provider and service. With health plans that have copays, which not all do, you know exactly what you have to pay ahead of time, which can help you manage health care costs. For most plans, your copay does not apply toward your deductible.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copay",
+        "copay amount",
+        "deductible",
+        "cost planning"
+      ],
+      "entities": [
+        "Copay",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do copays count toward my deductible?",
+        "How much is a typical copay?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Some services have a $0 cost share",
+      "question": "Are any services covered with no copay?",
+      "text": "Some services may be covered at no additional cost, or $0 cost share, such as annual wellness exams and certain other preventive care services. Copay amounts for other services can vary depending on the provider and service.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "$0 cost share",
+        "preventive care",
+        "wellness exam",
+        "copay"
+      ],
+      "entities": [
+        "Preventive care",
+        "Copay"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is my annual physical free?",
+        "Do I pay a copay for a wellness exam?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Copay versus coinsurance",
+      "question": "What's the difference between a copay and coinsurance?",
+      "text": "A copay is a fixed rate while coinsurance is a percentage of the cost of a service. A copay is a flat dollar amount typically paid at the time of service, and it does not count toward your deductible in most plans. Coinsurance is a percentage of the cost if you have met your deductible, billed by the provider whom you pay directly. Both count toward your out-of-pocket max.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copay",
+        "coinsurance",
+        "flat dollar amount",
+        "percentage",
+        "out-of-pocket max"
+      ],
+      "entities": [
+        "Copay",
+        "Coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is a copay the same as coinsurance?",
+        "Which counts toward the out-of-pocket max?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Example: copay for primary care then specialist",
+      "question": "Can you show how copays and coinsurance work together?",
+      "text": "Jake visits his primary care doctor about a rash and pays his plan's $25 copay at the front desk. His doctor refers him to a dermatologist, and his $25 copay does not cover specialist visits, so he pays an additional fee. If Jake has not met his deductible, the dermatology bill is applied to his deductible. If he has met it, he pays only coinsurance, a percentage of the cost, and his plan pays the rest.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copay example",
+        "specialist",
+        "deductible",
+        "coinsurance",
+        "referral"
+      ],
+      "entities": [
+        "Copay",
+        "Coinsurance",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Will I owe more than my copay if I see a specialist?",
+        "How do copays and deductibles interact?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Managing costs with copays",
+      "question": "How can understanding copays help me choose a plan?",
+      "text": "Knowing how copays work can help you add up potential costs more accurately when you are planning for the year or choosing your health plan during open enrollment. Comparing potential medical costs across plan types may help make sure you are covered for different scenarios. Some plans, like fixed benefit health insurance, can help you manage potential out-of-pocket costs from your main health insurance plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost planning",
+        "open enrollment",
+        "fixed benefit",
+        "plan comparison"
+      ],
+      "entities": [
+        "Copay",
+        "Fixed benefit health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "How do copays factor into choosing a plan?",
+        "Can fixed benefit insurance offset my copays?"
+      ]
+    }
+  ]
+}

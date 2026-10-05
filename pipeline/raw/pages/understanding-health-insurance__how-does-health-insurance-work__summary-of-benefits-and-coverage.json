@@ -1,0 +1,282 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/summary-of-benefits-and-coverage",
+  "title": "Summary of Benefits and Coverage (SBC)",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what a Summary of Benefits and Coverage is, what it contains, how to compare plans with it and where to get one.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/summary-of-benefits-and-coverage/_jcr_content/root/regioncontainer-main/responsivegrid/container/containerfloatingcon_1183854821/image.coreimg.90.1280.jpeg/1749679394327/summary-of-sbc-woman-working-desktop-808x590.jpeg",
+      "alt": "Woman working at a desk"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/IndividualAndFamilies/PDF/2020-SBC-Sample.pdf",
+      "alt": "Sample SBC (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is a Summary of Benefits and Coverage?",
+      "question": "What is a Summary of Benefits and Coverage (SBC)?",
+      "text": "A Summary of Benefits and Coverage, also called an SBC, is a document that outlines what is covered, and not covered, under a health plan. It is often discussed when choosing health plans and learning about costs. When making decisions about buying a plan or using benefits, an SBC can be a useful tool to help compare costs and understand coverage options.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC",
+        "summary of benefits",
+        "coverage document",
+        "compare plans"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an SBC?",
+        "What is a summary of benefits and coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Health plans must provide an SBC for each plan",
+      "question": "Are insurers required to provide an SBC?",
+      "text": "All health plan companies are required to provide a Summary of Benefits and Coverage (SBC) for each of their different plans. The SBC was created to make it easier to compare and shop for health plans.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC",
+        "required",
+        "health plan companies"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do all health plans have an SBC?",
+        "Why was the SBC created?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Standard SBC format enables apples-to-apples comparison",
+      "question": "How does an SBC help me compare plans?",
+      "text": "Every health plan has to use the same outline to show the costs and coverage for each of the plans it offers. Because every SBC is in the same format, it is easier to make apples-to-apples comparisons. An SBC can be used to compare prices, benefits and other plan options and features that might be important to a shopper.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC",
+        "compare plans",
+        "standard format",
+        "benefits"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How do I compare health plans?",
+        "Is the SBC format the same for every insurer?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What information is in an SBC?",
+      "question": "What information does an SBC include?",
+      "text": "An SBC includes an overview of what is covered; what is not covered and any limits on coverage; costs a person might pay such as deductibles, coinsurance and copayments; and coverage examples, including pregnancy and a minor injury. It also points to where to find complete plan documents, a network provider list, prescription drug coverage information and a Uniform Glossary, plus a contact number for questions.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC contents",
+        "deductible",
+        "coinsurance",
+        "copayment",
+        "coverage examples"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage",
+        "Uniform Glossary"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is in a summary of benefits and coverage?",
+        "Does the SBC show coverage examples?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "SBC states ACA minimum essential coverage and minimum value",
+      "question": "What do SBC statements about MEC and minimum value mean?",
+      "text": "An SBC includes a statement on whether the plan meets minimum essential coverage (MEC) for the Affordable Care Act (ACA). It also includes a statement that the plan meets minimum value, meaning the plan covers at least 60 percent of the medical costs of benefits for a population on average.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "minimum essential coverage",
+        "minimum value",
+        "ACA",
+        "60 percent"
+      ],
+      "entities": [
+        "ACA",
+        "minimum essential coverage"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is minimum value in health insurance?",
+        "Does my plan meet minimum essential coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "An SBC is only a summary",
+      "question": "Does the SBC show all plan details?",
+      "text": "Every SBC is created with four double-sided pages and 12-point type. It includes a reminder that the SBC is only a summary. To get all the details, a person should look at the complete health plan documents, and the SBC says where to go online to review and print copies of them.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC",
+        "plan documents",
+        "four pages",
+        "summary"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long is an SBC?",
+        "Where do I find full plan documents?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Where can I get an SBC?",
+      "question": "How do I get a copy of my SBC?",
+      "text": "A person can request an SBC anytime by calling the number on their member ID card. People who already have a health plan receive one automatically at certain times: on the first day of open enrollment, when they renew the plan, when changes happen within the plan, and when they make a change or are added to a plan, for example after getting married, having a child or another qualifying life event.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC",
+        "request",
+        "open enrollment",
+        "renewal",
+        "qualifying life event"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage",
+        "member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I get an SBC?",
+        "When do I receive my SBC automatically?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can I get an SBC in another language?",
+      "question": "Can I get an SBC in another language?",
+      "text": "Yes. A person can call the number on their member ID card to connect with customer service and ask for a copy of the SBC in the language they need.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "SBC",
+        "language",
+        "customer service",
+        "member ID card"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Is the SBC available in Spanish?",
+        "How do I get plan documents in another language?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Uniform Glossary explains confusing SBC terms",
+      "question": "Where can I look up confusing terms in an SBC?",
+      "text": "Even though an SBC is made to make health plan information easier to understand, some terms can be confusing. The Glossary of Health Coverage and Medical Terms, also called a Uniform Glossary, gives clear, simple answers about what terms mean.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "Uniform Glossary",
+        "SBC",
+        "definitions",
+        "health coverage terms"
+      ],
+      "entities": [
+        "Uniform Glossary",
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a uniform glossary?",
+        "Where do I find definitions of health plan terms?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Brokers can search SBC and COC documents",
+      "question": "Where can brokers find SBC and COC documents?",
+      "text": "Agents and brokers for UnitedHealthcare ACA Marketplace plans can use a search tool provided by UnitedHealthcare to find and view Summary of Benefits and Coverage (SBC) and Certificate of Coverage (COC) documents.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "broker",
+        "SBC",
+        "certificate of coverage",
+        "ACA Marketplace"
+      ],
+      "entities": [
+        "UnitedHealthcare ACA Marketplace plans",
+        "Certificate of Coverage"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Use benefits",
+      "stage": "Decision",
+      "questions": [
+        "How can a broker find an SBC for ACA Marketplace plans?",
+        "What is a COC document?"
+      ]
+    }
+  ]
+}

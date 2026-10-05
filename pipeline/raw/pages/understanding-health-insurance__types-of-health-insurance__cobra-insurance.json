@@ -1,0 +1,173 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/cobra-insurance",
+  "title": "How COBRA insurance works",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains COBRA continuation coverage: what it is, who qualifies, what it covers, how it is paid for and when it ends.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/cobra-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324473306/types-of-health-insurance-mom-sons-reading-552x356.jpeg",
+      "alt": "Mom and sons reading"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is COBRA?",
+      "question": "What is COBRA health insurance?",
+      "text": "COBRA is a federal law that gives a person the right to continue their employer-sponsored health insurance for a limited time after they lose their job, reduce their work hours or experience another qualifying life event. It can be more expensive, since a person typically pays the full premium plus an administrative fee, but it helps ensure they do not lose access to health care coverage during a transition period.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "COBRA",
+        "federal law",
+        "continuation coverage",
+        "qualifying event"
+      ],
+      "entities": [
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is COBRA?",
+        "How does COBRA work when you lose your job?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do I qualify for COBRA?",
+      "question": "Who qualifies for COBRA coverage?",
+      "text": "A person may qualify for COBRA if their job or life situation has changed. Examples are losing a job, voluntarily or by the company's decision for any reason except gross misconduct, and losing health coverage; having work hours reduced so benefits are lost and health coverage is lost; or a qualifying event such as the death of the covered employee or a divorce or legal separation from the covered employee.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "COBRA eligibility",
+        "job loss",
+        "reduced hours",
+        "divorce",
+        "qualifying event"
+      ],
+      "entities": [
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Am I eligible for COBRA?",
+        "Can I get COBRA after a divorce?",
+        "Does COBRA cover reduced hours?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What is covered under COBRA?",
+      "question": "What does COBRA cover?",
+      "text": "With COBRA, a person can continue the same coverage they had when employed, including medical, dental and vision plans. They cannot choose new coverage or change to a different plan. For example, someone with a medical plan and a dental plan can keep one or both, but cannot add a vision plan that was not part of their coverage before COBRA.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "COBRA coverage",
+        "medical",
+        "dental",
+        "vision",
+        "same plan"
+      ],
+      "entities": [
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does COBRA include dental and vision?",
+        "Can I change my plan under COBRA?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How do I pay for COBRA?",
+      "question": "How much does COBRA cost?",
+      "text": "Under COBRA, a person has to pay the full premium for their coverage, plus an administrative fee. When employed, an employer generally pays some of the cost of health insurance, so a person will likely pay more for COBRA. It may get expensive, depending on the kind of coverage.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "COBRA cost",
+        "premium",
+        "administrative fee",
+        "employer contribution"
+      ],
+      "entities": [
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Why is COBRA so expensive?",
+        "Do I pay the full premium with COBRA?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "COBRA time limits and reasons it can end",
+      "question": "How long does COBRA last, and when can it end?",
+      "text": "COBRA coverage is only a short-term solution, with a general time limit of 18 to 36 months. Coverage can also end if the person does not pay premiums on time, if the former employer stops offering any group health plans, if the person gets comparable coverage through a new job, or if the person becomes eligible for Medicare.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "COBRA limits",
+        "18 to 36 months",
+        "Medicare eligibility",
+        "premiums"
+      ],
+      "entities": [
+        "COBRA",
+        "Medicare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long can I keep COBRA?",
+        "What makes COBRA coverage end?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Other coverage options besides COBRA",
+      "question": "What other health insurance options exist besides COBRA?",
+      "text": "Because COBRA is only a short-term solution, UnitedHealthcare recommends exploring other options. Two alternatives it points to are Affordable Care Act (ACA) or Exchange plans, and short term health insurance plans. TriTerm Medical is a type of short term plan that can last for nearly 3 years.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "alternatives to COBRA",
+        "ACA",
+        "short term",
+        "TriTerm Medical"
+      ],
+      "entities": [
+        "COBRA",
+        "ACA",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are alternatives to COBRA?",
+        "Should I choose ACA or COBRA after losing my job?"
+      ]
+    }
+  ]
+}

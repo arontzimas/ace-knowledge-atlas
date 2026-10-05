@@ -1,0 +1,273 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs",
+  "title": "Understanding health insurance costs",
+  "domain": "Health Insurance Basics",
+  "page_type": "hub",
+  "summary": "Overview of what affects health insurance costs, the types of costs, help paying for coverage, ways to save, HSA/HRA/FSA accounts and preventive versus diagnostic coverage.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/_jcr_content/root/regioncontainer-main/responsivegrid/container/container/image.coreimg.90.1280.jpeg/1749590322156/understanding-health-insurance-costs-type-man-with-bicycle-desktop-600x386.jpeg",
+      "alt": "Man with bicycle (health insurance costs overview)"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy_14232/image.coreimg.90.1280.jpeg/1749590403348/understanding-health-insurance-costs-type-doctor-with-patient-desktop-600x386.jpeg",
+      "alt": "Doctor with patient"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Purpose of health insurance and cost variables",
+      "question": "What affects how much I pay for health insurance?",
+      "text": "Health insurance exists to help offset the costs of medical events, whether planned or unexpected. A number of factors may play a role in how much you pay for health insurance. Some costs vary based on your situation, like your age, where you live and even some of your habits. These are only a few of the variables that come into play when costs are calculated.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "health insurance costs",
+        "cost factors",
+        "age",
+        "location",
+        "plan comparison"
+      ],
+      "entities": [
+        "Health insurance costs"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "Why does health insurance cost what it does?",
+        "What factors change my health insurance price?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "What can make costs lower or higher",
+      "question": "What makes health insurance cost more or less?",
+      "text": "In the United States, health insurance costs may be lower if you are younger or have fewer health issues. Costs may be higher if you are age 50 and over, because you may experience more health issues; if you use tobacco; or if you include your spouse or dependents, because you are charged for each person covered by your plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "age",
+        "tobacco",
+        "dependents",
+        "health issues",
+        "cost factors"
+      ],
+      "entities": [
+        "Health insurance costs"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "Does my age affect my health insurance premium?",
+        "Do tobacco users pay more for insurance?",
+        "Does adding my spouse raise my cost?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Out-of-pocket costs not paid by insurance",
+      "question": "What are the types of health insurance costs?",
+      "text": "Within health insurance there are a number of costs not paid by insurance, also known as out-of-pocket costs. They include premiums, deductibles, coinsurance and copayments. Understanding how these costs work, including the difference between a high deductible plan and a low deductible plan, is important before you choose a plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "deductible",
+        "coinsurance",
+        "copayment",
+        "out-of-pocket costs"
+      ],
+      "entities": [
+        "Premium",
+        "Deductible",
+        "Coinsurance",
+        "Copayment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are out-of-pocket costs in health insurance?",
+        "What costs do I pay besides my premium?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Programs that help pay for health insurance",
+      "question": "Can I get help paying for my health insurance?",
+      "text": "There are many federal programs designed to help people cover the costs of health insurance. They range from Medicare and Medicaid to Affordable Care Act (ACA) or Marketplace plans, COBRA and Dual Eligible plans.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "help paying for insurance",
+        "medicare",
+        "medicaid",
+        "aca marketplace",
+        "cobra"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid",
+        "ACA",
+        "COBRA",
+        "Dual Eligible plans"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What programs help pay for health insurance?",
+        "Are there subsidies for health insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Ways to save on health care costs",
+      "question": "How can I save on health care costs?",
+      "text": "There are a number of ways to save on health care costs. Even simple choices, like going to providers in your health plan network, may help you reduce costs significantly. It may also be worthwhile to add a supplemental plan to your main health plan to help reduce costs, such as dental, vision or a fixed benefit health plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "saving money",
+        "in-network",
+        "supplemental plan",
+        "dental",
+        "fixed benefit"
+      ],
+      "entities": [
+        "Fixed benefit health insurance",
+        "Dental insurance",
+        "Vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How do I lower my health care costs?",
+        "Does a supplemental plan help reduce costs?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What an HSA is",
+      "question": "What is a health savings account (HSA)?",
+      "text": "A health savings account (HSA) is a place to put money away, pretax, to save for medical expenses ranging from standard medical costs to self-care treatments, first aid items and medical equipment. An HSA is owned by the employee and remains with them even after leaving a company.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "health savings account",
+        "pretax savings",
+        "employee-owned"
+      ],
+      "entities": [
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an HSA?",
+        "Can I keep my HSA if I leave my job?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What an HRA is",
+      "question": "What is a health reimbursement account (HRA)?",
+      "text": "A health reimbursement account (HRA) works in a similar way to an HSA. However, contributions can only be made by an employer, and the employer owns any unused funds if the employee leaves the company.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "health reimbursement account",
+        "employer-funded",
+        "unused funds"
+      ],
+      "entities": [
+        "HRA",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an HRA?",
+        "Who contributes to a health reimbursement account?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What an FSA is",
+      "question": "What is a flexible spending account (FSA)?",
+      "text": "A health care flexible spending account (FSA) lets you set aside money, before it is taxed, to help pay for qualified medical, dental and vision care expenses. It is one of the account types you may be able to choose during open enrollment, alongside HSAs and HRAs.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "flexible spending account",
+        "pretax",
+        "open enrollment"
+      ],
+      "entities": [
+        "FSA",
+        "HSA",
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a flexible spending account?",
+        "How does an FSA save money on taxes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive and diagnostic coverage differ",
+      "question": "Why does it matter if care is preventive or diagnostic?",
+      "text": "Insurance coverage is usually different based on the type of care. Preventive care, like well exams and screenings, is often covered at 100% with $0 out-of-pocket costs when you see a network provider. Coverage for diagnostic care, when you have symptoms your doctor needs to diagnose, could have additional costs and will vary depending on your plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "preventive care",
+        "diagnostic care",
+        "$0 cost",
+        "network provider",
+        "screenings"
+      ],
+      "entities": [
+        "Preventive care",
+        "Diagnostic care"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Are annual checkups free with insurance?",
+        "Why might diagnostic tests cost more than screenings?"
+      ]
+    }
+  ]
+}

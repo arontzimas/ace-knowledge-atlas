@@ -1,0 +1,177 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/coinsurance",
+  "title": "Understanding coinsurance",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what coinsurance is, how it works after the deductible, how it differs from copays, and an 80/20 example.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6277704472001-thumbnail.jpeg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Coinsurance made clear"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What coinsurance is",
+      "question": "What is coinsurance?",
+      "text": "Coinsurance is a percentage of the cost of a covered service. Until you reach your deductible, you pay 100% of out-of-pocket costs. After you meet your deductible, you and your insurance company each pay a share of the costs that add up to 100 percent. Coinsurance is your share, or the percent you pay, of the cost for covered services after you meet your deductible.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "coinsurance",
+        "percentage",
+        "deductible",
+        "cost-sharing"
+      ],
+      "entities": [
+        "Coinsurance",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does coinsurance mean?",
+        "When does coinsurance start?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Typical coinsurance percentages",
+      "question": "What is a typical coinsurance percentage?",
+      "text": "Typical coinsurance ranges from 20% to 40% for the member, with the health plan paying the rest. For example, with 20% coinsurance, a member pays 20% of the cost of a covered service after meeting the deductible and the plan pays the remaining 80%. Cost-sharing percentages vary depending on your plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "coinsurance",
+        "20%",
+        "40%",
+        "cost-sharing percentage"
+      ],
+      "entities": [
+        "Coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much is coinsurance usually?",
+        "What does 20% coinsurance mean?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How coinsurance works",
+      "question": "How does coinsurance work?",
+      "text": "If your doctor visit costs $100 and you have met your deductible, a coinsurance payment of 20% would be $20 out of pocket. Your insurance would then pay the rest of the allowed amount, which is $80. Your coinsurance benefit does not apply until after you have reached your deductible. Until then, you pay 100% of the cost.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "coinsurance",
+        "example",
+        "deductible",
+        "allowed amount"
+      ],
+      "entities": [
+        "Coinsurance",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much would I pay with 20% coinsurance on a $100 visit?",
+        "Do I pay coinsurance before my deductible?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Copay versus coinsurance",
+      "question": "What's the difference between coinsurance and copays?",
+      "text": "Coinsurance is a percentage of the cost of a service, while a copay is a fixed rate. A copay is a flat dollar amount typically paid at the time of service and does not count toward your deductible in most plans. Coinsurance is a percentage of the cost if you have met your deductible and is billed by the provider, whom you pay directly. Both count toward your out-of-pocket maximum.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "copay",
+        "coinsurance",
+        "deductible",
+        "out-of-pocket maximum",
+        "comparison"
+      ],
+      "entities": [
+        "Copay",
+        "Coinsurance",
+        "Out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is coinsurance or a copay better?",
+        "Do copays and coinsurance count toward my out-of-pocket max?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "80/20 coinsurance example",
+      "question": "Can you show an example of 80/20 coinsurance?",
+      "text": "Jake's health plan has 80/20 coinsurance, meaning that after he has met his deductible, his plan pays 80% of covered costs and he pays 20%. Jake has already met his $1000 deductible for the year and schedules a $100 visit with his primary doctor. His health plan pays $80 for the visit and Jake pays the remaining $20.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "80/20 coinsurance",
+        "example",
+        "deductible met",
+        "primary care visit"
+      ],
+      "entities": [
+        "Coinsurance",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What would I pay with 80/20 coinsurance after my deductible?",
+        "How is coinsurance calculated on a doctor visit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Using coinsurance knowledge to plan costs",
+      "question": "How can understanding coinsurance help me plan?",
+      "text": "Knowing how coinsurance works can help you add up potential costs more accurately when you plan for the year or choose a health plan during open enrollment. Comparing potential medical costs across different types of plans may help make sure you are covered for different scenarios. Some plans, like fixed benefit health insurance, can help you manage potential out-of-pocket costs from your main health insurance plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost planning",
+        "open enrollment",
+        "fixed benefit",
+        "plan comparison"
+      ],
+      "entities": [
+        "Coinsurance",
+        "Fixed benefit health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "How do I estimate my yearly health care costs?",
+        "Can a fixed benefit plan help with coinsurance?"
+      ]
+    }
+  ]
+}

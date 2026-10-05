@@ -1,0 +1,154 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/out-of-pocket-maximum-2026",
+  "title": "Out-of-pocket maximum (OOPM) requirement announced for 2026",
+  "domain": "Employer Solutions",
+  "page_type": "news",
+  "summary": "Announces the 2026 ACA out-of-pocket maximum for most non-grandfathered group health plans and compares it with the 2025 limits.",
+  "published": "2025-03-06",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/images/crunching-numbers-1200x627.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Crunching numbers illustration"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "2026 and 2025 group plan OOPM limits",
+      "question": "What is the out-of-pocket maximum for group health plans in 2026?",
+      "text": "For the 2026 plan year, the out-of-pocket maximum (OOPM) for group health plans is $10,150 for self-only coverage and $20,300 for family coverage. For the 2025 plan year it is $9,200 for self-only and $18,400 for family. The annual OOPM requirement applies to most non-grandfathered group health plans.",
+      "topic": "Regulatory & compliance",
+      "tags": [
+        "out-of-pocket maximum",
+        "2026",
+        "aca",
+        "group health plans",
+        "limits"
+      ],
+      "entities": [
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Awareness",
+      "questions": [
+        "What is the 2026 out-of-pocket maximum for group plans?",
+        "What was the 2025 family out-of-pocket maximum?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2026 OOPM rises 10.3%",
+      "question": "How much did the ACA out-of-pocket maximum increase for 2026?",
+      "text": "The 2026 out-of-pocket maximum (OOPM) represents a 10.3% increase over the 2025 OOPM parameters. Self-only coverage moves from $9,200 in 2025 to $10,150 in 2026, and family coverage moves from $18,400 to $20,300, for plans subject to the annual requirement.",
+      "topic": "Regulatory & compliance",
+      "tags": [
+        "out-of-pocket maximum",
+        "10.3% increase",
+        "2026",
+        "2025",
+        "plan limits"
+      ],
+      "entities": [
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Awareness",
+      "questions": [
+        "How big was the 2026 OOPM increase?",
+        "How much higher is the 2026 out-of-pocket max than 2025?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Which plans the OOPM requirement covers",
+      "question": "Which group health plans must follow the annual OOPM requirement?",
+      "text": "The annual out-of-pocket maximum requirement applies to most non-grandfathered group health plans, regardless of whether the plan is fully insured or self-funded (ASO). It does not apply to grandfathered, Transitional Relief or retiree-only plans.",
+      "topic": "Regulatory & compliance",
+      "tags": [
+        "out-of-pocket maximum",
+        "non-grandfathered",
+        "self-funded",
+        "fully insured",
+        "retiree-only"
+      ],
+      "entities": [
+        "ACA",
+        "ASO"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does the OOPM apply to self-funded plans?",
+        "Are grandfathered plans subject to the out-of-pocket maximum?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What counts toward the OOPM",
+      "question": "What cost-sharing counts toward the out-of-pocket maximum?",
+      "text": "UnitedHealthcare states that the annual out-of-pocket maximum (OOPM) for group health plans includes copayments, deductibles and coinsurance amounts associated with both medical and pharmacy covered benefits, so pharmacy cost sharing counts toward the same limit as medical cost sharing.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket maximum",
+        "copayments",
+        "deductibles",
+        "coinsurance",
+        "pharmacy"
+      ],
+      "entities": [
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do pharmacy costs count toward the out-of-pocket maximum?",
+        "What is included in the OOPM?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HSA-qualified HDHP limits are different",
+      "question": "Do HSA-eligible high deductible plans have the same OOPM limits?",
+      "text": "No. High-deductible health plans with health savings accounts (HSAs) have different limits, including out-of-pocket maximum, deductible and contribution limits. These limits are historically released in May, and the 2026 out-of-pocket, deductible and contribution limits will be communicated once available.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hdhp",
+        "hsa",
+        "out-of-pocket maximum",
+        "contribution limits",
+        "irs"
+      ],
+      "entities": [
+        "HSA",
+        "HDHP"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Consideration",
+      "questions": [
+        "When are HSA limits announced?",
+        "Is the HDHP out-of-pocket maximum different from the ACA OOPM?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/benefits/pregnancy",
+  "title": "Medicaid coverage for pregnant women and their babies",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains Medicaid pregnancy and postpartum coverage, eligibility, covered maternity services, UnitedHealthcare's extra maternity programs and doula care pilots.",
+  "published": "2023-01-14",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/assets/images/twix/pregnancy.png",
+      "alt": "A young, 20-something African American mother-to-be with her hand resting on her pregnant belly"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Medicaid covers nearly half of U.S. births",
+      "question": "Does Medicaid cover pregnancy?",
+      "text": "Medicaid covers nearly half of all births in the United States each year and is the main source of health care coverage for low-income pregnant women. Medicaid coverage for mothers starts during pregnancy and lasts for at least 60 days after giving birth.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "pregnancy",
+        "births",
+        "postpartum",
+        "60 days",
+        "maternity coverage"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does Medicaid cover pregnant women?",
+        "How long does Medicaid cover mothers after birth?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "States can extend postpartum coverage to 12 months",
+      "question": "Can Medicaid cover mothers for 12 months after birth?",
+      "text": "In 2023, Congress provided a way for states to extend Medicaid coverage to mothers for 12 months after giving birth. More than half of U.S. states have chosen to do this, according to the page, and more states were expected to do so in 2023.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "postpartum extension",
+        "12 months",
+        "congress",
+        "state option"
+      ],
+      "entities": [
+        "Medicaid",
+        "Congress"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there 12 months of postpartum Medicaid?",
+        "Which states extended postpartum Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Who qualifies for Medicaid pregnancy coverage?",
+      "question": "Who can qualify for Medicaid pregnancy coverage?",
+      "text": "Eligibility depends on where you live. State Medicaid programs must cover pregnant women who earn 133% of the federal poverty level (FPL) or less, but some states may cover people who earn more. Women who earn too much for Medicaid but not enough to afford private insurance may be able to get maternity coverage through the Children's Health Insurance Program (CHIP). Lawful immigrants may also be able to get coverage through CHIP. Women should apply as soon as they find out they're pregnant.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "pregnancy eligibility",
+        "133% fpl",
+        "chip",
+        "lawful immigrants",
+        "apply early"
+      ],
+      "entities": [
+        "Medicaid",
+        "CHIP",
+        "Federal Poverty Level"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What income qualifies me for pregnancy Medicaid?",
+        "Can I get CHIP if I'm pregnant and over the Medicaid limit?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Maternity services Medicaid covers",
+      "question": "What maternity care services does Medicaid cover?",
+      "text": "Medicaid covers pregnant women before, during and after giving birth. That includes routine checkups, and most states also cover prenatal vitamins and ultrasound exams. If a woman needs other medically necessary care during pregnancy, Medicaid will cover those services. Medicaid covers all care during delivery, including the cost of the hospital stay or birth center, and care after giving birth in the postpartum period.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "prenatal care",
+        "delivery",
+        "postpartum",
+        "ultrasound",
+        "birth center"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicaid cover prenatal vitamins and ultrasounds?",
+        "Does Medicaid cover delivery in a birth center?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "UnitedHealthcare Healthy First Steps",
+      "question": "What is UnitedHealthcare Healthy First Steps?",
+      "text": "UnitedHealthcare Healthy First Steps helps all pregnant women find providers and connect to local resources. It also provides extra help during high-risk pregnancies and for at least 2 months after delivery. It is one of the value-added programs UnitedHealthcare may offer female Medicaid members; benefits vary by plan and service area.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "healthy first steps",
+        "high-risk pregnancy",
+        "value-added programs",
+        "care coordination"
+      ],
+      "entities": [
+        "UnitedHealthcare Healthy First Steps",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is Healthy First Steps?",
+        "Does UnitedHealthcare help with high-risk pregnancies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Extra maternity programs for Medicaid members",
+      "question": "What extra pregnancy services does UnitedHealthcare offer Medicaid members?",
+      "text": "Beyond standard Medicaid benefits, UnitedHealthcare's value-added programs may include Digital Education & Rewards, with customized education through each stage of pregnancy and rewards for attending visits; Home Delivered Meals after leaving the hospital; In-Home Care Services; Breastfeeding Support with up to 6 virtual visits; and supplies such as diapers, car seats and breast pumps. Benefits vary by plan and service area.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "value-added benefits",
+        "breastfeeding support",
+        "home delivered meals",
+        "diapers",
+        "car seats",
+        "rewards"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "Digital Education & Rewards"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does my Medicaid plan give me a breast pump or car seat?",
+        "Are there rewards for going to prenatal visits?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover doulas?",
+      "question": "Does Medicaid cover doulas?",
+      "text": "A doula is a non-clinical person who provides support for women before, during and after labor. More than half of all states either provide Medicaid coverage for doula care or are working toward offering it. UnitedHealthcare is working to offer doula care in states where it's not covered by Medicaid, partnering with The Doula Network to test doula care programs in 5 states: Arizona, Kansas, Kentucky, Texas and Washington.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "doula",
+        "the doula network",
+        "pilot programs",
+        "doula coverage",
+        "state pilots"
+      ],
+      "entities": [
+        "The Doula Network",
+        "UnitedHealthcare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Will Medicaid pay for a doula?",
+        "Where is UnitedHealthcare testing doula care?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "url": "https://www.uhc.com/individuals-families/student-insurance",
+  "title": "College student health insurance",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Introduces UnitedHealthcare student health plans, why they can cost less and offer added benefits, and other coverage options students can consider.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/student-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container_1426564832/container_939603160_/image.coreimg.90.1280.jpeg/1728326074367/college-students-doing-homework-752x374.jpeg",
+      "alt": "college students doing homework"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Why consider a student health plan",
+      "question": "Why would a college student choose a student health plan?",
+      "text": "Student health plans can be a valuable solution for college students and their families. UnitedHealthcare says they can cost less than other plans, even less than staying on an employer-sponsored family plan, and can also provide better benefits.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "student health plan",
+        "lower cost",
+        "college",
+        "family plan",
+        "benefits"
+      ],
+      "entities": [
+        "student health plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is a student health plan cheaper than my parents' plan?",
+        "Why get a college student health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Features of UnitedHealthcare student plans",
+      "question": "What features do student health plans offer?",
+      "text": "Reasons to consider a student health plan include lower cost deductibles and premiums; comprehensive benefits, including added services not always found with other plans; greater access to national and local networks of physicians and behavioral health specialists; and better coverage for school-sponsored, on-site health clinics and virtual visit services.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "student health plan",
+        "deductibles",
+        "behavioral health",
+        "campus clinics",
+        "virtual visits"
+      ],
+      "entities": [
+        "student health plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do student plans cover campus health clinics?",
+        "Do student plans include behavioral health specialists?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why student plan rates can be lower",
+      "question": "Why are student health plans less expensive?",
+      "text": "Student plans come with added benefits because they're designed with students in mind. Lower rates are possible partly because they're based on a younger, healthier population and provide coverage for a limited time, just while students are in school. Families and students can save money and get high-quality coverage at the same time.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "student plans",
+        "lower rates",
+        "younger population",
+        "limited time"
+      ],
+      "entities": [
+        "student health plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How can student insurance cost less?",
+        "Do student plans only cover me while I'm in school?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Coverage options for college students",
+      "question": "What health coverage options do college students have?",
+      "text": "Students can consider student insurance plans; parents' employer plans (up to age 26 if dependent coverage is available); employer plans for eligible employed students; and individual plans through the State or Federal Exchange. Depending on your state, you may qualify for Medicaid. Looking at all options may help find the solution that works best for the student and family.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "college students",
+        "parents plan",
+        "exchange",
+        "medicaid",
+        "options"
+      ],
+      "entities": [
+        "student insurance plans",
+        "State Exchange",
+        "Federal Exchange",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I stay on my parents' insurance in college?",
+        "What are my health insurance options as a student?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Catastrophic health plan for students under 30",
+      "question": "Can a student buy a catastrophic health plan?",
+      "text": "If you're under the age of 30, or qualify for a hardship exemption, you can purchase a catastrophic health plan through an Exchange. UnitedHealthcare lists this among the options students can consider when choosing a health plan.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "catastrophic plan",
+        "under 30",
+        "hardship exemption",
+        "exchange"
+      ],
+      "entities": [
+        "catastrophic health plan",
+        "Exchange"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who qualifies for a catastrophic health plan?",
+        "Is there an age limit for catastrophic coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Finding or signing in to a student plan",
+      "question": "How do I find or access a UnitedHealthcare student plan?",
+      "text": "UnitedHealthcare directs students to a student plan site to find a student plan and learn how to get started. Existing members can sign in or register for a student account to access their benefits, and a student plans FAQ page offers more help understanding the options.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "student account",
+        "find a student plan",
+        "sign in",
+        "faq"
+      ],
+      "entities": [
+        "UnitedHealthcare student plans"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I register for my student health plan account?",
+        "Where can I get a quote for student insurance?"
+      ]
+    }
+  ]
+}

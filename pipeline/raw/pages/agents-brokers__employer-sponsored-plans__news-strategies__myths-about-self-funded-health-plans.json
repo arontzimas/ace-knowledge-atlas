@@ -1,0 +1,206 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/myths-about-self-funded-health-plans",
+  "title": "4 myths surrounding self-funded health plans",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Addresses four common myths about self-funded health plans for employers and when a self-funded plan may not be the best option.",
+  "published": "2025-10-20",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/myths-about-self-funded-health-plans/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1760983435313/coworkers-reviewing-documents-1220x627.jpeg",
+      "alt": "Coworkers reviewing documents"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a self-funded health plan is",
+      "question": "What is a self-funded health plan?",
+      "text": "In a self-funded (self-insured) plan, the employer takes on the financial risk of providing health benefits to employees and covered dependents, rather than the insurer. Employers pay if claims are higher than expected, but may save money compared with a fully insured plan, where savings stay with the insurer. Sixty-three percent of covered employees were in a self-funded or self-insured plan in 2024, per KFF.",
+      "topic": "Plan funding models",
+      "tags": [
+        "self-funded",
+        "self-insured",
+        "financial risk",
+        "fully insured",
+        "kff"
+      ],
+      "entities": [
+        "KFF"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does self-funded health insurance mean?",
+        "What percent of employees are in self-funded plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Myth: self-funded plans are only for large companies",
+      "question": "Are self-funded health plans only for large companies?",
+      "text": "No. Many large businesses choose self-funding because they can spread the risk of costly claims across many employees, but smaller and midsize employers are adopting it too. From 2010 to 2023, the percentage of small employers offering at least one self-insured plan grew from 13% to 16%, and medium-sized firms rose from 27% to 32%, according to EBRI research.",
+      "topic": "Plan funding models",
+      "tags": [
+        "self-funded",
+        "small employers",
+        "mid-size employers",
+        "ebri",
+        "adoption"
+      ],
+      "entities": [
+        "EBRI"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can a small business self-fund its health plan?",
+        "How many small employers offer self-insured plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Myth: self-funded plans are too risky",
+      "question": "Are self-funded health plans too risky?",
+      "text": "Employers shoulder the financial risk, and predicting exact claims is impossible, which can lead to higher or lower costs. A key advantage is that employers pay only for what employees use, and educating staff to make cost-effective choices, like choosing urgent care over the ER for minor issues, can keep costs down. Stop loss coverage offers protection against catastrophic claims.",
+      "topic": "Plan funding models",
+      "tags": [
+        "self-funded",
+        "risk",
+        "stop loss",
+        "catastrophic claims",
+        "urgent care"
+      ],
+      "entities": [
+        "stop loss insurance"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do employers manage risk in self-funded plans?",
+        "What is stop loss coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Myth: self-funded plans are too much work",
+      "question": "Do self-funded health plans require a lot of administrative work?",
+      "text": "Self-funded plans do require more effort than fully insured plans. Employers must handle significant administrative tasks like regulatory compliance and claims processing, though health plan representatives, brokers and consultants can often provide support. Insurers can also help employers customize benefits based on claims data, such as launching campaigns for a workforce with many employees with diabetes or dependents with behavioral health issues.",
+      "topic": "Plan funding models",
+      "tags": [
+        "self-funded",
+        "administration",
+        "compliance",
+        "claims processing",
+        "customization"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How much work is it to run a self-funded plan?",
+        "Can brokers help administer a self-funded plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Myth: self-funded plans aren't cost-effective",
+      "question": "Are self-funded health plans cost-effective?",
+      "text": "Self-funded plans can be cost-effective because employers pay only for actual claims incurred rather than a fixed premium to an insurer. Employers also get detailed plan data to identify trends and optimize benefits, and stop loss insurance provides a safety net against catastrophic claims. Tailoring coverage to a workforce's needs can lead to better health outcomes and lower long-term costs.",
+      "topic": "Cost management",
+      "tags": [
+        "self-funded",
+        "cost-effective",
+        "plan data",
+        "stop loss",
+        "tailored benefits"
+      ],
+      "entities": [
+        "stop loss insurance"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Does self-funding save employers money?",
+        "What data do self-funded employers receive?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When self-funding may not fit an employer",
+      "question": "When might a self-funded plan not be the best option?",
+      "text": "Self-funded health plans may not be for everyone. If a smaller employer has a workforce with higher health risks, a history of expensive claims, turbulence related to the business's financial health or large fluctuations in staffing, a self-funded plan may lead to steeper costs. In that case, a fully insured plan, or the happy medium of a level-funded plan, may be worth exploring.",
+      "topic": "Plan funding models",
+      "tags": [
+        "self-funded",
+        "fully insured",
+        "level funded",
+        "risk factors",
+        "small employers"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Which employers shouldn't self-fund?",
+        "Is level funded a middle ground between self-funded and fully insured?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Self-funding adds benefit design flexibility",
+      "question": "How does self-funding give employers more flexibility?",
+      "text": "With a self-funded health plan, employers have more flexibility in designing benefits to meet the unique needs of their workforce, which may help contribute to better outcomes. Access to detailed plan data, including claims and utilization patterns, lets employers customize and optimize benefits and better engage employees in decisions that may lead to lower costs and better health outcomes.",
+      "topic": "Plan funding models",
+      "tags": [
+        "self-funded",
+        "benefit design",
+        "plan data",
+        "utilization",
+        "customization"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why do employers choose self-funded plans?",
+        "What data do self-funded employers use to design benefits?"
+      ]
+    }
+  ]
+}

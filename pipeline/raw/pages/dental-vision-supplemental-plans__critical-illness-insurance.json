@@ -1,0 +1,247 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/critical-illness-insurance",
+  "title": "Critical illness insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Explains UnitedHealthcare branded critical illness insurance plans, the lump-sum cash benefit, covered conditions and key footnoted terms.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/critical-illness-father-son-fishing-desktop-1920x725.jpg",
+      "alt": "Father and son fishing"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What critical illness insurance is",
+      "question": "What is critical illness insurance?",
+      "text": "Critical illness insurance plans are also called critical care insurance or critical illness coverage. These plans provide a lump-sum cash benefit to help cover expenses related to a qualifying serious illness.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "critical illness insurance",
+        "lump sum",
+        "cash benefit",
+        "serious illness"
+      ],
+      "entities": [
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is critical illness coverage?",
+        "What does critical illness insurance pay?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare critical illness plans and underwriter",
+      "question": "Who offers UnitedHealthcare critical illness plans?",
+      "text": "UnitedHealthcare branded critical illness plans are underwritten by Golden Rule Insurance Company. They provide a cash benefit to help cover expenses related to a serious illness or condition. Plans can be viewed by state using a ZIP code, or by calling 1-866-671-0376.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "critical illness plans",
+        "golden rule",
+        "cash benefit",
+        "plans by state"
+      ],
+      "entities": [
+        "Critical illness insurance",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who underwrites UnitedHealthcare critical illness insurance?",
+        "How do I get a critical illness quote?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why someone might need critical illness coverage",
+      "question": "Why would I need a critical illness insurance plan?",
+      "text": "A critical illness can happen to anyone at any time, without warning, and it can also cause financial strain. A person may be unable to work for a time, and medical bills and other unexpected expenses can add up. A medical health insurance plan may cover some health care costs but often will not cover them all, which is where a critical illness plan can help.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "serious illness",
+        "financial strain",
+        "unable to work",
+        "medical bills"
+      ],
+      "entities": [
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Do I need critical illness insurance?",
+        "How can critical illness insurance help if I can't work?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How critical illness cash benefits can be used",
+      "question": "What can I use a critical illness benefit for?",
+      "text": "With a critical illness insurance plan, the policyholder can use the cash-benefit funds as they see fit. UnitedHealthcare says this includes paying everyday living expenses while out of work, among other expenses listed on the page.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "cash benefit",
+        "living expenses",
+        "out of work",
+        "flexible use"
+      ],
+      "entities": [
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Can I use critical illness money for rent and bills?",
+        "How is the critical illness payout spent?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How a critical illness lump sum is paid",
+      "question": "How does a critical illness plan pay benefits?",
+      "text": "With UnitedHealthcare critical illness insurance, a lump sum is paid by the Golden Rule Insurance Company critical illness plan, up to the maximum lifetime benefit. The benefit is paid for expenses related to covered conditions. Waiting periods may apply, and some critical illnesses may pay only a portion of the benefit.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "lump sum",
+        "maximum lifetime benefit",
+        "waiting period",
+        "partial benefit"
+      ],
+      "entities": [
+        "Critical illness insurance",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Is there a waiting period for critical illness insurance?",
+        "Is there a lifetime maximum on critical illness benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Conditions a critical illness plan can cover",
+      "question": "What conditions does critical illness insurance cover?",
+      "text": "Covered conditions can include heart attack, life-threatening cancer, loss of hearing, speech or vision, loss of independent living, advanced Alzheimer's disease, major organ transplant, paralysis, coma, renal failure, stroke, carcinoma in situ and coronary artery bypass graft. Critical conditions covered vary by plan, and plan design and availability vary by state.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "covered conditions",
+        "heart attack",
+        "stroke",
+        "cancer",
+        "organ transplant"
+      ],
+      "entities": [
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does critical illness insurance cover cancer?",
+        "Does critical illness insurance cover stroke or heart attack?",
+        "What illnesses are covered by critical illness insurance?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Loss of independent living definition",
+      "question": "What does loss of independent living mean on a critical illness plan?",
+      "text": "On UnitedHealthcare's critical illness page, loss of independent living refers to the permanent inability to perform 2 or more of the 6 activities of daily living for a period of at least 90 days, as defined in the policy. The activities listed are bathing, continence, dressing, eating, toileting, and transfer and mobility.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "loss of independent living",
+        "activities of daily living",
+        "90 days",
+        "policy definition"
+      ],
+      "entities": [
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are the activities of daily living in critical illness insurance?",
+        "How is loss of independent living defined?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Most households can replace under a month of income",
+      "question": "How much income can most American households replace from savings?",
+      "text": "UnitedHealthcare states that most American households are savings limited, meaning they can replace less than one month of their income through liquid savings. The page says critical illness coverage can give families financial help in hard times. The page cites Gen Re's 2021 U.S. critical illness market survey.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "liquid savings",
+        "income replacement",
+        "household finances",
+        "critical illness"
+      ],
+      "entities": [
+        "Gen Re"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How long could the average family live on savings if they couldn't work?",
+        "How do critical illness benefits work?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Critical illness first-diagnosis rule and benefit variation",
+      "question": "When are critical illness benefits paid?",
+      "text": "UnitedHealthcare notes that critical illness benefits are paid upon first diagnosis in the covered person's lifetime in most states, and are subject to preexisting conditions. Amounts available may vary by state and by the primary insured's issue age. The page also advises consulting a tax advisor for details on the federal and state tax issues that apply.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "first diagnosis",
+        "preexisting conditions",
+        "issue age",
+        "tax advisor"
+      ],
+      "entities": [
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Does critical illness insurance pay on first diagnosis?",
+        "Do preexisting conditions affect critical illness coverage?",
+        "Are critical illness payouts taxable?"
+      ]
+    }
+  ]
+}

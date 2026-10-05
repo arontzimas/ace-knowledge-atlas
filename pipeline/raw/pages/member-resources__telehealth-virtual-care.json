@@ -1,0 +1,237 @@
+{
+  "url": "https://www.uhc.com/member-resources/telehealth-virtual-care",
+  "title": "Virtual visits",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Explains what a virtual visit is, how coverage varies by insurance type, and virtual options for mental health and emotional support.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/telehealth-virtual-care/_jcr_content/root/regioncontainer-main/responsivegrid/container_645775691/image.coreimg.90.1280.jpeg/1728324706360/telehealth-visits-man-tablet-920x520.jpeg",
+      "alt": "Man using a tablet for a telehealth visit"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/member-resources/where-to-go-for-medical-care/where-to-go-for-medical-care-video",
+      "alt": "Where to go for medical care"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a virtual visit is",
+      "question": "What is a virtual visit?",
+      "text": "A virtual visit, also known as telehealth, uses digital technologies like a smartphone, tablet or computer to talk with a health care provider from home or work. During a virtual visit you can get treatment options and even prescriptions for medications, if needed. UnitedHealthcare offers members options for virtual visits with local providers or with its preferred national providers.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visit",
+        "telehealth",
+        "prescriptions",
+        "national providers",
+        "local providers"
+      ],
+      "entities": [
+        "virtual visits",
+        "telehealth"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a virtual visit?",
+        "Is telehealth the same as a virtual visit?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Are virtual visits covered?",
+      "question": "Are virtual visits covered by my health insurance?",
+      "text": "Virtual visits may be covered by your health insurance in a similar way to an office visit with your doctor. Depending on your benefits, you may be able to schedule a virtual visit with a local provider or have a virtual visit for primary care, therapy, specialty care or 24/7 care with a national provider for urgent care or when your provider is not available. Sign in or call the number on your member ID card to check.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visit coverage",
+        "primary care",
+        "therapy",
+        "specialty care",
+        "24/7 urgent care"
+      ],
+      "entities": [
+        "virtual visits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Does my insurance cover telehealth?",
+        "How do I check virtual visit benefits?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Virtual visit options by insurance type",
+      "question": "How do virtual visit options differ by type of insurance?",
+      "text": "Members with health insurance through work should talk to a local provider, and many UnitedHealthcare employer plans include 24/7 Virtual Visits, virtual primary care, virtual therapy and virtual specialty care with preferred national providers. Individual and Family ACA Marketplace coverage depends on plan benefits. Medicare Advantage members should ask local providers and sign in to learn about coverage. Medicaid virtual visit coverage may vary by state.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visits by plan",
+        "employer plan",
+        "ACA Marketplace",
+        "Medicare Advantage",
+        "Medicaid"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "ACA Marketplace",
+        "UnitedHealthcare Community Plans"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicare Advantage cover virtual visits?",
+        "Does Medicaid cover telehealth?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Types of services available virtually",
+      "question": "What kinds of care can be delivered virtually?",
+      "text": "Virtual care may include in-network virtual visits for medical, mental health, physical therapy, occupational therapy, speech therapy, chiropractic, home health, vision, hearing and dental services. Availability depends on the health plan.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual care services",
+        "physical therapy",
+        "mental health",
+        "dental",
+        "vision"
+      ],
+      "entities": [
+        "virtual care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I do physical therapy virtually?",
+        "Is therapy available through telehealth?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual visits for mental health",
+      "question": "Can I have a mental health visit virtually?",
+      "text": "If you need care for mental health issues, local health care providers may be able to provide virtual visits. Coverage may depend on your health plan benefits, so sign in to your account or call the number on your member ID card to learn what benefits may be available.",
+      "topic": "Behavioral health",
+      "tags": [
+        "virtual mental health",
+        "teletherapy",
+        "coverage",
+        "local providers"
+      ],
+      "entities": [
+        "virtual visits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does my plan cover virtual therapy?",
+        "How do I get therapy online?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Calm app and Talkspace emotional support",
+      "question": "What emotional support apps may be included with my plan?",
+      "text": "Some emotional support programs may be included with certain health plans. The Calm Health app offers programs and tools to support mental health and well-being at your own pace, including mindfulness content created by psychologists. Talkspace online therapy lets you communicate with a therapist from your phone or desktop with no office visit required, and eligible members can get started at talkspace.com/connect.",
+      "topic": "Behavioral health",
+      "tags": [
+        "Calm Health",
+        "Talkspace",
+        "online therapy",
+        "mindfulness",
+        "emotional support"
+      ],
+      "entities": [
+        "Calm Health",
+        "Talkspace"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is Talkspace?",
+        "Is Calm Health included in my plan?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Virtual visit or in-person visit?",
+      "question": "When should I choose a virtual visit versus seeing a doctor in person?",
+      "text": "It is important to know the difference between when to choose a virtual visit and when to see a doctor in person. Virtual visits can be a convenient way to get care or manage prescriptions, but for more serious issues it may be necessary to go to a clinic or hospital.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual vs in-person",
+        "serious conditions",
+        "prescription management",
+        "where to go for care"
+      ],
+      "entities": [
+        "virtual visits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Should I do telehealth or go in person?",
+        "What conditions need an in-person visit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Starting a virtual visit through the UHC app",
+      "question": "How do I start a virtual visit?",
+      "text": "Members can sign in to their member account or use the UnitedHealthcare app to see their virtual visits benefits and find care. For benefits coverage information, UnitedHealthcare directs members to sign in to their account, since coverage differs by plan.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "UnitedHealthcare app",
+        "member account",
+        "virtual visit benefits",
+        "find care"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I start a telehealth visit with UnitedHealthcare?",
+        "Where do I see my virtual visit benefits?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-a-ppo",
+  "title": "What is a PPO health plan?",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Explains how a PPO plan works, its flexibility and out-of-network rules, comparison with HMO, and Medicare and dental PPO versions.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-a-ppo/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324759070/ppo-couple-on-beach-desktop-912x608.jpeg",
+      "alt": "Couple on a beach"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is a PPO health plan?",
+      "question": "What is a PPO plan?",
+      "text": "A PPO plan is a common type of health insurance that partners with a group of clinics, hospitals and doctors to create a network of preferred providers. A person pays less out of pocket for care within that network. An out-of-network provider can still be seen, but the most coverage comes from staying in the PPO network. PPO plans may suit someone who lives in two different states or travels often within the U.S.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PPO",
+        "preferred provider organization",
+        "network",
+        "out-of-network",
+        "travel"
+      ],
+      "entities": [
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a PPO?",
+        "Is a PPO good if I travel a lot?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What does PPO stand for?",
+      "question": "What does PPO stand for?",
+      "text": "PPO means preferred provider organization. The name refers to the plan's network of contracted PPO providers. The plan's preferred providers are those who can offer care at the lowest out-of-pocket cost, compared to out-of-network providers.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PPO",
+        "preferred provider organization",
+        "contracted providers"
+      ],
+      "entities": [
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does PPO mean?",
+        "Who are preferred providers?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How does a PPO work?",
+      "question": "How does a PPO plan work?",
+      "text": "A PPO plan pays its contracted providers a set cost to offer certain health care services, so a person pays a lower cost-share, like a copay or coinsurance, within that network. Care outside the network costs more and likely requires submitting an insurance claim. A separate out-of-network deductible must also be met before plan benefits kick in. Some PPO plans have large networks and some have small (narrow) networks.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PPO",
+        "out-of-network deductible",
+        "claim",
+        "narrow network",
+        "cost-share"
+      ],
+      "entities": [
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do PPO plans work?",
+        "Is there a separate deductible for out-of-network care?",
+        "Do I file claims with a PPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of a PPO plan",
+      "question": "What are the advantages of a PPO plan?",
+      "text": "In general, a PPO plan gives more flexibility than some other plan types. Pros include that it can have a large, nationwide provider network, no referrals are needed, there is out-of-network coverage, and there is no requirement to choose a primary care provider.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PPO advantages",
+        "flexibility",
+        "no referrals",
+        "out-of-network coverage"
+      ],
+      "entities": [
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the pros of a PPO?",
+        "Why choose a PPO plan?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "HMO vs. PPO plans",
+      "question": "What is the difference between an HMO and a PPO?",
+      "text": "HMO plans only cover services from a network provider, except for emergency care, so an out-of-network visit likely costs the full price. HMO plans typically have lower premiums than PPO plans. An HMO requires referrals, has no out-of-network coverage and requires choosing a primary care provider. A PPO needs no referrals, has out-of-network coverage and does not require choosing a primary care provider.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO vs PPO",
+        "referrals",
+        "out-of-network",
+        "primary care provider",
+        "premium"
+      ],
+      "entities": [
+        "HMO",
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What's the difference between HMO and PPO?",
+        "Which is cheaper, HMO or PPO?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do I need a referral with a PPO plan?",
+      "question": "Do I need a referral with a PPO?",
+      "text": "No. One advantage of a PPO plan is that a person does not need a referral to see specialists. A PPO provides the flexibility and coverage to see any provider the member would like to get care.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PPO referral",
+        "specialist",
+        "flexibility"
+      ],
+      "entities": [
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I see a specialist without a referral on a PPO?",
+        "Do I need a referral to see a specialist on a PPO plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare PPO plans are Medicare Advantage plans",
+      "question": "What is a Medicare PPO plan?",
+      "text": "People 65 or older may be interested in a Medicare PPO plan, called a Medicare Advantage plan. According to UnitedHealthcare, these work just like an Affordable Care Act Marketplace PPO plan. A person can still get care from out-of-network providers, but only if they accept Medicare.",
+      "topic": "Medicare Advantage",
+      "tags": [
+        "Medicare PPO",
+        "Medicare Advantage",
+        "out-of-network",
+        "accept Medicare"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "PPO",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a Medicare PPO?",
+        "Can I see out-of-network doctors with a Medicare PPO?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a PPO dental plan?",
+      "question": "What is a dental PPO plan?",
+      "text": "PPO dental insurance is similar to a PPO health plan. A dental PPO plan has a list of preferred dental providers a person can see at a lower cost. A member has the freedom to see any provider, but pays more out of pocket for an out-of-network dental provider.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental PPO",
+        "preferred dentists",
+        "out-of-network dental"
+      ],
+      "entities": [
+        "dental PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a dental PPO?",
+        "Can I see any dentist with a PPO plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare PPO plans may include dental coverage",
+      "question": "What dental coverage can Medicare PPO plans include?",
+      "text": "Medicare Advantage plans come with more dental benefits than people would normally get with Medicare parts A and B alone. PPO Medicare plans can include coverage for things like routine cleanings, fluoride, fillings and crowns, root canals, extractions and dentures.",
+      "topic": "Medicare Advantage",
+      "tags": [
+        "Medicare dental",
+        "Medicare Advantage",
+        "dentures",
+        "root canals",
+        "cleanings"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "Medicare Parts A and B"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicare Advantage cover dental?",
+        "What dental services do Medicare PPO plans cover?"
+      ]
+    }
+  ]
+}

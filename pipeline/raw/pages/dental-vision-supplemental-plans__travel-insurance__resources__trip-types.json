@@ -1,0 +1,206 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/trip-types",
+  "title": "Travel insurance for every type of trip",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "guide",
+  "summary": "Describes the trip types SafeTrip covers, including vacation, cruise, student, business and volunteer travel, and how to choose a plan.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/trip-types/_jcr_content/root/regioncontainer-main/responsivegrid/container_200211373/grid/contentwithbackgroun_343868740/image.coreimg.90.1280.jpeg/1776368566979/trip-types-couple-on-cruise-deck-desktop-816x400.jpeg",
+      "alt": "Couple on a cruise ship deck"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/trip-types/_jcr_content/root/regioncontainer-main/responsivegrid/container_200211373/grid/contentwithbackgroun_1723451502/image.coreimg.90.1280.jpeg/1776368581949/trip-types-woman-student-traveling-desktop-816x400.jpeg",
+      "alt": "Student traveling"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/trip-types/_jcr_content/root/regioncontainer-main/responsivegrid/container_200211373/grid_copy/contentwithbackgroun/image.coreimg.90.1280.jpeg/1776368594890/trip-types-two-buisnessmen-traveling-desktop-816x400.jpeg",
+      "alt": "Two businessmen traveling"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "SafeTrip covers many types of trips",
+      "question": "What types of trips does SafeTrip travel insurance cover?",
+      "text": "SafeTrip provides travel insurance for trips of many types, whether a traveler is boarding a cruise ship, flying for a dream vacation, attending an important business meeting or something else. The page highlights vacation, cruise, student, business and global volunteering travel, and says SafeTrip may be able to protect other trip types as well.",
+      "topic": "Travel insurance",
+      "tags": [
+        "trip types",
+        "cruise",
+        "business travel",
+        "student travel",
+        "volunteering"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What kinds of trips can I insure with SafeTrip?",
+        "Does SafeTrip cover business trips?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vacation and cruise travel coverage",
+      "question": "Does SafeTrip offer travel insurance for vacations and cruises?",
+      "text": "SafeTrip offers plans for vacation travel, whether a road trip across the United States or an international journey to new places. For cruise travel, SafeTrip describes a cruise as a serious investment in fun and says travelers can board knowing SafeTrip has their back if anything goes awry with cruise holiday insurance.",
+      "topic": "Travel insurance",
+      "tags": [
+        "vacation travel",
+        "cruise insurance",
+        "road trip",
+        "international vacation"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get travel insurance for a cruise?",
+        "Does SafeTrip cover vacations?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Student travel insurance",
+      "question": "Is there travel insurance for students going abroad?",
+      "text": "Many college students embark on once-in-a-lifetime trips for internships, cultural exchanges, semester abroad and more. SafeTrip suggests that students getting ready for such a journey consider travel and medical insurance for students traveling internationally.",
+      "topic": "Travel insurance",
+      "tags": [
+        "student travel",
+        "study abroad",
+        "internship",
+        "international travel medical"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need travel insurance for study abroad?",
+        "What insurance should a student buy for a semester abroad?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Business travel and global volunteering insurance",
+      "question": "What travel insurance is available for business trips and volunteering abroad?",
+      "text": "SafeTrip says that even as business relies on online communication, there is no substitute for face time with colleagues and clients, and it suggests protecting those trips with business travel insurance. For global volunteering, which it calls a transformational experience that can involve difficult travel, SafeTrip recommends international travel health insurance and trip protection.",
+      "topic": "Travel insurance",
+      "tags": [
+        "business travel",
+        "global volunteering",
+        "international travel health insurance",
+        "trip protection"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does SafeTrip cover volunteer trips abroad?",
+        "Is there business travel insurance?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to choose the right SafeTrip plan",
+      "question": "How do I choose the right travel insurance plan?",
+      "text": "SafeTrip suggests three steps. 1) Consider your location: Travel Protection plans cover domestic trips within the United States, while International Travel Medical Plus and International Travel Medical plans can help with international travel. 2) Decide your coverage type: consider protection for travel issues, medical needs or both, and consider add-ons. 3) Get your quote by answering a few questions about the trip.",
+      "topic": "Travel insurance",
+      "tags": [
+        "choose a plan",
+        "location",
+        "coverage type",
+        "get a quote"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical Plus",
+        "International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "How do I pick between SafeTrip plans?",
+        "What do I need to decide before getting a travel insurance quote?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "SafeTrip excluded countries list",
+      "question": "Are there countries that are not covered under a SafeTrip policy?",
+      "text": "SafeTrip's trip types page points to a separate page with an up-to-date list of countries it does not cover. The page invites people with questions to contact its information and sales team.",
+      "topic": "Travel insurance",
+      "tags": [
+        "excluded countries",
+        "restricted destinations",
+        "hospitalization",
+        "medical expense coverage"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Which countries does SafeTrip not cover?",
+        "Where can I see restricted countries for travel insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Reasons to buy travel insurance for any trip",
+      "question": "Why buy travel insurance for any type of trip?",
+      "text": "Travel insurance eases worry whether a person is traveling for fun, work, volunteering or another reason. SafeTrip lists four benefits: reimbursement for trip delays, cancellations and baggage loss; staff who can help find the right doctor; international travel medical coverage that can reimburse small or large medical costs; and 24/7 access to its in-house Emergency Response Center.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel insurance benefits",
+        "emergency response center",
+        "trip delay",
+        "medical abroad"
+      ],
+      "entities": [
+        "SafeTrip",
+        "Emergency Response Center"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is travel insurance worth it?",
+        "What are the benefits of SafeTrip for different trips?"
+      ]
+    }
+  ]
+}

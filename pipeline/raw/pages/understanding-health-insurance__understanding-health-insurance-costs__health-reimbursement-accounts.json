@@ -1,0 +1,233 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/health-reimbursement-accounts",
+  "title": "What is a health reimbursement account (HRA)?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what an HRA is, how employer-funded HRAs work, eligible expenses, how to access funds and how to enroll.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/health-reimbursement-accounts/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/containerfloatingcon/image.coreimg.90.1280.jpeg/1734970062275/hra-woman-on-phone-desktop-924x576.jpeg",
+      "alt": "Woman on phone (health reimbursement account)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What an HRA is",
+      "question": "What is a health reimbursement account (HRA)?",
+      "text": "A health reimbursement account or arrangement (HRA) is an account your employer funds so you can reimburse yourself for certain medical, dental or vision expenses. As an account-based health plan, an HRA can help you stretch the value of your health care dollar for eligible health care expenses and over-the-counter items.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "health reimbursement account",
+        "employer-funded",
+        "account-based health plan"
+      ],
+      "entities": [
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an HRA?",
+        "Who funds a health reimbursement account?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Employers own and set the rules for HRAs",
+      "question": "Who controls an HRA?",
+      "text": "Your employer owns your HRA and sets it up for you, unlike a flexible spending account (FSA) or health savings account (HSA), where you contribute money. Your employer sets the rules and decides the amount, and you are not allowed to make contributions to your HRA. Your employer also decides the list of medical expenses that will be covered.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "employer-owned",
+        "no employee contributions",
+        "employer rules"
+      ],
+      "entities": [
+        "HRA",
+        "FSA",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I contribute to my HRA?",
+        "Who decides what my HRA covers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What employers typically use HRAs for",
+      "question": "What are HRAs usually set up to pay for?",
+      "text": "Most employers set up HRAs for their employees to pay for expenses not typically paid for by health plans. These are medical and pharmacy expenses that may be paid out of pocket before meeting a deductible, as well as coinsurance after meeting a deductible.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "deductible",
+        "coinsurance",
+        "pharmacy expenses",
+        "out-of-pocket"
+      ],
+      "entities": [
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can an HRA help me pay my deductible?",
+        "Does an HRA cover coinsurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HRA tax advantages",
+      "question": "Are HRA reimbursements taxable?",
+      "text": "Reimbursement from an HRA for eligible medical expenses is generally not considered taxable income. You usually receive the full amount and do not have to pay federal or state income taxes on the money. UnitedHealthcare does not provide tax advice and you should contact a tax advisor for your specific situation.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "tax advantages",
+        "taxable income",
+        "reimbursement"
+      ],
+      "entities": [
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I pay tax on HRA reimbursements?",
+        "Is an HRA tax-free?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Unused HRA funds and leaving your employer",
+      "question": "What happens to unused HRA money?",
+      "text": "Your employer can set up the plan so that unused HRA funds roll over from year to year, but this is not a requirement, so you might lose unused funds. If you leave your employer and have unused funds in your account, they can keep the money.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "rollover",
+        "unused funds",
+        "leaving employer",
+        "use it or lose it"
+      ],
+      "entities": [
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do HRA funds roll over?",
+        "Can I take my HRA with me if I quit?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What you can buy with HRA funds",
+      "question": "How can I use the money in my HRA?",
+      "text": "You can use HRA funds for eligible medical expenses, as determined by the IRS and your employer. Some employers allow only services covered by your health plan, and some also allow dental, vision or other services. Examples of expenses HRAs may help pay include deductible payments, copays, routine doctor visits, hospital expenses, dental care, blood pressure monitors, vision care including eyeglasses, contact lenses and exams, prescription drugs and blood glucose monitors.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra eligible expenses",
+        "copays",
+        "dental care",
+        "vision care",
+        "prescription drugs"
+      ],
+      "entities": [
+        "HRA",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What can I buy with HRA money?",
+        "Does an HRA pay for glasses?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How to access HRA money",
+      "question": "How do I access my HRA money?",
+      "text": "Your employer decides how you access your HRA, and it will likely be one of two ways. With most plans you do nothing, because the plan reimburses your network doctor directly. Otherwise, you pay for expenses up front and then request reimbursement.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hra",
+        "reimbursement",
+        "network doctor",
+        "claims",
+        "pay upfront"
+      ],
+      "entities": [
+        "HRA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I get reimbursed from my HRA?",
+        "Do I pay first and then get paid back by my HRA?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How to enroll in an HRA",
+      "question": "How do I enroll in an HRA?",
+      "text": "You can enroll in an HRA, if your employer offers one, during your open enrollment period. Outside of open enrollment, you can sign up when you first join a company or if you experience a qualifying life event. Contact your employer to learn whether the account is available to you, and if you have experienced a qualifying life event, call the number on your member ID card.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "hra",
+        "enrollment",
+        "open enrollment",
+        "new hire",
+        "qualifying life event"
+      ],
+      "entities": [
+        "HRA",
+        "Qualifying life event"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "When can I sign up for an HRA?",
+        "Can I add an HRA after a life event?"
+      ]
+    }
+  ]
+}

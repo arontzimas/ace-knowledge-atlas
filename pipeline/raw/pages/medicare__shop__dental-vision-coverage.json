@@ -1,0 +1,106 @@
+{
+  "url": "https://www.uhc.com/medicare/shop/dental-vision-coverage.html",
+  "title": "Medicare Advantage plans with dental and vision",
+  "domain": "Medicare",
+  "page_type": "product",
+  "summary": "Describes the dental and vision benefits available with UnitedHealthcare Medicare Advantage plans and how they differ from Original Medicare, which does not cover routine dental or vision.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/photography/vision_woman.png", "alt": "Vision benefits photo"},
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/graphics/Illustration_DentalProducts_920x520.png", "alt": "Dental products illustration"},
+    {"kind": "image", "src": "https://www.uhc.com/medicare/content/dam/MRD/images/graphics/Illustration_EyeExam_920x520.png", "alt": "Eye exam illustration"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Original Medicare excludes routine dental and vision",
+      "question": "Does Original Medicare cover routine dental and vision?",
+      "text": "Original Medicare (Part A and Part B) covers medically necessary care for the diagnosis or treatment of an illness or condition, but it does not cover routine dental and vision services. Most Medicare Advantage plans do cover them, including many preventive and comprehensive dental services from routine cleanings to dentures, and vision services such as routine eye exams that can help protect your eyesight and may save you money on glasses frames or contact lenses.",
+      "topic": "Dental coverage",
+      "tags": ["original medicare", "routine dental", "routine vision", "medicare advantage", "dentures"],
+      "entities": ["Original Medicare", "Part A", "Part B", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Does Medicare cover routine dental care?", "Why choose Medicare Advantage for dental and vision?", "Are dentures covered by Medicare?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental benefits in UnitedHealthcare Medicare Advantage",
+      "question": "What dental benefits can a UnitedHealthcare Medicare Advantage plan include?",
+      "text": "UnitedHealthcare dental benefits may provide coverage for dental care otherwise not included with Original Medicare. Benefits may include no annual deductible, access to a large national dental network, and preventive services such as oral exams, routine cleanings, x-rays and fluoride treatments. Comprehensive services like fillings, crowns, root canals, extractions, bridges and dentures may also be included.",
+      "topic": "Dental coverage",
+      "tags": ["dental benefits", "no deductible", "preventive dental", "comprehensive dental", "national network"],
+      "entities": ["UnitedHealthcare", "Medicare Advantage", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Do UnitedHealthcare Medicare Advantage plans have a dental deductible?", "Are crowns and root canals covered?", "What preventive dental services are included?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental benefits vary by plan",
+      "question": "Are dental benefits the same on every Medicare Advantage plan?",
+      "text": "Dental benefits vary by plan, so each plan's details should be explored carefully to see what is and isn't included, as well as the savings you may receive. Benefit availability and coverage may also vary by service area.",
+      "topic": "Dental coverage",
+      "tags": ["plan variation", "service area", "benefit details", "dental"],
+      "entities": ["UnitedHealthcare", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["Do all Medicare Advantage plans have the same dental coverage?", "How do I check what dental services my plan includes?", "Does dental coverage depend on where I live?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision benefits in UnitedHealthcare Medicare Advantage",
+      "question": "What vision benefits can a UnitedHealthcare Medicare Advantage plan include?",
+      "text": "UnitedHealthcare vision benefits provide services not included in Original Medicare that help protect your eyesight and may save you money on eyewear. Benefits may include a routine eye exam at no cost and access to a large national network of vision providers and retail locations.",
+      "topic": "Vision coverage",
+      "tags": ["vision benefits", "eye exam", "$0 exam", "vision network", "eyewear"],
+      "entities": ["UnitedHealthcare", "Medicare Advantage", "Original Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Is an eye exam covered by Medicare Advantage?", "What vision providers are in the UnitedHealthcare network?", "Does Medicare Advantage help with eyewear costs?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Free lenses and online eyewear options",
+      "question": "Do UnitedHealthcare Medicare Advantage plans cover eyeglass lenses?",
+      "text": "UnitedHealthcare vision benefits may include free standard prescription lenses, including single vision, bifocal, trifocal and Tier I (standard) progressive lenses, all with scratch-resistant coating. Eyewear is also available from many online providers, including Warby Parker and GlassesUSA. Benefit availability and coverage may vary by service area.",
+      "topic": "Vision coverage",
+      "tags": ["prescription lenses", "bifocal", "progressive lenses", "warby parker", "glassesusa"],
+      "entities": ["UnitedHealthcare", "Warby Parker", "GlassesUSA", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Are prescription lenses free with Medicare Advantage?", "Can I buy glasses from Warby Parker with my plan?", "Are bifocals and progressive lenses covered?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental and vision care matter for overall health",
+      "question": "Why do dental and vision benefits matter in a Medicare plan?",
+      "text": "Dental and vision care are important to your overall health. Routine preventive and comprehensive services can help protect your teeth and eyes. Because Original Medicare does not cover routine dental and vision services, many people look to Medicare Advantage plans for these benefits.",
+      "topic": "Dental coverage",
+      "tags": ["preventive care", "overall health", "teeth", "eyes", "coverage gaps"],
+      "entities": ["Original Medicare", "Medicare Advantage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Why is dental coverage important for seniors?", "Why choose a plan with dental and vision?", "What gaps does Original Medicare leave in dental and vision care?"]
+    },
+    {
+      "type": "assertion",
+      "title": "The UnitedHealthcare Right Plan Promise",
+      "question": "What is the UnitedHealthcare Right Plan Promise?",
+      "text": "The UnitedHealthcare Right Plan Promise is the company's commitment to helping you find the right plan for you. UnitedHealthcare states that choosing a Medicare plan doesn't have to feel overwhelming, and that its easy-to-use online experience and Medicare Plan Experts make it simple to find the right UnitedHealthcare plan.",
+      "topic": "Medicare basics",
+      "tags": ["right plan promise", "plan experts", "online shopping", "plan selection"],
+      "entities": ["UnitedHealthcare Right Plan Promise", "UnitedHealthcare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": ["What is the Right Plan Promise?", "Can someone help me pick a Medicare plan?", "Are there Medicare plan experts I can talk to?"]
+    }
+  ]
+}

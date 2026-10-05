@@ -1,0 +1,313 @@
+{
+  "url": "https://www.uhc.com/communityplan",
+  "title": "Benefits you want, at little to no extra cost",
+  "domain": "Medicaid",
+  "page_type": "hub",
+  "summary": "Landing page for UnitedHealthcare Community Plan that introduces Medicaid, Dual Special Needs plans, ACA Marketplace plans and CHIP, with pointers to Medicaid renewal changes, eligibility, enrollment and caregiver resources.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/_jcr_content/root/responsivegrid/container/section_78356809_cop/grid/column_1181444051/image.coreimg.jpeg/1706532949857/medicaid-card-illustration-lg.jpeg",
+      "alt": "Medicaid Card"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/_jcr_content/root/responsivegrid/container_1577631161/section/grid/column_340647249/card_copy/image.coreimg.jpeg/1691160124428/learn-about-our-plans-medicaid.jpeg",
+      "alt": "Learn about our plans: Medicaid only"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/_jcr_content/root/responsivegrid/container_1577631161/section/grid/column_662632691/card_copy_copy/image.coreimg.jpeg/1691160123230/learn-about-our-plans-dsnp.jpeg",
+      "alt": "Learn about our plans: D-SNP"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicaid is",
+      "question": "What is Medicaid?",
+      "text": "Medicaid is a program that helps adults with low income. It also can help children, pregnant women, older adults and people with disabilities who need medical care. UnitedHealthcare Community Plan offers low-cost or no-cost Medicaid plans, and people can search for Medicaid plans by state.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "medicaid",
+        "low income",
+        "community plan",
+        "definition",
+        "state plans"
+      ],
+      "entities": [
+        "Medicaid",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicaid?",
+        "Who does Medicaid help?",
+        "Does UnitedHealthcare offer Medicaid plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Dual Special Needs plans (D-SNP) overview",
+      "question": "What is a Dual Special Needs plan?",
+      "text": "If you have both Medicare and Medicaid, a Dual Special Needs plan (D-SNP) might be right for you. D-SNPs give you extra benefits like dental, vision care and more at little to no extra cost. These plans are available in some states. With a D-SNP, you could get more benefits and features than with Original Medicare.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "d-snp",
+        "dual special needs plan",
+        "medicare and medicaid",
+        "extra benefits",
+        "dental",
+        "vision"
+      ],
+      "entities": [
+        "Dual Special Needs plan",
+        "D-SNP",
+        "Original Medicare",
+        "Medicaid",
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a D-SNP?",
+        "What plan do I get if I have both Medicare and Medicaid?",
+        "Do dual plans offer dental and vision?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "New Medicaid renewal rules start in 2027",
+      "question": "Are Medicaid renewal requirements changing in 2027?",
+      "text": "UnitedHealthcare Community Plan tells members to stay up to date on new Medicaid renewal requirements. Starting in 2027, some adults may be required to renew Medicaid coverage 2 times per year and meet work requirements. Members are directed to a page that explains what steps they may need to take to keep their coverage.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "medicaid renewal",
+        "2027",
+        "work requirements",
+        "redetermination",
+        "keep coverage"
+      ],
+      "entities": [
+        "Medicaid",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": [
+        "Do I have to renew Medicaid twice a year?",
+        "What changes for Medicaid in 2027?",
+        "Will I need to meet work requirements for Medicaid?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Medicaid, D-SNP, ACA and CHIP compared",
+      "question": "What is the difference between Medicaid, D-SNP, ACA Marketplace plans and CHIP?",
+      "text": "Medicaid provides health insurance for some low-income people, children, pregnant women, the elderly and people with disabilities. A D-SNP is for people eligible for both Medicare and Medicaid. ACA Marketplace plans are for people who buy their own health insurance for themselves and their families. CHIP offers low-cost or no-cost coverage for infants, children and teens who don't have health insurance.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "plan types",
+        "medicaid",
+        "d-snp",
+        "aca marketplace",
+        "chip",
+        "comparison"
+      ],
+      "entities": [
+        "Medicaid",
+        "D-SNP",
+        "ACA Marketplace",
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What types of plans does UnitedHealthcare Community Plan offer?",
+        "Should I get Medicaid, CHIP or an ACA plan?",
+        "Which plan is for people with both Medicare and Medicaid?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What CHIP is",
+      "question": "What is the Children's Health Insurance Program (CHIP)?",
+      "text": "Kids need regular checkups and medical care. If an infant, child or teen doesn't have health insurance, the Children's Health Insurance Program (CHIP) offers low-cost or no-cost coverage. UnitedHealthcare Community Plan links to a dedicated CHIP page for parents and guardians who want to learn more.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip",
+        "children",
+        "low cost",
+        "kids coverage",
+        "checkups"
+      ],
+      "entities": [
+        "CHIP",
+        "Children's Health Insurance Program"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is CHIP?",
+        "How can I get health insurance for my child?",
+        "Is there low-cost coverage for kids?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ACA Marketplace plans for self-purchased coverage",
+      "question": "Where do I go if I buy my own health insurance?",
+      "text": "If you buy your own health insurance for you and your family, the health care Marketplace is for you. The Marketplace is where ACA health plans are sold. UnitedHealthcare offers Individual & Family plans in 23 states, according to the Community Plan page.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "aca marketplace",
+        "individual and family",
+        "23 states",
+        "buy your own insurance"
+      ],
+      "entities": [
+        "ACA",
+        "Marketplace",
+        "Individual & Family plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the health insurance Marketplace?",
+        "In how many states does UnitedHealthcare offer ACA plans?",
+        "Where are ACA health plans sold?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicaid eligibility is set by each state",
+      "question": "Does Medicaid eligibility depend on where I live?",
+      "text": "Medicaid typically covers children, pregnant women, elderly adults and people with disabilities and eligible low-income adults. Medicaid is managed by each state, so eligibility requirements can change from state to state. Medicaid is described as a way to get health care at a lower cost or sometimes at no cost.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "state managed",
+        "eligibility",
+        "medicaid",
+        "low cost care"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Are Medicaid rules the same in every state?",
+        "Who typically qualifies for Medicaid?",
+        "Why does Medicaid eligibility change by state?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Required and optional Medicaid benefits",
+      "question": "What benefits does Medicaid cover?",
+      "text": "The federal government requires states to provide certain medical benefits to people who are eligible for Medicaid. States can choose to provide additional, optional benefits like hospital visits and stays, doctor's office visits, prenatal care and delivery, nursing home services, home health services, early childhood screenings and emergency medical transportation.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "medicaid benefits",
+        "optional benefits",
+        "hospital",
+        "prenatal care",
+        "home health",
+        "transportation"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does Medicaid cover?",
+        "Does Medicaid cover nursing home services?",
+        "Are there optional Medicaid benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How to enroll in Medicaid",
+      "question": "How do I enroll in Medicaid?",
+      "text": "To enroll in Medicaid, you'll need to apply through the Medicaid agency in your state. UnitedHealthcare Community Plan offers an enrollment page that explains how to get started, and a short plan-eligibility questionnaire that helps people see what type of plan may be a good fit.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "enroll",
+        "apply",
+        "state agency",
+        "medicaid application"
+      ],
+      "entities": [
+        "Medicaid",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I sign up for Medicaid?",
+        "Where do I apply for Medicaid?",
+        "Do I apply through UnitedHealthcare or my state?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Caregiver resources for dual-eligible loved ones",
+      "question": "Does UnitedHealthcare Community Plan offer resources for caregivers?",
+      "text": "UnitedHealthcare Community Plan points caregivers to resources for those who care for people with both Medicaid and Medicare. The caregiver support section is linked from the Community Plan home page for anyone looking after a family member or friend who has both types of coverage.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "caregiver",
+        "caregiving resources",
+        "medicaid and medicare",
+        "family support"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "Medicaid",
+        "Medicare"
+      ],
+      "personas": [
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "Where can caregivers find help?",
+        "Are there resources for people caring for someone with Medicare and Medicaid?"
+      ]
+    }
+  ]
+}

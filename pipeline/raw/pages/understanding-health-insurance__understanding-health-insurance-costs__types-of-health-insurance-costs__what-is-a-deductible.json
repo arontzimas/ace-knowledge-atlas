@@ -1,0 +1,266 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/what-is-a-deductible",
+  "title": "What's a deductible?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what a deductible is, how it adds up over a plan year, and when a high deductible or low deductible health plan may fit.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/what-is-a-deductible/_jcr_content/root/regioncontainer-main/responsivegrid/container/containerfloatingcon/image.coreimg.90.1280.jpeg/1749590599106/understanding-health-insurance-costs-man-on-computer-with-bicycle-832x634.jpeg",
+      "alt": "Man on computer with bicycle (deductible article)"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6353958376112-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "How do deductibles work?"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a deductible is",
+      "question": "What is a deductible in health insurance?",
+      "text": "A deductible is the amount of money you pay out of pocket for certain covered health care services before your health plan starts to pay. Understanding how deductibles work may help you choose the plan that best fits your needs and budget. A deductible is different from a premium, which is the amount you pay, usually every month, to have health insurance.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "deductible",
+        "out-of-pocket",
+        "premium",
+        "covered services"
+      ],
+      "entities": [
+        "Deductible",
+        "Premium"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a deductible?",
+        "What is the difference between a deductible and a premium?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How a deductible adds up through the year",
+      "question": "How does a deductible work during the plan year?",
+      "text": "You can think of your deductible as adding up throughout the year. At the start of the plan year you pay the full amount for covered health care costs until you meet your annual deductible, and each qualifying payment adds to your total. You could pay it in several smaller visits or one big visit. Once you reach it, your plan pays a portion of certain services for the rest of the plan year. The deductible starts over each plan year and may change each year.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "deductible",
+        "plan year",
+        "annual reset",
+        "covered services"
+      ],
+      "entities": [
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does my deductible reset every year?",
+        "How do I meet my deductible?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What you still pay after meeting your deductible",
+      "question": "What do I still pay after reaching my deductible?",
+      "text": "After you reach your deductible, you may still pay separate expenses commonly called out-of-pocket costs, and these do not count toward your deductible. They include your premium, the amount you pay each month; copays or coinsurance, such as a $10 copay or 20% coinsurance; and your out-of-pocket maximum, the most you will pay for allowed costs in a plan year, after which your plan pays 100% of your care.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket costs",
+        "premium",
+        "copay",
+        "coinsurance",
+        "out-of-pocket maximum"
+      ],
+      "entities": [
+        "Deductible",
+        "Premium",
+        "Copay",
+        "Coinsurance",
+        "Out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "What do I owe after my deductible is met?",
+        "Do copays count toward my deductible?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Types of deductibles",
+      "question": "What are the different types of deductibles?",
+      "text": "Deductibles come in different types. Health plans may have a medical deductible and a prescription deductible, a network deductible and an out-of-network deductible, and an individual deductible and a family deductible. Understanding how deductibles work may help you choose the plan that best fits your needs and budget.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "types of deductibles",
+        "prescription deductible",
+        "family deductible",
+        "out-of-network deductible"
+      ],
+      "entities": [
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there a separate deductible for prescriptions?",
+        "What is the difference between an individual and family deductible?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a high deductible health plan is",
+      "question": "What is a high deductible health plan (HDHP)?",
+      "text": "A high deductible health plan (HDHP) is a type of plan that has a higher deductible than many other plans. With an HDHP, the tradeoff is that you spend less on your monthly premium, but you pay more for health care services before your plan starts helping out.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "hdhp",
+        "high deductible",
+        "premium trade-off",
+        "deductible"
+      ],
+      "entities": [
+        "HDHP",
+        "Deductible",
+        "Premium"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does high deductible health plan mean?",
+        "Why are HDHP premiums lower?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Advantages and disadvantages of an HDHP",
+      "question": "What are the pros and cons of a high deductible health plan?",
+      "text": "Advantages of a high deductible health plan include lower premiums compared to other plans and the option to pair it with a health savings account (HSA), where pretax money can roll over year to year. It may fit people who are pretty healthy or who expect high-cost care early in the plan year. Disadvantages include expensive out-of-pocket costs when you get care and deductibles that can be very high.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "hdhp",
+        "advantages",
+        "disadvantages",
+        "hsa",
+        "lower premiums"
+      ],
+      "entities": [
+        "HDHP",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the benefits of an HDHP?",
+        "What are the downsides of a high deductible plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a low-deductible plan is",
+      "question": "What is a low-deductible health plan?",
+      "text": "Low-deductible health plans have a higher upfront monthly premium and a lower deductible, so insurance payments start earlier. They may be a good fit for individuals or families who see the doctor often or expect to need a lot of care because of a pregnancy, an upcoming procedure or surgery, or a chronic condition. With a lower deductible to reach, your plan will likely kick in sooner than with an HDHP.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "low deductible",
+        "higher premium",
+        "chronic condition",
+        "pregnancy",
+        "plan comparison"
+      ],
+      "entities": [
+        "Low-deductible plan",
+        "Deductible"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Who should choose a low deductible plan?",
+        "Is a low deductible plan better if I'm pregnant?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Who fits a high or low deductible plan",
+      "question": "Which type of deductible is right for me?",
+      "text": "There is no 'right' plan. High deductible plans may suit people who are young and generally healthy, are not planning on becoming pregnant, rarely visit the doctor or buy prescription drugs, have no dependents, and can cover out-of-pocket costs in an unexpected medical situation. Low deductible plans may suit people who are 65 or over, plan to become pregnant, expect more prescriptions or care due to a chronic condition, have multiple dependents, or anticipate a procedure or surgery.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "high deductible",
+        "low deductible",
+        "who it fits",
+        "pregnancy",
+        "chronic condition"
+      ],
+      "entities": [
+        "HDHP",
+        "Low-deductible plan"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Should I pick a high or low deductible?",
+        "Which deductible is better for a family?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HSAs pair only with high deductible plans",
+      "question": "Can I pair an HSA with any health plan?",
+      "text": "To help you save for your deductible, some high deductible plans can be paired with a health savings account (HSA). With an HSA, you can set aside pretax dollars to help pay your deductible and other qualified medical expenses. HSAs are only for people who have high deductible plans.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "high deductible",
+        "pretax dollars",
+        "qualified medical expenses"
+      ],
+      "entities": [
+        "HSA",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a high deductible plan to have an HSA?",
+        "Can an HSA help pay my deductible?"
+      ]
+    }
+  ]
+}

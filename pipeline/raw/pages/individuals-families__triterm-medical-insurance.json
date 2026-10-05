@@ -1,0 +1,288 @@
+{
+  "url": "https://www.uhc.com/individuals-families/triterm-medical-insurance",
+  "title": "TriTerm Medical insurance",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Overview of TriTerm Medical, a 3-year short term limited duration health insurance underwritten by Golden Rule Insurance Company, including term structure, limitations and supplemental options.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/women-dog-triterm-1920x700.jpg",
+      "alt": "Women with a dog, TriTerm Medical hero image"
+    },
+    {
+      "kind": "video",
+      "src": "https://youtu.be/FURgsHLB6I4",
+      "alt": "Learn more about TriTerm health insurance"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/triterm-medical-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container_461021436/image.coreimg.90.1280.jpeg/1757524516435/critical-dental-vision-illustration-602x360.jpeg",
+      "alt": "Illustration of critical illness, dental and vision supplemental plans"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is TriTerm Medical insurance?",
+      "question": "What is TriTerm Medical insurance?",
+      "text": "Available in select states, TriTerm Medical is short-term, limited duration health insurance that lasts for nearly 36 months over 3 terms. It is designed to provide health insurance for a longer period of time than traditional short-term insurance, with the types of benefits you and your family may be looking for. It is underwritten by Golden Rule Insurance Company.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "triterm medical",
+        "3-year",
+        "36 months",
+        "short term",
+        "golden rule"
+      ],
+      "entities": [
+        "TriTerm Medical",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How long does TriTerm Medical last?",
+        "What is 3-year short term insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How TriTerm Medical terms are counted",
+      "question": "Is a TriTerm Medical term exactly three years?",
+      "text": "The TriTerm Medical coverage term is one day less than 3 years, which the page describes as just under 3 years of coverage. In Indiana, plans are three 364-day terms.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "triterm medical",
+        "coverage term",
+        "indiana",
+        "364-day terms"
+      ],
+      "entities": [
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many days is a TriTerm plan?",
+        "How does TriTerm work in Indiana?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Golden Rule and UnitedHealthcare history",
+      "question": "Who is behind TriTerm Medical insurance?",
+      "text": "Golden Rule Insurance Company became part of UnitedHealthcare in 2003. Together, they have been selling personal insurance for more than 75 years and short term insurance for over 30 years, according to the TriTerm Medical page.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "golden rule",
+        "unitedhealthcare",
+        "2003",
+        "75 years",
+        "brand"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "When did Golden Rule join UnitedHealthcare?",
+        "How long has UnitedHealthcare sold short term insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "TriTerm Medical is not ACA-compliant coverage",
+      "question": "Does TriTerm Medical comply with the Affordable Care Act?",
+      "text": "TriTerm Medical coverage is not required to comply with certain federal market requirements for health insurance, principally those in the Affordable Care Act, and it is not minimum essential coverage. A policy may have exclusions or limitations for preexisting conditions or benefits such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services, and may have lifetime or annual dollar limits.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "not minimum essential coverage",
+        "aca requirements",
+        "exclusions",
+        "dollar limits"
+      ],
+      "entities": [
+        "Affordable Care Act",
+        "minimum essential coverage"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is TriTerm Medical ACA compliant?",
+        "Does TriTerm Medical have annual limits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preexisting conditions and underwriting on TriTerm Medical",
+      "question": "Does TriTerm Medical pay for preexisting conditions?",
+      "text": "No benefits will be paid during the first 12 months for a preexisting condition. The plan is medically underwritten, and premium rates are estimated and subject to change based on underwriting results and health status.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "preexisting conditions",
+        "12 months",
+        "medical underwriting",
+        "premium rates"
+      ],
+      "entities": [
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long is the preexisting condition wait on TriTerm Medical?",
+        "Are TriTerm Medical premiums based on health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "TriTerm Medical premiums can change between terms",
+      "question": "Will my TriTerm Medical premium stay the same for three years?",
+      "text": "TriTerm Medical premiums are expected to change for the second and third policy or certificate terms, according to the page's disclaimer. TriTerm Medical lasts nearly 36 months over 3 terms, and premium rates are estimated and subject to change based on underwriting results and health status.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "triterm medical",
+        "premium change",
+        "second term",
+        "third term"
+      ],
+      "entities": [
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do TriTerm premiums increase after the first term?",
+        "Is TriTerm Medical priced for the whole three years?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive care waiting period and network benefits",
+      "question": "Is there a waiting period for preventive care on TriTerm Medical?",
+      "text": "The TriTerm Medical footnotes say preventive care benefits are available after a 6 month waiting period, and children's preventive health services are not subject to a $200 maximum benefit. Benefits are subject to any applicable waiting periods, limits, deductibles, copays or coinsurance payments, and they apply when you use a network provider.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "preventive care",
+        "waiting period",
+        "6 months",
+        "network provider",
+        "children"
+      ],
+      "entities": [
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "How soon can I get preventive care on TriTerm Medical?",
+        "Do children have a preventive care limit on TriTerm?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Coverage may end before another plan is available",
+      "question": "What if my TriTerm Medical coverage expires?",
+      "text": "If TriTerm Medical coverage expires or you lose eligibility for it, you might have to wait until an open enrollment period to get other health insurance coverage, according to the page's disclaimer.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "coverage expires",
+        "open enrollment",
+        "loss of eligibility",
+        "gap in coverage"
+      ],
+      "entities": [
+        "TriTerm Medical",
+        "open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What happens when TriTerm coverage ends?",
+        "Can I get another plan right away after TriTerm expires?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "FACT association and underwriters for TriTerm plans",
+      "question": "Do I need to join an association to buy a short term plan?",
+      "text": "Some Short Term plans are available as association group insurance only to members of FACT, an independent association, and additional membership fees may be required. The TriTerm Medical page also says products and services offered are underwritten by Golden Rule Insurance Company, Health Plan of Nevada, Inc., Oxford Health Insurance, Inc., UnitedHealthcare Life Insurance Company, UnitedHealthcare of the Mid-Atlantic, Inc., and UnitedHealthcare of New York, Inc.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "fact association",
+        "association group insurance",
+        "membership fees",
+        "short term"
+      ],
+      "entities": [
+        "FACT",
+        "short term plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is FACT association insurance?",
+        "Are there extra fees with some short term plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Supplemental plans to pair with TriTerm Medical",
+      "question": "What supplemental plans can I add to TriTerm Medical?",
+      "text": "UnitedHealthcare lets TriTerm Medical shoppers view supplemental plans, like dental, vision and other cash-benefit plans, that offer coverage for expenses not covered by a medical plan. A separate application and premium are required, and a Help me find a plan tool can show which insurance options may be available.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "supplemental plans",
+        "dental",
+        "vision",
+        "cash-benefit plans",
+        "separate premium"
+      ],
+      "entities": [
+        "supplemental plans",
+        "dental plans",
+        "vision plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I add dental to a TriTerm plan?",
+        "Do supplemental plans need a separate application?"
+      ]
+    }
+  ]
+}

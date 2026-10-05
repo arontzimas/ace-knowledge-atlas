@@ -1,0 +1,320 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/open-enrollment/qualifying-life-events",
+  "title": "Qualifying life events",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Defines qualifying life events, how they open a special enrollment period, deadlines, documentation and what to do if you do not qualify.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/qualifying-life-events-family-on-couch-desktop-2880x514.jpg",
+      "alt": "Family on couch (qualifying life events page banner)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a qualifying life event is",
+      "question": "What is a qualifying life event for health insurance?",
+      "text": "A qualifying life event is a life-changing situation, sometimes planned and sometimes unexpected, that can affect you and your health insurance. Experiencing a significant life change may allow you to change your health plan outside of the annual enrollment period, also called open enrollment. If you have had one, check your plan materials, contact your employer or call the number on your member ID card.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "special enrollment period",
+        "open enrollment",
+        "plan changes"
+      ],
+      "entities": [
+        "Qualifying life event",
+        "Special enrollment period"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What counts as a qualifying life event?",
+        "Can I change my health insurance after a big life change?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common qualifying life events",
+      "question": "What events count as qualifying life events?",
+      "text": "Qualifying life events include, but are not necessarily limited to: getting married, getting divorced, having or adopting a baby, the death of someone who shares your health plan, moving to a new area, earning U.S. citizenship, turning 26, turning 65, experiencing a shift in employment status, and loss of health insurance.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "marriage",
+        "divorce",
+        "new baby",
+        "turning 26"
+      ],
+      "entities": [
+        "Qualifying life event"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "Does getting married let me change my health plan?",
+        "Is turning 26 a qualifying life event?",
+        "Does losing my job count as a qualifying life event?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How to qualify for a special enrollment period",
+      "question": "How do I qualify for a special enrollment period?",
+      "text": "If you experience any qualifying life event, you qualify for a special enrollment period (SEP), which means you can enroll in a health plan outside the annual enrollment period. Sometimes SEPs are offered for other qualifying reasons, such as natural disaster relief, pandemic relief or a public health emergency.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "special enrollment period",
+        "sep",
+        "qualifying life event",
+        "disaster relief",
+        "public health emergency"
+      ],
+      "entities": [
+        "Special enrollment period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is a special enrollment period?",
+        "Can a natural disaster give me a special enrollment period?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Losing Medicaid opens a special enrollment period",
+      "question": "Do I get a special enrollment period if I lose Medicaid?",
+      "text": "If you are no longer eligible for Medicaid, you qualify for a special enrollment period (SEP). If you are asked to renew or recertify your Medicaid (also called redetermination) and you lose your Medicaid coverage, you may qualify for a special enrollment period.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "medicaid renewal",
+        "redetermination",
+        "special enrollment period",
+        "loss of coverage"
+      ],
+      "entities": [
+        "Medicaid",
+        "Special enrollment period"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "What if I lose Medicaid coverage?",
+        "Can I enroll in a new plan after Medicaid redetermination?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to enroll after a qualifying life event",
+      "question": "How do I enroll in a plan after a qualifying life event?",
+      "text": "After a qualifying life event, check your plan materials, contact your employer or call the phone number on your member ID card. Three things to know: timing, because changes can most often be made within either 30 or 60 days after the event; the deadline, because missing it may mean waiting until the next open enrollment period; and documentation, because you may need to submit documents confirming the event.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "enrollment steps",
+        "documentation",
+        "deadline",
+        "member id card"
+      ],
+      "entities": [
+        "Qualifying life event",
+        "Open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What do I do after a qualifying life event?",
+        "Do I need proof of a life event to change my plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "30 or 60 day window to make changes",
+      "question": "How long do I have to change my plan after a qualifying life event?",
+      "text": "Changes after a qualifying life event can most often be made either 30 or 60 days after the life event happens. If you miss this deadline, you may have to wait until the next open enrollment period, which could be as long as a year.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "30 days",
+        "60 days",
+        "enrollment deadline",
+        "qualifying life event",
+        "open enrollment"
+      ],
+      "entities": [
+        "Qualifying life event",
+        "Open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What is the deadline to enroll after getting married?",
+        "How many days after a life event can I change health insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Turning 65 is a qualifying life event",
+      "question": "Is turning 65 a qualifying life event?",
+      "text": "Turning 65 is a qualifying life event. It gives you a chance to look into your opportunities to choose a Medicare plan. Parts A and B are sometimes called Original Medicare, and they do not cover everything: services like dental work, vision exams and eye care, and out-of-pocket costs such as deductibles are not covered.",
+      "topic": "Medicare basics",
+      "tags": [
+        "turning 65",
+        "medicare",
+        "original medicare",
+        "parts a and b",
+        "qualifying life event"
+      ],
+      "entities": [
+        "Medicare",
+        "Original Medicare",
+        "Medicare Part A",
+        "Medicare Part B"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What should I do when I turn 65?",
+        "Does Original Medicare cover dental and vision?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Medicare Parts C and D",
+      "question": "What are Medicare Part C and Part D?",
+      "text": "Medicare Part C, also called Medicare Advantage, is a private health plan that combines hospital and medical insurance, plus the potential for additional health benefits. Medicare Part D plans, offered by insurance companies approved by Medicare, add prescription drug coverage to Original Medicare and Medicare Supplement insurance plans.",
+      "topic": "Medicare basics",
+      "tags": [
+        "medicare part c",
+        "medicare part d",
+        "medicare advantage",
+        "prescription drug coverage"
+      ],
+      "entities": [
+        "Medicare Part C",
+        "Medicare Advantage",
+        "Medicare Part D",
+        "Medicare Supplement"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between Medicare Part C and Part D?",
+        "What is Medicare Advantage?",
+        "Which Medicare part covers prescriptions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Documents you may need for a life event",
+      "question": "What documents do I need for a qualifying life event?",
+      "text": "When you experience a qualifying life event, you may be asked for documents confirming it, and the type depends on the event. Events with common documentation lists include marriage, divorce or legal separation, adoption or birth of a child, a dependent passing away, losing or gaining eligibility for other health benefits, turning 26 and aging off a parent's plan, and moving out of or into a plan area. Ask your health insurance provider what is needed for your situation.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "documentation",
+        "proof of life event",
+        "marriage",
+        "divorce",
+        "aging off parent's plan"
+      ],
+      "entities": [
+        "Qualifying life event"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What proof do I need to add a spouse to my insurance?",
+        "What paperwork do I need after turning 26?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Options without a special enrollment period",
+      "question": "What if I don't qualify for a special enrollment period?",
+      "text": "If you are between enrollment periods and have not had a qualifying life event, short term insurance can bridge the gap. Standard short term health insurance plans can fill a gap in coverage from 1 month to just under one year, depending on your state. TriTerm Medical is a special type of short term health insurance available in select states that offers coverage for nearly 3 years.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term insurance",
+        "triterm medical",
+        "coverage gap",
+        "no special enrollment"
+      ],
+      "entities": [
+        "Short term health insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "How can I get health insurance if I missed enrollment?",
+        "What is TriTerm Medical?",
+        "How long does short term insurance last?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Other insurance options to explore",
+      "question": "What other types of insurance can I explore?",
+      "text": "Beyond a standard health plan, UnitedHealthcare points people to other options to explore: Individual & Family ACA Marketplace plans, student health insurance, fixed benefit health insurance, hospital insurance, term life insurance, critical illness insurance, international travel medical insurance and accident insurance.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "marketplace plans",
+        "student insurance",
+        "fixed benefit",
+        "supplemental insurance",
+        "travel insurance"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Student health insurance",
+        "Fixed benefit health insurance",
+        "Term life insurance",
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What other kinds of insurance does UnitedHealthcare offer?",
+        "Is there student health insurance?"
+      ]
+    }
+  ]
+}

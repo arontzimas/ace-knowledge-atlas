@@ -1,0 +1,293 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/dental-insurance",
+  "title": "Dental insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare branded dental insurance plans for individuals and families, what dental plans typically cover, plan types and why dental coverage matters.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/dental-hero-img-desktop-1920x725.jpg",
+      "alt": "Dental insurance hero image"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/dental-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_895485042/image.coreimg.90.1280.jpeg/1728324797801/critical-dental-vision-illustration-602x360.jpeg",
+      "alt": "Illustration of supplemental dental and vision coverage"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare dental plans for individuals and families",
+      "question": "What dental insurance plans does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare branded dental plans for individuals and families are underwritten by Golden Rule Insurance Company. Shoppers can choose plans that include basic dental coverage for general dental care, or explore coverage that includes major dental care, such as dental implants. Plans can be viewed by state using a ZIP code, or by calling 1-866-487-9301.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental insurance",
+        "golden rule",
+        "basic dental",
+        "major dental",
+        "dental implants"
+      ],
+      "entities": [
+        "UnitedHealthcare dental plans",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What dental plans does UnitedHealthcare sell to individuals?",
+        "Does UnitedHealthcare dental insurance cover implants?",
+        "How do I find dental plans in my state?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Dental insurance plans compared with savings memberships",
+      "question": "Should I choose a dental insurance plan or a dental savings membership?",
+      "text": "UnitedHealthcare offers two ways to manage dental costs. Dental insurance plans range from basic coverage to major dental care, such as dental implants. Dental savings memberships are an alternative to insurance that gives access to savings on common services from participating providers. UnitedHealthcare states that dental discount memberships are not insurance.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental insurance",
+        "dental savings membership",
+        "participating providers",
+        "not insurance"
+      ],
+      "entities": [
+        "Dental Savings Complete"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Dental insurance or dental discount membership?",
+        "What is the difference between a dental plan and a savings membership?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Preventive dental care coverage",
+      "question": "How is preventive dental care typically covered?",
+      "text": "Preventive dental care is often covered with no deductible or waiting period. UnitedHealthcare says this most often includes routine cleanings for all covered persons and fluoride treatments for those under the age of 16 on the plan.",
+      "topic": "Dental coverage",
+      "tags": [
+        "preventive care",
+        "cleanings",
+        "fluoride",
+        "no deductible",
+        "waiting period"
+      ],
+      "entities": [
+        "Preventive dental care"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are dental cleanings covered by dental insurance?",
+        "Is there a waiting period for preventive dental care?",
+        "Does dental insurance cover fluoride treatments?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Basic and major dental services",
+      "question": "What are basic and major dental services?",
+      "text": "Basic dental services often include simple fillings or emergency treatment for dental pain, and are subject to a deductible and coinsurance. Major services can include retainers and root canals; these are often subject to the plan's deductible, coinsurance and waiting periods. Preventive care, by comparison, is often covered with no deductible or waiting period.",
+      "topic": "Dental coverage",
+      "tags": [
+        "basic services",
+        "major services",
+        "fillings",
+        "root canal",
+        "coinsurance"
+      ],
+      "entities": [
+        "Dental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are fillings basic or major dental work?",
+        "Does dental insurance cover root canals?",
+        "Do major dental services have a waiting period?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental network and direct payment to dentists",
+      "question": "Do I need to file claims with a dental plan?",
+      "text": "UnitedHealthcare dental plans give access to a wide dental network, with a choice of dental providers that often includes offices in both private and retail settings. Plans pay in-network dentists directly, which makes payments easy to manage and means members do not need to submit claim forms.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental network",
+        "in-network dentist",
+        "claim forms",
+        "direct payment"
+      ],
+      "entities": [
+        "UnitedHealthcare dental plans"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Do I have to submit claim forms with dental insurance?",
+        "Does dental insurance pay my dentist directly?",
+        "Are retail dental offices in the network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental coverage with no age limits",
+      "question": "Are there dental plans for seniors or people on Medicare?",
+      "text": "UnitedHealthcare says its dental coverage has no age limits, with options available for every member of a family and every stage of life. Medicare does not include dental benefits, so the company offers plans designed specifically for seniors who are on Medicare.",
+      "topic": "Dental coverage",
+      "tags": [
+        "no age limit",
+        "seniors",
+        "medicare",
+        "dental benefits",
+        "family coverage"
+      ],
+      "entities": [
+        "Medicare",
+        "UnitedHealthcare dental plans"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicare cover dental?",
+        "Are there dental plans for seniors?",
+        "Is there an age limit for dental insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why dental benefits can matter for health and cost",
+      "question": "Why should I have dental coverage?",
+      "text": "UnitedHealthcare gives three reasons to have dental benefits. Better oral health: people with dental coverage are more likely to get routine dental care. Cost savings: if a person waits until there is a problem, dental care often gets more expensive and involved. Supports overall health: without preventive dental care, major health problems such as heart disease and diabetes appear more often.",
+      "topic": "Dental coverage",
+      "tags": [
+        "oral health",
+        "preventive care",
+        "cost savings",
+        "heart disease",
+        "diabetes"
+      ],
+      "entities": [
+        "Dental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is dental insurance worth it?",
+        "How does dental care affect overall health?",
+        "Why get preventive dental care?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Dental HMO versus dental indemnity plans",
+      "question": "What is the difference between dental HMO and dental indemnity insurance?",
+      "text": "A dental HMO (Health Maintenance Organization) has lower premiums, fixed copays for services, a restricted provider network that must be used, and no annual maximum. A dental indemnity plan has higher premiums, freedom to choose any dentist, coinsurance payments, an annual benefit maximum and no network discounts. UnitedHealthcare branded dental plans from Golden Rule Insurance Company are Dental PPO plans.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental hmo",
+        "dental indemnity",
+        "dental ppo",
+        "annual maximum",
+        "copay"
+      ],
+      "entities": [
+        "Dental HMO",
+        "Dental Indemnity",
+        "Dental PPO",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What types of dental insurance are there?",
+        "Is UnitedHealthcare dental insurance a PPO or HMO?",
+        "What is dental indemnity insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why choose UnitedHealthcare dental plans",
+      "question": "What are the advantages of UnitedHealthcare dental plans?",
+      "text": "UnitedHealthcare highlights four features of its dental plans. Multiple plans with different benefit levels to fit different budgets; preventive care on day 1 of the plan with no waiting period; a nationwide network of dentists who offer dental work to members at negotiated lower rates; and, in most states, vision and hearing benefits are also available.",
+      "topic": "Dental coverage",
+      "tags": [
+        "preventive care day 1",
+        "provider network",
+        "negotiated rates",
+        "vision and hearing"
+      ],
+      "entities": [
+        "UnitedHealthcare dental plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Do UnitedHealthcare dental plans have a waiting period for cleanings?",
+        "Can I add vision and hearing to a dental plan?",
+        "How large is the UnitedHealthcare dental network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental plans sold alongside vision and cash-benefit plans",
+      "question": "Can I get other supplemental coverage with a dental plan?",
+      "text": "UnitedHealthcare points shoppers who want more than dental coverage to its supplemental plans, such as vision and cash-benefit plans, that offer coverage for expenses not covered by a medical plan. A plan finder is available to answer a few questions and show which insurance options may be available.",
+      "topic": "Dental coverage",
+      "tags": [
+        "supplemental plans",
+        "vision plans",
+        "cash benefit",
+        "plan finder"
+      ],
+      "entities": [
+        "UnitedHealthcare supplemental plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What other plans can I buy with dental insurance?",
+        "Does UnitedHealthcare sell vision with dental?"
+      ]
+    }
+  ]
+}

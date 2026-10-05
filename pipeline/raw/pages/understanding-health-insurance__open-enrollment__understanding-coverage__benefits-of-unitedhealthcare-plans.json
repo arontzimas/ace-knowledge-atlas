@@ -1,0 +1,224 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/open-enrollment/understanding-coverage/benefits-of-unitedhealthcare-plans",
+  "title": "Explore the benefits of UnitedHealthcare plans through work",
+  "domain": "Health Insurance Basics",
+  "page_type": "product",
+  "summary": "Describes the care options, provider network, virtual care and member tools included with UnitedHealthcare employer-sponsored plans.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Overview of UnitedHealthcare plan benefits through work",
+      "question": "What do UnitedHealthcare employer-sponsored plans offer?",
+      "text": "With employer-sponsored plans from UnitedHealthcare, members can find easier ways to manage their costs and care throughout the year. These plans include more care options, convenient ways to manage a plan, and a support team that is there for members every step of the way.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "employer-sponsored plans",
+        "care options",
+        "plan management",
+        "member support"
+      ],
+      "entities": [
+        "UnitedHealthcare employer-sponsored plans"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are the benefits of a UnitedHealthcare plan through work?",
+        "Why choose a UnitedHealthcare employer plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "UnitedHealthcare network size",
+      "question": "How big is the UnitedHealthcare provider network?",
+      "text": "UnitedHealthcare's network for employer-sponsored plans includes 1,205,773 doctors and health care professionals, 6,126 hospitals and more than 67,000 pharmacies. The hospital, doctor and health care professional counts are stated as of Q1, 2021. Members can look up network doctors, facilities and more with the provider search tool.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "provider network",
+        "doctors",
+        "hospitals",
+        "pharmacies",
+        "network size"
+      ],
+      "entities": [
+        "UnitedHealthcare network",
+        "Provider search"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How many doctors are in the UnitedHealthcare network?",
+        "How many hospitals does UnitedHealthcare cover?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Nationwide coverage even out of network",
+      "question": "Do UnitedHealthcare plans cover care out of network?",
+      "text": "UnitedHealthcare offers convenient care options and nationwide coverage with most employer-sponsored plans, even when members go out of network. This is presented as part of getting access to a wider provider network, along with a large count of doctors, hospitals and pharmacies.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "nationwide coverage",
+        "out-of-network",
+        "provider network",
+        "care options"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is UnitedHealthcare coverage nationwide?",
+        "Can I use UnitedHealthcare out of network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "24/7 nurse line",
+      "question": "Can I talk to a nurse anytime with UnitedHealthcare?",
+      "text": "With UnitedHealthcare plans through work, a registered nurse is available 24/7 to discuss your symptoms. Members can talk with a nurse anytime as one of the convenient care options offered with these plans.",
+      "topic": "Virtual care",
+      "tags": [
+        "nurse line",
+        "24/7",
+        "symptoms",
+        "convenient care"
+      ],
+      "entities": [
+        "UnitedHealthcare nurse line"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there a 24 hour nurse line?",
+        "Can I ask a nurse about my symptoms?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual Visits with a doctor",
+      "question": "What are Virtual Visits?",
+      "text": "With Virtual Visits, you can talk with a doctor using your mobile device, tablet or computer and get a prescription for minor diagnoses. Certain prescriptions may not be available and other restrictions may apply. Virtual Visits are not an insurance product or a health plan, are not intended for emergency or life-threatening conditions, and benefits are generally available only through a Designated Virtual Network Provider.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visits",
+        "telehealth",
+        "prescriptions",
+        "minor diagnoses",
+        "designated virtual network provider"
+      ],
+      "entities": [
+        "Virtual Visits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I see a doctor from my phone with UnitedHealthcare?",
+        "Can a virtual visit prescribe medication?",
+        "Are Virtual Visits for emergencies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Quality care physicians marked with a blue heart",
+      "question": "How can I find a quality care physician?",
+      "text": "Members with UnitedHealthcare plans through work can find a quality care physician, who is indicated with a blue heart. Finding a quality care physician is listed among the convenient care options available with these plans.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "quality care physician",
+        "blue heart",
+        "provider search",
+        "find a doctor"
+      ],
+      "entities": [
+        "Quality care physician"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What does the blue heart mean on a UnitedHealthcare doctor?",
+        "How do I find a high-quality doctor?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Manage your plan online and in the app",
+      "question": "How can I manage my UnitedHealthcare plan with ease?",
+      "text": "UnitedHealthcare plans through work give members quick access to plan details on any device. Members can sign in to their member account to manage benefits, see claims and account balances, print a health plan ID card and more. They can also download the UnitedHealthcare app, available for iPhone or Android, to view benefits and the health plan ID card from a mobile device.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member account",
+        "mobile app",
+        "id card",
+        "claims",
+        "account balances"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "Member account"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where can I print my health plan ID card?",
+        "Can I see my claims in the UnitedHealthcare app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Help choosing a health plan through work",
+      "question": "Where can I get more help choosing my health plan through work?",
+      "text": "UnitedHealthcare directs people who want more help choosing a health plan through work to its open enrollment video series, which explains plan benefits, and to a page with three tips for choosing a health plan through work. The goal is to help people choose a plan that may work best for their needs and budget.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment videos",
+        "plan selection tips",
+        "employer plans",
+        "budget"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are there open enrollment videos from UnitedHealthcare?",
+        "Where can I find tips for choosing a health plan?"
+      ]
+    }
+  ]
+}

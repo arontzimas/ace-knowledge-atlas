@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/communityplan/dual-special-needs-plans/what-is-a-dsnp",
+  "title": "What is a Dual Special Needs plan (D-SNP)?",
+  "domain": "Medicaid",
+  "page_type": "guide",
+  "summary": "Introduces Dual Special Needs plans for people with both Medicare and Medicaid: what they are, how they work with Medicaid, care coordination, UnitedHealthcare Dual Complete and the UCard.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/dual-special-needs-plans/what-is-a-dsnp/_jcr_content/root/responsivegrid/image.coreimg.jpeg/1762353981652/canning-2560x458.jpeg", "alt": "Hero image for What is a Dual Special Needs plan"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a Dual Special Needs plan is",
+      "question": "What is a Dual Special Needs plan (D-SNP)?",
+      "text": "A Dual Special Needs plan, or D-SNP for short, is a type of health insurance plan for people who have both Medicare and Medicaid. If that describes you, you're dual-eligible, which is just another way of saying you can have Medicare and Medicaid at the same time.",
+      "topic": "Dual eligible coverage",
+      "tags": ["d-snp", "dual special needs plan", "dual eligible", "medicare and medicaid"],
+      "entities": ["Dual Special Needs plan", "D-SNP", "Medicare", "Medicaid"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is a D-SNP?", "What does dual-eligible mean?", "Can I have Medicare and Medicaid at the same time?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Who D-SNPs are designed for",
+      "question": "Who are Dual Special Needs plans for?",
+      "text": "Dual Special Needs plans are for people who could use more help. That may be because of income, disabilities, age and/or health conditions. Dual Special Needs plans are a type of Medicare Advantage plan.",
+      "topic": "Special Needs Plans",
+      "tags": ["d-snp", "medicare advantage", "income", "disability", "age"],
+      "entities": ["Dual Special Needs plan", "Medicare Advantage"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["Is a D-SNP a Medicare Advantage plan?", "Who should consider a Dual Special Needs plan?"]
+    },
+    {
+      "type": "assertion",
+      "title": "D-SNPs work together with your Medicaid plan",
+      "question": "How does dual coverage work with both Medicaid and Medicare?",
+      "text": "A Dual Special Needs plan works together with your Medicaid health plan, and you keep all your Medicaid benefits. Most dual health insurance plans also give you more benefits and features than you get with Original Medicare. Dual Special Needs plans have a $0 premium for members with Extra Help (Low Income Subsidy).",
+      "topic": "Dual eligible coverage",
+      "tags": ["keep medicaid benefits", "$0 premium", "extra help", "low income subsidy", "original medicare"],
+      "entities": ["Dual Special Needs plan", "Original Medicare", "Extra Help", "Low Income Subsidy"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Do I keep my Medicaid benefits with a D-SNP?", "How much does a D-SNP cost per month?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Personal care coordinator with a D-SNP",
+      "question": "What is care coordination in a Dual Special Needs plan?",
+      "text": "Care coordination is another important benefit of a Dual Special Needs plan. You'll have a personal care coordinator who may help you understand your Medicare and Medicaid benefits, manage your doctors, specialists and care services, and get the services you need to feel healthier.",
+      "topic": "Special Needs Plans",
+      "tags": ["care coordination", "care coordinator", "specialists", "benefits navigation"],
+      "entities": ["Dual Special Needs plan"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["Do dual plans include a care coordinator?", "Who helps me manage my doctors with Medicare and Medicaid?"]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare Dual Complete plans",
+      "question": "How can I get a Dual Special Needs plan from UnitedHealthcare?",
+      "text": "Dual Special Needs plans are offered by private insurance companies, including UnitedHealthcare. UnitedHealthcare calls its dual-eligible health plans UnitedHealthcare Dual Complete. The page states that more people choose UnitedHealthcare for a Dual Special Needs plan than any other company.",
+      "topic": "Dual eligible coverage",
+      "tags": ["dual complete", "private insurers", "d-snp enrollment", "unitedhealthcare"],
+      "entities": ["UnitedHealthcare Dual Complete", "UnitedHealthcare", "Dual Special Needs plan"],
+      "personas": ["Medicare shopper"],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": ["What is UnitedHealthcare Dual Complete?", "Which companies offer dual-eligible plans?"]
+    },
+    {
+      "type": "assertion",
+      "title": "UCard for dual plan members",
+      "question": "What is the UCard for dual plan members?",
+      "text": "UCard is only from UnitedHealthcare. Your UCard is your member ID and more: you can use it to buy healthy food and over-the-counter (OTC) products and to pay utility bills.",
+      "topic": "Dual eligible coverage",
+      "tags": ["ucard", "member id", "otc", "healthy food", "utility bills"],
+      "entities": ["UCard", "UnitedHealthcare"],
+      "personas": ["Current member", "Medicare shopper"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["What can I buy with the UCard?", "Is the UCard my member ID?"]
+    }
+  ]
+}

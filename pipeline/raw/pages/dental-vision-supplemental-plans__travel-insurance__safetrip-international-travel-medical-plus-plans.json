@@ -1,0 +1,195 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/safetrip-international-travel-medical-plus-plans",
+  "title": "SafeTrip International Travel Medical Plus plans",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Describes SafeTrip International Travel Medical Plus plans that combine international medical coverage with trip protection.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/safetrip/pinwheel-summer-outfits-1920x700-desktop.jpg",
+      "alt": "Traveler in summer outfit holding a pinwheel"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "SafeTrip International Travel Medical Plus overview",
+      "question": "What are SafeTrip International Travel Medical Plus plans?",
+      "text": "SafeTrip International Travel Medical Plus plans help protect a journey from trip cancellations and delays to baggage loss or delay, with medical coverage included when a traveler is abroad. UnitedHealthcare describes them as SafeTrip's most comprehensive coverage, covering both travel issues and medical needs during an international trip.",
+      "topic": "Travel insurance",
+      "tags": [
+        "international travel medical plus",
+        "trip insurance",
+        "medical abroad",
+        "comprehensive coverage"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is International Travel Medical Plus?",
+        "Which SafeTrip plan is the most comprehensive?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What international medical and trip insurance is",
+      "question": "What is international medical and trip insurance?",
+      "text": "Illness, injury, cancellations and delays are among the issues that can interrupt a trip abroad. SafeTrip International Travel Medical Plus plans can cover costs from all of these issues and more, combining international medical coverage with trip protection.",
+      "topic": "Travel insurance",
+      "tags": [
+        "trip insurance",
+        "international medical",
+        "trip interruption",
+        "illness and injury"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does international medical and trip insurance mean?",
+        "Does one plan cover both medical and trip problems abroad?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Trip cancellations, delays and baggage coverage",
+      "question": "What trip coverage comes with International Travel Medical Plus?",
+      "text": "SafeTrip can help a traveler manage changes when plans shift due to weather, medical issues and other disruptions. If baggage is lost or delayed, SafeTrip can help reimburse the traveler for replacing necessities or lost items while abroad.",
+      "topic": "Travel insurance",
+      "tags": [
+        "trip cancellation",
+        "trip delay",
+        "baggage loss",
+        "weather disruption"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover weather delays abroad?",
+        "What if my bags are lost on an international trip?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Injury, illness and evacuation coverage in Plus plans",
+      "question": "What medical coverage does International Travel Medical Plus include?",
+      "text": "Being sick or hurt abroad can be stressful, especially because health insurance may not work in other countries. International Travel Medical Plus plans offer coverage for medical emergencies, including dental care. If a medical crisis occurs, a traveler may need to get to a more specialized treatment facility or get a loved one to their location, and SafeTrip specialists are available 24/7 to help.",
+      "topic": "Travel insurance",
+      "tags": [
+        "medical evacuation",
+        "medical reunion",
+        "dental care",
+        "injury and illness"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does International Travel Medical Plus cover dental?",
+        "Will SafeTrip help get me to a better hospital?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How International Travel Medical Plus claims can be reimbursed",
+      "question": "What problems can International Travel Medical Plus reimburse?",
+      "text": "If a trip does not go smoothly, a traveler can make a claim with SafeTrip. Depending on plan specifics, the traveler may be reimbursed for costs associated with injuries and illness, lost or delayed baggage, and cancellations and delays. UnitedHealthcare notes that a typical health insurance plan may not work when a person needs medical attention across borders.",
+      "topic": "Travel insurance",
+      "tags": [
+        "reimbursement",
+        "claims",
+        "illness and injury",
+        "trip delays"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "How do I get reimbursed with SafeTrip?",
+        "What does International Travel Medical Plus reimburse?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Add-ons available for International Travel Medical Plus",
+      "question": "What add-ons can I buy with International Travel Medical Plus?",
+      "text": "Travelers can choose add-ons for a SafeTrip International Travel Medical Plus plan to get more coverage: extreme sports, sports equipment loss or delay, and rental car damage. UnitedHealthcare links to a page with more details on travel insurance add-ons.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel add-ons",
+        "extreme sports",
+        "sports equipment",
+        "rental car damage"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical Plus",
+        "SafeTrip add-ons"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I add sporting equipment coverage to a SafeTrip plan?",
+        "Which add-ons does International Travel Medical Plus offer?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Plus compared with Travel Protection and Travel Medical",
+      "question": "How does International Travel Medical Plus differ from other SafeTrip plans?",
+      "text": "Travel Protection is the SafeTrip option for traveling within the United States, with no deductibles, trip cancellation, interruption, delay and baggage coverage, full AD&D coverage and an option to add rental car coverage. International Travel Medical is emergency medical insurance for international trips, with no deductibles, up to $1 million medical expense limit, medical evacuation and medical assistance, and an option to add Extreme Sports coverage.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel protection",
+        "international travel medical",
+        "plan comparison",
+        "$1 million"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the medical limit on International Travel Medical?",
+        "Which SafeTrip plan includes AD&D?"
+      ]
+    }
+  ]
+}

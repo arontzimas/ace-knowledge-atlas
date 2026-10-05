@@ -1,0 +1,243 @@
+{
+  "url": "https://www.uhc.com/individuals-families/self-employed-plans",
+  "title": "Self-employed health insurance",
+  "domain": "Individual & Family",
+  "page_type": "guide",
+  "summary": "Guide for entrepreneurs, contractors and freelancers on health insurance options: ACA Marketplace plans, short term and TriTerm Medical plans, small business plans and supplemental coverage.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/self-employed-man-at-flowershop-desktop-1920x700.jpg",
+      "alt": "Self-employed man working at a flower shop"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6377609166112-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Health insurance for the self-employed"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Health insurance options for the self-employed",
+      "question": "What health insurance options do self-employed people have?",
+      "text": "Self-employed people may not get coverage through an employer, but they have options: the Health Insurance Marketplace (ACA plans), short-term health insurance plans and TriTerm Medical health insurance. They can also consider supplemental plans like vision, dental and term life insurance.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "self-employed",
+        "freelancer",
+        "marketplace",
+        "short term",
+        "triterm medical"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "short term insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How do I get health insurance if I'm self-employed?",
+        "What are my options as a freelancer?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ACA Marketplace plans for the self-employed",
+      "question": "Can self-employed people buy ACA Marketplace plans?",
+      "text": "The Affordable Care Act gives self-employed people options to buy health insurance for themselves and their family through the ACA Marketplace, and UnitedHealthcare offers Individual & Family ACA plans there. Depending on your situation, you may qualify for tax breaks, premium tax credits and other savings. Marketplace plans are only available during open enrollment (November 1 to January 15 in most states) or if you've had a qualifying life event.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "self-employed",
+        "aca marketplace",
+        "premium tax credit",
+        "open enrollment",
+        "qualifying life event"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "premium tax credit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get a premium tax credit if I'm self-employed?",
+        "When can a freelancer sign up for an ACA plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term plans for the self-employed",
+      "question": "Are short term plans an option if I'm self-employed with no employees?",
+      "text": "Short term health insurance can fill in when you might have a gap in coverage. Traditional short term plans can last between one and 12 months while TriTerm Medical plans last nearly three years. UnitedHealthcare-branded short term plans, underwritten by Golden Rule Insurance Company, include a large network of health care professionals, and some plans can start the day after your application. Term lengths vary by state.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "triterm medical",
+        "golden rule",
+        "no employees",
+        "coverage gap"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "TriTerm Medical",
+        "short term insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long can a short term plan last for a freelancer?",
+        "Who underwrites UnitedHealthcare short term plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term and TriTerm coverage limitations",
+      "question": "What limitations apply to short term and TriTerm plans?",
+      "text": "Short term health insurance plans are medically underwritten and do not provide coverage for preexisting conditions, though TriTerm Medical plans cover eligible expenses for preexisting conditions after 12 months on the plan. The TriTerm coverage term is one day less than 3 years (in IN, three 364-day terms). The coverage does not qualify as Minimum Essential Coverage and may not cover all Essential Health Benefits; some states may impose a tax penalty if you lack MEC coverage.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "preexisting conditions",
+        "medical underwriting",
+        "minimum essential coverage",
+        "tax penalty",
+        "triterm medical"
+      ],
+      "entities": [
+        "Minimum Essential Coverage",
+        "Essential Health Benefits",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does TriTerm Medical cover preexisting conditions?",
+        "Could I owe a state tax penalty with short term insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Small business health insurance options",
+      "question": "What health plans does UnitedHealthcare offer small businesses?",
+      "text": "If you have between one and 99 employees working for you, your organization is considered a small business, and UnitedHealthcare offers many options for small businesses. All UnitedHealthcare small business plans come with benefits such as 24/7 access to telehealth, incentives for healthy behaviors, and the vital medication program.",
+      "topic": "Plans through work",
+      "tags": [
+        "small business",
+        "1 to 99 employees",
+        "telehealth",
+        "vital medication program"
+      ],
+      "entities": [
+        "UnitedHealthcare small business plans",
+        "vital medication program"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many employees make a small business for health insurance?",
+        "What benefits do small business plans include?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Options by employee count in the self-employed video",
+      "question": "What coverage fits a self-employed person with or without employees?",
+      "text": "The page's video says that if you're self-employed with no employees, ACA Marketplace plans offer reliable coverage options designed to fit your needs and budget, and you may qualify for subsidies that lower monthly premiums. If you're self-employed with up to 50 employees, it suggests looking into the Small Business Health Options Program (SHOP). To buy, go to the Health Insurance Marketplace or a private insurance company like UnitedHealthcare.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "shop",
+        "no employees",
+        "small business",
+        "marketplace",
+        "subsidies"
+      ],
+      "entities": [
+        "Small Business Health Options Program",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is SHOP for small businesses?",
+        "Where do I buy health insurance as a sole proprietor?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Qualifying life events shown in the video",
+      "question": "What life events let me enroll in an ACA plan outside open enrollment?",
+      "text": "The self-employed video lists events that can qualify someone to enroll in an ACA plan outside open enrollment: getting married, getting divorced, having or adopting a baby, loss of someone on your health plan, moving to a new state, earning U.S. citizenship, turning 26 or 65, and a change in employment status.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "special enrollment",
+        "marriage",
+        "moving",
+        "employment change"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "qualifying life event"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does turning 65 count as a qualifying life event?",
+        "Can a change in employment status qualify me for enrollment?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Supplemental insurance for the self-employed",
+      "question": "What supplemental insurance can the self-employed add?",
+      "text": "Even the best medical insurance plans don't cover everything. Supplemental plans offer additional coverage for specific needs: vision plans can cover eye exams, glasses and contacts, and dental insurance can help with many common preventive, basic and major dental services. Other supplemental plans pay lump sums to help cover unexpected expenses related to accidents, serious illness and more.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "supplemental insurance",
+        "vision",
+        "dental",
+        "accident",
+        "critical illness"
+      ],
+      "entities": [
+        "supplemental plans",
+        "dental insurance",
+        "vision plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need dental or vision insurance if I'm self-employed?",
+        "What plans pay a lump sum for accidents or illness?"
+      ]
+    }
+  ]
+}

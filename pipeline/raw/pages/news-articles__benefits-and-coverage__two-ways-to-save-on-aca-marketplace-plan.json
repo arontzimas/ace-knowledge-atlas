@@ -1,0 +1,172 @@
+{
+  "url": "https://www.uhc.com/news-articles/benefits-and-coverage/two-ways-to-save-on-aca-marketplace-plan",
+  "title": "Two ways you may be able to save on your ACA Marketplace plan",
+  "domain": "Individual & Family",
+  "page_type": "article",
+  "summary": "Article explaining the premium tax credit and cost-sharing reductions as two ways to pay less for an ACA Marketplace plan, with definitions of cost-sharing terms.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/benefits-and-coverage/two-ways-to-save-on-aca-marketplace-plan/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1728325013999/two-ways-to-save-on-aca-marketplace-plan.jpeg",
+      "alt": "Illustration for saving on ACA Marketplace plans"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "The ACA premium tax credit",
+      "question": "What is the premium tax credit on an ACA plan?",
+      "text": "When you start shopping for an ACA Marketplace plan, you'll find out if you qualify for a premium tax credit that lowers your monthly premium. It's already part of the UnitedHealthcare plan application, so you don't have to do any additional work to see if you qualify. Premium tax credits reduce monthly payments (premiums) paid to your insurance plan and cap the amount an individual or family must pay for health insurance.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "premium tax credit",
+        "monthly premium",
+        "application",
+        "cap on cost"
+      ],
+      "entities": [
+        "premium tax credit",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do I find out if I qualify for a premium tax credit?",
+        "What does the premium tax credit do?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Premium tax credit size follows a sliding income scale",
+      "question": "How is the size of the premium tax credit determined?",
+      "text": "The size of the premium tax credit is based on a sliding income scale. People who have a lower income will get a larger credit to help cover the cost of their insurance.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "premium tax credit",
+        "sliding scale",
+        "income",
+        "larger credit"
+      ],
+      "entities": [
+        "premium tax credit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do lower incomes get bigger ACA tax credits?",
+        "Is the ACA tax credit based on income?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is cost-sharing?",
+      "question": "What does cost-sharing mean in health insurance?",
+      "text": "Cost sharing is literally sharing medical costs with your insurance company: you pay some costs out-of-pocket and your insurer pays some. Sometimes your insurer pays everything, for example you pay $0 for preventive care because your plan covers it at 100%. Sometimes you might be responsible for the full amount, like if a service isn't covered or you choose an out-of-network provider.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost-sharing",
+        "out-of-pocket",
+        "preventive care",
+        "out-of-network"
+      ],
+      "entities": [
+        "cost-sharing"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is cost sharing?",
+        "When do I pay the full cost of care?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Deductible, copay and coinsurance examples",
+      "question": "What are examples of cost-sharing?",
+      "text": "Examples of cost-sharing include a deductible, the amount you must spend on care covered by your health plan before they begin to pay; a copay, a set dollar amount you have to pay when you get care covered by your plan; and coinsurance, the percentage of the costs of a covered health care service you pay after you've paid your deductible.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "deductible",
+        "copay",
+        "coinsurance",
+        "cost-sharing examples"
+      ],
+      "entities": [
+        "deductible",
+        "copay",
+        "coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the difference between a deductible, copay and coinsurance?",
+        "What are the types of cost sharing?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are cost-sharing reductions?",
+      "question": "What are cost-sharing reductions on ACA plans?",
+      "text": "Cost-sharing reductions, also called decreased cost-sharing or extra savings, are part of the Affordable Care Act and help people save on out-of-pocket costs when they get care. People who qualify may have a lower out-of-pocket maximum, and may also have lower copays and deductibles.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "cost-sharing reductions",
+        "extra savings",
+        "out-of-pocket maximum",
+        "copays",
+        "deductibles"
+      ],
+      "entities": [
+        "cost-sharing reductions",
+        "Affordable Care Act"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are extra savings on ACA plans?",
+        "Do cost-sharing reductions lower my deductible?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "2027 open enrollment start date",
+      "question": "When does open enrollment for 2027 ACA plans start?",
+      "text": "According to a note on the article page, open enrollment for 2027 Individual & Family ACA Marketplace plans starts November 1, 2026. The page also offers a link to get started for people looking for a 2026 plan.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "2027 plans",
+        "november 1 2026"
+      ],
+      "entities": [
+        "open enrollment",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Consideration",
+      "questions": [
+        "When can I sign up for 2027 ACA coverage?",
+        "What is the 2027 open enrollment start date?"
+      ]
+    }
+  ]
+}

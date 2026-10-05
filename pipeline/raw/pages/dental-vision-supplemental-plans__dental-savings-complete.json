@@ -1,0 +1,258 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/dental-savings-complete",
+  "title": "Dental Savings Complete",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Explains the Dental Savings Complete discount membership for dental, vision, hearing and prescription savings, how it works and its disclosures.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/Dental-savings-complete-mother-son-brushing-teeth-desktop-708x416.jpg",
+      "alt": "Mother and son brushing teeth"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Dental Savings Complete is",
+      "question": "What is Dental Savings Complete?",
+      "text": "Dental Savings Complete, provided by Dental Benefit Providers, Inc., is a membership for discounts on qualified dental services and more. Even with dental insurance, a member may be able to save on services not covered under the dental plan. The membership also includes savings on hearing and vision materials, plus access to prescription discounts offered through Optum Perks.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental savings complete",
+        "dental discounts",
+        "membership",
+        "optum perks",
+        "hearing and vision"
+      ],
+      "entities": [
+        "Dental Savings Complete",
+        "Dental Benefit Providers, Inc.",
+        "Optum Perks"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Dental Savings Complete?",
+        "Can I use a dental discount membership if I have dental insurance?",
+        "Does Dental Savings Complete include prescription discounts?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "How a dental savings membership works",
+      "question": "What is a dental savings membership and how do I pay?",
+      "text": "A dental savings membership provides access to dental discounts. Members can pay monthly or annually, and there is no waiting period. After enrolling (a one-time enrollment fee may apply), a member receives a membership ID card to get discounts on qualified dental services at participating providers. For each qualified service, the member pays the discounted rate that is part of the membership.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental savings membership",
+        "id card",
+        "enrollment fee",
+        "monthly or annual",
+        "no waiting period"
+      ],
+      "entities": [
+        "Dental Savings Complete"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does a dental discount plan work?",
+        "Is there an enrollment fee for Dental Savings Complete?",
+        "Can I pay for a dental savings plan monthly?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Services that may be discounted",
+      "question": "What services are discounted with Dental Savings Complete?",
+      "text": "Services that may be discounted include dental (cleanings, crowns, fillings, orthodontics, X-rays and pediatric dentistry), vision (glasses, contacts and access to laser vision correction offered through QualSight), hearing (hearing aids and hearing-aid related visits) and pharmacy (access to prescription drug discounts through Optum Perks).",
+      "topic": "Dental coverage",
+      "tags": [
+        "discounted services",
+        "orthodontics",
+        "crowns",
+        "hearing aids",
+        "laser vision correction"
+      ],
+      "entities": [
+        "Dental Savings Complete",
+        "QualSight",
+        "Optum Perks"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are braces or orthodontics discounted with a dental savings plan?",
+        "Does Dental Savings Complete cover hearing aids?",
+        "What dental services get a discount?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No copays, deductibles or annual limits",
+      "question": "Does Dental Savings Complete have deductibles or annual limits?",
+      "text": "Dental savings memberships such as Dental Savings Complete have no copays, deductibles, annual limits or maximums, according to UnitedHealthcare. They are usually available for individuals or families, and members pay the discounted rate for each qualified service at participating providers.",
+      "topic": "Dental coverage",
+      "tags": [
+        "no deductible",
+        "no annual maximum",
+        "no copay",
+        "family membership"
+      ],
+      "entities": [
+        "Dental Savings Complete"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is there an annual maximum on a dental discount plan?",
+        "Do dental savings plans have deductibles?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Using a membership with or without dental insurance",
+      "question": "Can I use Dental Savings Complete if I already have dental insurance?",
+      "text": "A dental savings membership is described as great for people who do not have dental insurance. People who do have insurance can still get discounts on qualifying services that are not covered under their insurance plan. The membership has no waiting period and includes discounts on glasses, contacts and hearing aids.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental insurance",
+        "uncovered services",
+        "no waiting period",
+        "glasses and contacts"
+      ],
+      "entities": [
+        "Dental Savings Complete"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have dental insurance and a dental discount plan?",
+        "Is there a waiting period for dental savings memberships?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to use Dental Savings Complete",
+      "question": "How do I start using Dental Savings Complete?",
+      "text": "1) Enroll in Dental Savings Complete and receive an ID card, which may take up to 72 hours. 2) Make an appointment with a participating dentist. 3) Show the card and get the discounted rate at the time of service.",
+      "topic": "Dental coverage",
+      "tags": [
+        "enrollment",
+        "id card",
+        "participating dentist",
+        "discounted rate"
+      ],
+      "entities": [
+        "Dental Savings Complete"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How long does it take to get a Dental Savings Complete card?",
+        "How do I use a dental discount card?",
+        "How do I enroll in Dental Savings Complete?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Dental discount program versus dental insurance",
+      "question": "Is a dental discount program different from low-cost dental insurance?",
+      "text": "According to the page's disclosures, Dental Savings Complete is not insurance. It provides discounted services from participating providers and does not make payments to providers. Members are obligated to pay for all services but receive a discount, and the range of discounts varies by provider and service. Dental Benefit Providers, Inc. is the Discount Plan Organization.",
+      "topic": "Dental coverage",
+      "tags": [
+        "not insurance",
+        "discount plan",
+        "participating providers",
+        "discount range"
+      ],
+      "entities": [
+        "Dental Savings Complete",
+        "Dental Benefit Providers, Inc."
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is a dental savings plan insurance?",
+        "Does a dental discount plan pay my dentist?",
+        "Do all dental savings discounts work the same way?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Cancellation period and provider list",
+      "question": "Can I cancel Dental Savings Complete and see participating providers?",
+      "text": "Dental Savings Complete contains a thirty-day cancellation period. A list of participating providers, including each provider's name, city, state and specialty in the member's service area, is made available before and after membership. Details are available by calling 877-205-3342 or on the provider search page named on the page. The page also refers readers to the Dental Savings Complete brochure.",
+      "topic": "Dental coverage",
+      "tags": [
+        "cancellation period",
+        "provider list",
+        "participating providers",
+        "brochure"
+      ],
+      "entities": [
+        "Dental Savings Complete"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Decision",
+      "questions": [
+        "Can I cancel a dental savings membership?",
+        "How do I find participating dentists for Dental Savings Complete?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental Savings Complete administration and Massachusetts note",
+      "question": "Who administers Dental Savings Complete?",
+      "text": "Dental Savings Complete is administered by Dental Benefit Providers, Inc. of Columbia, Maryland, which is also the Discount Plan Organization. UnitedHealthcare notes that the product does not meet the minimum creditable coverage requirements under Massachusetts law (MGL c.111M and 956 CMR 5.00). Questions can be directed to 1-888-578-8535.",
+      "topic": "Dental coverage",
+      "tags": [
+        "administrator",
+        "discount plan organization",
+        "massachusetts",
+        "creditable coverage"
+      ],
+      "entities": [
+        "Dental Savings Complete",
+        "Dental Benefit Providers, Inc."
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Dental Savings Complete count as minimum creditable coverage in Massachusetts?",
+        "Who runs Dental Savings Complete?"
+      ]
+    }
+  ]
+}

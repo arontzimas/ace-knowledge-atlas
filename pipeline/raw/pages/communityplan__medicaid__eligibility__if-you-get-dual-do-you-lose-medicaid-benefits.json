@@ -1,0 +1,65 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/eligibility/if-you-get-dual-do-you-lose-medicaid-benefits",
+  "title": "If you get a dual health plan, do you lose your Medicaid benefits?",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Reassures people with Medicare and Medicaid that joining a dual health plan does not change their Medicaid benefits, and explains how dual eligibility and a dual plan work.",
+  "published": "2022-12-01",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/Learning-Center-Benefit-KeepCoverage.jpg", "alt": "An older Hispanic woman with a big smile on her face"}
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "Do you lose Medicaid with a dual health plan?",
+      "question": "If you get a dual health plan, do you lose your Medicaid benefits?",
+      "text": "No. A dual health plan won't change your Medicaid benefits in any way. Dual health plans are for people who have both Medicaid and Medicare. You keep the same Medicaid plan and all the same Medicaid benefits you get now, and you could get more Medicare benefits. A dual health plan doesn't replace your Medicaid plan.",
+      "topic": "Dual eligible coverage",
+      "tags": ["keep medicaid", "dual health plan", "no loss of benefits", "medicare benefits"],
+      "entities": ["Medicaid", "Medicare", "Dual health plan"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Will a dual plan take away my Medicaid?", "Does a D-SNP replace my Medicaid plan?"]
+    },
+    {
+      "type": "assertion",
+      "title": "How you can have both Medicaid and Medicare",
+      "question": "How can I have both Medicaid and Medicare?",
+      "text": "To get a dual health plan, you need to qualify for both Medicaid and Medicare. You qualify for Medicaid based on low income, and must meet the income requirements in your state. You qualify for Medicare based on age (65 or older) or due to having a disability. People who qualify for both are dual-eligible, which also makes them eligible for a dual health plan.",
+      "topic": "Dual eligible coverage",
+      "tags": ["dual eligible", "income requirements", "age 65", "disability"],
+      "entities": ["Medicaid", "Medicare"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What makes someone dual-eligible?", "Do I need low income to get a dual plan?"]
+    },
+    {
+      "type": "definition",
+      "title": "A dual health plan is a Medicare Advantage plan",
+      "question": "What type of plan is a dual health plan?",
+      "text": "If you already have Medicare coverage, you probably have Original Medicare. A dual health plan is a special kind of Medicare plan, called a Medicare Advantage plan. It includes everything you get with Original Medicare, plus prescription drug coverage and many other extra benefits and features on top, and you could get it all with as low as a $0 plan premium. Benefits and features vary by plan and area.",
+      "topic": "Dual eligible coverage",
+      "tags": ["medicare advantage", "original medicare", "prescription drug coverage", "$0 premium"],
+      "entities": ["Medicare Advantage", "Original Medicare", "Dual health plan"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Is a dual plan the same as Original Medicare?", "Does a dual plan include prescription coverage?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Switching to a dual plan can be easy",
+      "question": "Is it hard to switch to a dual health plan?",
+      "text": "If you qualify for a dual health plan, you may have quite a lot of medical needs, so it's understandable to hesitate about switching. The whole point of dual plans is to help make life easier. UnitedHealthcare says it has helped many people switch and knows how to make enrolling in a dual health plan as easy as possible. To start, enter your ZIP code to search for dual plans in your area.",
+      "topic": "Dual eligible coverage",
+      "tags": ["switching plans", "enrollment help", "zip code search", "unitedhealthcare"],
+      "entities": ["UnitedHealthcare", "Dual health plan"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["How hard is it to switch to a dual plan?", "What is the next step to get a dual health plan?"]
+    }
+  ]
+}

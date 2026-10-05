@@ -1,0 +1,294 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/can-i-get-help-paying-for-health-insurance",
+  "title": "Can I get subsidies for insurance?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Overview of programs that can help with health insurance costs, including ACA subsidies, Medicare, Medicaid, CHIP, D-SNP and COBRA.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/can-i-get-help-paying-for-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/image_copy_copy.coreimg.90.1280.jpeg/1728324473103/help-paying-for-health-insurance-man-on-tablet-752x420.jpeg",
+      "alt": "Man on tablet (help paying for health insurance)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Programs exist to help with insurance costs",
+      "question": "What help is available if I'm struggling to afford health insurance?",
+      "text": "Many programs were created to help individuals who have limited or moderate income and resources get the care they need when they need it. The Affordable Care Act (ACA) was designed to help individuals and their dependents get health insurance coverage when they might not otherwise have been able to afford it. ACA subsidies can go toward paying health insurance premiums and out-of-pocket costs.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "subsidies",
+        "aca",
+        "help paying for insurance",
+        "limited income",
+        "premiums"
+      ],
+      "entities": [
+        "ACA",
+        "Affordable Care Act"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "How can I get help paying for health insurance?",
+        "What is the Affordable Care Act designed to do?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Who qualifies for ACA subsidies",
+      "question": "Who qualifies for ACA subsidies?",
+      "text": "People who qualify for ACA subsidies have a household income that falls within a certain range, do not have access to affordable coverage through their employer, and are not eligible for coverage through the Children's Health Insurance Program (CHIP), TRICARE, Medicaid or Medicare.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "aca subsidies",
+        "eligibility",
+        "household income",
+        "employer coverage",
+        "chip"
+      ],
+      "entities": [
+        "ACA",
+        "CHIP",
+        "TRICARE",
+        "Medicaid",
+        "Medicare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Do I qualify for health insurance subsidies?",
+        "Can I get ACA subsidies if my employer offers coverage?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a premium tax credit is",
+      "question": "What's a premium tax credit and how does it work?",
+      "text": "Premium tax credits are offered through the Health Insurance Marketplace to reduce the monthly payments, or premiums, you pay to your insurance plan and to cap the amount an individual or family must pay for health insurance. The size of the credit is based on a sliding scale, so people with lower income get a larger credit. The credit is sent directly to your insurance company.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "premium tax credit",
+        "sliding scale",
+        "marketplace",
+        "monthly premium"
+      ],
+      "entities": [
+        "Premium tax credit",
+        "Health Insurance Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do premium tax credits work?",
+        "Who gets a bigger premium tax credit?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What cost sharing is",
+      "question": "What is cost sharing in health insurance?",
+      "text": "Cost sharing is sharing medical costs with your insurance company: you pay some costs out of pocket and your insurance company pays some costs. You are cost-sharing when you pay deductibles, copayments and coinsurance. Cost-sharing only applies when you pay part and your insurance pays part; for example, you pay $0 for preventive care covered at 100%, and you pay the full amount for a service that is not covered or if you choose an out-of-network provider.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost sharing",
+        "deductible",
+        "copayment",
+        "coinsurance",
+        "preventive care"
+      ],
+      "entities": [
+        "Cost sharing",
+        "Deductible",
+        "Copayment",
+        "Coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does cost sharing mean?",
+        "What costs do I share with my insurer?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What cost-sharing reductions are",
+      "question": "What are cost-sharing reductions?",
+      "text": "Cost-sharing reductions, also called decreased cost-sharing or 'extra savings,' are part of the Affordable Care Act and help people save on out-of-pocket costs. People who qualify may have a lower out-of-pocket maximum and lower copays and deductibles. They are in place to help people get the care they need.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "cost-sharing reductions",
+        "extra savings",
+        "out-of-pocket maximum",
+        "aca"
+      ],
+      "entities": [
+        "Cost-sharing reductions",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are ACA extra savings?",
+        "Can I get a lower deductible with cost-sharing reductions?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Who is eligible for Medicare",
+      "question": "Who is eligible for Medicare?",
+      "text": "Medicare is the federal health insurance program for people who are age 65 or older; younger than 65 with a qualifying disability and on Social Security disability for at least two years; any age with a diagnosis of End-Stage Renal Disease (ESRD) or Amyotrophic Lateral Sclerosis (ALS, also called Lou Gehrig's disease); or receiving Railroad Retirement benefits.",
+      "topic": "Medicare basics",
+      "tags": [
+        "medicare eligibility",
+        "age 65",
+        "disability",
+        "esrd",
+        "als"
+      ],
+      "entities": [
+        "Medicare",
+        "ESRD",
+        "ALS",
+        "Railroad Retirement"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "Who qualifies for Medicare?",
+        "Can I get Medicare before 65?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What Medicaid is",
+      "question": "What is Medicaid?",
+      "text": "Medicaid is a federal-state public health insurance program that provides coverage to low-income children, adults and people with disabilities. Medicaid is managed at the state level, and the rules vary from state to state.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "medicaid",
+        "low income",
+        "state-managed",
+        "public insurance"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicaid?",
+        "Are Medicaid rules the same in every state?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What CHIP is",
+      "question": "What is the Children's Health Insurance Program (CHIP)?",
+      "text": "The Children's Health Insurance Program (CHIP) is another national health insurance program alongside Medicaid. It covers uninsured children from low-income families who are not eligible for Medicaid. Medicaid, by contrast, is a federal-state program covering low-income children, adults and people with disabilities.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip",
+        "children's health insurance",
+        "low-income families",
+        "uninsured children"
+      ],
+      "entities": [
+        "CHIP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": [
+        "What does CHIP cover?",
+        "Who qualifies for CHIP?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a Dual Special Needs Plan is",
+      "question": "What are Dual Special Needs Plans (D-SNP)?",
+      "text": "Special Needs Plans (SNP) are a special category within Medicare Advantage that combine the benefits of Original Medicare (Parts A and B) with prescription drug coverage (Part D) in one plan. A Dual Eligible Special Needs Plan, often called a D-SNP, provides health benefits to people who qualify for both Medicaid and Medicare, with benefits customized to specific needs and possible access to special programs, specialists and care coordinators.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "d-snp",
+        "dual eligible",
+        "special needs plan",
+        "medicare advantage",
+        "care coordinators"
+      ],
+      "entities": [
+        "D-SNP",
+        "Medicare Advantage",
+        "Original Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is a D-SNP?",
+        "What does a dual eligible plan offer?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When you can use COBRA",
+      "question": "What is COBRA and when can I elect it?",
+      "text": "The Consolidated Omnibus Budget Reconciliation Act (COBRA) was enacted as a short-term insurance solution if you lose your job or your hours are reduced. You can elect COBRA if you lost coverage because your work hours were reduced; you quit or lost your job (unless it was 'gross misconduct'); you are transitioning between jobs; the covered employee dies; you are going through a divorce; you turn 26; or you become eligible for Medicare. Typically you can keep COBRA for up to 18 months.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "cobra",
+        "job loss",
+        "18 months",
+        "short-term coverage",
+        "divorce"
+      ],
+      "entities": [
+        "COBRA",
+        "Consolidated Omnibus Budget Reconciliation Act"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "How long does COBRA last?",
+        "Can I get COBRA if I quit my job?",
+        "What qualifies me for COBRA?"
+      ]
+    }
+  ]
+}

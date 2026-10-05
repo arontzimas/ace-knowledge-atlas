@@ -1,0 +1,78 @@
+{
+  "url": "https://www.uhc.com/communityplan/dual-special-needs-plans/eligibility/losing-dsnp-eligibility",
+  "title": "Why Medicaid eligibility is needed for D-SNP coverage",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains that D-SNP members must keep Medicaid eligibility, what happens during the grace period after losing Medicaid, disenrollment and special enrollment options, and the possibility of partial dual coverage.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/man-laptop-wheelchair-1440x258.jpg", "alt": "Man using a laptop in a wheelchair"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "D-SNP members must keep Medicaid eligibility",
+      "question": "Do I need to keep Medicaid to stay in a D-SNP?",
+      "text": "Having Medicaid coverage, in addition to qualifying for Medicare, is a requirement to enroll in a D-SNP. It applies not just when you first join: to stay eligible, you need to keep your Medicaid coverage the whole time. If you lose your Medicaid eligibility, you should soon receive a letter from your health insurance company letting you know you no longer meet the D-SNP eligibility requirements.",
+      "topic": "Dual eligible coverage",
+      "tags": ["d-snp eligibility", "keep medicaid", "loss of eligibility", "notice letter"],
+      "entities": ["D-SNP", "Dual Special Needs plan", "Medicaid", "Medicare"],
+      "personas": ["Current member"],
+      "intent": "Stay compliant",
+      "stage": "Member",
+      "questions": ["What happens to my D-SNP if I lose Medicaid?", "Do I have to stay on Medicaid to keep my dual plan?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Grace period after losing Medicaid",
+      "question": "What happens if a D-SNP member loses their Medicaid eligibility?",
+      "text": "When a D-SNP member no longer qualifies for Medicaid, they go into a grace period. Depending on the health plan, the grace period could be 30 days or up to 6 months. Members can still get care and services through their plan, and Medicare still pays for most covered care. The difference is that during the grace period the member is responsible for out-of-pocket costs such as copayments, coinsurance, deductibles and premiums that Medicaid would have paid before.",
+      "topic": "Dual eligible coverage",
+      "tags": ["grace period", "30 days", "6 months", "out-of-pocket costs", "medicaid loss"],
+      "entities": ["D-SNP", "Medicaid", "Medicare"],
+      "personas": ["Current member"],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": ["How long is the grace period if I lose Medicaid?", "Will I owe copays if I lose Medicaid on a dual plan?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Disenrollment and your options after the grace period",
+      "question": "What happens if my Medicaid isn't reinstated during the grace period?",
+      "text": "If the grace period ends and you aren't recertified for Medicaid, you will be disenrolled from your D-SNP or other Medicare Special Needs plan, and your plan will send another letter saying when coverage will end. You'll then have a Special Enrollment Period (SEP) to enroll in a new Medicare Advantage plan, or in Original Medicare with a Medicare Part D prescription drug plan. Your new coverage starts the month after your previous plan ends.",
+      "topic": "Dual eligible coverage",
+      "tags": ["disenrollment", "special enrollment period", "medicare advantage", "original medicare", "part d"],
+      "entities": ["D-SNP", "Special Enrollment Period", "Medicare Advantage", "Original Medicare", "Medicare Part D"],
+      "personas": ["Current member", "Medicare shopper"],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": ["What plan can I join if I'm removed from my D-SNP?", "When does new coverage start after D-SNP disenrollment?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Losing full Medicaid may leave partial dual eligibility",
+      "question": "Can I still get a dual plan if I lose full Medicaid benefits?",
+      "text": "Partial dual eligibility is when someone qualifies for Medicare but doesn't receive full Medicaid medical benefits. If you lose your full Medicaid medical benefits but still participate in a Medicare Savings Program (MSP), you may qualify for a partial dual plan. While Medicare pays for most covered care, many partial dual eligibles are responsible for out-of-pocket costs. Coverage for partial dual eligibles is only available in certain areas.",
+      "topic": "Dual eligible coverage",
+      "tags": ["partial dual", "medicare savings program", "msp", "out-of-pocket costs"],
+      "entities": ["Medicare Savings Program", "MSP", "partial dual plan"],
+      "personas": ["Current member", "Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": ["Can I keep a D-SNP with only a Medicare Savings Program?", "What is a partial dual plan?"]
+    },
+    {
+      "type": "definition",
+      "title": "Dual eligible and D-SNP basics",
+      "question": "What does dual eligible mean for D-SNP coverage?",
+      "text": "People who qualify for both Medicaid and Medicare are known as dual eligible, because they are dually eligible for both programs. Being dual eligible may also mean someone could qualify for a Dual Special Needs plan (D-SNP). D-SNPs are a type of Medicare Advantage plan that provides extra benefits beyond Original Medicare and Medicaid.",
+      "topic": "Dual eligible coverage",
+      "tags": ["dual eligible", "d-snp", "medicare advantage", "extra benefits"],
+      "entities": ["Dual Special Needs plan", "Medicare Advantage", "Original Medicare", "Medicaid"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is dual eligibility?", "What does a D-SNP add to Original Medicare and Medicaid?"]
+    }
+  ]
+}

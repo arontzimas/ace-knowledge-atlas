@@ -1,0 +1,311 @@
+{
+  "url": "https://www.uhc.com/employer/small-business",
+  "title": "Health Insurance for Small Business",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Overview of UnitedHealthcare group health plans for small businesses with 2 to 50 employees, including plan types, no-cost programs and the Small Business Store.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/small-business-women-at-bakery-desktop-960x350.jpg",
+      "alt": "Small business owners at a bakery"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6372426476112-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Learn more about the Small Business Store"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Group health plans for 2 to 50 employees",
+      "question": "What group health insurance does UnitedHealthcare offer small businesses?",
+      "text": "UnitedHealthcare offers group health insurance plans for business owners with 2 to 50 employees. The plans are designed to help a small business save money and support employees' health and well-being needs, and they can help the business retain and recruit talent.",
+      "topic": "Plan funding models",
+      "tags": [
+        "small business",
+        "group health insurance",
+        "2-50 employees",
+        "recruiting",
+        "retention"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does UnitedHealthcare offer health insurance for a business with 2 employees?",
+        "What is group health insurance for small business owners?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Small business reach and network size",
+      "question": "How many small business employees does UnitedHealthcare cover, and how large is its network?",
+      "text": "UnitedHealthcare says it is the carrier of choice for over 235,000 employers and provides health care coverage to more than 2.5 million small business employees (internal analysis, March 2025). Its nationwide provider network includes more than 1.8 million physicians and health care professionals and over 5,600 hospitals (as of March 31, 2025).",
+      "topic": "Plan funding models",
+      "tags": [
+        "small business",
+        "network size",
+        "physicians",
+        "hospitals",
+        "scale"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How big is UnitedHealthcare's network for small business plans?",
+        "How many small business employees does UnitedHealthcare insure?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Surest, fully insured and level funded for small business",
+      "question": "What plan types can small businesses choose from at UnitedHealthcare?",
+      "text": "Small businesses can choose among three product types. Surest plans offer clear upfront copays with no deductibles or coinsurance. Fully insured plans have the insurance company manage employee claims for a fixed monthly premium and take on the financial risk. Level funded plans are based on employees' actual medical claims, so the plan could get a potential year-end surplus if claims are lower than expected.",
+      "topic": "Plan funding models",
+      "tags": [
+        "surest",
+        "fully insured",
+        "level funded",
+        "plan options",
+        "surplus"
+      ],
+      "entities": [
+        "Surest",
+        "Level Funded"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between Surest, fully insured and level funded?",
+        "What small business health plan options does UnitedHealthcare have?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Surest plans for small business",
+      "question": "What are Surest plans?",
+      "text": "Surest plans give employees more control over their health care experience. They feature clear, upfront copays and no deductibles or coinsurance. UnitedHealthcare says the benefits are designed to be easy to understand, without shifting costs to employees.",
+      "topic": "Plan funding models",
+      "tags": [
+        "surest",
+        "copays",
+        "no deductible",
+        "no coinsurance",
+        "cost transparency"
+      ],
+      "entities": [
+        "Surest"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do Surest plans have a deductible?",
+        "How do Surest copays work for small businesses?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a fully insured plan is",
+      "question": "What is a fully insured health plan for a small business?",
+      "text": "With a fully insured plan, the insurance company manages all employee claims for a fixed monthly premium. The insurer takes on the financial risk and handles administrative tasks. UnitedHealthcare says this can help make costs more predictable and simplify operations for the employer.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "fixed premium",
+        "financial risk",
+        "predictable costs",
+        "administration"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does fully insured mean?",
+        "Who pays claims in a fully insured group plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No-cost programs in small business plans",
+      "question": "What no-cost programs come with UnitedHealthcare small business plans?",
+      "text": "UnitedHealthcare lists several no-cost programs and services for employees: 24/7 Virtual Visits to access health care professionals anytime, anywhere; UnitedHealthcare Rewards, which gives incentives for completing healthy actions; and the Vital Medication Program, which eliminates out-of-pocket costs for essential medications like insulin, epinephrine, glucagon, naloxone and albuterol.",
+      "topic": "Wellness programs",
+      "tags": [
+        "24/7 virtual visits",
+        "rewards",
+        "vital medication program",
+        "insulin",
+        "no-cost"
+      ],
+      "entities": [
+        "24/7 Virtual Visits",
+        "UnitedHealthcare Rewards",
+        "Vital Medication Program"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare cover insulin with no out-of-pocket cost?",
+        "What wellness perks come with small business plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "UnitedHealthcare Small Business Store",
+      "question": "What is the UnitedHealthcare Small Business Store?",
+      "text": "The Small Business Store is a one-stop digital shop where a small business can research plan options, compare prices, get plan recommendations and purchase a group health plan. A team of licensed agents is available by live chat or by scheduled appointment. The store is not available in AK, HI, NV or VT, where businesses can request a quote instead.",
+      "topic": "Plan funding models",
+      "tags": [
+        "small business store",
+        "online shopping",
+        "licensed agents",
+        "request a quote",
+        "group plan purchase"
+      ],
+      "entities": [
+        "Small Business Store"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Can I buy small business health insurance online from UnitedHealthcare?",
+        "Which states don't have the Small Business Store?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Employers rate health benefits as important",
+      "question": "How important do employers say health care benefits are?",
+      "text": "UnitedHealthcare cites the SHRM Employee Benefits Survey (accessed April 2025) finding that 88% of employers rate health care-related benefits as extremely important or very important to their workforce. It says group health insurance can help retain and recruit talent.",
+      "topic": "Plan funding models",
+      "tags": [
+        "employee benefits",
+        "survey",
+        "retention",
+        "recruiting",
+        "shrm"
+      ],
+      "entities": [
+        "SHRM"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Do employers think health benefits matter for hiring?",
+        "What percentage of employers value health benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental, vision and life add-on coverage",
+      "question": "Can small businesses add dental, vision and life insurance?",
+      "text": "Yes. UnitedHealthcare says small businesses can offer additional benefit options such as dental, vision and life insurance coverage alongside their health plan, to provide the tailored benefit solutions their employees want.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "dental",
+        "vision",
+        "life insurance",
+        "specialty benefits",
+        "small business"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare offer dental and vision for small groups?",
+        "What extra benefits can a small business add?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "SHOP Marketplace for small employers",
+      "question": "What is the SHOP Marketplace?",
+      "text": "The Small Business Health Options Program (SHOP) is an online marketplace established under the Affordable Care Act. Eligible small business employers can choose coverage options for their employees, and employees can shop for group health insurance too. UnitedHealthcare offers SHOP plans.",
+      "topic": "Plans through work",
+      "tags": [
+        "shop marketplace",
+        "aca",
+        "small business",
+        "group health insurance"
+      ],
+      "entities": [
+        "SHOP Marketplace",
+        "Affordable Care Act",
+        "ACA"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is SHOP health insurance?",
+        "Does UnitedHealthcare offer SHOP plans?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Plans for businesses with more than 50 employees",
+      "question": "What if my business has more than 50 employees?",
+      "text": "Businesses with more than 50 employees can request a quote from UnitedHealthcare to explore group medical plans for their employees and business, plus supplemental plans for dental, vision, disability and more.",
+      "topic": "Plan funding models",
+      "tags": [
+        "large group",
+        "more than 50 employees",
+        "request a quote",
+        "supplemental plans"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader"
+      ],
+      "intent": "Enroll",
+      "stage": "Consideration",
+      "questions": [
+        "Where do I get a quote for a group with over 50 employees?",
+        "What does UnitedHealthcare offer mid-size employers?"
+      ]
+    }
+  ]
+}

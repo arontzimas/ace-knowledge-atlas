@@ -1,0 +1,224 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/benefits",
+  "title": "Medicaid benefits",
+  "domain": "Medicaid",
+  "page_type": "guide",
+  "summary": "Overview of what Medicaid covers, the benefits states must offer, how benefits vary by state, and FAQs on home health care, dental care, pregnancy coverage and CHIP.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/Categories/dad-sons-couch.jpg",
+      "alt": "Father and sons on a couch"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Medicaid eligibility by income, age or health",
+      "question": "What is Medicaid health insurance for?",
+      "text": "Medicaid is health insurance for people who meet certain conditions for income, age or health. This may include children, pregnant women, older adults and people with disabilities. UnitedHealthcare Community Plan's benefits page goes on to explain what Medicaid covers and how coverage varies by state.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "medicaid",
+        "health insurance",
+        "income",
+        "age",
+        "disability"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicaid for?",
+        "Who can use Medicaid benefits?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Benefits every state must offer under Medicaid",
+      "question": "What does Medicaid cover in all states?",
+      "text": "Some Medicaid benefits are offered in all states, and the federal government gives states money for them. States must offer benefits such as family planning services, family nurse practitioner services, freestanding birth center services, health center services, home health services, inpatient and outpatient hospital services, laboratory and X-ray services, nursing facility services, pediatric care including EPSDT, physician services, pregnancy-related services, rural health clinic services, tobacco-cessation counseling for pregnant women and transportation to medical care.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "required benefits",
+        "epsdt",
+        "hospital",
+        "nurse midwife",
+        "transportation",
+        "tobacco cessation"
+      ],
+      "entities": [
+        "Medicaid",
+        "EPSDT"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "What services does Medicaid cover?",
+        "Does Medicaid cover pregnancy services?",
+        "Does Medicaid provide transportation to appointments?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "States can add optional benefits and cover more people",
+      "question": "How do Medicaid benefits vary by state?",
+      "text": "States use federal regulations to create and run Medicaid programs, and eligibility is based on income and the value of what you own. States may choose to offer more benefits and services through Medicaid, called optional benefits. They may also choose to provide coverage to larger groups of people.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "optional benefits",
+        "state variation",
+        "eligibility",
+        "federal regulations"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why does Medicaid coverage differ between states?",
+        "What are optional Medicaid benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Find Medicaid benefits for your state",
+      "question": "What benefits does Medicaid cover in my state?",
+      "text": "Medicaid benefits can change depending on where you live. Selecting your state on the UnitedHealthcare Community Plan site helps you find the right Community Plan to meet your health care needs and see plan details by state.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "state plans",
+        "plan details",
+        "find a plan",
+        "community plan"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "How do I see my state's Medicaid benefits?",
+        "Where can I find UnitedHealthcare Community Plan benefits in my state?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover home health care?",
+      "question": "Does Medicaid cover home health care?",
+      "text": "Yes. The federal government requires all 50 states to offer some Medicaid home health care benefits. The types of home health care services offered depend on where you live. Home health services also appear on the list of benefits that states must offer.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "home health",
+        "all 50 states",
+        "in-home care"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Will Medicaid pay for home health care?",
+        "Is home health required in every state's Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover dental care?",
+      "question": "Does Medicaid cover dental care?",
+      "text": "Medicaid offers dental benefits to all youth under age 21. Adult dental coverage is optional and varies by state, so whether an adult enrollee has dental coverage depends on where they live and which benefits their state chooses to offer.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "dental",
+        "under 21",
+        "adult dental",
+        "state variation"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicaid pay for dental work for adults?",
+        "Are children's dental services covered by Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover pregnant women and babies?",
+      "question": "Does Medicaid provide coverage for pregnant women and babies?",
+      "text": "Medicaid covers low-income pregnant women in all states. If a pregnant woman is covered by Medicaid, their baby is too. The baby is enrolled in Medicaid for the first year of their life.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "pregnancy",
+        "newborn",
+        "first year",
+        "maternity"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Is my baby covered by Medicaid if I am?",
+        "Does Medicaid cover pregnancy in every state?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does CHIP cover pregnant women and children?",
+      "question": "Does CHIP cover pregnant women and children?",
+      "text": "The Children's Health Insurance Program (CHIP) also covers pregnant women and babies in some states. CHIP may cover those who don't qualify for Medicaid. Each state offers CHIP coverage and works closely with its state Medicaid program.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "chip",
+        "pregnant women",
+        "babies",
+        "state program"
+      ],
+      "entities": [
+        "CHIP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get CHIP if I'm pregnant?",
+        "Does CHIP cover people who don't qualify for Medicaid?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/pharmacy-benefits",
+  "title": "Pharmacy benefits",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare employer pharmacy benefits delivered with Optum Rx, including PDL management, PreCheck MyScript, specialty drug strategies and opioid results.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/pharmacy-benefits/_jcr_content/root/regioncontainer-main/responsivegrid/container_1482609534/image.coreimg.90.1280.jpeg/1613218638356/broker-consultant-pharmacy-pill-bottle-794x752.jpeg",
+      "alt": "Pill bottle"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/pharmacy-benefits/_jcr_content/root/regioncontainer-main/responsivegrid/image_226443732_copy.coreimg.90.1280.jpeg/1613218637335/broker-consultant-pharmacy-scanning-medication-772x460.jpeg",
+      "alt": "Pharmacy worker scanning medication"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/pharmacy-and-medical-integration-brochure-na-ka-aso.pdf",
+      "alt": "Brochure: The power of an integrated pharmacy solution"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Pharmacy benefits aim to lower costs",
+      "question": "What do UnitedHealthcare pharmacy benefits aim to do for employers?",
+      "text": "UnitedHealthcare pharmacy benefits are designed to make medications more affordable and accessible. The company describes them as critical to lowering costs for employers and improving health outcomes for their employees.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "pharmacy benefits",
+        "affordability",
+        "access",
+        "employer costs",
+        "health outcomes"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are UnitedHealthcare employer pharmacy benefits for?",
+        "How do pharmacy benefits lower employer costs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Lowering drug costs for employees and families",
+      "question": "How does UnitedHealthcare help lower prescription costs for employees?",
+      "text": "UnitedHealthcare works to make prescription drugs more affordable and increase adherence through streamlined prior authorizations, digital pricing tools and strategic Prescription Drug List (PDL) design. These approaches are aimed at lowering costs for employees and their families.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "prior authorization",
+        "prescription drug list",
+        "pdl",
+        "digital pricing tools",
+        "adherence"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "PDL"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a Prescription Drug List?",
+        "How does UnitedHealthcare make prescriptions cheaper for employees?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Decision support at the point of care",
+      "question": "What decision support does UnitedHealthcare give providers and pharmacists?",
+      "text": "UnitedHealthcare provides critical decision support to providers and pharmacists at the point of care. The goal is to help lower costs and ensure that the right drugs are used in a patient's care plan.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "decision support",
+        "providers",
+        "pharmacists",
+        "point of care",
+        "care plan"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does UnitedHealthcare support prescribers at the point of care?",
+        "What is point-of-care decision support for drugs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common medical and pharmacy data platform",
+      "question": "Why does UnitedHealthcare use a common medical and pharmacy data platform?",
+      "text": "A common medical and pharmacy data platform is designed to deliver a simpler plan experience for clients and to lower their costs on both the pharmacy and medical side. UnitedHealthcare and Optum Rx partner to provide integrated carve-in medical and pharmacy solutions.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "integrated benefits",
+        "data platform",
+        "carve-in",
+        "medical and pharmacy",
+        "optum rx"
+      ],
+      "entities": [
+        "Optum Rx",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does integrated medical and pharmacy mean?",
+        "What is a carve-in pharmacy benefit?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "PreCheck MyScript saves $111 per script",
+      "question": "What is PreCheck MyScript and how much does it save?",
+      "text": "PreCheck MyScript is designed to make it easier for physicians to access each patient's specific PDL and cost information, identify lower cost alternatives and see any prior authorization requirements. UnitedHealthcare says it saves members an average of $111 per script, based on an Optum Rx analysis of full-year 2021 trial claim and production claim data.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "precheck myscript",
+        "prior authorization",
+        "pdl",
+        "lower cost alternatives",
+        "savings per script"
+      ],
+      "entities": [
+        "PreCheck MyScript",
+        "Optum Rx"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is PreCheck MyScript?",
+        "How much does PreCheck MyScript save per prescription?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Savings on specialty infusions",
+      "question": "How does UnitedHealthcare manage high-cost specialty medications?",
+      "text": "UnitedHealthcare uses site of care redirection and specialty virtual visits to help employees better understand their medications. When infusions are shifted to a nonhospital setting, it reports 30% to 50% savings per infusion, based on an Optum Specialty Pharmacy 2018 internal analysis.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "specialty medications",
+        "site of care",
+        "infusion",
+        "virtual visits",
+        "savings"
+      ],
+      "entities": [
+        "Optum Specialty Pharmacy"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is site of care redirection?",
+        "How much can nonhospital infusion save?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Opioid prescription results",
+      "question": "What results has UnitedHealthcare reported on opioid prescribing?",
+      "text": "UnitedHealthcare describes a multi-dimensional approach to the opioid epidemic. It reports 94% compliance with first-fill opioid scripts with a 7-day or fewer supply and a 48% reduction in total opioid prescriptions, citing UnitedHealthcare data from April 2023.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "opioids",
+        "first-fill",
+        "prescription reduction",
+        "compliance",
+        "clinical programs"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How is UnitedHealthcare addressing opioid prescriptions?",
+        "What percent of first-fill opioid scripts are 7 days or fewer?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "PDL management and medication sourcing strategy",
+      "question": "What pharmacy strategies does UnitedHealthcare use to improve outcomes?",
+      "text": "UnitedHealthcare's strategic approach to PDL management, site of care redirection, medication sourcing and more helps deliver pharmacy benefits built to lower costs, streamline experiences and improve adherence. Its integrated approach is also described in a brochure on the power of an integrated pharmacy solution.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "pdl management",
+        "site of care",
+        "medication sourcing",
+        "adherence",
+        "integrated pharmacy"
+      ],
+      "entities": [
+        "PDL",
+        "Optum Rx"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does UnitedHealthcare manage pharmacy costs for employers?",
+        "Where can brokers get information on integrated pharmacy?"
+      ]
+    }
+  ]
+}

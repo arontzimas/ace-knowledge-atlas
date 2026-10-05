@@ -1,0 +1,276 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/advocacy-employee-support",
+  "title": "Advocacy and employee support",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Explains UnitedHealthcare's Advocate4Me advocacy solutions for employers and employees, including satisfaction results, specialized support for complex care and benefits for employers.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/advocate-4me-poster.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Advocate4Me video thumbnail"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/member-experience/advocacy-employee-support/_jcr_content/root/regioncontainer-main/responsivegrid/container/image_226443732_copy.coreimg.90.1280.jpeg/1728324486036/broker-consultant-advocacy-woman-with-headset-772x460.jpeg",
+      "alt": "Advocate wearing a headset"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://ctm.uhc.com/content/dam/ctm/ctm-document-assets/advocacy-core-sell-sheet.pdf",
+      "alt": "Sell Sheet: Core Advocacy"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/Advocate4Me-special_needs-employer-sell_sheet.pdf",
+      "alt": "Sell sheet: Supporting families of children with special needs"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Advocacy simplifies health care",
+      "question": "What is UnitedHealthcare's advocacy solution for employers?",
+      "text": "UnitedHealthcare puts advocacy solutions in place that are designed to help lower costs and improve outcomes, and to provide employers and their employees with compassionate support to make health care easier. Its Advocate4Me service connects members with an experienced advocate who can guide them through their health journey.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "advocacy",
+        "advocate4me",
+        "member support",
+        "simplify health care",
+        "employee support"
+      ],
+      "entities": [
+        "Advocate4Me",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Advocate4Me?",
+        "How does UnitedHealthcare help employees navigate health care?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How an Advocate4Me interaction works",
+      "question": "What happens when a member contacts an Advocate4Me advocate?",
+      "text": "1) The member reaches out for any reason and connects with an experienced advocate. 2) The advocate sees a snapshot view of the member's health care experience in a dashboard. 3) If the advocate spots an opportunity, they can recommend a care path and resources, such as a wellness program or a clinical program for managing a chronic condition.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "advocate4me",
+        "dashboard",
+        "care path",
+        "clinical programs",
+        "wellness programs"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What does an Advocate4Me advocate see about a member?",
+        "Can an advocate refer me to a clinical program?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Advocate satisfaction and referral results",
+      "question": "How satisfied are members with UnitedHealthcare advocates?",
+      "text": "According to UnitedHealthcare Advocate4Me performance reporting from 2021, 39% of clinical program enrollees are referred by advocates, and advocates have a 91% overall satisfaction rating. The company notes that results are not guaranteed.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "advocate satisfaction",
+        "clinical program referrals",
+        "performance reporting",
+        "91%",
+        "39%"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the satisfaction rating for UnitedHealthcare advocates?",
+        "How many clinical program enrollees come from advocate referrals?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "A one-stop resource for health care needs",
+      "question": "What kinds of help can advocates provide?",
+      "text": "UnitedHealthcare's advocacy solutions are designed as a one-stop resource providing end-to-end support for many health care needs, from behavioral and clinical to pharmaceutical and financial. Advocates can also help with benefits, claims and more.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "one-stop support",
+        "claims help",
+        "benefits help",
+        "clinical",
+        "financial"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can an advocate help with a claims question?",
+        "What can UnitedHealthcare advocates help with?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Proactive, personalized member support",
+      "question": "How do advocates support members proactively?",
+      "text": "UnitedHealthcare advocates anticipate member needs, help them get the most out of their benefits and connect them to relevant programs that can help manage a condition or improve their lifestyle. They use powerful data and insights and are backed by a coordinated, interdisciplinary team of experts behind the scenes.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "proactive support",
+        "benefits utilization",
+        "interdisciplinary team",
+        "data insights",
+        "programs"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Do UnitedHealthcare advocates reach out proactively?",
+        "Who is behind a UnitedHealthcare advocate?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Support for families with special needs",
+      "question": "What support is available for families of children with specialized needs?",
+      "text": "Families with children with specialized needs have access to dedicated and focused 1-on-1 support through UnitedHealthcare advocacy. Advocates work closely with employees who may need additional support. A separate sell sheet covers supporting families of children with special needs.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "special needs",
+        "complex care",
+        "1-on-1 support",
+        "families",
+        "advocates"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Does UnitedHealthcare offer help for parents of kids with special needs?",
+        "What is dedicated 1-on-1 support for complex care?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Advocacy benefits for employers vs employees",
+      "question": "How do advocacy solutions benefit employers and employees?",
+      "text": "Employers may see fewer employee complaints and issue escalations, lower medical expenses, and increased employee satisfaction and productivity. Employees may get a simplified, proactive and personalized experience, a familiar voice that is easy to connect with, the ability to make more informed decisions throughout a health journey, and the opportunity for better health outcomes and lower medical costs.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "employer benefits",
+        "employee benefits",
+        "satisfaction",
+        "productivity",
+        "medical costs"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What do employers gain from offering advocacy services?",
+        "What do employees get from an advocate?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Single point of contact for complex care",
+      "question": "What does support for complex care provide?",
+      "text": "Support for families with complex care needs provides access to a single point of contact connected to aspects of the health care system. This contact helps find specialty providers, maximize benefits, resolve unique insurance issues and more.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "complex care",
+        "single point of contact",
+        "specialty providers",
+        "insurance issues",
+        "maximize benefits"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Who can help me find a specialist and sort out insurance issues?",
+        "What is a single point of contact for complex care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advocate services are not for emergencies",
+      "question": "Can Advocate4Me be used for emergencies?",
+      "text": "No. UnitedHealthcare states that advocate services should not be used for emergency or urgent care needs; in an emergency, members should call 911 or go to the nearest emergency room. Wellness nurses, coaches and other representatives cannot diagnose problems or recommend treatment and are not a substitute for a doctor's care. Advocate services are not an insurance program and may be discontinued at any time.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "emergency",
+        "disclaimer",
+        "not insurance",
+        "nurses",
+        "limitations"
+      ],
+      "entities": [
+        "Advocate4Me"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Should I call an advocate in an emergency?",
+        "Can an advocate diagnose a health problem?"
+      ]
+    }
+  ]
+}

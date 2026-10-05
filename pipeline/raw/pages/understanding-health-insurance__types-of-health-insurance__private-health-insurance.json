@@ -1,0 +1,346 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/private-health-insurance",
+  "title": "Understanding private health insurance",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what private health insurance is, its types (employer, ACA, short term, supplemental), benefits, how to choose a plan and enrollment timing.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/private-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1772733686295/mother-son-tablet-couch-460x260.jpeg",
+      "alt": "Mother and son with a tablet on a couch"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is private health insurance?",
+      "question": "What is private health insurance?",
+      "text": "Private health insurance is any health coverage that is not provided by the government. Insurance like Medicaid and Medicare is government-run and is not private. Many people get their insurance from a private company, such as UnitedHealthcare, and that is private health insurance. It can be obtained through an employer or directly from the insurance company.",
+      "topic": "How insurance works",
+      "tags": [
+        "private health insurance",
+        "employer",
+        "government-run",
+        "insurer"
+      ],
+      "entities": [
+        "private health insurance",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is private health insurance?",
+        "Is Medicare private insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Employer-sponsored plans are often least expensive",
+      "question": "Why are employer-sponsored health plans often the cheapest option?",
+      "text": "In most cases, employer-sponsored insurance is the least expensive option because the employer covers part of the monthly cost. Also, some employers are able to get better rates with insurance companies because they buy for so many people. Many employers offer a few plans, such as a PPO with a low deductible or an HDHP with a lower monthly premium.",
+      "topic": "Plans through work",
+      "tags": [
+        "employer-sponsored",
+        "premium",
+        "PPO",
+        "HDHP",
+        "lower cost"
+      ],
+      "entities": [
+        "employer-sponsored health insurance",
+        "PPO",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is employer health insurance cheaper?",
+        "What plan choices do employers usually offer?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Self-employed people need other private options",
+      "question": "What if I'm self-employed and can't get employer insurance?",
+      "text": "Self-employed individuals such as freelancers, contractors and small business owners do not have access to employer-sponsored plans. They need other private health insurance options. Even someone with access to insurance through work may want to compare other options to be sure they get the best plan.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "self-employed",
+        "freelancers",
+        "small business owners",
+        "private options"
+      ],
+      "entities": [
+        "employer-sponsored health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do freelancers get health insurance?",
+        "What insurance can I get if I'm self-employed?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "On-exchange vs. off-exchange ACA plans",
+      "question": "What is the difference between on-exchange and off-exchange ACA plans?",
+      "text": "On-exchange ACA Marketplace plans are bought through the Marketplace or directly from an insurer, and buyers may qualify for tax subsidies that lower the monthly cost. Off-exchange ACA plans are bought directly from an insurer or through a broker and are not connected to the Marketplace, but they provide the same minimum coverage and essential health benefits. Both are private insurance plans administered by private companies.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "on-exchange",
+        "off-exchange",
+        "subsidies",
+        "essential health benefits",
+        "broker"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Exchange",
+        "essential health benefits"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What's an off-exchange plan?",
+        "Can I get subsidies on an off-exchange plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When to choose an off-exchange ACA plan",
+      "question": "When do people choose off-exchange ACA plans?",
+      "text": "A person will typically need to choose an off-exchange plan if their income is too high to qualify for subsidies, or if their employer reimburses health care costs through an Individual Coverage Health Reimbursement Arrangement (ICHRA) or a Qualified Small Employer Health Reimbursement Arrangement (QSEHRA).",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "off-exchange",
+        "ICHRA",
+        "QSEHRA",
+        "income",
+        "subsidies"
+      ],
+      "entities": [
+        "ICHRA",
+        "QSEHRA",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need an off-exchange plan with ICHRA?",
+        "What if my income is too high for subsidies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term plans: duration, speed and limits",
+      "question": "What should I know about short term health insurance as private coverage?",
+      "text": "Short term health insurance provides temporary coverage, typically for almost 12 months. In some states, extended short term health insurance, also called TriTerm Medical, provides 3 consecutive terms for nearly 3 years. Coverage can start quickly, sometimes the next day. However, short term plans may not be best for people with chronic medical needs, as they typically do not cover pre-existing conditions and are medically underwritten.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "TriTerm Medical",
+        "pre-existing conditions",
+        "underwriting",
+        "chronic conditions"
+      ],
+      "entities": [
+        "short term health insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long does short term insurance last?",
+        "Does short term insurance cover chronic conditions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "TriTerm Medical waiting periods",
+      "question": "Are there waiting periods under TriTerm Medical plans?",
+      "text": "According to the page's disclaimers, with TriTerm Medical plans no benefits will be paid during the first 12 months for a preexisting condition, and preventive care has a 6-month waiting period. Short term health insurance is described as a short-term, limited-duration policy, not comprehensive health coverage, with fewer benefits and Federal protections than options like those on HealthCare.gov.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "TriTerm Medical",
+        "waiting period",
+        "pre-existing conditions",
+        "preventive care",
+        "limited duration"
+      ],
+      "entities": [
+        "TriTerm Medical",
+        "HealthCare.gov"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Decision",
+      "questions": [
+        "Does TriTerm Medical have a waiting period?",
+        "Is short term insurance comprehensive coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Supplemental and fixed benefit plans add coverage",
+      "question": "What supplemental insurance options complement a major medical plan?",
+      "text": "Even the most comprehensive health insurance plans do not cover everything. Supplemental options can add a layer of coverage to a major medical plan, including dental, vision, and accident and critical illness insurance. A fixed benefit plan, also known as fixed indemnity insurance, pays a fixed amount for specific covered services, regardless of the total bill or what other insurance pays. It is a supplement, not a substitute for minimum essential coverage.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "supplemental insurance",
+        "fixed indemnity",
+        "dental",
+        "vision",
+        "critical illness"
+      ],
+      "entities": [
+        "fixed indemnity insurance",
+        "minimum essential coverage"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is supplemental health insurance?",
+        "Does fixed indemnity replace major medical?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Benefits of choosing private coverage",
+      "question": "What are the benefits of private health insurance?",
+      "text": "For people who do not qualify for Medicaid or Medicare, private insurance offers many opportunities for coverage, with a variety of options with different monthly costs, copays, risks and benefits. Depending on the plan, benefits may include access to a large provider network, coverage for essential health benefits such as prescriptions, lab services and pediatric care, financial security in an emergency, telemedicine, and wellness incentives.",
+      "topic": "How insurance works",
+      "tags": [
+        "private coverage benefits",
+        "essential health benefits",
+        "telemedicine",
+        "wellness incentives",
+        "network"
+      ],
+      "entities": [
+        "essential health benefits"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What do I get with private health insurance?",
+        "Does private insurance include telemedicine?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Six factors for choosing a private plan",
+      "question": "How do I choose the right private health insurance plan?",
+      "text": "Consider each plan's premium, the monthly cost to be a member; copays or coinsurance, what is paid to receive a service or medication; deductible, how much is paid before additional benefits kick in; out-of-pocket maximum, the most paid for covered services in a year; coverage, which services and medications are covered; and network, which providers can be seen. Only the shopper can decide which matters most.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "choose a plan",
+        "premium",
+        "deductible",
+        "out-of-pocket maximum",
+        "network",
+        "coverage"
+      ],
+      "entities": [
+        "premium",
+        "deductible",
+        "out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "What should I look for when choosing a health plan?",
+        "How do I compare health insurance plans?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When is open enrollment for private insurance?",
+      "question": "What is open enrollment and when is it?",
+      "text": "Open enrollment is a period, usually once a year, when individuals can enroll in or change their health insurance plans. For ACA Marketplace plans, this time is November 1 to December 15, in most states. Many employer-sponsored plans follow the same schedule, but some employers offer open enrollment at different times of the year, so it is important to check with the employer.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "November 1",
+        "December 15",
+        "ACA Marketplace",
+        "employer"
+      ],
+      "entities": [
+        "open enrollment",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Enroll",
+      "stage": "Consideration",
+      "questions": [
+        "When is ACA open enrollment?",
+        "When does employer open enrollment happen?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can I sign up outside of open enrollment?",
+      "question": "Can I sign up for private insurance outside of open enrollment?",
+      "text": "A person who has had a qualifying life event (QLE) can make changes to an employer-sponsored or ACA Marketplace plan outside of open enrollment. QLEs include marriage, the birth or adoption of a child, or job loss, and begin a special enrollment period, typically 60 days. Short term and TriTerm Medical plans have year-round enrollment, subject to medical underwriting and pre-existing limitations.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "special enrollment period",
+        "60 days",
+        "year-round enrollment"
+      ],
+      "entities": [
+        "qualifying life event",
+        "special enrollment period",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Consideration",
+      "questions": [
+        "Can I buy health insurance outside open enrollment?",
+        "How long is a special enrollment period?"
+      ]
+    }
+  ]
+}

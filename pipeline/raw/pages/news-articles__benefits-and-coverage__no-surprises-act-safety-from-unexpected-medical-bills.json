@@ -1,0 +1,318 @@
+{
+  "url": "https://www.uhc.com/news-articles/benefits-and-coverage/no-surprises-act-safety-from-unexpected-medical-bills",
+  "title": "No Surprises Act: safety from unexpected medical bills",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Explains what the No Surprises Act covers and does not cover, how to avoid surprise bills and what to do about billing errors.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/benefits-and-coverage/no-surprises-act-safety-from-unexpected-medical-bills/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1728324852694/blog-no-suprises-billing-1200x800.jpeg",
+      "alt": "No Surprises Act billing illustration"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6370041471112-thumbnail-v3.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Darren's Story - No Surprises Act"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is the No Surprises Act?",
+      "question": "What is the No Surprises Act and balance billing?",
+      "text": "Until 2022, it was legal for out-of-network providers involved in a patient's care, such as an anesthesiologist or an air ambulance, to bill the patient the difference between the plan's discounted rate and their full fee. That practice is known as balance billing. Thanks to the No Surprises Act, balance billing is now outlawed unless the patient provides consent.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "No Surprises Act",
+        "balance billing",
+        "out-of-network",
+        "surprise bills"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the No Surprises Act?",
+        "What is balance billing?",
+        "Can an out-of-network doctor bill me the difference?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "How common surprise bills were",
+      "question": "How common were surprise medical bills before the law?",
+      "text": "A 2020 study by the Peterson-KFF Health System Tracker estimated that 1-in-5 emergency claims and 1-in-6 network hospitalizations included at least 1 surprise bill for out-of-network services. In 13% of cases, those bills amounted to more than $2,000 in expenses for patients.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "surprise bills",
+        "1 in 5 emergency claims",
+        "Peterson-KFF",
+        "$2,000"
+      ],
+      "entities": [
+        "Peterson-KFF Health System Tracker",
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How often do surprise medical bills happen?",
+        "How much are typical surprise bills?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What the No Surprises Act covers in emergencies",
+      "question": "What emergency care does the No Surprises Act cover?",
+      "text": "The law applies to people with private health insurance and covers most emergency care in an air ambulance, a hospital ER and a freestanding emergency room. Everything that happens until the patient is stabilized is covered. The protections still apply even if the final diagnosis is not something most people would consider an emergency, so a plan cannot deny coverage just because the diagnosis turns out to be gas rather than appendicitis.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "emergency care",
+        "air ambulance",
+        "ER",
+        "stabilized",
+        "private insurance"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does the No Surprises Act cover emergency room visits?",
+        "Is an air ambulance covered?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Nonemergency care at network facilities is protected",
+      "question": "Does the No Surprises Act cover planned care?",
+      "text": "The No Surprises Act also applies to certain nonemergency care. For a planned procedure at a network hospital or facility, no one who treats the patient there can charge more than the network rates, regardless of whether they are individually part of the patient's plan.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "nonemergency",
+        "network hospital",
+        "network rates",
+        "planned procedure"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can an out-of-network doctor at an in-network hospital bill me extra?",
+        "Does the No Surprises Act apply to planned surgery?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What the No Surprises Act does not cover",
+      "question": "What is not covered by the No Surprises Act?",
+      "text": "The No Surprises Act does not cover deductibles, copays and coinsurance, ground ambulances (even in emergencies), out-of-network urgent care centers, birthing centers or nursing homes. If a person thinks there is an error in their situation, they can file a complaint with the federal No Surprises Help Desk at 800-985-3059.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "No Surprises Act",
+        "exclusions",
+        "ground ambulance",
+        "urgent care",
+        "help desk"
+      ],
+      "entities": [
+        "No Surprises Act",
+        "No Surprises Help Desk"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Are ground ambulances covered by the No Surprises Act?",
+        "Who do I call to file a No Surprises complaint?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Out-of-network consent rules",
+      "question": "Can I decline out-of-network care consent forms?",
+      "text": "If an out-of-network specialist will provide care, they need to provide a written consent form along with a cost estimate and a list of other in-network providers within 72 hours of treatment. If asked to consent to out-of-network care, a person can decline. People have a right to information in another language and to accommodations for disabilities.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "consent form",
+        "out-of-network",
+        "cost estimate",
+        "72 hours",
+        "accommodations"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I have to consent to out-of-network care?",
+        "What paperwork must out-of-network providers give me?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Three ways to avoid surprise bills",
+      "question": "How can I avoid surprise medical bills?",
+      "text": "UnitedHealthcare lists three strategies. 1) Comparison shop by getting cost estimates from local providers; members can see cost and quality information for more than 820 common medical services on myuhc.com or in the app. 2) Stay in-network for non-emergency care. 3) Confirm that screenings are covered, since some advanced screenings may not count as preventive services; a preauthorization form can be completed in advance if needed.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "avoid surprise bills",
+        "comparison shop",
+        "in-network",
+        "preventive screenings",
+        "preauthorization"
+      ],
+      "entities": [
+        "myuhc.com",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "How do I avoid surprise medical bills?",
+        "How do I compare costs before getting care?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Out-of-network care costs exceed $40 billion a year",
+      "question": "Why is staying in-network important?",
+      "text": "For non-emergency care, UnitedHealthcare advises starting with network health care services and facilities, including preventive care, lab work and other tests. Receiving care from an out-of-network provider or facility can lead to a surprise charge, with the total cost of this type of care exceeding $40 billion for Americans each year.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "in-network",
+        "out-of-network",
+        "surprise charge",
+        "$40 billion"
+      ],
+      "entities": [
+        "network providers"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why should I stay in network?",
+        "How much do out-of-network surprise charges cost Americans?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "What to do about a billing mistake",
+      "question": "What should I do if there is a billing mistake?",
+      "text": "Before or around billing, a person receives an explanation of benefits (EOB), which says it is not a bill but lists what the plan paid, what might be owed and deductible status, and can show charges for services not received. If there is an unexpected charge, 1) call the provider's billing office to confirm it or ask for it to be waived or reduced. 2) For a surprise out-of-network bill, call the number on the health plan ID card. 3) For unresolved issues, contact the No Surprises Help Desk at 1-800-985-3059.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "billing error",
+        "EOB",
+        "provider billing office",
+        "No Surprises Help Desk"
+      ],
+      "entities": [
+        "explanation of benefits",
+        "No Surprises Help Desk"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What do I do about an unexpected medical bill?",
+        "How can I use my EOB to find billing errors?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Members can view bills online",
+      "question": "Where can UnitedHealthcare members see their bills?",
+      "text": "Many insurers' websites let people view their bills. UnitedHealthcare members can view bills online by signing in to their account or in the My Plan section of the UnitedHealthcare app. This shows everything being billed to the member, everything UnitedHealthcare paid, and requests from providers to UnitedHealthcare.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "view bills",
+        "member account",
+        "UnitedHealthcare app",
+        "My Plan"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "My Plan"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where can I see my medical bills online?",
+        "What does the My Plan section show?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Naviguard helped a member with an out-of-network balance bill",
+      "question": "How can UnitedHealthcare help with out-of-network balance bills?",
+      "text": "In a member story featured in the article, a UnitedHealthcare member named Darren received an out-of-network bill from an assistant surgeon he had not known was involved in his surgery. His wife Marva described the original bill as like a $34,000 bill. The UnitedHealthcare Naviguard services team reminded them they were not obligated to pay the balance bill because it is prohibited under the No Surprises Act.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "Naviguard",
+        "balance bill",
+        "member story",
+        "assistant surgeon",
+        "out-of-network"
+      ],
+      "entities": [
+        "Naviguard",
+        "UnitedHealthcare",
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is Naviguard?",
+        "Can UnitedHealthcare help with out-of-network bills?"
+      ]
+    }
+  ]
+}

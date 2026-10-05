@@ -1,0 +1,195 @@
+{
+  "url": "https://www.uhc.com/news-articles/newsroom/consumer-innovation",
+  "title": "AI innovative solutions to help improve the member experience",
+  "domain": "Company & News",
+  "page_type": "news",
+  "summary": "Newsroom article describing five AI-enabled tools UnitedHealthcare and Optum use to improve the member experience: Smart Choice, Members Like You, conversational AI, claims assistant and advocate tools.",
+  "published": "2025-09-04",
+  "assets": [],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "AI to simplify benefits and coverage",
+      "question": "How is UnitedHealthcare using AI to improve the member experience?",
+      "text": "UnitedHealthcare says it works with its partners at Optum to use artificial intelligence (AI) to take some of the complexity out of health care when consumers need to know about their benefits and coverage. It describes five ways: Smart Choice provider search, Members Like You cost estimates, Conversational AI, a claims assistant and advocate tools.",
+      "topic": "AI & innovation",
+      "tags": [
+        "ai",
+        "member experience",
+        "benefits",
+        "optum",
+        "consumer expectations"
+      ],
+      "entities": [
+        "Optum",
+        "Smart Choice",
+        "Members Like You"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What AI tools does UnitedHealthcare offer members?",
+        "How does UnitedHealthcare use AI for benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Smart Choice personalized search preferences",
+      "question": "What preferences can I set in Smart Choice provider search?",
+      "text": "Smart Choice, available on the UHC app, uses Optum's AI capabilities to show results that reflect personalized search preferences. Members can set criteria such as distance, language spoken, virtual or in-person appointments, gender preference, and availability for evening and weekend appointments.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "smart choice",
+        "provider search",
+        "preferences",
+        "uhc app"
+      ],
+      "entities": [
+        "Smart Choice",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I search for a doctor who speaks my language?",
+        "How does Smart Choice personalize doctor search?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Four Smart Choice matching standards",
+      "question": "How does Smart Choice match members with providers?",
+      "text": "Four key standards are used to match members with a provider. Quality covers factors such as credentialing and whether physicians meet UnitedHealth Premium care criteria. Benefits covers the member's health plan benefits. Convenience covers where providers have appointments available, virtual or in-person, and their proximity. Personal fit covers how a provider matches personal preferences.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "smart choice",
+        "quality",
+        "benefits",
+        "convenience",
+        "personal fit"
+      ],
+      "entities": [
+        "Smart Choice",
+        "UnitedHealth Premium"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What criteria does Smart Choice use?",
+        "What is UnitedHealth Premium in provider search?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Members Like You cost estimates",
+      "question": "What is the Members Like You feature?",
+      "text": "In the UnitedHealthcare app, the Members Like You cost estimates feature shows general and anonymous demographic information, like gender and age, to suggest the types of services commonly used by other members on a similar care journey. The insights come with cost estimates meant to help members understand potential out-of-pocket costs and avoid surprises.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "members like you",
+        "cost estimates",
+        "care path",
+        "out-of-pocket costs"
+      ],
+      "entities": [
+        "Members Like You",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "How does UnitedHealthcare estimate costs based on similar members?",
+        "What are AI-driven care path suggestions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Conversational AI voice assistant",
+      "question": "How does UnitedHealthcare's conversational AI voice assistant work?",
+      "text": "UnitedHealthcare's conversational voice assistant converses in natural language to understand the reason for a call. It decides how best to support the caller by routing them to provider, enrollment or benefit information, either through self-service or by transferring to a live advocate. The article states the AI does not give verbal answers to member questions.",
+      "topic": "AI & innovation",
+      "tags": [
+        "conversational ai",
+        "voice assistant",
+        "call routing",
+        "self-service",
+        "live advocate"
+      ],
+      "entities": [
+        "Conversational AI"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Does the UnitedHealthcare phone AI answer my questions?",
+        "How does the phone system route my call?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Claims assistant cuts submission time",
+      "question": "How does the Claims Assistant AI tool help with out-of-network claims?",
+      "text": "The Claims Assistant AI tool supports out-of-network claim submissions by simplifying the process and helping to populate the medical field values. It cuts the time to complete an out-of-network claim submission from 12-15 minutes down to 3 minutes, and completion rates have nearly doubled as a result.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "claims assistant",
+        "out-of-network claims",
+        "3 minutes",
+        "reimbursement"
+      ],
+      "entities": [
+        "Claims Assistant"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How fast is the Claims Assistant for out-of-network claims?",
+        "Can AI help me fill out a claim?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "AI tools that support advocates",
+      "question": "How does AI support UnitedHealthcare advocates on calls?",
+      "text": "AI tools help advocates answer questions about health benefit navigation, coverage information or costs. The Welcome experience provides member insights based on claims activity or previous calls before the call. In-call assist uses voice analytics to understand needs and provide benefits, coverage and cost answers. In-call summarization summarizes the conversation for the member's file so callbacks go faster.",
+      "topic": "AI & innovation",
+      "tags": [
+        "advocate tools",
+        "welcome experience",
+        "in-call assist",
+        "call summarization"
+      ],
+      "entities": [
+        "Advocate"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Why does the advocate already know my history?",
+        "What AI do advocates use during calls?"
+      ]
+    }
+  ]
+}

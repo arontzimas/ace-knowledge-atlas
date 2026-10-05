@@ -1,0 +1,231 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/aca-vs-short-term",
+  "title": "ACA vs. short term insurance",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Compares Affordable Care Act plans with short term limited duration insurance on enrollment, underwriting, duration, benefits and fit.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/aca-vs-short-term/_jcr_content/root/regioncontainer-main/responsivegrid/container_1329651935/image.coreimg.90.1280.jpeg/1728324715003/aca-vs-short-term-family-on-couch-desktop-914x300.jpeg",
+      "alt": "Family on a couch"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is ACA health insurance?",
+      "question": "What is ACA health insurance?",
+      "text": "ACA insurance plans are sold on the health care Marketplace, also called the Exchange. In most cases they are subsidized by the Federal or State government, which typically leads to a lower monthly premium. They are plans people buy on their own, instead of through an employer or a government-run program like Medicare or Medicaid, and suit those who need coverage for a full calendar year for themselves or their family.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "ACA",
+        "Marketplace",
+        "subsidy",
+        "premium",
+        "calendar year"
+      ],
+      "entities": [
+        "ACA",
+        "Marketplace",
+        "Exchange"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are ACA plans?",
+        "Are ACA plans subsidized?",
+        "Who buys ACA insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When an ACA plan fits",
+      "question": "When is an ACA plan a good fit?",
+      "text": "An ACA plan might be a good fit if a person's job does not offer health insurance, they want long-term coverage for their family, they want comprehensive benefits, or they qualify for a premium tax credit.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "ACA",
+        "good fit",
+        "premium tax credit",
+        "long-term coverage"
+      ],
+      "entities": [
+        "ACA",
+        "premium tax credit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I choose an ACA plan?",
+        "Who should buy a Marketplace plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is short term health insurance?",
+      "question": "What is a short term insurance plan?",
+      "text": "A short term insurance plan is a good fit for bridging a gap for a short time when someone is uninsured. Depending on the state, typical short term plans offer coverage from one month up to nearly one year. TriTerm Medical insurance is a type of short term plan that offers coverage for nearly 3 years with just one application.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "TriTerm Medical",
+        "coverage gap",
+        "duration"
+      ],
+      "entities": [
+        "short term health insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a short term plan?",
+        "How long does TriTerm Medical last?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When a short term plan fits",
+      "question": "When is a short term plan a good fit?",
+      "text": "A short term plan might be a good fit if a person missed Open Enrollment and does not qualify for a Special Enrollment Period, is waiting for an ACA plan to start, wants coverage until joining Medicare, is turning 26 and coming off a parent's plan, is between jobs or waiting for benefits to start, or is healthy and under 65.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "special enrollment period",
+        "turning 26",
+        "between jobs",
+        "Medicare"
+      ],
+      "entities": [
+        "short term health insurance",
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who should get short term insurance?",
+        "What if I missed open enrollment?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term plans generally do not cover pre-existing conditions",
+      "question": "Do short term plans cover pre-existing conditions?",
+      "text": "Unlike ACA plans, short term plans generally do not cover preexisting conditions, and applicants must answer a series of medical questions to apply. Preexisting conditions may be covered only on extended TriTerm Medical plans after the first year. ACA plans cover preexisting conditions.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "pre-existing conditions",
+        "short term",
+        "TriTerm Medical",
+        "medical questions"
+      ],
+      "entities": [
+        "TriTerm Medical",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Are pre-existing conditions covered by short term insurance?",
+        "Does ACA cover pre-existing conditions?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "ACA vs. short term: enrollment",
+      "question": "How does enrollment differ between ACA and short term plans?",
+      "text": "ACA plans are available during Open Enrollment or a Special Enrollment Period after a qualified life event; open enrollment is November 1 through January 16 in most states. Short term plans can be applied for any time. ACA plans have no underwriting, so a plan is guaranteed. Short term plans have underwriting, so applicants could be denied depending on health history.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "enrollment",
+        "underwriting",
+        "open enrollment",
+        "special enrollment"
+      ],
+      "entities": [
+        "ACA",
+        "short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "When can I enroll in ACA vs short term?",
+        "Can short term insurance deny me?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "ACA vs. short term: duration and premium",
+      "question": "How long does coverage last under ACA vs. short term plans?",
+      "text": "ACA plans cover a person for a full calendar year, or longer if premiums continue to be paid. Short term plans cover 1 to nearly 12 months, varying by state, or up to nearly 3 years in select states with TriTerm Medical. For both plan types, the monthly premium varies based on the plan and personal factors, such as whether a person smokes tobacco.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "duration",
+        "premium",
+        "tobacco",
+        "TriTerm Medical"
+      ],
+      "entities": [
+        "ACA",
+        "short term health insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How long does ACA coverage last?",
+        "What affects short term plan premiums?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "ACA vs. short term: covered services",
+      "question": "What services do ACA and short term plans cover?",
+      "text": "ACA plans cover preventive care, doctor visits, emergency care, hospital care, virtual care, prescription drugs and maternity and newborn care. Short term plans vary by plan for doctor visits, emergency care, hospital care, virtual care and maternity and newborn care, and offer limited or no preventive care and prescription drug coverage.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "covered services",
+        "preventive care",
+        "prescription drugs",
+        "maternity",
+        "emergency care"
+      ],
+      "entities": [
+        "ACA",
+        "short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Does short term insurance cover prescriptions?",
+        "Is preventive care covered by short term plans?"
+      ]
+    }
+  ]
+}

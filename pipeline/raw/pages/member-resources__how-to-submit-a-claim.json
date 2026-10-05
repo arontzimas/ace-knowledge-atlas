@@ -1,0 +1,229 @@
+{
+  "url": "https://www.uhc.com/member-resources/how-to-submit-a-claim",
+  "title": "How to submit a claim",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Guidance for members with employer coverage on when they need to submit a claim, how to submit one online or by mail and what happens afterward.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/how-to-submit-a-claim/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1745528064503/submit-a-claim-mother-and-son-desktop-408x356.jpeg",
+      "alt": "Mother and son"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://member.uhc.com/myuhc/content/dam/myuhc/pdfs/claim-forms/CMS1500ClaimForm010402.pdf",
+      "alt": "Medical claim form"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "When do I need to submit a claim?",
+      "question": "When do I need to submit a claim myself?",
+      "text": "In most cases, when a member goes to a network provider, they do not need to submit a claim. There are a few occasions where submitting a claim may be required for the member or provider to receive reimbursement. Examples are dependent care reimbursement through an FSA, upfront billing by a provider, and out-of-network care.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "submit a claim",
+        "network provider",
+        "reimbursement",
+        "fsa",
+        "out-of-network"
+      ],
+      "entities": [
+        "FSA"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Do I have to file a claim with UnitedHealthcare?",
+        "When do I submit my own medical claim?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dependent care FSA claims",
+      "question": "Do dependent care FSA reimbursements need a claim?",
+      "text": "If a member has an FSA account that covers reimbursement for childcare or elder care, a claim must be submitted for that reimbursement.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "dependent care",
+        "fsa",
+        "childcare",
+        "elder care",
+        "reimbursement"
+      ],
+      "entities": [
+        "FSA"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I get reimbursed from my dependent care FSA?",
+        "Does childcare reimbursement require a claim?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Upfront billing and out-of-network claims",
+      "question": "When might I have to file a claim for out-of-network or upfront-billed care?",
+      "text": "A member may need to submit their own medical claim if a provider collects payment up front rather than billing the insurance company. For out-of-network care, such as when on the road or in an emergency, out-of-network providers can submit a claim on the member's behalf. If the provider is unwilling to do so, the member may have to submit the claim on their own.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "out-of-network",
+        "upfront billing",
+        "emergency",
+        "member-submitted claim"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What if my provider won't file the claim?",
+        "Do I file claims for out-of-network doctors?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Timely filing limit",
+      "question": "What is a timely filing limit?",
+      "text": "Timely filing is the time limit a member or provider has to file a claim for health services received or provided. If the claim is not submitted in that time frame, insurance can deny the claim, which means the provider could potentially not receive payment or a member could be denied reimbursement.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "timely filing",
+        "claim deadline",
+        "claim denial",
+        "reimbursement"
+      ],
+      "entities": [
+        "Timely filing limit"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is timely filing?",
+        "What happens if I file a claim too late?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Submit a claim online or by mail",
+      "question": "How do I submit a claim to UnitedHealthcare?",
+      "text": "There are two ways to submit claims: online or by mail. 1) Sign in to the member account, go to the Claims & Accounts tab, then select the Submit a claim tab. 2) Digitally submit a form, or download, print and complete a medical claim form. 3) Mail it with claim details and receipts to the mailing address on the member ID card.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "submit a claim",
+        "claims & accounts",
+        "claim form",
+        "mail"
+      ],
+      "entities": [
+        "Claims & Accounts",
+        "Medical claim form"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where do I submit a claim online?",
+        "What address do I mail a claim form to?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Information needed on a superbill",
+      "question": "What information do I need to include to submit a claim?",
+      "text": "To process a claim, the superbill must include the patient name; the provider Taxpayer Identification Number (a copy of the W9 may be needed if the provider is out-of-network); diagnosis codes; procedure codes (CPT, HCPC with any applicable modifiers); units for each procedure code; the billed amount for each procedure code; and the place of service code.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "superbill",
+        "procedure codes",
+        "diagnosis codes",
+        "w9",
+        "claim details"
+      ],
+      "entities": [
+        "Superbill",
+        "CPT"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is needed on a superbill for a claim?",
+        "Do I need a W9 for out-of-network claims?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Tips for an efficient claim",
+      "question": "What tips make submitting a claim easier?",
+      "text": "UnitedHealthcare suggests completing all applicable fields and asking the provider for the Provider Information. Keep a copy of the form, claim details and receipts, send the claim as soon as possible and close to the date of service, complete a separate form for each claim, and include the explanation of benefits (EOB) from other insurance or Medicare if it is primary.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "claim tips",
+        "separate form",
+        "copy of receipts",
+        "primary insurance",
+        "eob"
+      ],
+      "entities": [
+        "EOB",
+        "Medicare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What should I do if I have other insurance before filing a claim?",
+        "How can I avoid claim mistakes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What happens after a claim is processed",
+      "question": "What happens after UnitedHealthcare processes my claim?",
+      "text": "After a claim is processed, the member receives an explanation of benefits (EOB). It explains the charges applied to the deductible, which is the amount the member pays for covered services before the plan begins to pay, plus any charges the member may owe the provider. Members should keep their EOB on file and can review it anytime in their member account.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "eob",
+        "explanation of benefits",
+        "deductible",
+        "claim processed"
+      ],
+      "entities": [
+        "EOB"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is an EOB?",
+        "Where do I see my explanation of benefits?"
+      ]
+    }
+  ]
+}

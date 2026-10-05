@@ -1,0 +1,92 @@
+{
+  "url": "https://www.uhc.com/news-articles/medicare-articles/what-is-creditable-drug-coverage",
+  "title": "What is creditable drug coverage?",
+  "domain": "Medicare",
+  "page_type": "article",
+  "summary": "Medicare Made Clear article explaining creditable drug coverage, how it lets you avoid the Part D late enrollment penalty, how the penalty is calculated, and how to get Part D coverage.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/news-articles/medicare-articles/what-is-creditable-drug-coverage/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1747237127485/blog-what-is-creditable-drug-coverage.jpeg", "alt": "Creditable Drug Coverage"},
+    {"kind": "video", "src": "https://www.youtube.com/watch?v=UejIbCZFFII&t=1s", "alt": "What to know about Medicare Part D when still working"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Definition of creditable drug coverage",
+      "question": "What is creditable drug coverage?",
+      "text": "Medicare defines creditable coverage as coverage that is at least as good as what Medicare provides. Therefore, creditable drug coverage is drug coverage that is as good as or better than Medicare Part D.",
+      "topic": "Part D prescription plans",
+      "tags": ["creditable coverage", "part d", "drug coverage", "definition"],
+      "entities": ["creditable coverage", "Medicare Part D"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What does creditable coverage mean in Medicare?", "Is my employer drug plan as good as Part D?", "What is creditable prescription drug coverage?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Why creditable coverage matters",
+      "question": "Why does creditable drug coverage matter?",
+      "text": "Creditable drug coverage matters because it may allow you to delay enrolling in Medicare and avoid the Part D late enrollment penalty. The penalty is charged if you enroll in a Medicare Part D plan after your Initial Enrollment Period (IEP) ends and don't qualify for an exception.",
+      "topic": "Part D prescription plans",
+      "tags": ["late enrollment penalty", "creditable coverage", "initial enrollment period", "delay enrollment"],
+      "entities": ["Part D", "Initial Enrollment Period", "late enrollment penalty"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["How can I avoid the Part D penalty?", "Why is creditable coverage important?", "When is the Part D late penalty charged?"]
+    },
+    {
+      "type": "steps",
+      "title": "Steps to delay Part D without penalty",
+      "question": "What do I need to do to delay Part D enrollment without a penalty?",
+      "text": "To delay Part D enrollment without penalty: 1) make sure you can qualify for a Medicare Special Enrollment Period; 2) get a written notification of creditable coverage from your previous plan; and 3) enroll in a Part D plan within 63 days of losing or leaving your former plan and/or the former creditable drug coverage.",
+      "topic": "Part D prescription plans",
+      "tags": ["63 days", "special enrollment period", "notification of creditable coverage", "part d", "avoid penalty"],
+      "entities": ["Special Enrollment Period", "Part D", "notification of creditable coverage"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": ["How many days do I have to join Part D after losing employer coverage?", "What proof of creditable coverage do I need?", "How do I avoid a Part D penalty when I retire?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Ask your benefits administrator if still working",
+      "question": "How do I find out if my employer plan has creditable drug coverage?",
+      "text": "Delaying Part D while keeping other drug coverage is typically seen most for people who plan to keep working past 65. If you are working past age 65 and plan to delay Medicare enrollment, talk with your employee benefits administrator, who can tell you if your employer plan provides creditable drug coverage.",
+      "topic": "Part D prescription plans",
+      "tags": ["working past 65", "employer plan", "benefits administrator", "creditable coverage"],
+      "entities": ["Medicare", "Part D"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Who tells me if my work drug plan is creditable?", "Should I enroll in Part D if I work past 65?", "How do I know if my employer coverage counts?"]
+    },
+    {
+      "type": "stat",
+      "title": "Part D late penalty is 1% per month",
+      "question": "How much is the Medicare Part D late enrollment penalty?",
+      "text": "The late penalty for Medicare Part D is an additional 1 percent of the premium amount for each month you're late, and you pay the penalty for as long as you have Part D. For example, if you enroll in a Part D plan that starts on November 1 but your IEP ended on June 30, you are four months late and your penalty would be 4 percent of the premium.",
+      "topic": "Part D prescription plans",
+      "tags": ["late enrollment penalty", "1 percent", "monthly premium", "lifetime penalty", "example"],
+      "entities": ["Part D", "Initial Enrollment Period", "late enrollment penalty"],
+      "personas": ["Medicare shopper"],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": ["How is the Part D penalty calculated?", "Does the Part D penalty ever go away?", "What is the cost of enrolling late in Part D?"]
+    },
+    {
+      "type": "faq",
+      "title": "How to get Part D coverage",
+      "question": "How do I get Medicare prescription drug coverage?",
+      "text": "You can get Medicare prescription drug coverage in a stand-alone Part D plan or as part of a Medicare Advantage plan (Part C). Private insurance companies offer the plans under contract with Medicare. You will need to have Part A and/or Part B to get a stand-alone Part D plan, and you will need both Parts A and B to get a Medicare Advantage plan.",
+      "topic": "Part D prescription plans",
+      "tags": ["stand-alone part d", "medicare advantage", "part a", "part b", "eligibility"],
+      "entities": ["Part D", "Medicare Advantage", "Part A", "Part B"],
+      "personas": ["Medicare shopper"],
+      "intent": "Enroll",
+      "stage": "Consideration",
+      "questions": ["How do I add drug coverage to Medicare?", "Do I need both Part A and B for Medicare Advantage?", "Who sells Medicare Part D plans?"]
+    }
+  ]
+}

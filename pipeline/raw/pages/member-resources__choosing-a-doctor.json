@@ -1,0 +1,263 @@
+{
+  "url": "https://www.uhc.com/member-resources/choosing-a-doctor",
+  "title": "Choosing the right doctor or primary care provider",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Explains why to have a primary care provider, types of primary care providers, how to choose a doctor and where to find mental health, vision and dental providers.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/provider-baby-and-parent-desktop-1440x760.jpg",
+      "alt": "Provider with baby and parent"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Network providers lower costs",
+      "question": "Why should I choose a network provider?",
+      "text": "Choosing a network provider may help lower costs. Most plans charge more if you see an out-of-network provider, and some will not cover out-of-network care at all. To see if a primary care provider is in your network, view UnitedHealthcare network providers in your member account or browse a provider list.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "network provider",
+        "out-of-network",
+        "lower costs",
+        "provider directory"
+      ],
+      "entities": [
+        "network provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Why does network matter?",
+        "How do I check if a doctor is in network?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Why you need a primary care provider",
+      "question": "Why do I need a primary care provider?",
+      "text": "Some health plans require you to choose a primary care provider (PCP), and while others do not, it may be a good idea to have one. A PCP can guide you through your care and, as they get to know you, may watch for small changes in your health to help spot warning signs of potential health concerns earlier. Your PCP may also save you money with fewer ER visits, can connect you with specialists and can advocate for you.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "primary care provider",
+        "PCP",
+        "preventive screenings",
+        "specialist referral"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a PCP?",
+        "What does a primary care provider do?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Seeing a specialist without a referral",
+      "question": "Can I see a specialist without a referral?",
+      "text": "Whether you need a referral often depends on your health plan and the specialist's office. With certain plans you can make appointments with a specialist on your own, while other plans may need a referral from a PCP before the visit is covered. If you are not sure, check your plan details or call the specialist's office before you schedule.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "specialist",
+        "referral",
+        "HMO",
+        "plan details"
+      ],
+      "entities": [
+        "referral"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Do I need a referral to see a specialist?",
+        "How do I know if my plan requires referrals?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Types of primary care providers",
+      "question": "What types of primary care providers are there?",
+      "text": "Each family member may need a different PCP. A family medicine doctor provides preventive and whole-person care for patients of all ages. An OB/GYN specializes in women's health, including family planning, pregnancy and menopause. A pediatrician serves patients from newborn to 18 years old. An internist treats adults 18 and older. A geriatrician focuses on medical conditions related to aging in older adults aged 60 and up.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "family medicine",
+        "OB/GYN",
+        "pediatrician",
+        "internist",
+        "geriatrician"
+      ],
+      "entities": [
+        "family medicine doctor",
+        "OB/GYN",
+        "pediatrician",
+        "internist",
+        "geriatrician"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between a family doctor and an internist?",
+        "What does a geriatrician do?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Board certification",
+      "question": "How can I check whether a doctor is board certified?",
+      "text": "Board certification is a sign of going above and beyond state licensing requirements and receiving supervised in-practice training. To find a board-certified family doctor, you can visit the American Board of Family Medicine online directory, and to check whether a physician is board-certified you can use the American Board of Medical Specialties' Certification Matters database.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "board certification",
+        "doctor credentials",
+        "American Board of Medical Specialties",
+        "family doctor"
+      ],
+      "entities": [
+        "American Board of Family Medicine",
+        "American Board of Medical Specialties"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does board certified mean?",
+        "How do I verify a doctor's credentials?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mental and behavioral health provider types",
+      "question": "What kinds of mental health providers are there?",
+      "text": "Many types of providers can support your mental health, and some people benefit from seeing a combination of mental health professionals. These may include social workers, counselors or therapists, psychiatrists and psychologists. UnitedHealthcare offers a separate guide to choosing a mental health provider.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mental health provider",
+        "therapist",
+        "psychiatrist",
+        "psychologist",
+        "social worker"
+      ],
+      "entities": [
+        "psychiatrist",
+        "psychologist"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between a psychologist and a psychiatrist?",
+        "Who should I see for mental health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision care and dental providers",
+      "question": "What eye care and dental providers can I choose?",
+      "text": "The UnitedHealthcare Vision network includes two types of eye care providers, optometrists and ophthalmologists, and UnitedHealthcare encourages visiting the eye doctor even if you do not wear glasses or contacts. Routine dental care is important to overall health, and a plan may include coverage for cleanings, fluoride, fillings, crowns, root canals, extractions and dentures.",
+      "topic": "Vision coverage",
+      "tags": [
+        "optometrist",
+        "ophthalmologist",
+        "dentist",
+        "eye exam",
+        "dental coverage"
+      ],
+      "entities": [
+        "UnitedHealthcare Vision",
+        "optometrist",
+        "ophthalmologist"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between an optometrist and ophthalmologist?",
+        "Does my plan cover dental cleanings?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Questions to ask when choosing a doctor",
+      "question": "How do I choose a doctor?",
+      "text": "UnitedHealthcare suggests researching before choosing a doctor. Questions include whether friends, family, specialists or other health professionals recommend them, why people like this doctor, whether gender or age matters, whether you prefer a clinic close to home or work, how far you are willing to drive, and how their consumer reviews look. Reviews are just opinions, so one or two may not paint the whole picture.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "choose a doctor",
+        "reviews",
+        "location",
+        "recommendations"
+      ],
+      "entities": [
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do I pick a good primary care doctor?",
+        "Should I trust online doctor reviews?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Consider virtual visits",
+      "question": "Can I see a provider virtually instead of in person?",
+      "text": "Virtual visits, also known as telehealth, let you connect with a health care provider using your computer, tablet or smartphone and may be covered by your health plan just like an office visit. Depending on your benefits, you may be able to schedule a virtual visit with a local provider and book virtual visits for primary care, therapy, specialty care or urgent care when your provider is not available.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visits",
+        "telehealth",
+        "primary care",
+        "urgent care",
+        "therapy"
+      ],
+      "entities": [
+        "virtual visits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I use telehealth for primary care?",
+        "Are virtual visits covered like office visits?"
+      ]
+    }
+  ]
+}

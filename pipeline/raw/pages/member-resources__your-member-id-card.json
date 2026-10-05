@@ -1,0 +1,335 @@
+{
+  "url": "https://www.uhc.com/member-resources/your-member-id-card",
+  "title": "Your member ID card",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Explains what a UnitedHealthcare member ID card is, when to use it, how to view the digital card and answers common ID card questions.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/friends-on-couch-1920x700.jpg",
+      "alt": "Banner image of friends on a couch"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/your-member-id-card/_jcr_content/root/regioncontainer-main/responsivegrid/container_1517678201/container/image.coreimg.90.1280.png/1765812921127/digital-id-card-432x242.png",
+      "alt": "Digital ID card image"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/your-member-id-card/_jcr_content/root/regioncontainer-main/responsivegrid/container_916683644/image.coreimg.90.1280.jpeg/1765811914071/card-both-1564x544.jpeg",
+      "alt": "Member ID card example"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a member ID card is",
+      "question": "What is a health plan member ID card?",
+      "text": "When a person signs up for health insurance, they receive a member identification (ID) card for themselves and their covered family members. The member ID card, also called a health plan ID card, is proof that the person has health insurance.",
+      "topic": "How insurance works",
+      "tags": [
+        "member id card",
+        "health plan id card",
+        "proof of insurance",
+        "covered family members"
+      ],
+      "entities": [
+        "Member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is a member ID card?",
+        "Is my health plan ID card proof of insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When to bring your member ID card",
+      "question": "When do I need my member ID card?",
+      "text": "Members should keep their member ID card handy when they go to the doctor, go to the hospital, have lab work done or get a prescription filled if their plan has drug coverage. Health care providers use the card's information to confirm they are part of the plan's network and to bill the health plan for care.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "member id card",
+        "doctor visit",
+        "prescription",
+        "network confirmation",
+        "billing"
+      ],
+      "entities": [
+        "Member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Do I need my insurance card at the pharmacy?",
+        "Why do providers ask for my ID card?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a digital member ID card is",
+      "question": "What is a digital member ID card?",
+      "text": "A member may get a digital ID card as well as a physical card. Members can download the UnitedHealthcare app on a mobile device to view their digital member ID card anytime, and can also view it in their member account.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "digital id card",
+        "uhc app",
+        "member account",
+        "physical card"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is a digital insurance card?",
+        "Can I use a digital card instead of a physical card?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Using a digital ID card with providers",
+      "question": "How do I use my digital ID card?",
+      "text": "Members can show a digital ID card at a doctor's office, clinic, pharmacy or wherever benefit information needs to be presented. They can also print, download or email their cards to a provider. Digital ID cards are available for most medical, dental, vision or supplemental benefit plans, and members with more than one plan may see more than one card.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "digital id card",
+        "print",
+        "email",
+        "dental",
+        "vision",
+        "supplemental"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I email my insurance card to my doctor?",
+        "Do I get separate digital cards for medical and dental?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "View your digital ID card in the app",
+      "question": "How do I view my digital ID card in the UnitedHealthcare app?",
+      "text": "1) Sign in to the UHC app. 2) Select Member Cards. To store the card in a smartphone's digital wallet, select Member Cards in the app and then Add to Wallet, which gives a secure way to store and access plan details.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "member cards",
+        "add to wallet",
+        "digital wallet"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I add my UnitedHealthcare card to my phone wallet?",
+        "Where is Member Cards in the UHC app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision-only members and digital cards",
+      "question": "Where do vision-only members find their ID card?",
+      "text": "If a member has only vision coverage that is not paired with a UnitedHealthcare medical plan, they access their digital ID card on myuhcvision.com. The page also notes that vision cards are digital only.",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision",
+        "myuhcvision.com",
+        "digital only",
+        "id card"
+      ],
+      "entities": [
+        "UnitedHealthcare Vision"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where do I find my UnitedHealthcare vision ID card?",
+        "Do vision plans send physical cards?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Information shown on the front of an ID card",
+      "question": "What information appears on a member ID card?",
+      "text": "A member ID card may vary by plan and coverage but can include member and dependent names, member ID number, group number, primary care provider (PCP) if the plan requires one, copay, deductible and out-of-pocket maximum, network, referrals required, pharmacy benefits and Medicare limiting charges. Most cards show the member ID and group number on the front.",
+      "topic": "How insurance works",
+      "tags": [
+        "member id number",
+        "group number",
+        "pcp",
+        "copay",
+        "deductible",
+        "network"
+      ],
+      "entities": [
+        "Member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Where is my group number on my insurance card?",
+        "What does a UnitedHealthcare ID card show?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Back of the member ID card",
+      "question": "What is on the back of a member ID card?",
+      "text": "The back of a member ID card may list the member website and phone numbers to connect with customer service, speak with a nurse and discuss behavioral health. It may also include contact information for providers and pharmacists to submit insurance claims.",
+      "topic": "How insurance works",
+      "tags": [
+        "id card back",
+        "customer service",
+        "nurse line",
+        "claims submission"
+      ],
+      "entities": [
+        "Member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What phone number is on my UnitedHealthcare card?",
+        "Where do providers send claims?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Why no physical card arrived",
+      "question": "Why did I not receive a physical member ID card?",
+      "text": "If a member chooses a paperless delivery preference, a digital ID card replaces the physical ID card. The member can access the digital health plan ID card whenever needed in the UHC app and on the member site, show it at the doctor's office or clinic, and add it to a smartphone's digital wallet. Vision cards are digital only.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "paperless",
+        "digital id card",
+        "physical card",
+        "vision cards"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Why didn't I get an insurance card in the mail?",
+        "Does paperless mean no physical ID card?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Replacing a lost member ID card",
+      "question": "How do I request a replacement member ID card?",
+      "text": "If a member loses a physical ID card, they can print, download or view their digital ID card from their member account or the UHC app. They can request a physical card in the app or member account, and it may take 2 weeks for the new card to arrive in the mail.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "replacement card",
+        "lost card",
+        "2 weeks",
+        "member account"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How long does a replacement UnitedHealthcare ID card take?",
+        "What if I lose my insurance card?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Replacing a Medicare card",
+      "question": "How do I get a replacement Medicare card?",
+      "text": "For a replacement ID card for a UnitedHealthcare Medicare plan, members can request a new physical card in the UHC app or on their member site, or use their digital card. A new government-issued Medicare card must be ordered through medicare.gov.",
+      "topic": "Medicare basics",
+      "tags": [
+        "medicare card",
+        "replacement",
+        "medicare.gov",
+        "uhc app"
+      ],
+      "entities": [
+        "Medicare",
+        "medicare.gov"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How do I replace my Medicare Advantage ID card?",
+        "Where do I get a new government Medicare card?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UCard for Medicare Advantage members",
+      "question": "Is there a different card for Medicare Advantage members?",
+      "text": "The member ID card page points Medicare Advantage members to information about the UnitedHealthcare UCard. Members can learn more about UCard on the Medicare Advantage member resources page for UCard.",
+      "topic": "Medicare Advantage",
+      "tags": [
+        "ucard",
+        "medicare advantage",
+        "member card"
+      ],
+      "entities": [
+        "UCard",
+        "Medicare Advantage"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is UCard?",
+        "Where do I learn about the UCard for Medicare Advantage?"
+      ]
+    }
+  ]
+}

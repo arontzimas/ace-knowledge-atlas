@@ -1,0 +1,279 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-responsible-use",
+  "title": "AI for better care: Our commitment to using AI responsibly",
+  "domain": "Company & News",
+  "page_type": "article",
+  "summary": "Explains UnitedHealth Group's Responsible AI program, its review board and the six guiding principles that govern AI use at UnitedHealthcare and Optum.",
+  "published": "2025-11-25",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/ai-for-better-care-responsible-use/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1764035805184/medical-team-in-hospital-1200x627.jpeg",
+      "alt": "Medical team in hospital"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "UnitedHealth Group Responsible AI program",
+      "question": "What is UnitedHealth Group's Responsible AI program?",
+      "text": "UnitedHealth Group and its businesses, UnitedHealthcare and Optum, established a comprehensive Responsible Artificial Intelligence (RAI) program. The program works to guide the development, deployment and maintenance of AI across the enterprise to ensure it is designed and used fairly and ethically.",
+      "topic": "AI & innovation",
+      "tags": [
+        "responsible ai",
+        "rai program",
+        "ai governance",
+        "ethics"
+      ],
+      "entities": [
+        "Responsible Artificial Intelligence program",
+        "UnitedHealth Group",
+        "UnitedHealthcare",
+        "Optum"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Responsible AI at UnitedHealthcare?",
+        "How does UnitedHealth Group govern its AI?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "AI review board composition",
+      "question": "Who reviews AI at UnitedHealthcare?",
+      "text": "AI at UnitedHealth Group is continuously evaluated and monitored by a review board of senior leaders with diverse expertise, including clinicians, clinical ethicists, business leaders and experts in analytics, technology, legal, compliance, regulatory and privacy matters. The board reviews AI through the lens of six guiding principles.",
+      "topic": "AI & innovation",
+      "tags": [
+        "review board",
+        "clinical ethicists",
+        "oversight",
+        "ai monitoring"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who sits on UnitedHealth Group's AI review board?",
+        "Is UnitedHealthcare's AI monitored?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Principle: Reliability and quality",
+      "question": "What does reliability and quality mean in UnitedHealth Group's AI principles?",
+      "text": "Reliability and quality is the first of UnitedHealth Group's six AI principles. The organization emphasizes testing and monitoring AI solutions to ensure they perform reliably and meet quality expectations. This involves oversight to guarantee that AI solutions fulfill their intended purposes.",
+      "topic": "AI & innovation",
+      "tags": [
+        "reliability",
+        "quality",
+        "testing",
+        "monitoring"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does UnitedHealth Group make sure its AI is reliable?",
+        "What are the AI guiding principles?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Principle: Fairness",
+      "question": "How does UnitedHealth Group address AI fairness?",
+      "text": "Under the Fairness principle, UnitedHealth Group is committed to assessing AI solutions for potential bias and ensuring they treat all individuals fairly. This includes evaluating the impact of AI on vulnerable groups and those at risk of exclusion from the health care system, which helps promote equity in health care delivery.",
+      "topic": "AI & innovation",
+      "tags": [
+        "fairness",
+        "bias",
+        "equity",
+        "vulnerable groups"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare test its AI for bias?",
+        "How does UnitedHealthcare promote fairness in AI?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Principle: Accountability",
+      "question": "Who is accountable for AI at UnitedHealth Group?",
+      "text": "Under the Accountability principle, UnitedHealth Group acknowledges its accountability for the AI solutions it implements. It establishes processes, governance structures and monitoring mechanisms to address issues or adverse outcomes promptly. AI solutions are not intended to replace clinical judgment but to support decision-making.",
+      "topic": "AI & innovation",
+      "tags": [
+        "accountability",
+        "governance",
+        "adverse outcomes",
+        "clinical judgment"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is UnitedHealthcare accountable for its AI outcomes?",
+        "Does AI replace clinical judgment at UnitedHealthcare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Principle: Transparency",
+      "question": "How does UnitedHealth Group approach AI transparency?",
+      "text": "Transparency and explainability are critical components of UnitedHealth Group's approach to AI. The organization monitors the use of AI across its operations to understand how AI solutions are used and how they operate, which it says fosters trust and clarity in AI-driven processes.",
+      "topic": "AI & innovation",
+      "tags": [
+        "transparency",
+        "explainability",
+        "ai monitoring",
+        "trust"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is UnitedHealthcare transparent about AI use?",
+        "What does explainability mean for UnitedHealthcare AI?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Principle: Privacy and security",
+      "question": "How does UnitedHealth Group protect data in AI?",
+      "text": "UnitedHealth Group prioritizes safeguarding data privacy and security in the design, deployment and use of AI solutions. The organization adheres to its longstanding privacy and security practices, ensuring compliance with relevant laws, regulations and policy requirements.",
+      "topic": "AI & innovation",
+      "tags": [
+        "privacy",
+        "security",
+        "data protection",
+        "compliance"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is my data safe with UnitedHealthcare's AI?",
+        "How does UnitedHealth Group protect privacy when using AI?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Principle: Continuous improvement",
+      "question": "How does UnitedHealth Group keep improving its AI practices?",
+      "text": "Recognizing the rapidly evolving AI landscape, UnitedHealth Group commits to continuously improving its processes and practices. This includes staying abreast of industry best practices and regulatory guidance to ensure its AI solutions remain effective and responsible.",
+      "topic": "AI & innovation",
+      "tags": [
+        "continuous improvement",
+        "regulatory guidance",
+        "best practices"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealth Group update its AI standards?",
+        "How does UnitedHealthcare keep AI practices current?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "AI supports, not replaces, human-led work",
+      "question": "Does UnitedHealth Group allow AI to replace human work?",
+      "text": "UnitedHealth Group requires that AI is used in support of human-led work and not in replacement of it. The page explains that when it comes to health care, AI cannot fully account for the contextual awareness, empathy, ethical considerations, nuances, personal preferences and expertise that people working in the field can offer.",
+      "topic": "AI & innovation",
+      "tags": [
+        "human-led",
+        "empathy",
+        "clinical expertise",
+        "ai limits"
+      ],
+      "entities": [
+        "UnitedHealth Group"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Will AI replace people in health care decisions?",
+        "Why does UnitedHealth Group require human-led work with AI?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why employers should vet carrier AI",
+      "question": "Why should employers and brokers look at a carrier's AI governance?",
+      "text": "The page tells employers, brokers and consultants to consider and understand how AI is leveraged and governed by benefits vendors and carriers before making selections. It says those considering UnitedHealthcare may feel more assured knowing AI is continuously evaluated and monitored by a review board.",
+      "topic": "AI & innovation",
+      "tags": [
+        "carrier selection",
+        "due diligence",
+        "ai governance",
+        "brokers"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "What should brokers check about a carrier's AI?",
+        "Should I ask insurers about AI governance?"
+      ]
+    }
+  ]
+}

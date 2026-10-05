@@ -1,0 +1,197 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/hospitalization-insurance",
+  "title": "Hospital insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare hospital indemnity plans that pay fixed cash benefits for hospital stays and how benefits are claimed.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/hospital-indemnity-nurse-patient-desktop-1920x725.jpg",
+      "alt": "Nurse with a patient"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What hospital indemnity insurance is",
+      "question": "What is hospital indemnity insurance?",
+      "text": "Hospital indemnity insurance is also called hospitalization insurance or hospital insurance. These plans pay the policyholder or the provider benefits when care requires a stay in a hospital, whether planned or unplanned, or for other covered medical services depending on the policy. They offer coverage options designed to help manage the financial impact of a hospital stay.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "hospital indemnity",
+        "hospitalization insurance",
+        "hospital stay",
+        "cash benefit"
+      ],
+      "entities": [
+        "Hospital indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is hospital indemnity insurance?",
+        "What does hospitalization insurance pay for?",
+        "Is hospital insurance the same as hospital indemnity?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare hospital insurance plans",
+      "question": "Who underwrites UnitedHealthcare hospital insurance?",
+      "text": "Hospital insurance plans from UnitedHealthcare are hospital indemnity plans underwritten by Golden Rule Insurance Company. They pay a fixed benefit for covered medical expenses and include a range of options designed to help prepare a budget for unexpected costs related to a hospital stay. People can call 1-866-487-9299 to learn about plans in their state.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "hospital insurance",
+        "golden rule",
+        "fixed benefit",
+        "plans by state"
+      ],
+      "entities": [
+        "Hospital indemnity insurance",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who offers hospital indemnity plans?",
+        "What number do I call about hospital insurance plans?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Nearly 34 million hospital admissions each year",
+      "question": "How many people are admitted to hospitals each year?",
+      "text": "UnitedHealthcare cites the American Hospital Association's Fast Facts on U.S. Hospitals 2024 in stating that nearly 34 million patients are admitted to the hospital each year. The page presents hospital indemnity insurance as a way to help prepare a budget in the event a hospital stay happens to a person or their family.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "hospital admissions",
+        "american hospital association",
+        "hospital costs",
+        "budgeting"
+      ],
+      "entities": [
+        "American Hospital Association"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How common are hospital stays?",
+        "Why buy hospital indemnity insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How a hospital indemnity plan adds to medical coverage",
+      "question": "How does hospital indemnity insurance supplement my medical plan?",
+      "text": "A hospital indemnity plan can add to medical coverage by providing a cash benefit to help cover expenses related to a hospital stay. Medical costs can quickly add up when care in a hospital setting is needed. The page lists example expenses the cash benefit can help cover.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "supplemental coverage",
+        "cash benefit",
+        "hospital expenses",
+        "medical costs"
+      ],
+      "entities": [
+        "Hospital indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What costs does a hospital indemnity plan help with?",
+        "Does hospital insurance work with my health insurance?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to use hospital indemnity benefits",
+      "question": "How do I claim a hospital indemnity benefit?",
+      "text": "To access benefits: 1) Complete a claim form. 2) Submit the claim form along with any other required information for covered items, checking plan details for specific coverage. 3) Receive a benefit check to use as you see fit. With some plans, there may be an option to receive a discount on covered services if you use certain providers and have the plan pay that provider directly.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "claim form",
+        "benefit check",
+        "submit claim",
+        "provider discount"
+      ],
+      "entities": [
+        "Hospital indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I file a hospital indemnity claim?",
+        "How do I get paid from hospital insurance?",
+        "Can the plan pay my hospital directly?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Lump-sum payment and calendar-year maximums",
+      "question": "How are hospital indemnity benefits paid?",
+      "text": "Hospital indemnity benefits are paid in a lump sum directly to the policyholder or to the provider. Amounts are fixed and determined by the policy, regardless of the amount of expenses incurred. A footnote adds that benefits may be paid directly to the hospital or other health care facility if the policyholder makes an assignment of benefits, within calendar-year maximums.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "lump sum",
+        "assignment of benefits",
+        "calendar-year maximum",
+        "fixed amount"
+      ],
+      "entities": [
+        "Hospital indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does hospital indemnity insurance pay me or the hospital?",
+        "Does hospital insurance pay based on my actual bill?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Hospital insurance has no network limits",
+      "question": "Do I have to stay in network to use hospital indemnity benefits?",
+      "text": "A footnote on UnitedHealthcare's hospital insurance page states there are no network limitations for UnitedHealthcare branded hospital insurance plans, but a person may be bound to certain networks and providers with their major medical plan.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "network",
+        "no network limits",
+        "major medical",
+        "hospital insurance"
+      ],
+      "entities": [
+        "Hospital indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need to stay in network for hospital insurance benefits?",
+        "Can I go to any hospital with hospital indemnity coverage?"
+      ]
+    }
+  ]
+}

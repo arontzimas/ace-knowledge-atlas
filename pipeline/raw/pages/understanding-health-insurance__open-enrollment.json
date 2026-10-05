@@ -1,0 +1,342 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/open-enrollment",
+  "title": "What is open enrollment?",
+  "domain": "Health Insurance Basics",
+  "page_type": "faq",
+  "summary": "Explains what open enrollment is, the enrollment dates for ACA, employer, Medicare, Medicaid and D-SNP coverage, and what to do if you miss the deadline.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/open-enrollment/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/container_1261445035/image.coreimg.90.1280.png/1750097382524/medicare-aep-calendar-illustration-552x272.png",
+      "alt": "Medicare AEP Calendar Illustration"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/open-enrollment/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/container/faq_container/container_1347733_co/container/image.coreimg.90.1280.jpeg/1750097969892/health-insurance-plans-exchange-474x312.jpeg",
+      "alt": "Health Insurance Plans Exchange"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/open-enrollment/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/container/faq_container/container_1347733_co_174252898/container/image.coreimg.90.1280.jpeg/1750102242505/open-enrollment-family-on-couch-desktop-600x386.jpeg",
+      "alt": "Open Enrollment Family On Couch Desktop"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What open enrollment means",
+      "question": "What is open enrollment?",
+      "text": "An open enrollment period is a window of time that happens once a year, typically in the fall, when you can sign up for health insurance, adjust your current plan or cancel your plan. It is usually limited to a few weeks. If you miss it, you may have to wait until the next open enrollment period to make any changes.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "enrollment period",
+        "health insurance",
+        "plan changes"
+      ],
+      "entities": [
+        "Open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is open enrollment for health insurance?",
+        "How long does open enrollment last?",
+        "What happens if I miss open enrollment?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Which insurance types have open enrollment",
+      "question": "What types of insurance use open enrollment?",
+      "text": "People who get health insurance through a job, through Medicare or through the Affordable Care Act (ACA) marketplace have an open enrollment period. Medicaid programs, including the Children's Health Insurance Program (CHIP), have no open enrollment period.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "employer coverage",
+        "medicare",
+        "aca marketplace",
+        "medicaid"
+      ],
+      "entities": [
+        "ACA",
+        "Medicare",
+        "Medicaid",
+        "CHIP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does Medicaid have open enrollment?",
+        "Which health plans have an open enrollment period?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Open enrollment dates by coverage type",
+      "question": "What are the open enrollment dates for each type of coverage?",
+      "text": "ACA Marketplace plans for individuals and families: open enrollment is November 1 through January 15 in most states. Health insurance through work: enrollment periods are set by the employer, typically in the fall. Medicare: the Annual Enrollment Period (AEP) is October 15 to December 7 every year, and the Initial Enrollment Period (IEP) is around age 65. Medicaid and Dual Eligible Special Needs Plans (D-SNP): enroll anytime.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment dates",
+        "aep",
+        "iep",
+        "aca marketplace",
+        "d-snp"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Medicare",
+        "AEP",
+        "IEP",
+        "D-SNP",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Medicare shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "When is open enrollment this year?",
+        "What are the open enrollment dates for Medicare and the ACA?",
+        "When can I enroll in Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When ACA open enrollment happens",
+      "question": "When is open enrollment for ACA plans?",
+      "text": "For UnitedHealthcare Individual & Family ACA Marketplace plans, open enrollment for most states is November 1 through January 15. Some state-based markets may have open enrollment periods that differ from federal-based marketplaces, as well as special enrollment periods.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "aca marketplace",
+        "open enrollment",
+        "state-based marketplace",
+        "special enrollment period"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "UnitedHealthcare Individual & Family plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "When does ACA marketplace enrollment start and end?",
+        "Do state marketplaces have different enrollment dates?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Open enrollment for job-based coverage",
+      "question": "When is open enrollment if I get health insurance through my work?",
+      "text": "If you get health insurance through work, your employer sets the open enrollment period. It is typically in the fall so that your benefits can start at the beginning of the calendar year. Choosing a health care plan for the year ahead is an important decision, so take time to explore your options before you enroll.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "employer coverage",
+        "open enrollment",
+        "benefits year",
+        "plan selection"
+      ],
+      "entities": [
+        "Employer-sponsored health plans"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who decides my open enrollment dates at work?",
+        "Why is employer open enrollment in the fall?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When Medicare enrollment happens",
+      "question": "When is Medicare enrollment?",
+      "text": "One key Medicare enrollment period for changing coverage is the Annual Enrollment Period (AEP), which runs from October 15 to December 7 every year. During AEP you can join, switch or drop a plan. If you make no changes during AEP, your current plan will automatically renew the next year. The Initial Enrollment Period (IEP) is around age 65.",
+      "topic": "Medicare enrollment",
+      "tags": [
+        "medicare aep",
+        "october 15",
+        "december 7",
+        "auto renew",
+        "iep"
+      ],
+      "entities": [
+        "Medicare",
+        "AEP",
+        "IEP"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "When is the Medicare Annual Enrollment Period?",
+        "What happens if I don't change my Medicare plan during AEP?",
+        "Can I drop a Medicare plan in the fall?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Open enrollment for Medicaid",
+      "question": "Is there an open enrollment period for Medicaid?",
+      "text": "There is no open enrollment period for Medicaid programs, including the Children's Health Insurance Program (CHIP). In all states Medicaid provides coverage to low-income families and children, pregnant women, the elderly and people with disabilities, and some states cover all low-income adults below a certain income level. To apply, contact your state agency that manages the Medicaid program.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "medicaid",
+        "chip",
+        "no open enrollment",
+        "apply anytime",
+        "state agency"
+      ],
+      "entities": [
+        "Medicaid",
+        "CHIP",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I sign up for Medicaid any time of year?",
+        "Who does Medicaid cover?",
+        "How do I apply for Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Open enrollment for Dual Special Needs Plans",
+      "question": "When is open enrollment for a Dual Eligible Special Needs Plan?",
+      "text": "People who have both Medicaid and Medicare benefits could be eligible for a Dual Special Needs Plan (D-SNP). Those who qualify for this type of Medicare Advantage plan can switch to a new plan at any point during the year, not just during open enrollment.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "d-snp",
+        "dual eligible",
+        "medicare advantage",
+        "switch plans"
+      ],
+      "entities": [
+        "D-SNP",
+        "Medicare Advantage",
+        "Medicaid",
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I switch a D-SNP plan any time?",
+        "What is a Dual Eligible Special Needs Plan?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Changes outside open enrollment",
+      "question": "Can I make changes outside of the open enrollment period?",
+      "text": "Typically, once you have made your benefit elections, you have to wait until the next open enrollment period to make changes. Not always, though. Qualifying life events are life events that let you make changes to your benefits outside of the open enrollment period.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "special enrollment",
+        "plan changes",
+        "benefit elections"
+      ],
+      "entities": [
+        "Qualifying life event",
+        "Special enrollment period"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I change my health plan in the middle of the year?",
+        "What is a qualifying life event?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What to do if you missed open enrollment",
+      "question": "What if I missed the deadline for open enrollment?",
+      "text": "If you need coverage when annual open enrollment is not available and you have not had a qualifying life event, you can buy short term health insurance or a fixed benefit health plan. Short term health insurance can fill needs for 1 month to nearly 1 year, depending on your state. TriTerm Medical can provide coverage for up to 3 years in select states. Fixed benefit plans pay preset amounts for qualified medical services and are a supplement to health insurance, not a substitute for ACA minimum essential coverage.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "missed open enrollment",
+        "short term insurance",
+        "triterm medical",
+        "fixed benefit",
+        "coverage gap"
+      ],
+      "entities": [
+        "Short term health insurance",
+        "TriTerm Medical",
+        "Fixed benefit health insurance",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "What can I do if I missed open enrollment?",
+        "Can I get health insurance outside open enrollment?",
+        "How long does short term health insurance last?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Questions to ask before choosing a plan",
+      "question": "What should I think about before choosing a health insurance plan?",
+      "text": "Before choosing a plan during open enrollment, consider four questions. How much did you spend on health care last year, including your premium, deductible and out-of-pocket costs? Did what you or your family spent line up with your health care needs? Is your doctor or clinic in network? Are your medications covered?",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "plan selection",
+        "open enrollment tips",
+        "network",
+        "medications",
+        "out-of-pocket costs"
+      ],
+      "entities": [
+        "Premium",
+        "Deductible",
+        "Out-of-pocket costs"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "How do I pick the best health plan at open enrollment?",
+        "What should I review before enrolling in a health plan?"
+      ]
+    }
+  ]
+}

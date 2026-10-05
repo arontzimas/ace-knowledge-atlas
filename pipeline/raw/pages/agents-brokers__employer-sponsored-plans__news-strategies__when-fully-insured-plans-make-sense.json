@@ -1,0 +1,206 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/when-fully-insured-plans-make-sense",
+  "title": "When traditional fully insured health plans make sense for employers",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Explains when a fully insured group health plan may be the best fit for an employer, based on support needs, claims unpredictability and risk preference.",
+  "published": "2025-10-20",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/when-fully-insured-plans-make-sense/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1728325477593/woman-sitting-on-stool-talking-to-male-coworker-1200x627.jpeg",
+      "alt": "Woman sitting on stool talking to male coworker"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "How a fully insured plan works",
+      "question": "What is a fully insured health plan and who pays the claims?",
+      "text": "In a fully insured health plan, the employer pays a fixed premium to the health insurance carrier, which covers the cost of employee health care. When employees incur expenses, the carrier is responsible for paying the claims, not the employer. The financial risk and responsibility transfer to the carrier, which also handles much of the administrative work and regulatory compliance.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "fixed premium",
+        "carrier",
+        "financial risk",
+        "compliance"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does fully insured mean for employers?",
+        "Who is responsible for claims in a fully insured plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fully insured plans can cost more",
+      "question": "Why can fully insured plans cost employers more?",
+      "text": "Because the carrier assumes the risk, fully insured plans can be more costly for employers than other options. For example, the total of an employer's monthly premium payments over a year might exceed the actual claims made by employees. Even so, many employers choose fully insured plans because they provide consistent, predictable monthly costs.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "premiums",
+        "claims",
+        "predictable costs",
+        "cost"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Are fully insured plans more expensive?",
+        "Why do employers still choose fully insured plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fully insured fits employers who need support",
+      "question": "When does a fully insured plan work well for employers who need support?",
+      "text": "Fully insured plans work well for employers who lack the time or staff to manage benefits, especially small businesses. Employers can outsource the responsibility of meeting federal and state legal requirements to the carrier, typically choose from off-the-shelf benefits packages and hand off administration, compliance and claims payments to the carrier. UnitedHealthcare notes some customizations are still possible with a fully insured plan.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "small business",
+        "outsourced compliance",
+        "administration",
+        "off-the-shelf plans"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is fully insured better for businesses without HR staff?",
+        "Can fully insured plans be customized?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fully insured fits unpredictable claims",
+      "question": "When does a fully insured plan suit employers with unpredictable claims?",
+      "text": "A fixed monthly premium can provide financial security if a workforce includes employees with cancer diagnoses or pregnancies, which can increase claims. UnitedHealthcare cites that by 2027 cancer is expected to comprise 30% of employer health spend, and that employers pay an average of around $14K annually for medical costs for an employee with diabetes.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "cancer",
+        "diabetes",
+        "claims variability",
+        "fixed premium"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Should employers with high claims choose fully insured?",
+        "How much does diabetes cost an employer annually?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fully insured fits risk-averse employers",
+      "question": "Who benefits most from the fixed premium of a fully insured plan?",
+      "text": "The employer and carrier typically agree on a fixed monthly premium at the start of the plan year, based on the workforce and the insurer's fees, and it stays the same all year so employers can budget with certainty. For risk-averse employers, especially smaller ones, this is often the best choice, whereas larger employers can spread the risk of high claims more easily.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "fixed premium",
+        "budgeting",
+        "risk-averse",
+        "small employers"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why do small employers prefer fixed monthly premiums?",
+        "How does a fully insured premium stay predictable?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Alternatives to fully insured for risk-tolerant employers",
+      "question": "What if an employer wants more control than a fully insured plan offers?",
+      "text": "A fully insured plan can offer a predictable, cost-effective solution, even if it means less control over plan customization and provider networks. For employers willing to take on more risk in exchange for greater control, flexibility and potential cost savings, self-funded or level-funded plans may be more appropriate. UnitedHealthcare points to 7 characteristics to check for readiness for these funding types.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "self-funded",
+        "level funded",
+        "plan control",
+        "readiness"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "When should an employer move from fully insured to self-funded?",
+        "What are the tradeoffs of fully insured plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fully insured prices remain a predictable fixed cost",
+      "question": "Are fully insured plans still predictable even though prices rose?",
+      "text": "Greg Reidy, East Region CEO for UnitedHealthcare Employer & Individual, says that even though fully insured prices have increased, they remain a predictable fixed cost for the employer. This often can offer more stability than a self-funded environment, where claim costs can have more variability, even as health care premiums continue to rise.",
+      "topic": "Plan funding models",
+      "tags": [
+        "fully insured",
+        "premiums",
+        "stability",
+        "fixed cost",
+        "self-funded"
+      ],
+      "entities": [
+        "UnitedHealthcare Employer & Individual"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are fully insured premiums rising?",
+        "Is fully insured more stable than self-funded?"
+      ]
+    }
+  ]
+}

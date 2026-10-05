@@ -1,0 +1,296 @@
+{
+  "url": "https://www.uhc.com/communityplan/arizona/plans/medicaid/long-term-care",
+  "title": "Arizona Long Term Care",
+  "domain": "Medicaid",
+  "page_type": "product",
+  "summary": "Plan page for UnitedHealthcare Community Plan Arizona Long Term Care (ALTCS), covering who it serves, how to qualify, counties, home care and support benefits, dental, vision and hearing limits, transportation, hotlines and appeals.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/handbook/en/AZ_Medicaid_Handbook.pdf",
+      "alt": "Member handbook - English"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/communityplan/assets/plandocuments/memberinformation/AZ-LTC-State-Fair-Hearing-EN.pdf",
+      "alt": "State Fair Hearing information"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Arizona Long Term Care plan overview",
+      "question": "What is the UnitedHealthcare Community Plan Arizona Long Term Care plan?",
+      "text": "The Long Term Care plan is for people of all ages who have a long-term disability due to age, illness or injury. The goal is to offer services in a community setting instead of nursing home placement when possible. Members get member empowerment services to help with daily activities that the page says only UnitedHealthcare Community Plan offers. You qualify based on income and health needs.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "arizona",
+        "long term care",
+        "altcs",
+        "community setting",
+        "disability"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "Arizona Long Term Care System",
+        "AHCCCS"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Arizona Long Term Care?",
+        "Can I get care in the community instead of a nursing home in Arizona?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Qualifying for the Arizona plan and counties served",
+      "question": "How do I qualify for the Arizona Long Term Care plan?",
+      "text": "To be a member of UnitedHealthcare Community Plan Long Term Care, you must be enrolled in the Arizona Long Term Care System, which is part of the Arizona Health Care Cost Containment System (AHCCCS). The plan is available in Apache, Coconino, Gila, Maricopa, Mohave, Navajo, Pinal and Yavapai counties. Enrollment specialists can be reached at 1-800-293-3740 (TTY 711), 8:00 am to 5:00 pm local time, Monday to Friday.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "altcs enrollment",
+        "ahcccs",
+        "arizona counties",
+        "maricopa",
+        "enrollment help"
+      ],
+      "entities": [
+        "Arizona Long Term Care System",
+        "AHCCCS",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Caregiver"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Which Arizona counties have the UnitedHealthcare Long Term Care plan?",
+        "Do I need AHCCCS to join the Long Term Care plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Home care and supplies for Arizona LTC members",
+      "question": "What home care benefits does the Arizona Long Term Care plan include?",
+      "text": "The plan includes the care and equipment needed to recover safely at home. Benefits include personal care to aid healing after illness or injury, home meal delivery if you can't safely make meals, in-home medical and safety equipment and supplies such as hospital beds, oxygen tanks, walkers and wheelchairs, nurse visits after surgery or illness, and respite care, which gives caregivers time away from a loved one who is ill or has special care needs.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "home care",
+        "respite care",
+        "home meal delivery",
+        "equipment and supplies",
+        "nurse visits"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does the Arizona LTC plan provide respite care?",
+        "Are home-delivered meals covered in Arizona Long Term Care?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Personal care home visits and modifications",
+      "question": "What happens during a personal care home visit?",
+      "text": "UnitedHealthcare conducts home visits for those needing extra help to stay at home. During the visit the team seeks to understand your personal needs, provides minor home modifications such as ramps and bathroom safety devices, sets up emergency monitoring if needed, and arranges for personal care attendants.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "personal care",
+        "home modifications",
+        "ramps",
+        "emergency monitoring",
+        "attendants"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Will the plan install a wheelchair ramp?",
+        "How do I get a personal care attendant in Arizona?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Case management and asthma and COPD support",
+      "question": "How does case management work in the Arizona Long Term Care plan?",
+      "text": "Case managers work directly with you and your family to coordinate and personalize the services you need, explain medical terms in plain language and coordinate doctor appointments. They think beyond medical needs and make sure you have support at home. For members with asthma or COPD, a case manager provides a customized treatment plan and medicine to help manage flare-ups, reduce symptoms and stay active.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "case management",
+        "asthma",
+        "copd",
+        "care coordination",
+        "treatment plan"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does the plan help with asthma or COPD?",
+        "What does a case manager do in Arizona Long Term Care?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Dental, vision and hearing limits in Arizona LTC",
+      "question": "What dental, vision and hearing coverage does Arizona Long Term Care include?",
+      "text": "Checkups and dental care are covered for members through age 20. For members 21 and older, emergency dental care has a $1,000 per year limit and routine preventive and therapeutic services have a $1,000 per year limit for ALTCS members. Eye exams, frames and lenses including replacement and repair are covered for members under age 21, and hearing exams, therapy, tests and hearing aids are covered for members up to age 21.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "dental limit",
+        "$1,000 per year",
+        "vision under 21",
+        "hearing aids",
+        "altcs"
+      ],
+      "entities": [
+        "ALTCS",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is adult dental covered by Arizona Long Term Care?",
+        "What is the dental limit for ALTCS members over 21?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Free smartphone through MyHealthLine",
+      "question": "Can Arizona Long Term Care members get a free phone?",
+      "text": "If you qualify for the UnitedHealthcare MyHealthLine program, you can get a smartphone and a monthly service plan at no cost, or a service plan for your current phone. The program is meant to help members stay connected with easy and dependable access to health care services.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "myhealthline",
+        "smartphone",
+        "no cost",
+        "service plan",
+        "connectivity"
+      ],
+      "entities": [
+        "UnitedHealthcare MyHealthLine"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does Arizona Medicaid give free cell phones?",
+        "What is MyHealthLine?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to get non-emergency rides in Arizona",
+      "question": "How do I get a ride to medical appointments with the Arizona Long Term Care plan?",
+      "text": "The plan provides trips to and from medical appointments and the pharmacy. Non-emergency transportation is provided for AHCCCS covered services. Call 1-888-889-0358 (TTY/TDD 711) at least 72 hours before your health care visit. If you need a ride to urgent care or you are being discharged from a hospital, you can call anytime. Public transportation is also available if you prefer.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "transportation",
+        "72 hours",
+        "non-emergency rides",
+        "ahcccs",
+        "pharmacy rides"
+      ],
+      "entities": [
+        "AHCCCS",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How far ahead do I need to book a medical ride in Arizona?",
+        "Does the plan pay for rides to the pharmacy?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Nurse line and behavioral health crisis numbers",
+      "question": "Who can I call for health questions or a crisis in Arizona?",
+      "text": "A trained nurse is available anytime, 24 hours a day, 7 days a week, at 1-877-440-0255 (TTY/TDD 711). Mental health care is covered with no copay for required care, including behavioral therapy, substance abuse treatment and medications. Behavioral health crisis lines vary by county, for example 602-222-9444 or 1-800-631-1314 in Maricopa County, and the Arizona statewide crisis hotline is 1-844-534-HOPE (4673) or 988.",
+      "topic": "Behavioral health",
+      "tags": [
+        "nurse line",
+        "crisis hotline",
+        "988",
+        "behavioral health",
+        "maricopa county"
+      ],
+      "entities": [
+        "Arizona Statewide Crisis Hotline",
+        "988",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is the Arizona crisis hotline number?",
+        "Is there a 24-hour nurse line for Arizona members?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to file a grievance or appeal in Arizona",
+      "question": "How do I file a grievance or appeal with UnitedHealthcare Community Plan in Arizona?",
+      "text": "If you have concerns about your medical care, first talk with your case manager, PCP or treating provider. If you are unhappy with the plan, your doctor or any part of your health care, you can file a grievance (complaint) by phone or in writing. If the plan denied a service you think you should receive, you can file an appeal, which can be written or verbal. For either, call Member Services at 1-800-293-3740. More information is in your Member Handbook.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "grievance",
+        "appeal",
+        "member services",
+        "denied service",
+        "complaint"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How do I appeal a denied service?",
+        "How do I file a complaint about my Medicaid plan?"
+      ]
+    }
+  ]
+}

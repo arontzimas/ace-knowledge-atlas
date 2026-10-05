@@ -1,0 +1,243 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/working-with-us/whole-person-health",
+  "title": "Whole-person health",
+  "domain": "Employer Solutions",
+  "page_type": "guide",
+  "summary": "Explains UnitedHealthcare's whole-person health approach for employers, covering medical, pharmacy, behavioral health, specialty, financial wellness and wellness programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/working-with-us/whole-person-health/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image_983085710.coreimg.90.1280.jpeg/1741991488226/whole-person-health-therapist-552x378.jpeg",
+      "alt": "Therapist with a client"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6392648298112-thumbnail-v2.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Whole-person health video"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What whole-person health means",
+      "question": "What is a whole-person approach to employee health benefits?",
+      "text": "Focusing only on the medical side of an employee's health does not offer a complete picture. A whole-person approach addresses an individual's physical, mental, financial and overall health and well-being needs. UnitedHealthcare says it has the breadth of products and solutions to help ensure an employer's benefits strategy addresses all the factors that may influence employee health and well-being.",
+      "topic": "Wellness programs",
+      "tags": [
+        "whole-person health",
+        "physical health",
+        "mental health",
+        "financial health",
+        "benefits strategy"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does whole-person health mean?",
+        "Why do employers take a whole-person approach to benefits?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Employees see well-being as connected",
+      "question": "Do employees see physical and mental well-being as connected?",
+      "text": "According to the survey cited in UnitedHealthcare's whole-person health video, 95% of surveyed employees said physical, mental, emotional and social well-being are all connected. By addressing pharmacy, financial and behavioral health needs and more, UnitedHealthcare says employers can take a holistic approach that may lead to a healthier, more productive workforce and significant cost savings.",
+      "topic": "Wellness programs",
+      "tags": [
+        "whole-person health",
+        "survey",
+        "well-being",
+        "productivity",
+        "holistic"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What share of employees say mental and physical health are connected?",
+        "Can whole-person benefits improve productivity?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Medical and pharmacy rank as top benefits",
+      "question": "Which benefits do employers rank as most important?",
+      "text": "Surveyed employers rank medical benefits as the No. 1 most important benefit to offer employees and pharmacy benefits as No. 2, according to UnitedHealthcare Whole-Person Health Research conducted between February 20, 2024 and April 25, 2024. UnitedHealthcare says it offers a variety of medical plans and targeted clinical programs that treat the whole person, not just the condition at hand.",
+      "topic": "Broker resources",
+      "tags": [
+        "employer survey",
+        "medical benefits",
+        "pharmacy benefits",
+        "benefit priorities",
+        "clinical programs"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "TRC Insights"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What do employers consider the most important benefit?",
+        "How important is pharmacy coverage to employers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Integrated medical and pharmacy benefits",
+      "question": "Why manage medical and pharmacy benefits together?",
+      "text": "Around 55% of an employer's total drug spend applies to specialty medications, and many drugs are covered under both benefits. In an integrated model, UnitedHealthcare reviews medical and pharmacy claims to better advocate for employees on when to use their medical benefit and when to use their pharmacy benefit. When managed together, care can be more coordinated, with better outcomes, lower costs and simpler experiences.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "integrated benefits",
+        "specialty drugs",
+        "medical and pharmacy",
+        "drug spend",
+        "coordination"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What share of drug spend is specialty medication?",
+        "How does integrating medical and pharmacy lower costs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Mental health conditions affect employees and productivity",
+      "question": "How common are mental health disorders among working-age adults?",
+      "text": "Approximately 15% of working-age adults currently live with a mental health disorder, and depression and anxiety alone drain $1T from the global economy annually through lost productivity, according to the World Health Organization. UnitedHealthcare says behavioral health benefits can help ensure employees and their families have access to mental health support, with a guided experience to find needed care.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mental health",
+        "behavioral health",
+        "productivity",
+        "working-age adults",
+        "who"
+      ],
+      "entities": [
+        "World Health Organization",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What percent of working adults have a mental health disorder?",
+        "How much do depression and anxiety cost the economy?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental, vision and hearing are essential benefits",
+      "question": "Are dental, vision and hearing benefits essential?",
+      "text": "UnitedHealthcare says dental, vision and hearing benefits are not extras but essential benefits, because a person's mouth, eyes and ears often serve as indicators of overall health and well-being. It says specialty benefits may help detect early signs of serious conditions and reduce long-term costs.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "dental",
+        "vision",
+        "hearing",
+        "specialty benefits",
+        "early detection"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why should employers offer dental, vision and hearing coverage?",
+        "Can dental and vision exams detect serious conditions?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Financial stress and employee well-being",
+      "question": "How does financial stress affect employees at work?",
+      "text": "Personal financial concerns can affect employees' mental health, productivity and focus at work. U.S. employees spend more than 8 hours a week managing personal finances, and half of that occurs during work hours, according to Harvard Business Review. UnitedHealthcare offers integrated solutions such as flexible spending accounts and financial protection benefits to help employees manage financial health.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "financial wellness",
+        "financial stress",
+        "flexible spending accounts",
+        "financial protection",
+        "productivity"
+      ],
+      "entities": [
+        "Harvard Business Review",
+        "FSA",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How much time do employees spend on personal finances at work?",
+        "Can an FSA improve employee financial wellness?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Wellness programs and fewer sick days",
+      "question": "Do wellness programs reduce sick days?",
+      "text": "Making healthier lifestyle choices may help reduce the likelihood of developing a chronic illness while also improving quality of life. UnitedHealthcare cites a Wellhub study stating that 89% said employees take fewer sick days as a result of their well-being program. UnitedHealthcare says it has wellness programs designed to foster healthier, more productive workforces.",
+      "topic": "Wellness programs",
+      "tags": [
+        "wellness programs",
+        "sick days",
+        "chronic illness",
+        "well-being",
+        "wellhub"
+      ],
+      "entities": [
+        "Wellhub",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do employee well-being programs reduce absenteeism?",
+        "What percent of employers say wellness programs reduce sick days?"
+      ]
+    }
+  ]
+}

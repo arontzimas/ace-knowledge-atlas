@@ -1,0 +1,117 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/eligibility/disability",
+  "title": "Medicare and Medicaid and disability",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains how disability affects Medicaid and Medicare eligibility, including SSI versus SSDI, aged blind and disabled (ABD) Medicaid, qualifying medical conditions, Medicare after 24 months of disability benefits, and dual-eligible plans.",
+  "published": "2022-12-02",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/Learning-Center-Disabilities.jpg", "alt": "Medicare and Medicaid and disability"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "People with disabilities and low incomes qualify for Medicaid",
+      "question": "Can I get Medicaid if I have a disability?",
+      "text": "People with disabilities or chronic conditions and low incomes are eligible for Medicaid. All states also provide aged, blind and disabled (ABD) Medicaid benefits. ABD Medicaid is for adults 65 and older or anyone who is disabled according to Social Security. You also need to meet the financial eligibility requirements in your state.",
+      "topic": "Medicaid eligibility",
+      "tags": ["disability", "abd medicaid", "aged blind disabled", "low income", "chronic conditions"],
+      "entities": ["Medicaid", "ABD Medicaid", "Social Security"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Does a disability qualify me for Medicaid?", "What is aged, blind and disabled Medicaid?"]
+    },
+    {
+      "type": "comparison",
+      "title": "SSI leads to Medicaid, SSDI leads to Medicare",
+      "question": "Do I get Medicaid or Medicare if I receive disability benefits?",
+      "text": "Whether you qualify for Medicaid or Medicare depends on the type of disability benefits you get. If you have Supplemental Security Income (SSI) disability, you'll be eligible for Medicaid coverage; in many states you'll get Medicaid automatically, but in others you'll need to sign up. If you get Social Security Disability Income (SSDI), you'll qualify for Medicare.",
+      "topic": "Dual eligible coverage",
+      "tags": ["ssi", "ssdi", "medicaid vs medicare", "automatic enrollment", "disability benefits"],
+      "entities": ["SSI", "SSDI", "Medicaid", "Medicare"],
+      "personas": ["Medicaid household", "Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Does SSI qualify me for Medicaid?", "Do I get Medicare if I get SSDI?"]
+    },
+    {
+      "type": "stat",
+      "title": "More than 10 million qualify for Medicaid by disability",
+      "question": "How many people qualify for Medicaid because of a disability?",
+      "text": "More than 10 million people qualify for Medicaid based on having a disability, citing MACPAC (the Medicaid and CHIP Payment and Access Commission). There are also more than 12 million people who qualify for both Medicare and Medicaid, known as dual-eligibles.",
+      "topic": "Dual eligible coverage",
+      "tags": ["statistics", "10 million", "12 million", "dual eligible", "macpac"],
+      "entities": ["MACPAC", "Medicaid", "Medicare"],
+      "personas": ["Medicaid household"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["How many people are dual eligible?", "How many people have Medicaid because of disability?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Disability medical requirements are the same across programs",
+      "question": "What conditions qualify as a disability?",
+      "text": "No matter whether you have SSI, SSDI, Medicaid, ABD Medicaid or Medicare, the medical requirements are the same. First, you must meet the non-medical disability requirements, based mainly on work history and Social Security taxes paid. Then monthly disability benefits are paid if a medical condition is expected to last at least 1 year or result in death.",
+      "topic": "Medicaid eligibility",
+      "tags": ["disability definition", "1 year", "work history", "social security taxes", "medical requirements"],
+      "entities": ["SSI", "SSDI", "Medicaid", "Medicare", "Social Security Administration"],
+      "personas": ["Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["How long must a condition last to count as a disability?", "What are the requirements for Social Security disability?"]
+    },
+    {
+      "type": "definition",
+      "title": "Disorder categories that may qualify as a disability",
+      "question": "Which health disorders may qualify adults for Social Security disability?",
+      "text": "The page lists general categories for adults over 18, noting the list is not complete and the Social Security Administration website has the full list. Categories include musculoskeletal, special senses and speech, respiratory, cardiovascular, digestive, kidney, blood, skin, endocrine, congenital disorders, neurological, mental disorders, cancer and immune system disorders. A separate childhood listing covers impairments for children.",
+      "topic": "Medicaid eligibility",
+      "tags": ["qualifying conditions", "disability list", "cancer", "mental disorders", "neurological"],
+      "entities": ["Social Security Administration", "SSA"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What medical conditions count as a disability?", "Is cancer a qualifying disability?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Under 65 with disability: Medicare after 24 months",
+      "question": "Can I get Medicare if I'm under 65 and have a disability?",
+      "text": "People under age 65 with disabilities automatically qualify for Original Medicare (Parts A and B) after they've received disability benefits from Social Security for 24 months. If you also qualify for Medicaid, your state Medicaid program may help pay for costs and services Medicare does not cover. For services covered by both, such as doctor visits, hospital care, home care and skilled nursing facility care, Medicare pays first and Medicaid may pay added costs afterward.",
+      "topic": "Dual eligible coverage",
+      "tags": ["24 months", "under 65", "original medicare", "medicare pays first", "medicaid secondary"],
+      "entities": ["Original Medicare", "Medicare Part A", "Medicare Part B", "Medicaid"],
+      "personas": ["Medicaid household", "Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["How long until I get Medicare on disability?", "Does Medicare or Medicaid pay first?"]
+    },
+    {
+      "type": "definition",
+      "title": "Dual Special Needs plans for people with disabilities",
+      "question": "What is a Dual Special Needs plan?",
+      "text": "Dual Special Needs plans are for people who could use extra help because of income, disabilities, age and/or health conditions. They are a special type of Medicare Advantage plan. They include everything you get with Original Medicare, plus prescription drug coverage and many other extra benefits, and you could get it all with as low as a $0 plan premium. The page says many people who could qualify don't know these plans exist.",
+      "topic": "Dual eligible coverage",
+      "tags": ["d-snp", "medicare advantage", "$0 premium", "prescription coverage", "disability"],
+      "entities": ["Dual Special Needs plan", "Medicare Advantage", "Original Medicare"],
+      "personas": ["Medicare shopper", "Medicaid household"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["What plan is for people with Medicare and Medicaid and a disability?", "Do dual plans cost anything?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Who is eligible for Medicaid",
+      "question": "Who is eligible for Medicaid?",
+      "text": "Medicaid is a federal and state program that provides health care coverage to qualified individuals. Eligible people include pregnant women with low income, children of low-income families, children in foster care, people with disabilities, seniors with low income, and parents or caregivers with low income. Because programs are state-run, states can choose to provide Medicaid to more people.",
+      "topic": "Medicaid eligibility",
+      "tags": ["eligible groups", "foster care", "seniors", "caregivers", "state-run"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household"],
+      "intent": "Check eligibility",
+      "stage": "Awareness",
+      "questions": ["What groups does Medicaid cover?", "Can states cover more people than the federal minimum?"]
+    }
+  ]
+}

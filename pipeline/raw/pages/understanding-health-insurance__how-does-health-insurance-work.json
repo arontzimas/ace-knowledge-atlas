@@ -1,0 +1,314 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work",
+  "title": "How does health insurance work?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains why people need health insurance, how to get it, qualifying life events, costs, what plans cover, and key claims and prescription documents.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy/faq_container_copy/container_1347733_co/container/image.coreimg.90.1280.jpeg/1749660947522/how-does-health-insurance-work-couple-on-laptop-desktop-816x390.jpeg",
+      "alt": "Couple looking at a laptop"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy/faq_container_copy/container_1347733_co_874314266/container/image.coreimg.90.1280.jpeg/1749660975698/how-does-health-insurance-work-woman-taking-notes-desktop-816x390.jpeg",
+      "alt": "Woman taking notes"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy/faq_container_copy/container_1347733_co_1464372723/container/image.coreimg.90.1280.jpeg/1749661106755/how-does-health-insurance-work-woman-checking-bill-desktop-816x390.jpeg",
+      "alt": "Woman checking a bill"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "Why do I need health insurance?",
+      "question": "Why do I need health insurance?",
+      "text": "Health insurance is designed to help prepare for unexpected moments in life, like accidents or illnesses. Without it, a person could be faced with paying medical bills themselves, and health care can be expensive. Health insurance can also keep people on track with preventive care, which may be covered by insurance at 100% in many cases. Regular doctor visits may help people stay healthier over time.",
+      "topic": "How insurance works",
+      "tags": [
+        "why health insurance",
+        "preventive care",
+        "unexpected costs"
+      ],
+      "entities": [
+        "health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why do I need health insurance if I'm healthy?",
+        "Is preventive care covered at 100%?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How do I get health insurance?",
+      "question": "How do I get health insurance?",
+      "text": "Options depend on a person's situation. Federal and state programs include Medicaid, for people with a lower income, and Medicare, for people over 65 or who may qualify due to a disability or special situation. Short term coverage can fill coverage gaps for a period of time. A person may also be able to purchase a plan from an employer, or buy an individual plan such as an Affordable Care Act (ACA) plan.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "get health insurance",
+        "Medicaid",
+        "Medicare",
+        "employer plan",
+        "ACA"
+      ],
+      "entities": [
+        "Medicaid",
+        "Medicare",
+        "ACA",
+        "short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How can I get health insurance?",
+        "What are my options for buying health insurance?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is TriTerm Medical short term coverage?",
+      "question": "What is TriTerm Medical health insurance?",
+      "text": "TriTerm Medical health insurance is a type of short term coverage that can last nearly 3 years. UnitedHealthcare describes short term coverage in general as a way to help fill coverage gaps for a period of time.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "TriTerm Medical",
+        "short term",
+        "coverage gap"
+      ],
+      "entities": [
+        "TriTerm Medical",
+        "short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is TriTerm Medical?",
+        "How long can short term insurance last?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is fixed benefit health insurance?",
+      "question": "What is fixed benefit health insurance?",
+      "text": "Fixed benefit health insurance is a type of fixed indemnity insurance. It allows a person to apply for coverage year round and to be paid a preset amount when they receive qualified medical services.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "fixed benefit",
+        "fixed indemnity",
+        "year-round enrollment"
+      ],
+      "entities": [
+        "fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is fixed benefit insurance?",
+        "Can I apply for fixed indemnity coverage any time of year?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are qualifying life events?",
+      "question": "What counts as a qualifying life event?",
+      "text": "A life-changing event at any point in the year may be considered a qualifying life event, which may mean a person qualifies for a special enrollment period. Examples include getting married or divorced, having a baby, gaining a dependent, moving, losing a job or landing a new job, and turning 65 years old.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "qualifying life event",
+        "special enrollment period",
+        "marriage",
+        "job loss",
+        "turning 65"
+      ],
+      "entities": [
+        "special enrollment period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What is a qualifying life event?",
+        "Can I change my health plan after a major life change?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How much does health insurance cost?",
+      "question": "How much does health insurance cost?",
+      "text": "Many variables affect the cost of health insurance. These can include a person's age, where they live, whether or not they use tobacco, how many people are covered by the plan and the type of plan. Choosing the best health plan for a budget depends on a person's unique circumstances.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost factors",
+        "age",
+        "tobacco",
+        "location",
+        "premium"
+      ],
+      "entities": [
+        "health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What affects the cost of health insurance?",
+        "Why does my premium depend on where I live?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What does health insurance cover?",
+      "question": "What does health insurance cover?",
+      "text": "Every health plan is different, so coverage should be checked before receiving care. Plans may cover preventive services (when delivered by a network doctor or provider), pre-existing conditions, mental and behavioral health services, prescription drugs, some medical devices (like breast pumps), maternity care and some costs of cancer treatment. Coverage can range from big, unexpected events such as hospital stays to routine checkups.",
+      "topic": "How insurance works",
+      "tags": [
+        "covered services",
+        "preventive care",
+        "maternity",
+        "mental health",
+        "prescription drugs"
+      ],
+      "entities": [
+        "health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does health insurance cover?",
+        "Does health insurance cover pre-existing conditions?",
+        "Are prescription drugs covered by insurance?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to check what your plan covers",
+      "question": "How do I find out what my plan covers?",
+      "text": "UnitedHealthcare says to check coverage before receiving care. 1) Call the number on your member ID card, or sign in to your account and go to Benefits & Coverage to review what is covered. 2) Look at your health plan documents to learn your exact coverage.",
+      "topic": "How insurance works",
+      "tags": [
+        "check coverage",
+        "member ID card",
+        "benefits and coverage",
+        "plan documents"
+      ],
+      "entities": [
+        "member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I check what my health plan covers?",
+        "Where do I find my benefits?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is prior authorization in health insurance?",
+      "question": "What is prior authorization?",
+      "text": "Some types of care or prescription drugs may need approval from a health plan before a person gets them. This is called prior authorization. UnitedHealthcare provides a separate page explaining what it is, why it may be required, how the process works, how long it may take and what to do if a request is denied.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "approval",
+        "prescription drugs"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is prior authorization?",
+        "Do I need approval before care?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How does prescription drug coverage work?",
+      "question": "How does prescription drug coverage work?",
+      "text": "The best way to learn about pharmacy benefits is to understand the health plan's Prescription Drug List (PDL), also called a formulary. Drug tiers, which group prescription drugs into price categories, also matter, as does how brand, generic and biosimilar drugs are covered. This matters most for people who take medications regularly.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "prescription drug list",
+        "formulary",
+        "drug tiers",
+        "generic",
+        "biosimilar"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "formulary"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does prescription coverage work?",
+        "What is a formulary?",
+        "What are drug tiers?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "EOB vs. bill vs. SBC",
+      "question": "What is the difference between an EOB, a bill and an SBC?",
+      "text": "An explanation of benefits (EOB) is an insurance company's statement describing the costs involved for visits to a doctor or clinic, sent to let a person know a claim has been filed. It is different from a bill, which tells how much a person needs to pay. It is also different from a Summary of Benefits and Coverage (SBC), which describes coverage rather than giving a breakdown of a health care visit.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "EOB",
+        "SBC",
+        "bill",
+        "claim"
+      ],
+      "entities": [
+        "explanation of benefits",
+        "Summary of Benefits and Coverage"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is the difference between an EOB and a bill?",
+        "Is an EOB the same as an SBC?"
+      ]
+    }
+  ]
+}

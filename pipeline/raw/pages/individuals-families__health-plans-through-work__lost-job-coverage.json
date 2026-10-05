@@ -1,0 +1,338 @@
+{
+  "url": "https://www.uhc.com/individuals-families/health-plans-through-work/lost-job-coverage",
+  "title": "Between jobs? Here's what to know about your insurance options",
+  "domain": "Individual & Family",
+  "page_type": "article",
+  "summary": "Article comparing three coverage options when you lose job-based insurance: ACA Marketplace plans, COBRA continuation coverage and short term or TriTerm Medical insurance.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/health-plans-through-work/lost-job-coverage/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324517977/dad-daughter-breakfast-cobra-852x508.jpeg",
+      "alt": "dad and daughter eating breakfast"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Three health coverage options when unemployed",
+      "question": "What are my health insurance options if I lose my job?",
+      "text": "If you are unemployed or underemployed, you have three main options: enroll in a plan through the Affordable Care Act (ACA) Marketplace, sign up for continuation of health coverage under the Consolidated Omnibus Budget Reconciliation Act (COBRA), or opt for short term medical insurance. The page quotes Adria Gross, CEO and founder of MedWise Insurance Advocacy, saying you have health insurance options.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "lost job",
+        "unemployed",
+        "aca marketplace",
+        "cobra",
+        "short term"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "COBRA",
+        "short term medical insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What health insurance can I get after losing my job?",
+        "Should I choose COBRA, Marketplace or short term insurance?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does job loss qualify for a Special Enrollment Period?",
+      "question": "How soon do I need to apply for Marketplace coverage after losing my job?",
+      "text": "Yes. Losing your job qualifies you for a special enrollment period so you can get coverage for the rest of the year, according to the page. You need to apply for Marketplace coverage within 60 days of losing your employment. Your coverage can start the first day of the month after you lose your job-based coverage, and your employer coverage stays in effect until the end of the month.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "special enrollment period",
+        "60 days",
+        "job loss",
+        "marketplace coverage",
+        "coverage start"
+      ],
+      "entities": [
+        "Special Enrollment Period",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "How long do I have to enroll after losing employer coverage?",
+        "When does Marketplace coverage start after a job loss?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What ACA Marketplace plans guarantee",
+      "question": "What do ACA Marketplace plans cover if I'm between jobs?",
+      "text": "All plans offered in the Marketplace comply with the Affordable Care Act, meaning they meet federal standards. The plans cover essential health benefits and preexisting conditions without annual or lifetime benefit caps. You may also receive income-based subsidies to make coverage and care more affordable.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "essential health benefits",
+        "preexisting conditions",
+        "no lifetime caps",
+        "subsidies",
+        "aca-compliant"
+      ],
+      "entities": [
+        "Affordable Care Act",
+        "essential health benefits"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do Marketplace plans cover preexisting conditions?",
+        "Are there benefit caps on ACA plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Savings on Marketplace plans after job loss",
+      "question": "What savings can I get on a Marketplace plan after losing my job?",
+      "text": "Premium tax credits lower your monthly premium, and the amount depends on your estimated household income for the year. You apply the credit to your monthly premium, which is sent directly to your insurance carrier. If you qualify, you may also qualify for cost-sharing reductions: a lower deductible, lower copayments or coinsurance, and a lower out-of-pocket maximum. You must pick a moderately priced plan to get these; they aren't available with the lowest cost plan.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "premium tax credit",
+        "cost-sharing reductions",
+        "household income",
+        "out-of-pocket maximum"
+      ],
+      "entities": [
+        "premium tax credit",
+        "cost-sharing reductions"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get a tax credit after losing employer coverage?",
+        "Do cost-sharing reductions work with the cheapest plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Check networks and drug lists on new plans",
+      "question": "What should I check before switching to a Marketplace plan?",
+      "text": "You may need to prove that you lost health insurance through your job, and when you apply the Marketplace will tell you if documents are needed. The page also advises checking that all your medical providers are still in network and confirming that all your prescriptions are covered under the new plan's drug formulary to avoid steep out-of-pocket costs, which is especially important with a chronic condition.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "proof of coverage loss",
+        "network",
+        "formulary",
+        "chronic condition",
+        "documents"
+      ],
+      "entities": [
+        "formulary",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Do I need proof that I lost my job coverage?",
+        "How do I make sure my doctors are covered on a new plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is COBRA coverage?",
+      "question": "What is COBRA health insurance?",
+      "text": "COBRA is insurance under federal law that allows you, your spouse and your dependents to stay on your former company's group health plan when your job ends. It applies to employers that have health coverage for at least 20 employees. Some states also have their own mini-COBRA laws for companies with fewer than 20 employees.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "cobra",
+        "continuation coverage",
+        "20 employees",
+        "mini-cobra",
+        "group health plan"
+      ],
+      "entities": [
+        "COBRA",
+        "Consolidated Omnibus Budget Reconciliation Act"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is COBRA?",
+        "Does COBRA apply to small employers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "COBRA costs, doctors and duration",
+      "question": "How much does COBRA cost and how long does it last?",
+      "text": "With COBRA you continue with the same health plan, keep your same doctors, and your prescriptions should still be covered under the existing formulary. But you pay 100% of the costs of the plan, including costs your employer previously paid: monthly premiums and possibly an additional 2% administrative fee. COBRA coverage can last from 18 to 36 months, depending on the qualifying event. If you've already met your deductible, you'll probably have fewer out-of-pocket costs.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "cobra cost",
+        "100 percent of premium",
+        "2% administrative fee",
+        "18 to 36 months",
+        "same doctors"
+      ],
+      "entities": [
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Why is COBRA so expensive?",
+        "How many months can I stay on COBRA?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term and TriTerm options between jobs",
+      "question": "How do short term and TriTerm plans work between jobs?",
+      "text": "Short term insurance can fill gaps until you choose a long-term solution. Standard short term plans cover 1 month up to nearly 1 year, while TriTerm plans extend to nearly 3 years, with term lengths varying by state. If you qualify, you may get covered as soon as the day after application for standard short term, or as soon as 5 days for TriTerm Medical, choose your deductible, and drop coverage with no penalty if a permanent option comes along.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "triterm medical",
+        "coverage start",
+        "deductible options",
+        "no penalty to cancel"
+      ],
+      "entities": [
+        "short term insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How fast can short term coverage start?",
+        "Can I cancel short term insurance without a penalty?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term network size",
+      "question": "How large is the network for short term and TriTerm plans?",
+      "text": "With short term and TriTerm Medical insurance, you can access an extensive network of health care professionals, with 1.8 million physicians and other health care professionals and approximately 7,200 hospitals and other facilities. Depending on your state, you can apply for another short term plan when the first one finishes, if needed.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "network",
+        "physicians",
+        "hospitals",
+        "renewal",
+        "short term"
+      ],
+      "entities": [
+        "short term insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many doctors are in the short term insurance network?",
+        "Can I get another short term plan after the first ends?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Short term versus Marketplace and COBRA requirements",
+      "question": "How is short term insurance different from COBRA or Marketplace plans?",
+      "text": "Unlike COBRA or Marketplace plans, short term insurance requires medical underwriting: plans generally do not cover preexisting conditions and you must answer a series of medical questions, with all covered family members needing to meet the medical requirements. Marketplace plans must cover 10 essential health benefits, including maternity and newborn care and mental health and substance abuse disorder services, while short term plans have no coverage requirements and may have limited prescription or preventive coverage.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "medical underwriting",
+        "essential health benefits",
+        "preexisting conditions",
+        "cobra",
+        "marketplace"
+      ],
+      "entities": [
+        "short term insurance",
+        "COBRA",
+        "essential health benefits"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Does short term insurance cover preexisting conditions?",
+        "Do short term plans cover maternity care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Who short term insurance may suit best",
+      "question": "Who is short term insurance a better option for?",
+      "text": "You may save money by choosing short term health insurance, but it needs to be the right choice for you. Given the underwriting and coverage limits, short term insurance is sometimes a better option for someone who's younger, in good health and doesn't anticipate needing frequent medical care.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "good health",
+        "savings",
+        "younger",
+        "infrequent care"
+      ],
+      "entities": [
+        "short term insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Is short term insurance a good idea if I'm healthy?",
+        "Will short term insurance save me money?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Coverage can change at the next open enrollment",
+      "question": "Can I change my coverage after choosing a temporary option?",
+      "text": "The page's bottom line is that if you are unemployed or underemployed, you have options and one of them will likely meet your current needs. When the next Open Enrollment Period comes around you can always change, and if you land a new job you may have new options through your employer.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "open enrollment",
+        "new job",
+        "change plans",
+        "unemployed"
+      ],
+      "entities": [
+        "open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I switch plans later after losing my job?",
+        "What happens when I get a new job with benefits?"
+      ]
+    }
+  ]
+}

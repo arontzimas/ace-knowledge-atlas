@@ -1,0 +1,159 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/irs-hsa-limits-2025",
+  "title": "Increased IRS HSA limits for 2025 announced",
+  "domain": "Employer Solutions",
+  "page_type": "news",
+  "summary": "Summarizes the IRS 2025 inflation-adjusted HSA contribution limits and HDHP minimum deductibles and out-of-pocket maximums, plus HSA and ACA rule interactions.",
+  "published": "2024-06-24",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/images/man-holding-stylus-and-gazing-at-tablet-1200x627.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Man holding stylus and gazing at tablet"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "IRS announces 2025 HSA and HDHP limits",
+      "question": "What did the IRS announce for 2025 HSA and HDHP limits?",
+      "text": "The Internal Revenue Service announced inflation-adjusted 2025 minimum deductibles, out-of-pocket maximums and contribution limits for health savings accounts (HSAs) and qualified high deductible health plans (HDHPs). The changes are effective on the employer's benefit plan year beginning Jan. 1, 2025, or later.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "hdhp",
+        "irs",
+        "2025",
+        "inflation-adjusted"
+      ],
+      "entities": [
+        "IRS",
+        "HSA",
+        "HDHP"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Awareness",
+      "questions": [
+        "What are the 2025 HSA limits?",
+        "When do the 2025 HSA changes take effect?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2025 HDHP minimum deductibles",
+      "question": "What is the minimum deductible for an HSA-qualified HDHP in 2025?",
+      "text": "For 2025, the minimum deductible is $1,650 for self-only coverage, a $50 increase from 2024. It is $3,300 for family coverage, a $100 increase, and $3,300 for an embedded individual deductible, also a $100 increase from 2024.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hdhp",
+        "minimum deductible",
+        "2025",
+        "self-only",
+        "family"
+      ],
+      "entities": [
+        "HDHP",
+        "HSA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Consideration",
+      "questions": [
+        "What is the HDHP minimum deductible for family coverage in 2025?",
+        "How much did the HDHP minimum deductible rise in 2025?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2025 HDHP out-of-pocket maximums",
+      "question": "What is the 2025 out-of-pocket maximum for an HSA-qualified HDHP?",
+      "text": "For 2025, the HDHP out-of-pocket maximum is $8,300 for self-only coverage, a $250 increase from 2024, and $16,600 for family coverage, a $500 increase. UnitedHealthcare advises being aware of the intersection of HSA and Affordable Care Act (ACA) rules; the 2025 ACA maximum is $9,200 for individual coverage, versus $9,450 in 2024.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hdhp",
+        "out-of-pocket maximum",
+        "hsa",
+        "aca",
+        "2025"
+      ],
+      "entities": [
+        "HSA",
+        "HDHP",
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Consideration",
+      "questions": [
+        "What is the 2025 HSA out-of-pocket maximum for families?",
+        "How do HSA and ACA out-of-pocket limits interact?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Embedded vs non-embedded OOP examples for 2025",
+      "question": "How do embedded and non-embedded out-of-pocket maximums affect HSA/ACA compliance?",
+      "text": "For one plan covering both self-only and family coverage with an embedded out-of-pocket maximum, the 2025 maximums are $8,300 for an individual and $16,600 for a family. With a non-embedded out-of-pocket maximum, the 2025 maximums are $8,300 for an individual and $9,200 for a family.",
+      "topic": "Regulatory & compliance",
+      "tags": [
+        "hsa",
+        "aca",
+        "embedded out-of-pocket",
+        "non-embedded",
+        "compliance"
+      ],
+      "entities": [
+        "HSA",
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Decision",
+      "questions": [
+        "What is the family OOP limit for a non-embedded HDHP in 2025?",
+        "What makes an HSA/ACA plan compliant?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2025 HSA contribution limits",
+      "question": "What are the 2025 HSA contribution limits?",
+      "text": "For 2025, the HSA contribution limit is $4,300 for self-only coverage, an increase of $150 from 2024, and $8,550 for family coverage, an increase of $250. The annual catch-up contribution amount for individuals ages 55 or older remains $1,000.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "hsa",
+        "contribution limits",
+        "2025",
+        "catch-up contribution",
+        "age 55"
+      ],
+      "entities": [
+        "HSA",
+        "IRS"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Stay compliant",
+      "stage": "Consideration",
+      "questions": [
+        "How much can I contribute to an HSA in 2025?",
+        "What is the HSA catch-up contribution for age 55 and older?"
+      ]
+    }
+  ]
+}

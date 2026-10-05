@@ -1,0 +1,144 @@
+{
+  "url": "https://www.uhc.com/individuals-families/health-plans-through-work/navigate",
+  "title": "UnitedHealthcare Navigate plans",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare Navigate employer-sponsored health plans, which require a primary care provider referral for specialist coverage and limit out-of-network coverage to emergencies.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What are Navigate plans?",
+      "question": "What is a UnitedHealthcare Navigate plan?",
+      "text": "With UnitedHealthcare Navigate health plans, you access your coverage and benefits with the guidance of a primary care provider (PCP). Your coverage requires a referral from your PCP before you see another physician or specialist in the network, and no coverage is provided without a referral.",
+      "topic": "Plans through work",
+      "tags": [
+        "navigate",
+        "pcp referral",
+        "specialist",
+        "primary care provider"
+      ],
+      "entities": [
+        "UnitedHealthcare Navigate",
+        "primary care provider"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a referral on a Navigate plan?",
+        "What is a Navigate health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Out-of-network coverage on Navigate plans",
+      "question": "Does a Navigate plan cover out-of-network care?",
+      "text": "Under UnitedHealthcare Navigate plans, out-of-network coverage is available only in the case of emergency care. Your coverage also requires a referral from your primary care provider (PCP) before you see another physician or specialist in the network, and no coverage is provided without a referral.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "navigate",
+        "out-of-network",
+        "emergency care",
+        "referral"
+      ],
+      "entities": [
+        "UnitedHealthcare Navigate"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is out-of-network care covered on Navigate?",
+        "What happens if I skip my PCP referral?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "The role of the PCP in Navigate plans",
+      "question": "How does a PCP help on a Navigate plan?",
+      "text": "With Navigate plans, PCPs get to know you and your medical history. They help coordinate care across a wide spectrum of health services and make sure you're getting the care you need when you need it.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "pcp",
+        "care coordination",
+        "medical history",
+        "navigate"
+      ],
+      "entities": [
+        "UnitedHealthcare Navigate",
+        "primary care provider"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does a primary care provider do in a Navigate plan?",
+        "Why do Navigate plans use a PCP?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Services covered by Navigate plans",
+      "question": "What services do Navigate plans cover?",
+      "text": "Navigate plans provide well-rounded coverage for many services, including preventive care, PCP and specialty office visits, lab, X-ray and diagnostic services, urgent care, emergency services, inpatient hospital services, rehabilitation and skilled nursing facility services, and mental health services. Online Health Assessment, Personal Health Record and Online Health Coaching modules are also included.",
+      "topic": "Plans through work",
+      "tags": [
+        "covered services",
+        "urgent care",
+        "inpatient",
+        "mental health",
+        "wellness resources"
+      ],
+      "entities": [
+        "UnitedHealthcare Navigate",
+        "Online Health Assessment"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Navigate cover urgent care?",
+        "What wellness tools come with Navigate plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Managing Navigate benefits in the app",
+      "question": "How do Navigate members manage their benefits?",
+      "text": "Navigate plan members can use the UnitedHealthcare app for instant access to see benefits, manage health plan details, find network providers and more. Members can also sign in to their member account or use a mobile browser.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "member account",
+        "manage benefits",
+        "find providers"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is there a mobile app for Navigate plan members?",
+        "How do I find providers on my Navigate plan?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos",
+  "title": "What are HMO, PPO, EPO, POS and HDHP health insurance plans?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Compares HMO, PPO, EPO and POS plans on network rules, referrals and preapprovals, and introduces HDHPs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/_jcr_content/root/regioncontainer-main/responsivegrid/container/image.coreimg.90.1280.jpeg/1728324759594/hmo-family-on-couch-desktop-912x560.jpeg",
+      "alt": "Family on a couch (HMO)"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy/image.coreimg.90.1280.jpeg/1728324760718/ppo-couple-on-beach-desktop-912x560.jpeg",
+      "alt": "Couple on a beach (PPO)"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/_jcr_content/root/regioncontainer-main/responsivegrid/container_copy_631111166/image.coreimg.90.1280.jpeg/1728324755867/epo-woman-with-dog-desktop-912x560.jpeg",
+      "alt": "Woman with a dog (EPO)"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/hmo-vs-ppo-video",
+      "alt": "HMO vs PPO"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Provider networks and plan acronyms",
+      "question": "Why do health plans use terms like network, HMO and PPO?",
+      "text": "People with health insurance, or shopping for coverage, likely come across the term network, or provider network, and acronyms like HMO, PPO, EPO, POS or HDHP. It may not be completely clear how choosing one over another changes access to medical care and may affect out-of-pocket costs. For many people with employer coverage, the choice comes down to which options are available.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "provider network",
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS",
+        "HDHP"
+      ],
+      "entities": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a provider network?",
+        "What do HMO, PPO and EPO stand for?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is an HMO plan?",
+      "question": "What is an HMO health plan?",
+      "text": "HMO plans typically require a person to choose a primary care physician (PCP) in the HMO network, who refers them to other network providers as needed. Care typically must come from providers in the HMO network to use plan benefits, and referrals from the doctor are needed before seeing specialists. Premiums are often lower because the defined network can help control costs, and these plans may offer low or no deductible options.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO",
+        "PCP",
+        "referral",
+        "network",
+        "lower premium"
+      ],
+      "entities": [
+        "HMO",
+        "primary care physician"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an HMO?",
+        "Are HMO premiums lower?",
+        "Do HMO plans need referrals?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a PPO plan?",
+      "question": "What is a PPO health plan?",
+      "text": "PPO plans tend to give more flexibility to choose preferred providers. A PPO creates a network of preferred providers, so a person gets the highest level of coverage with providers in the network. Choosing an out-of-network provider likely costs more. Premiums tend to be higher and are commonly paired with a deductible.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PPO",
+        "preferred providers",
+        "flexibility",
+        "higher premium",
+        "deductible"
+      ],
+      "entities": [
+        "PPO"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a PPO?",
+        "Do PPO plans cost more?",
+        "Can I see out-of-network doctors with a PPO?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is an EPO plan?",
+      "question": "What is an EPO health plan?",
+      "text": "EPO plans generally let a person see any network provider they choose, with no requirement to choose a primary care physician or get referrals to see a specialist (this refers to non-gated plans only). EPO plans do not offer out-of-network benefits. A person would likely pay higher deductibles and lower monthly payments compared to other plan types.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "EPO",
+        "non-gated",
+        "no referrals",
+        "out-of-network",
+        "deductible"
+      ],
+      "entities": [
+        "EPO"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an EPO?",
+        "Do EPO plans need referrals?",
+        "Does an EPO cover out-of-network care?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a POS plan?",
+      "question": "What is a point of service (POS) plan?",
+      "text": "A point of service (POS) plan is a health insurance plan that partners with a group of clinics, hospitals and doctors to provide care. A person pays less out of pocket for care within the plan's network. POS plans often require coordination with a primary care provider (PCP) for treatment and referrals, and most have some coverage for out-of-network care, often with a higher copay. They are like a combination of an HMO and PPO plan.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "POS",
+        "PCP",
+        "referral",
+        "out-of-network",
+        "HMO PPO hybrid"
+      ],
+      "entities": [
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a POS plan?",
+        "How is a POS different from an HMO?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is an HDHP?",
+      "question": "What is a high deductible health plan (HDHP)?",
+      "text": "With a high deductible health plan (HDHP), it is common to pay lower premiums in exchange for higher out-of-pocket costs. That means paying less each month but more when getting care, compared to other plans.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "HDHP",
+        "high deductible",
+        "lower premium",
+        "out-of-pocket"
+      ],
+      "entities": [
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an HDHP?",
+        "Does a high deductible plan have lower premiums?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "HMO vs. PPO vs. EPO vs. POS: network rules",
+      "question": "How do HMO, PPO, EPO and POS plans treat out-of-network care?",
+      "text": "HMO plans generally require in-network providers and typically allow out-of-network care in emergencies only. PPO plans usually include out-of-network care, though at a reduced level of coverage. EPO plans may restrict coverage to the plan network, with out-of-network coverage possibly only for emergencies. POS plans generally cover in-network care, and may authorize out-of-network services in limited cases, with less coverage than in-network.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "out-of-network",
+        "emergency",
+        "network",
+        "HMO",
+        "PPO",
+        "EPO"
+      ],
+      "entities": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Which plans cover out-of-network care?",
+        "Does an HMO cover out-of-network emergencies?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Referral and PCP rules by plan type",
+      "question": "Which plan types require a PCP or referrals?",
+      "text": "With most HMO plans, a person chooses a PCP and may need a referral to see a specialist. With PPO plans it is less likely a PCP or specialist referral is needed, though some plans may require them. EPO plans are less likely to require a PCP or referral, generally letting people see any in-network provider. POS plans often use a PCP to coordinate care, and need PCP referrals for specialists or out-of-network care.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "referral",
+        "PCP",
+        "specialist",
+        "HMO",
+        "PPO",
+        "EPO"
+      ],
+      "entities": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS",
+        "primary care physician"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a referral with a PPO?",
+        "Which plan doesn't require a primary care doctor?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "HMO vs. PPO vs. EPO vs. POS: preapprovals",
+      "question": "Which plan types require preapproval for services?",
+      "text": "HMO plans may require advance approval for certain services, often handled through the PCP. Almost every PPO network requires preapprovals for some services, and because a PPO allows more provider choice, more preapprovals may be needed. EPO plans more likely need preapprovals because no PCP oversees care. POS plans need preapproval for some services, though a PCP will often handle it.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "preapproval",
+        "prior authorization",
+        "PCP",
+        "PPO",
+        "EPO"
+      ],
+      "entities": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do PPO plans require preapproval?",
+        "Who handles preapproval in an HMO?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "How providers are paid by plan type",
+      "question": "How are doctors paid under HMO, PPO, EPO and POS plans?",
+      "text": "HMO providers either work for the HMO or contract for set rates. PPO networks include providers and facilities that negotiated lower rates, and PPO plans have access to those rates. EPO providers are paid per service; they do not work for or contract with the EPO carrier for a set rate, but have negotiated lower rates for plan members. POS network providers have negotiated rates for members.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "negotiated rates",
+        "provider payment",
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS"
+      ],
+      "entities": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do doctors get paid in an HMO?",
+        "What are negotiated rates?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term coverage can start next day",
+      "question": "Can I get coverage quickly if I need it now?",
+      "text": "UnitedHealthcare describes short term health insurance underwritten by Golden Rule Insurance Company as a fast, flexible solution for temporary coverage. It provides access to large nationwide provider networks through UnitedHealthcare, and coverage can be available as soon as the next day in many cases.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "Golden Rule",
+        "temporary coverage",
+        "next-day coverage"
+      ],
+      "entities": [
+        "short term health insurance",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How fast can short term coverage start?",
+        "Who underwrites UnitedHealthcare short term plans?"
+      ]
+    }
+  ]
+}

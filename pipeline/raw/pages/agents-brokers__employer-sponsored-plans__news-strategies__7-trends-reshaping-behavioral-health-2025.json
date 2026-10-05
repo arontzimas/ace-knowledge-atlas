@@ -1,0 +1,261 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/7-trends-reshaping-behavioral-health-2025",
+  "title": "7 trends reshaping behavioral health care for employers",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Summarizes seven 2025 trends in behavioral health, from rising utilization and whole-person care to AI, youth mental health, home-based care and ROI expectations.",
+  "published": "2025-05-09",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/7-trends-reshaping-behavioral-health-2025/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1746205016398/woman-in-living-room-on-phone-1200x627.jpeg",
+      "alt": "Woman in living room on phone"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Behavioral health is at an inflection point",
+      "question": "Why is behavioral health at an inflection point for employers?",
+      "text": "UnitedHealthcare says behavioral health is at an inflection point: demand is rising, digital tools are proliferating, and expectations from patients and employers are shifting fast. Employers want solutions that make the path to care simpler, help employees access support earlier and drive more meaningful results. The article describes 7 trends defining behavioral health in 2025.",
+      "topic": "Behavioral health",
+      "tags": [
+        "behavioral health",
+        "trends",
+        "2025",
+        "employer benefits",
+        "digital tools"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the biggest behavioral health trends for employers in 2025?",
+        "Why is behavioral health demand rising?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "More people seek behavioral health care earlier",
+      "question": "How many Americans are expected to use behavioral health services?",
+      "text": "Declining stigma is leading to a sustained rise in first-time users of behavioral health benefits, particularly among young people and families. An estimated 25% of Americans will access behavioral health services by 2026, while more than a third of Americans live in areas with mental health professional shortages and 6,200+ professionals are needed. About 50% of members seeking support could be good candidates for virtual behavioral coaching as an alternative to therapy.",
+      "topic": "Behavioral health",
+      "tags": [
+        "behavioral health",
+        "utilization",
+        "provider shortage",
+        "virtual coaching",
+        "stigma"
+      ],
+      "entities": [
+        "Calm Health"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What percent of Americans will use behavioral health services?",
+        "Can virtual coaching replace therapy for some people?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Whole-person care is becoming the norm",
+      "question": "How is behavioral health care becoming more integrated with physical health?",
+      "text": "The industry is moving away from siloed treatment models toward approaches that connect behavioral and physical health, driven by awareness of how mental health affects chronic conditions, medication adherence and overall well-being. Models integrating behavioral support with primary care and chronic condition management are becoming the new standard, and 3 in 4 surveyed employees agreed their employer has a responsibility to make sure they are physically, mentally and emotionally well.",
+      "topic": "Behavioral health",
+      "tags": [
+        "whole-person health",
+        "integrated care",
+        "chronic conditions",
+        "primary care",
+        "employer responsibility"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why are behavioral and physical health being integrated?",
+        "Do employees expect employers to support mental well-being?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "AI is reshaping access to behavioral health care",
+      "question": "How is AI changing behavioral health care?",
+      "text": "Artificial intelligence is changing how people find, begin and stay engaged in behavioral health care, through tools such as predictive analytics, automated triage and natural language processing. UnitedHealthcare says AI is not replacing clinicians but supporting them; used responsibly with human oversight, it can surface needs earlier, streamline care pathways and ease administrative burden such as scheduling.",
+      "topic": "Behavioral health",
+      "tags": [
+        "artificial intelligence",
+        "automated triage",
+        "care pathways",
+        "human oversight",
+        "access"
+      ],
+      "entities": [
+        "AI",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Will AI replace therapists?",
+        "How is AI used to help people find behavioral health care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Youth mental health is at a tipping point",
+      "question": "What is driving the youth mental health crisis?",
+      "text": "The youth mental health crisis continues to deepen, driven by digital pressures, academic stress and post-pandemic disruptions. Long wait times for therapy and a shortage of pediatric specialists are prompting a shift toward earlier, more scalable support for families. Dr. Donald Tavakoli, national medical director of behavioral health for UnitedHealthcare, says solutions must meet young people where they are, whether through digital resources, therapists, schools or community organizations.",
+      "topic": "Behavioral health",
+      "tags": [
+        "youth mental health",
+        "pediatric specialists",
+        "wait times",
+        "families",
+        "college"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why is youth mental health getting worse?",
+        "What support exists for young people with mental health challenges?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Behavioral health is moving closer to home",
+      "question": "How much care is moving to home settings, and what is the top telehealth category?",
+      "text": "The shift from facility-based to home-based care is accelerating. Up to $265B in services were expected to move to home settings by 2025, and behavioral health is leading that move. From January to June 2024, mental health conditions ranked as the number one telehealth diagnostic category nationwide, which can remove logistical barriers and improve engagement for employees.",
+      "topic": "Behavioral health",
+      "tags": [
+        "home-based care",
+        "telehealth",
+        "mental health",
+        "$265b",
+        "engagement"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the most common telehealth diagnosis?",
+        "How much care is moving to the home?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Employers want ROI from behavioral health",
+      "question": "What return do employers expect from behavioral health benefits?",
+      "text": "Employers are looking beyond access and want to know their behavioral health offerings are working, which means clear navigation, measurable outcomes and solutions that demonstrate value. As usage rises, so does the need for programs that deliver return on investment, such as better retention, reduced absenteeism and improved employee satisfaction.",
+      "topic": "Behavioral health",
+      "tags": [
+        "roi",
+        "behavioral health",
+        "retention",
+        "absenteeism",
+        "outcomes"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do employers measure ROI on mental health benefits?",
+        "What outcomes should behavioral health programs deliver?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Investment surge in behavioral health",
+      "question": "How much investment is flowing into behavioral health?",
+      "text": "Private equity investments accounted for 60% of all behavioral health deals in recent years, and 90% in autism care alone. $1.4B was invested in the digital behavioral health space in 2024 alone. UnitedHealthcare says this creates a dynamic but potentially confusing landscape and underscores the importance of choosing a carrier or vendors with a track record of delivering results, not just rapid growth.",
+      "topic": "Behavioral health",
+      "tags": [
+        "private equity",
+        "digital behavioral health",
+        "investment",
+        "vendors",
+        "autism care"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How much private equity is in behavioral health?",
+        "How should employers choose a behavioral health vendor?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Behavioral health as a core benefit",
+      "question": "Is behavioral health still considered a fringe benefit?",
+      "text": "UnitedHealthcare says behavioral health is no longer a fringe benefit. It describes it as a core part of whole-person health and workforce well-being, business continuity and employee retention. The 2025 trends create new challenges and opportunities for employers to reimagine how they support mental health, starting with clarity, access and care that truly works.",
+      "topic": "Behavioral health",
+      "tags": [
+        "behavioral health",
+        "core benefit",
+        "whole-person health",
+        "retention",
+        "well-being"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why should employers treat mental health as a core benefit?",
+        "What is the future of workplace behavioral health?"
+      ]
+    }
+  ]
+}

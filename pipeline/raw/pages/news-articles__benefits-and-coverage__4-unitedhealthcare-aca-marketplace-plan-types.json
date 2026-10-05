@@ -1,0 +1,180 @@
+{
+  "url": "https://www.uhc.com/news-articles/benefits-and-coverage/4-unitedhealthcare-aca-marketplace-plan-types",
+  "title": "4 Affordable Care Act Marketplace plans from UnitedHealthcare",
+  "domain": "Individual & Family",
+  "page_type": "article",
+  "summary": "Article describing four UnitedHealthcare Individual & Family ACA Marketplace plan types, Essential, Value, Advantage and Copay Focus, with premium and deductible levels and who each may suit.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/benefits-and-coverage/4-unitedhealthcare-aca-marketplace-plan-types/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image_copy.coreimg.90.1280.jpeg/1728325014386/5-unitedhealthcare-aca-marketplace-plan-types.jpeg",
+      "alt": "UnitedHealthcare ACA Marketplace plan types"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Four UnitedHealthcare ACA plan types",
+      "question": "What types of ACA Marketplace plans does this article describe?",
+      "text": "Everyone has different health care needs, so UnitedHealthcare Individual & Family ACA Marketplace plans come in several plan types to fit your lifestyle and budget. This article describes four types: Essential, Value, Advantage and Copay Focus, each with its own mix of premium and deductible.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan types",
+        "essential",
+        "value",
+        "advantage",
+        "copay focus"
+      ],
+      "entities": [
+        "Essential",
+        "Value",
+        "Advantage",
+        "Copay Focus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the UnitedHealthcare ACA plan types?",
+        "How do I choose among ACA plan types?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "The Essential plan",
+      "question": "What is the UnitedHealthcare Essential ACA plan?",
+      "text": "The Essential plan is a high-deductible plan with basic coverage for serious illness or injury, shown as premium $ and deductible $$$$. You pay a lower monthly premium but more when you get care, so it fits people who rarely see a provider but want a low-cost way to protect against worst-case scenarios. Essential plans are available only at the Bronze metal level and only when shopping off-exchange directly from UnitedHealthcare or through a licensed insurance agent.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "essential plan",
+        "high deductible",
+        "bronze",
+        "off-exchange",
+        "low premium"
+      ],
+      "entities": [
+        "Essential",
+        "Bronze"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is the Essential plan on the Marketplace?",
+        "Who is a high-deductible Bronze plan good for?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "The Value plan",
+      "question": "What is the UnitedHealthcare Value ACA plan?",
+      "text": "The Value plan is shown as premium $$ and deductible $$. It offers a low or even $0 monthly premium, a moderate deductible, and a mix of copays and coinsurance when you get care. Some Value plans offer a Health Savings Account (HSA) option. It may fit people who see a provider regularly and want more benefits covered than an Essential plan, and it is available in all markets on all metal levels.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "value plan",
+        "hsa option",
+        "moderate deductible",
+        "$0 premium",
+        "all metal levels"
+      ],
+      "entities": [
+        "Value",
+        "Health Savings Account"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do Value plans have an HSA option?",
+        "Can I get a $0 premium on a Value plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "The Advantage plan",
+      "question": "What is the UnitedHealthcare Advantage ACA plan?",
+      "text": "The Advantage plan is shown as premium $$$ and deductible $. You invest in a higher monthly premium to benefit from a lower deductible, pay manageable copays for many services, and reach your low deductible faster. It is a good match if you see your provider often and are willing to pay a little more each month to pay less when you get care. Advantage plans are available in most markets on Silver and Gold metal levels.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "advantage plan",
+        "low deductible",
+        "silver",
+        "gold",
+        "copays"
+      ],
+      "entities": [
+        "Advantage",
+        "Silver",
+        "Gold"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Which ACA plan has a low deductible?",
+        "Are Advantage plans available in Silver and Gold?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "The Copay Focus plan",
+      "question": "What is the UnitedHealthcare Copay Focus ACA plan?",
+      "text": "Copay Focus plans are shown as premium $$$$ with no deductible. They are designed to help you know what your care may cost before you head to the provider. You pay a moderate premium and have a $0 medical deductible, so the plan begins to pay its portion from day one, and you pay fixed copays when you get care. A deductible may apply for some prescription drug benefits. Copay Focus plans are available in all metal levels.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "copay focus",
+        "$0 deductible",
+        "fixed copays",
+        "predictable costs",
+        "all metal levels"
+      ],
+      "entities": [
+        "Copay Focus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Which ACA plan has fixed copays?",
+        "Does Copay Focus have a deductible for prescriptions?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Qualifying for a $0 monthly premium",
+      "question": "What is required to get a $0 monthly premium?",
+      "text": "The article notes that to qualify for a $0 monthly premium you must meet household income requirements for Advanced Premium Tax Credits. It mentions a low or even $0 monthly premium in connection with Value plans.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "$0 premium",
+        "advanced premium tax credits",
+        "household income",
+        "value plan"
+      ],
+      "entities": [
+        "Advanced Premium Tax Credits",
+        "Value"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "How do I get a $0 premium ACA plan?",
+        "Does a $0 premium depend on income?"
+      ]
+    }
+  ]
+}

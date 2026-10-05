@@ -1,0 +1,185 @@
+{
+  "url": "https://www.uhc.com/",
+  "title": "Health insurance plans",
+  "domain": "Health Insurance Basics",
+  "page_type": "hub",
+  "summary": "UnitedHealthcare's homepage introduces its Medicare, Medicaid, individual and family, employer and supplemental plans, member tools and health insurance basics.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/blog/en/home-pg-top-banner-desktop-3840x1086.jpg",
+      "alt": "UnitedHealthcare homepage top banner"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6402484580112-Thumbnail.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Why UnitedHealthcare Team Members Care"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Plans for every stage of life",
+      "question": "What types of plans does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare's homepage invites visitors to shop plans for every stage of life in four categories: Medicare, Medicaid, Individual & family, and Employers. Visitors can use the Shop for a plan option to find a plan, or sign in as a member to view their benefits. UnitedHealthcare describes its plans as made to deliver what matters, from quality coverage to caring support.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "plan categories",
+        "medicare",
+        "medicaid",
+        "individual and family",
+        "employer plans"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What kinds of health plans does UnitedHealthcare sell?",
+        "Where do I shop for a UnitedHealthcare plan?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Four categories of UnitedHealthcare plans",
+      "question": "How do UnitedHealthcare's plan categories differ?",
+      "text": "UnitedHealthcare groups its coverage into four categories. Health insurance plans are individual and family options, including ACA Marketplace plans. Medicare plans offer coverage that goes beyond Original Medicare, including Medicare Advantage plans. Medicaid plans are for people with low income or who qualify due to a special circumstance. Dental, vision and supplemental plans can help with medical costs not covered by a medical plan.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "plan categories",
+        "aca marketplace",
+        "medicare advantage",
+        "medicaid",
+        "supplemental plans"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Medicare Advantage",
+        "Original Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Medicare shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between individual, Medicare and Medicaid plans?",
+        "What do supplemental plans cover?",
+        "Which UnitedHealthcare plan is for people with low income?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Members can sign in or use the app",
+      "question": "How can UnitedHealthcare members manage their plan online?",
+      "text": "UnitedHealthcare members can sign in to their account to view plan benefits. The UnitedHealthcare app gives members instant access to manage health plan details, request member ID cards, find care and more.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member sign in",
+        "mobile app",
+        "member id card",
+        "plan management"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I get my UnitedHealthcare member ID card?",
+        "What can I do in the UnitedHealthcare app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Wellness and rewards programs",
+      "question": "Does UnitedHealthcare offer wellness or rewards programs?",
+      "text": "UnitedHealthcare offers wellness and rewards programs for people who want to invest in their health and find motivation and support. The homepage says members may earn rewards for meeting health goals, and it links to a page where visitors can explore these wellness and rewards programs.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "wellness programs",
+        "rewards",
+        "health goals",
+        "member benefits"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I earn rewards for healthy habits with my health plan?",
+        "What wellness programs does UnitedHealthcare have?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Where to learn health insurance basics",
+      "question": "Where can I learn the basics of health insurance?",
+      "text": "UnitedHealthcare's homepage answers common health insurance questions by linking to dedicated guides: what health insurance is, how it works, how to get it through open enrollment, the different types of health insurance, how much it costs, and what it covers, starting with how to review a Summary of Benefits and Coverage. It also links to a broader health insurance learning hub and to an article on how the health system works.",
+      "topic": "How insurance works",
+      "tags": [
+        "health insurance basics",
+        "open enrollment",
+        "summary of benefits and coverage",
+        "insurance costs"
+      ],
+      "entities": [
+        "Summary of Benefits and Coverage",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is health insurance and how does it work?",
+        "How do I get health insurance?",
+        "How much does health insurance cost?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare's care-first approach",
+      "question": "What does UnitedHealthcare say it stands for?",
+      "text": "UnitedHealthcare says it puts care at the heart of health insurance, guided by empathy, transparency and human connection. It states that better care comes from understanding what people need and making quality care more personal, and it describes itself as a healthcare partner people can rely on.",
+      "topic": "How insurance works",
+      "tags": [
+        "company mission",
+        "care",
+        "transparency",
+        "member support"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is UnitedHealthcare's mission?",
+        "What values guide UnitedHealthcare?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace/aca-changes",
+  "title": "What's changing for ACA Marketplace plans in 2027?",
+  "domain": "Individual & Family",
+  "page_type": "article",
+  "summary": "Explains two expected 2027 ACA Marketplace changes: loss of premium tax credit eligibility for some lawfully present immigrants, and Special Enrollment Periods limited to people with a qualifying life event.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/aca-marketplace/aca-changes/_jcr_content/root/regioncontainer-main/responsivegrid/container_1825900660/container/image.coreimg.90.1280.png/1788189970670/redetermination-chat-bubbles-576x324-desktop.png",
+      "alt": "Illustration of chat bubbles"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Two major 2027 ACA Marketplace changes",
+      "question": "What major changes are coming to ACA Marketplace plans in 2027?",
+      "text": "UnitedHealthcare expects 2 major changes that could impact ACA members. First, some people who were able to get a premium tax credit will no longer be eligible. Second, starting in 2027, you'll need a qualifying life event to enroll during a Special Enrollment Period, and this applies to everyone, including people with low income.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "2027 changes",
+        "premium tax credit",
+        "special enrollment period",
+        "qualifying life event",
+        "aca"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "premium tax credit",
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is changing with ACA plans in 2027?",
+        "Will my ACA subsidy change next year?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Premium tax credit change for some immigrants",
+      "question": "Who loses premium tax credit eligibility in 2027?",
+      "text": "Lawfully present immigrants who do not have a Green Card are no longer eligible for a premium tax credit toward ACA Marketplace plan premiums, though in certain instances some may still qualify. The change may affect immigrants in the U.S. on a work or student visa, with Asylee or Refugee status, or under Temporary Protected Status (TPS). In many cases they will no longer receive the credit they had in the past.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "premium tax credit",
+        "immigrants",
+        "green card",
+        "visa",
+        "tps",
+        "refugee"
+      ],
+      "entities": [
+        "premium tax credit",
+        "Temporary Protected Status",
+        "Asylee",
+        "Refugee status"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can immigrants without a Green Card get ACA subsidies in 2027?",
+        "Does a work visa qualify for a premium tax credit?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can lawfully present immigrants still buy ACA plans?",
+      "question": "If I'm lawfully in the U.S. without a Green Card, can I still get an ACA Marketplace plan?",
+      "text": "Yes. If you're an immigrant who is in the U.S. lawfully but you don't have a Green Card, you can still get a health plan through the ACA Marketplace. UnitedHealthcare advises looking carefully at your plan options when choosing a plan, because your premiums will change if you no longer qualify for a premium tax credit.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "green card",
+        "lawfully present",
+        "premiums",
+        "marketplace eligibility"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "premium tax credit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I buy Marketplace insurance without a Green Card?",
+        "Will my premium go up if I lose my tax credit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No more income-based Special Enrollment Period in 2027",
+      "question": "Is there still an income-based Special Enrollment Period?",
+      "text": "In previous years, people with income below a certain level could get a Special Enrollment Period (SEP) and enroll in an ACA Marketplace plan any time of year. For 2027 you'll no longer have access to a permanent SEP based on income. You may still enroll during an SEP if you have a qualifying life event.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "special enrollment period",
+        "low income",
+        "qualifying life event",
+        "2027",
+        "enrollment"
+      ],
+      "entities": [
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can low-income people still enroll any time of year?",
+        "Did the income-based SEP end?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When you can sign up for a 2027 plan",
+      "question": "When can I sign up for a 2027 ACA Marketplace plan?",
+      "text": "Outside of qualified life-changing events, like getting married or changing jobs, you can only sign up for a 2027 ACA Marketplace plan during the open enrollment period. Open enrollment runs November 1 to January 15 in most states.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "november 1",
+        "january 15",
+        "2027",
+        "qualifying life event"
+      ],
+      "entities": [
+        "open enrollment"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "When is ACA open enrollment for 2027?",
+        "Can I enroll after January 15?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What to do about the 2027 enrollment change",
+      "question": "What should I do to prepare for the 2027 enrollment rule?",
+      "text": "Check your state's open enrollment period dates to know your exact enrollment deadline. Even if your income gave you flexibility in your plan enrollment deadline in previous years, that won't be the case now, because there is no longer a Special Enrollment Period based on low-income status.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "enrollment deadline",
+        "state dates",
+        "open enrollment",
+        "low income"
+      ],
+      "entities": [
+        "open enrollment",
+        "Special Enrollment Period"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I find my state's open enrollment deadline?",
+        "What should I do before open enrollment ends?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Where to get help with ACA plan changes",
+      "question": "Who can I call with questions about 2027 ACA changes?",
+      "text": "For questions about a current UnitedHealthcare ACA Marketplace plan, call the number on the back of your health plan ID card to speak with a member service advocate. Shoppers can explore plan options, get estimates and enroll online, or call a licensed insurance agent for 1-on-1 help at 1-800-557-6718, TTY 711.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "member service",
+        "licensed agent",
+        "plan id card",
+        "enroll online"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How do I talk to someone about my ACA plan?",
+        "Can an agent help me enroll?"
+      ]
+    }
+  ]
+}

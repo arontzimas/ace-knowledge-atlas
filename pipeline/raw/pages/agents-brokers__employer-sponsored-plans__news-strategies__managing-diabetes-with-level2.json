@@ -1,0 +1,309 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/managing-diabetes-with-level2",
+  "title": "Leveling up type 2 diabetes care while managing spend",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Explains the impact of type 2 diabetes on employers and describes the Level2 program, Surest and UHC Hub options, with client results.",
+  "published": "2026-06-12",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/managing-diabetes-with-level2/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1762353737872/woman-with-insulin-pump-1200x627.jpeg",
+      "alt": "Woman with insulin pump"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/managing-diabetes-with-level2/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/container_1398361057/grid_copy_copy_copy_/container_2111132048/contentwithbackgroun/image_copy.coreimg.90.1280.png/1780415902266/tl-wholeperson-chronic-condition-diabetes-flier-400x466.png",
+      "alt": "Diabetes snapshot"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6346794600112-thumbnail.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "alt": "Gurley Leep case study video"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/pdfs/tl-wholeperson-chronic-condition-diabetes-flier-lr.pdf",
+      "alt": "Download diabetes snapshot (pdf)"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "More than 40.1M Americans have diabetes",
+      "question": "How many Americans have diabetes?",
+      "text": "More than 40.1M Americans are living with diabetes, a condition that impairs the body's ability to regulate blood sugar through the interplay of genetics, hormonal factors, physical inactivity and diet. Around 90 to 95% of people with diabetes have type 2. Long-term complications raise the risk of heart disease, stroke, blindness, kidney failure and amputation due to nerve damage in the extremities.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "type 2 diabetes",
+        "prevalence",
+        "complications",
+        "chronic condition"
+      ],
+      "entities": [
+        "type 2 diabetes"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many people in the U.S. have diabetes?",
+        "What percent of diabetes is type 2?",
+        "What complications come with type 2 diabetes?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Diabetes costs $413B a year",
+      "question": "How much does diabetes cost the U.S. each year?",
+      "text": "The annual medical and economic cost of diabetes is $413B, with the average per-member cost reaching $1,045. For employers, these numbers represent growing pressure on workforce health and organizational cost, but employers can also play a vital role in managing these pressures while supporting employees who have diabetes.",
+      "topic": "Cost management",
+      "tags": [
+        "diabetes cost",
+        "$413B",
+        "per-member cost",
+        "employer cost"
+      ],
+      "entities": [
+        "type 2 diabetes"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "What is the cost of diabetes to employers?",
+        "What is the average per-member cost of diabetes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Whole-person approach to diabetes",
+      "question": "How can employers take a whole-person approach to diabetes?",
+      "text": "UnitedHealthcare says employers can help manage the spike in diabetes by embracing a whole-person health approach. Dr. Rhonda Randall, Chief Medical Officer of UnitedHealthcare Employer & Individual, notes that type 2 diabetes and its warning sign, prediabetes, are sweeping across the country, and that with lifestyle modification and clinical support this can be reversed.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "whole-person health",
+        "prediabetes",
+        "lifestyle modification",
+        "clinical support"
+      ],
+      "entities": [
+        "type 2 diabetes",
+        "prediabetes"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a whole-person approach to chronic conditions?",
+        "Can type 2 diabetes be reversed?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What the Level2 program is",
+      "question": "What is the Level2 program from UnitedHealthcare?",
+      "text": "Level2 from UnitedHealthcare is a clinical model, compatible with existing UnitedHealthcare health plans, built to change the cost trajectory of type 2 diabetes. It gives members the tools, guidance and care they need to work toward improving their condition while giving employers the financial confidence to act.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "Level2",
+        "type 2 diabetes",
+        "clinical model",
+        "employer program"
+      ],
+      "entities": [
+        "Level2",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is Level2?",
+        "Does Level2 work with my UnitedHealthcare plan?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How Level2 works",
+      "question": "How does the Level2 diabetes program work?",
+      "text": "1) After joining, participants receive a prescribed continuous glucose monitor (CGM) at no cost. 2) CGM data informs Level2 provider-led care teams of physicians, nurses, dietitians and coaches, who offer one-on-one personalized guidance. 3) Personalized care aims to help participants form healthier habits, with the goal of lowering average blood glucose, improving their condition and even pursuing remission as defined by the American Diabetes Association.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "Level2",
+        "continuous glucose monitor",
+        "CGM",
+        "care team",
+        "remission"
+      ],
+      "entities": [
+        "Level2",
+        "continuous glucose monitor",
+        "American Diabetes Association"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do Level2 participants get a glucose monitor?",
+        "Who is on a Level2 care team?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Level2 reconciles fees against outcomes",
+      "question": "How does Level2 reduce financial risk for employers?",
+      "text": "Because the cost and financial risk of adding a new program can be a barrier, Level2 aims to reduce that risk by reconciling 100% of program fees against actual clinical outcomes and actual medical and pharmacy claims. The Level2 team is also expanding capabilities to proactively help employees living with prediabetes or extra weight, which can be precursors to type 2 diabetes.",
+      "topic": "Cost management",
+      "tags": [
+        "Level2",
+        "fee reconciliation",
+        "financial risk",
+        "prediabetes",
+        "outcomes"
+      ],
+      "entities": [
+        "Level2"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "Is Level2 guaranteed by results?",
+        "Does Level2 cover prediabetes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Surest diabetes reversal program and ER results",
+      "question": "How does Surest support members with type 2 diabetes?",
+      "text": "The Surest health plan includes a diabetes reversal program that educates members dealing with a type 2 diabetes diagnosis. Surest also offers member support through its Clinical Advocacy team and provides upfront pricing and coverage choices. Surest members with type 2 diabetes had 13% fewer ER visits than non-Surest members, through effective early management and preventive care.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "Surest",
+        "diabetes reversal",
+        "ER visits",
+        "upfront pricing",
+        "clinical advocacy"
+      ],
+      "entities": [
+        "Surest",
+        "Clinical Advocacy"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Surest have a diabetes program?",
+        "How do Surest members with diabetes use the ER?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UHC Hub and Dario for diabetes support",
+      "question": "What other diabetes support options can employers add?",
+      "text": "UHC Hub gives employers a platform to select from a portfolio of vendors, including lifestyle and specialized health and wellness vendors. Dario delivers personalized digital health programs to help manage diabetes, blood pressure, weight, posture and mental wellness, and is available through UHC Store, a digital shop exclusive to UnitedHealthcare members via the UnitedHealthcare app and myuhc.com.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "UHC Hub",
+        "Dario",
+        "UHC Store",
+        "digital health",
+        "vendors"
+      ],
+      "entities": [
+        "UHC Hub",
+        "Dario",
+        "UHC Store",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is Dario?",
+        "What is UHC Hub?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Gurley Leep results: 97% activation, 51% less insulin",
+      "question": "What results did an employer see with Level2?",
+      "text": "In a case study, Gurley Leep Automotive Family offered Level2 to employees with type 2 diabetes. The company saw 97% activation of the program, 91% of those employees connected to their CGM, and a 51% decrease in insulin usage among type 2 diabetic employees engaged in the program.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "Level2",
+        "case study",
+        "activation",
+        "insulin usage",
+        "Gurley Leep"
+      ],
+      "entities": [
+        "Level2",
+        "Gurley Leep Automotive Family"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Decision",
+      "questions": [
+        "What is the Level2 participation rate?",
+        "Did Level2 reduce insulin use?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Large client results after one year of Level2",
+      "question": "What were the one-year results of Level2 for a large client?",
+      "text": "For a larger UnitedHealthcare client, one year of Level2 data showed 12.8% per member, per month realized claims savings versus the projected 2024 cost trend, a 0.73 reduction in average glucose management indicator (GMI) among participants with a lab A1C within 6 months of joining, 20% lower inpatient admissions, and an 85 Net Promoter Score.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "Level2",
+        "claims savings",
+        "GMI",
+        "inpatient admissions",
+        "Net Promoter Score"
+      ],
+      "entities": [
+        "Level2",
+        "glucose management indicator"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "What savings does Level2 deliver?",
+        "How much did Level2 lower glucose levels?"
+      ]
+    }
+  ]
+}

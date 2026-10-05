@@ -1,0 +1,274 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/dental-ppo-vs-dental-hmo",
+  "title": "Dental PPO vs. dental HMO insurance plans",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "article",
+  "summary": "Compares dental PPO and dental HMO insurance plans, including a side-by-side table and pros and cons of each.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/dental-ppo-vs-dental-hmo/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1730758417952/dentalppo-hmo-dentist-consult-desktop-816x540.jpeg",
+      "alt": "Dentist consulting with a patient"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "Dental HMO and dental PPO plans",
+      "question": "What are the two most common types of dental insurance?",
+      "text": "Dental health maintenance organization (DHMO) and dental preferred provider organization (DPPO) plans are the two most common dental insurance plans. UnitedHealthcare says one option is not better than the other; each type has its own advantages and limitations.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental hmo",
+        "dental ppo",
+        "dhmo",
+        "dppo",
+        "types of dental insurance"
+      ],
+      "entities": [
+        "Dental PPO",
+        "Dental HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the types of dental insurance?",
+        "Is dental PPO or HMO better?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Dental PPO versus dental HMO at a glance",
+      "question": "What is the difference between PPO and HMO dental insurance?",
+      "text": "A dental PPO is best for more control and flexibility, with higher premiums, a broad network, partial out-of-network reimbursement that likely costs less with a network provider, no primary care dentist or specialist referral required, an annual maximum, and sometimes a copay. A dental HMO is best for affordability, with lower premiums, a smaller network, no out-of-network coverage, a required primary care dentist and referrals, no annual maximum, and copays.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental ppo",
+        "dental hmo",
+        "premiums",
+        "annual maximum",
+        "referral"
+      ],
+      "entities": [
+        "Dental PPO",
+        "Dental HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Dental PPO vs HMO comparison",
+        "Which dental plan has an annual maximum?",
+        "Do dental HMO plans require referrals?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a dental PPO plan is",
+      "question": "What is dental PPO insurance?",
+      "text": "A dental preferred provider organization (DPPO) plan is a type of insurance that offers members broad access to pre-selected providers. These dentists and specialists have already agreed to participate in the insurance company's network, which usually makes it cheaper and easier to see providers within that network.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental ppo",
+        "network dentists",
+        "preferred provider organization",
+        "in-network"
+      ],
+      "entities": [
+        "Dental PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does PPO mean for dental insurance?",
+        "How does a dental PPO work?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of dental PPO plans",
+      "question": "What are the pros of a dental PPO plan?",
+      "text": "UnitedHealthcare lists four pros of dental PPO plans: greater flexibility in choosing a dentist, since members can visit network or out-of-network providers; lower costs for services, with deeper discounts for in-network care; no referral required to see a specialist; and possible partial reimbursement for out-of-network services, depending on the plan.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental ppo",
+        "flexibility",
+        "no referral",
+        "out-of-network reimbursement"
+      ],
+      "entities": [
+        "Dental PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I see any dentist with a PPO?",
+        "Do I need a referral to see a dental specialist on a PPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Drawbacks of dental PPO plans",
+      "question": "What are the cons of a dental PPO plan?",
+      "text": "Cons of dental PPO plans include higher monthly premiums than HMO plans, in exchange for flexibility and more options. A PPO plan requires meeting a deductible, a set amount paid for dental care before benefits start to pay, which resets every 12 months. Coinsurance, a percentage of the cost of a procedure, also tends to be higher with PPO dental plans than with HMO plans.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental ppo",
+        "higher premiums",
+        "deductible",
+        "coinsurance"
+      ],
+      "entities": [
+        "Dental PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do dental PPO plans have a deductible?",
+        "Are dental PPO premiums higher than HMO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When a dental PPO may be right for you",
+      "question": "Is PPO dental insurance right for me?",
+      "text": "A dental PPO plan is a good choice for someone who wants more flexibility in choosing a provider and the ability to see a specialist without a referral. UnitedHealthcare adds that if a person knows they will need more care in the coming year and can budget for higher premiums, a PPO dental plan might be right for them.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental ppo",
+        "who should choose",
+        "flexibility",
+        "budget"
+      ],
+      "entities": [
+        "Dental PPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Should I choose a PPO dental plan?",
+        "Who is a dental PPO best for?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a dental HMO plan is",
+      "question": "What is dental HMO insurance?",
+      "text": "A dental health maintenance organization (DHMO) is a budget-oriented plan designed to help lower the cost of care. These plans emphasize preventive care and prioritize regular check-ups with a primary dental facility or provider.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental hmo",
+        "dhmo",
+        "preventive care",
+        "budget-oriented",
+        "primary dentist"
+      ],
+      "entities": [
+        "Dental HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does HMO mean for dental insurance?",
+        "How does a dental HMO work?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of dental HMO plans",
+      "question": "What are the pros of a dental HMO plan?",
+      "text": "UnitedHealthcare lists three pros of dental HMO plans. Lower monthly premiums and out-of-pocket costs, since they work with a network of providers at reduced rates. Usually no deductible or annual maximum, because the plans focus on preventive care and routine procedures. Fixed copays, a predetermined flat rate listed in the benefits for covered services, which makes dental costs easier to budget.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental hmo",
+        "lower premiums",
+        "fixed copays",
+        "no deductible"
+      ],
+      "entities": [
+        "Dental HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do dental HMO plans have deductibles?",
+        "Are dental HMO plans cheaper?",
+        "How do copays work on a dental HMO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Drawbacks of dental HMO plans",
+      "question": "What are the cons of a dental HMO plan?",
+      "text": "Cons of dental HMO plans include a restricted network, since a member selects a primary care dentist from a smaller network of covered providers. Care outside the HMO's network is not covered. Seeing a specialist requires a referral from the primary care dentist, and without a referral, dental services may not be covered by the plan.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental hmo",
+        "restricted network",
+        "out-of-network",
+        "specialist referral"
+      ],
+      "entities": [
+        "Dental HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Does a dental HMO cover out-of-network dentists?",
+        "Do I need a referral for a dental specialist on an HMO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When a dental HMO may be right for you",
+      "question": "Is HMO dental insurance right for me?",
+      "text": "If flexibility and frequent specialist care are not a top priority, a dental HMO plan could be the best bet, and UnitedHealthcare calls DHMO plans a great option when affordability and low dental costs are the main concerns. The plans work best for people who want to stick with a primary dentist to coordinate care and are comfortable obtaining referrals for specialist care.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental hmo",
+        "who should choose",
+        "affordability",
+        "primary dentist"
+      ],
+      "entities": [
+        "Dental HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Should I choose a dental HMO?",
+        "Who is a dental HMO best for?"
+      ]
+    }
+  ]
+}

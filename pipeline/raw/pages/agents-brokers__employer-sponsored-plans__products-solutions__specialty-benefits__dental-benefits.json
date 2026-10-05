@@ -1,0 +1,275 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/specialty-benefits/dental-benefits",
+  "title": "Dental benefits",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare employer dental plan options, benefits, teledentistry and pop-up clinics, with a comparison of plan types.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/specialty-benefits/dental-benefits/_jcr_content/root/regioncontainer-main/responsivegrid/container_705738348/container/image.coreimg.90.1280.jpeg/1728324493354/broker-consultant-dental-benefits-jet-dental-354x188.jpeg",
+      "alt": "Jet Dental pop-up clinics"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/specialty-benefits/dental-benefits/_jcr_content/root/regioncontainer-main/responsivegrid/container_705738348__1203370791/container/image.coreimg.90.1280.jpeg/1728324489197/broker-consultant-dental-benefits-dial-care-teledentistry-354x188.jpeg",
+      "alt": "DialCare teledentistry"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/dental_product_portfolio_overview_brochure.pdf",
+      "alt": "Brochure: Overview of UnitedHealthcare Dental"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Dental coverage may help lower medical costs",
+      "question": "Why offer a dental plan alongside medical coverage?",
+      "text": "UnitedHealthcare says that because improving oral health may impact overall health, a dental plan may help lower employers' medical costs as well. Employers of all sizes can choose from a variety of dental plan designs, bundled with a UnitedHealthcare medical plan or standalone.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "dental benefits",
+        "oral health",
+        "medical costs",
+        "bundled",
+        "standalone"
+      ],
+      "entities": [
+        "UnitedHealthcare Dental"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Can dental coverage lower medical costs?",
+        "Can an employer buy dental separately from medical?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental plan design choices",
+      "question": "What dental plan types does UnitedHealthcare offer employers?",
+      "text": "UnitedHealthcare offers dental plan designs including PPO, Exclusive Network and Value plans. They can be bundled with a UnitedHealthcare medical plan or purchased standalone, and are available to employers of all sizes.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "dental plans",
+        "ppo",
+        "exclusive network",
+        "value plan",
+        "plan designs"
+      ],
+      "entities": [
+        "PPO",
+        "Exclusive Network",
+        "Value"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What types of dental plans can an employer choose?",
+        "Does UnitedHealthcare have a PPO dental plan for employers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive care and pregnancy dental benefits",
+      "question": "What oral health benefits do UnitedHealthcare dental plans include?",
+      "text": "UnitedHealthcare dental benefits include 100% coverage for preventive care, plus additional cleanings and nonsurgical gum treatments during and 3 months after pregnancy. Integrated health management strategies are designed to help employees return to preventive or periodontal care. The page notes this applies when preventive or periodontal care is completed after contact from UnitedHealthcare.",
+      "topic": "Dental coverage",
+      "tags": [
+        "preventive care",
+        "pregnancy",
+        "periodontal",
+        "cleanings",
+        "oral health"
+      ],
+      "entities": [
+        "UnitedHealthcare Dental"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Are extra dental cleanings covered during pregnancy?",
+        "Is preventive dental care covered at 100%?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Provider choice and teledentistry access",
+      "question": "What dental provider network do employees get?",
+      "text": "Employees can choose from a national, quality provider network designed to meet their care needs, including general and pediatric dentistry, orthodontia, periodontal, endodontic or oral surgery. It also includes 24/7 teledentistry for urgent needs.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental network",
+        "orthodontia",
+        "oral surgery",
+        "teledentistry",
+        "pediatric dentistry"
+      ],
+      "entities": [
+        "UnitedHealthcare Dental"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare dental include orthodontia providers?",
+        "Is there 24/7 dental care access?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Digital Dental Assistant app",
+      "question": "What does the UnitedHealthcare Digital Dental Assistant app do?",
+      "text": "UnitedHealthcare's Digital Dental Assistant app is part of its digital dental support for employer groups. The app helps make it easier for employees to find a dentist, schedule appointment reminders, get health tips and more.",
+      "topic": "Dental coverage",
+      "tags": [
+        "digital dental assistant",
+        "dental app",
+        "find a dentist",
+        "appointment reminders",
+        "health tips"
+      ],
+      "entities": [
+        "Digital Dental Assistant"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I find a dentist with UnitedHealthcare dental?",
+        "Is there an app for UnitedHealthcare dental plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Jet Dental pop-up clinics and DialCare",
+      "question": "What are Jet Dental pop-up clinics and DialCare teledentistry?",
+      "text": "Jet Dental provides onsite cleanings and exams at an employer's worksite through pop-up clinics. DialCare teledentistry provides 24/7 advice, follow-up care, second opinion and prescription services when medically necessary. UnitedHealthcare says these services help make it easier for employees to get dental care anytime, anywhere.",
+      "topic": "Dental coverage",
+      "tags": [
+        "jet dental",
+        "pop-up clinics",
+        "dialcare",
+        "teledentistry",
+        "onsite dental"
+      ],
+      "entities": [
+        "Jet Dental",
+        "DialCare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Can dental cleanings happen at the workplace?",
+        "What does DialCare teledentistry offer?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "PPO/open access vs In-Network Only dental",
+      "question": "How do UnitedHealthcare PPO/open access and In-Network Only dental plans differ?",
+      "text": "PPO/open access plans are available nationally for fully insured groups of 2 or more, with self-funded options for larger groups, a national network with a 38% average network discount, 100% in-network preventive care and out-of-network coverage available. In-Network Only plans (31 states) offer a 36% average network discount and in-network coverage only. Neither requires a primary care dentist or specialist referral.",
+      "topic": "Dental coverage",
+      "tags": [
+        "ppo dental",
+        "in-network only",
+        "network discount",
+        "out-of-network",
+        "referrals"
+      ],
+      "entities": [
+        "PPO",
+        "In-Network Only"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is the network discount on a UnitedHealthcare dental PPO?",
+        "Does an in-network only dental plan cover out-of-network care?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Exclusive Network dental plans",
+      "question": "What are UnitedHealthcare Exclusive Network dental plans?",
+      "text": "Exclusive Network plans are available in 9 states for fully insured groups of 2 or more. They are for employers who want to simplify the dental care experience with the benefits of a DHMO plan but without the typical pain points. They offer 100% in-network preventive care, in-network coverage only, no deductible, no annual maximum and no waiting periods.",
+      "topic": "Dental coverage",
+      "tags": [
+        "exclusive network",
+        "dhmo",
+        "no deductible",
+        "no annual maximum",
+        "no waiting period"
+      ],
+      "entities": [
+        "Exclusive Network",
+        "DHMO"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Do any dental plans have no annual maximum?",
+        "What is an Exclusive Network dental plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Value dental plans and discounts",
+      "question": "What is a UnitedHealthcare Value dental plan?",
+      "text": "Value dental plans are available in 19 states and offer a national network with a 34% average network discount. They include 100% preventive care and diagnostics in network, and out-of-network coverage is available. Discounts of 20% to 50% apply to services such as fillings, crowns, whitening and orthodontia; the page notes these discounts are not insurance and members pay for services directly.",
+      "topic": "Dental coverage",
+      "tags": [
+        "value dental plan",
+        "discounts",
+        "fillings",
+        "crowns",
+        "orthodontia"
+      ],
+      "entities": [
+        "Value"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Are Value dental plan discounts insurance?",
+        "What discounts does a UnitedHealthcare Value dental plan give?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "url": "https://www.uhc.com/individuals-families",
+  "title": "Individual and family health insurance plans",
+  "domain": "Individual & Family",
+  "page_type": "hub",
+  "summary": "Hub page introducing UnitedHealthcare individual and family plans for people under 65, including short term and ACA Marketplace plans, with a short term versus ACA comparison and links to related coverage.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/individual-family-hero-img-desktop-1920x700.jpg",
+      "alt": "Individual and family health insurance hero image"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/individuals-families/_jcr_content/root/regioncontainer-main/responsivegrid/container_1630711568_916445712/container/image.coreimg.90.1280.png/1728324743510/us-map-illustration-618-279.png",
+      "alt": "Illustration of a US map used to find individual and family plans by state"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare individual and family plan options",
+      "question": "What individual and family health insurance plans does UnitedHealthcare offer?",
+      "text": "UnitedHealthcare offers individual and family health insurance plans for people under age 65, including short term plans and Individual and Family ACA Marketplace plans. The page also points to coverage for self-employed people, students and people who get plans through work, and lets shoppers enter a ZIP code to see plans available near them.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "individual plans",
+        "family plans",
+        "aca marketplace",
+        "short term",
+        "under 65"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "ACA Marketplace",
+        "short term plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What health insurance plans can I buy for myself and my family?",
+        "Does UnitedHealthcare sell individual health insurance?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are UnitedHealthcare short term plans?",
+      "question": "What is a short term limited duration health plan?",
+      "text": "Short term limited duration insurance plans are a way to get fast, flexible coverage if you temporarily don't have coverage and want to assure you have benefits you need. TriTerm Medical plans, a type of short term insurance, offer coverage for nearly 3 years in select states.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "limited duration",
+        "triterm medical",
+        "temporary coverage"
+      ],
+      "entities": [
+        "short term limited duration insurance",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is short term health insurance?",
+        "How long does TriTerm Medical coverage last?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term plan limitations and underwriting",
+      "question": "Do short term plans have to follow Affordable Care Act rules?",
+      "text": "Short term plans are medically underwritten and are not required to comply with certain federal market requirements for health insurance, principally those in the Affordable Care Act. A policy may have exclusions or limitations for preexisting conditions or benefits such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services, and may have lifetime or annual dollar limits. Short term coverage is not Minimum Essential coverage as defined in the ACA.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "medical underwriting",
+        "preexisting conditions",
+        "minimum essential coverage",
+        "aca"
+      ],
+      "entities": [
+        "Affordable Care Act",
+        "Minimum Essential Coverage",
+        "short term plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are short term health plans ACA compliant?",
+        "Do short term plans cover preexisting conditions?",
+        "Is short term insurance minimum essential coverage?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Short term plans versus ACA Marketplace plans",
+      "question": "What is the difference between short term plans and ACA plans?",
+      "text": "Short term plans can help bridge a gap in coverage, such as between jobs or while waiting for other coverage to start, and offer limited coverage from one month up to nearly 1 year depending on state. TriTerm Medical offers limited coverage for nearly 3 years in select states. ACA plans are sold on the health care Marketplace (also called the Exchange), may qualify for government subsidies depending on income, and offer comprehensive coverage for a full calendar year as long as you pay your premium.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term vs aca",
+        "coverage length",
+        "subsidies",
+        "marketplace",
+        "gap in coverage"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "short term plans",
+        "TriTerm Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Short term vs ACA plan: which is better?",
+        "How long do short term and ACA plans last?",
+        "Can I get a subsidy for a short term plan?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Who should consider short term or ACA plans",
+      "question": "Should I choose a short term plan or an ACA plan?",
+      "text": "Consider a short term plan if you missed open enrollment and don't qualify for a Special Enrollment Period, have a gap until your ACA plan starts, want coverage until you join Medicare, turned 26 and are coming off a parent's plan, are in between jobs or waiting for benefits to start, or are healthy and under 65. Consider an ACA plan if you can't get health insurance through work, need long-term coverage for you and your family, want comprehensive benefits, or qualify for a premium tax credit.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "aca plan",
+        "special enrollment period",
+        "turning 26",
+        "premium tax credit"
+      ],
+      "entities": [
+        "Special Enrollment Period",
+        "premium tax credit",
+        "Medicare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "When should I pick a short term plan instead of an ACA plan?",
+        "What do I do if I missed open enrollment?",
+        "I turned 26 and lost my parent's coverage, what are my options?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Help choosing a plan and contact numbers",
+      "question": "How can I get help finding an individual or family plan?",
+      "text": "UnitedHealthcare lists 1-844-635-2495 for questions about short term plans and 1-877-853-1760, TTY 711 for questions about Individual and Family ACA Marketplace plans. A 'Find my plan' tool asks a few questions to show which insurance options may be available for you, and a ZIP code search shows plans in your state.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan finder",
+        "phone support",
+        "zip code",
+        "short term",
+        "aca marketplace"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "ACA Marketplace",
+        "short term plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "What number do I call about ACA plans?",
+        "How do I find a plan available in my area?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Other individual and family coverage paths",
+      "question": "What coverage is available for self-employed people, students or workers?",
+      "text": "Beyond short term and ACA plans, UnitedHealthcare lists self-employed plans for people with no employees, student plans designed for students while they're in school, and plans offered by employers. Current members can sign in and find member resources.",
+      "topic": "Student & self-employed",
+      "tags": [
+        "self-employed",
+        "student plans",
+        "plans through work",
+        "current members"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "self-employed plans",
+        "student plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does UnitedHealthcare have plans for the self-employed?",
+        "Is there health insurance for college students?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Supplemental plans to boost coverage",
+      "question": "What supplemental plans can I add to my health insurance?",
+      "text": "Supplemental plans can help you get coverage for care and services not included with your medical insurance plan. UnitedHealthcare lists dental plans for screenings and preventive care, vision plans for routine eye exams, prescription glasses and contact lenses, fixed benefit health plans, and add-on cash-benefit coverage such as Accident or Critical illness. Combining plans may boost coverage and potentially save money compared to buying plans individually.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "supplemental plans",
+        "dental",
+        "vision",
+        "accident",
+        "critical illness",
+        "bundles"
+      ],
+      "entities": [
+        "dental plans",
+        "vision plans",
+        "Accident insurance",
+        "Critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What extra coverage can I add to my medical plan?",
+        "Can I bundle dental and vision with health insurance?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are fixed benefit health plans?",
+      "question": "What is a fixed benefit health plan?",
+      "text": "Fixed benefit health plans are plans that pay you or your provider a preset amount for specific, covered medical services. UnitedHealthcare lists them among its supplemental options for individuals and families.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "fixed benefit",
+        "supplemental",
+        "preset amount",
+        "covered services"
+      ],
+      "entities": [
+        "fixed benefit health plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does a fixed benefit plan pay?",
+        "How are fixed benefit plans different from major medical insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare, Medicaid and employer plan alternatives",
+      "question": "Where do I go if I am 65 or older or need Medicaid?",
+      "text": "UnitedHealthcare points people to other coverage areas from the individual and family page. Medicare offers plans for people 65 or older, or under 65 who may qualify because of a disability or special condition. Medicaid offers low cost or no-cost plans or Dual Special Needs plans (D-SNP). Employer group plans are group health insurance options for employers to offer employees.",
+      "topic": "Medicare basics",
+      "tags": [
+        "medicare",
+        "medicaid",
+        "d-snp",
+        "employer group plans",
+        "65 or older"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid",
+        "Dual Special Needs plans",
+        "employer group plans"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is there coverage if I am over 65?",
+        "What is a Dual Special Needs plan?"
+      ]
+    }
+  ]
+}

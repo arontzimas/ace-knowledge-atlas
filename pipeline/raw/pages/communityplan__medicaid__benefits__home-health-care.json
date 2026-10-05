@@ -1,0 +1,104 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/benefits/home-health-care",
+  "title": "Medicaid Home Health Care",
+  "domain": "Medicaid",
+  "page_type": "article",
+  "summary": "Explains Medicaid home health care and in-home services, the types of services states may cover, how many hours may be available, how to qualify, and how a Dual Special Needs plan can add support.",
+  "published": "2023-08-17",
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/communityplan/assets/images/LearningCenter/articles/home-health-women-talking.jpg", "alt": "A middle-aged black woman receiving care at home from a young female care provider"}
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What Medicaid home health care is",
+      "question": "What is Medicaid home health care?",
+      "text": "Medicaid home health care services help elderly people stay living in their own homes. Typically, people who are able to live at home prefer that to a nursing home or care facility, but some may need extra help to live safely at home. That's where Medicaid in-home care comes in. In-home care can also be provided at the home of a friend or relative, an adult foster care home or an assisted living facility.",
+      "topic": "Community Plan benefits",
+      "tags": ["home health", "in-home care", "aging in place", "assisted living", "adult foster care"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": ["What is Medicaid in-home care?", "Can Medicaid in-home care be provided outside my own home?"]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover home health care?",
+      "question": "Does Medicaid cover home health care?",
+      "text": "The federal government requires all 50 states to offer some kind of home health benefits through Medicaid. But Medicaid programs change from state to state, so the amount of in-home care and the types of services available depend on where you live. Even if certain in-home services aren't covered by a state's regular Medicaid plan, they may still be offered through Home and Community Based Services (HCBS) programs.",
+      "topic": "Community Plan benefits",
+      "tags": ["home health", "all 50 states", "hcbs", "state variation"],
+      "entities": ["Medicaid", "Home and Community Based Services", "HCBS"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["Will Medicaid pay for a home health aide?", "What are HCBS programs?"]
+    },
+    {
+      "type": "definition",
+      "title": "Types of Medicaid in-home care services",
+      "question": "What home health services are covered by Medicaid?",
+      "text": "Services typically available in most states include home health care (medical care at home), personal care help with bathing, grooming, dressing, eating and mobility, homemaker services like housekeeping and meal preparation, physical, speech and occupational therapy, adult day care, accessibility modifications such as ramps and grab bars, medical equipment and supplies, nutrition services, personal emergency response services, transportation assistance, hospice care and family and caregiver support including respite care.",
+      "topic": "Community Plan benefits",
+      "tags": ["personal care", "homemaker services", "adult day care", "hospice", "respite care", "accessibility modifications"],
+      "entities": ["Medicaid", "Personal Emergency Response Services"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["Does Medicaid pay for wheelchair ramps?", "Does Medicaid cover respite care for caregivers?", "What in-home services can Medicaid provide?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Who can deliver Medicaid in-home services",
+      "question": "Who provides Medicaid in-home care?",
+      "text": "Some in-home care services, like skilled nursing care and occupational, physical or speech therapy, are delivered by medical professionals. Other services, such as doing chores around the house and making meals, can be provided by family members, friends or paid caregivers.",
+      "topic": "Community Plan benefits",
+      "tags": ["family caregivers", "paid caregivers", "skilled nursing", "therapy"],
+      "entities": ["Medicaid"],
+      "personas": ["Caregiver", "Medicaid household"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["Can a family member be paid by Medicaid to provide care?", "Who delivers home health services?"]
+    },
+    {
+      "type": "faq",
+      "title": "How many hours of home care does Medicaid cover?",
+      "question": "How many hours of home health care does Medicaid cover?",
+      "text": "The rules depend on the state where you live, and how much care you can get may also depend on the type of Medicaid program you're enrolled in. The level of home health care Medicaid provides is typically based on the needs of the individual. Some programs may pay for a personal care assistant for several hours a day on multiple days a week, while others may only cover adult day care for a few days each week.",
+      "topic": "Community Plan benefits",
+      "tags": ["hours of care", "personal care assistant", "adult day care", "individual needs"],
+      "entities": ["Medicaid"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": ["How many hours of in-home care will Medicaid pay for?", "Does Medicaid pay for a personal care assistant?"]
+    },
+    {
+      "type": "steps",
+      "title": "Two requirements for home health Medicaid",
+      "question": "How do I qualify for Medicaid home health care?",
+      "text": "There are 2 main requirements. 1) Financial requirements: each state has limits for how much you can earn or the value of what you own, though the limit for HCBS services may be higher than for regular Medicaid. 2) Medical need: most state Medicaid programs require recipients to show they need in-home medical care or help with bathing, dressing, eating and other daily activities. To qualify for HCBS programs, recipients typically need the same level of care as provided in a nursing home.",
+      "topic": "Medicaid eligibility",
+      "tags": ["qualify", "financial requirements", "medical need", "nursing home level of care", "hcbs"],
+      "entities": ["Medicaid", "HCBS"],
+      "personas": ["Medicaid household", "Caregiver"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["What do I need to qualify for Medicaid home care?", "Do I need a nursing-home level of care for HCBS?"]
+    },
+    {
+      "type": "assertion",
+      "title": "D-SNPs can add extra support at home",
+      "question": "Can a Dual Special Needs plan help with home care?",
+      "text": "If you qualify for both Medicaid and Medicare, you could get a Dual Special Needs Plan (D-SNP). A D-SNP works together with your Medicaid health plan, so you keep all your Medicaid benefits and also get many extra benefits that Original Medicare doesn't cover. Dual Special Needs plans have a $0 premium for members with Extra Help (Low Income Subsidy). Benefits and features vary by plan and area.",
+      "topic": "Dual eligible coverage",
+      "tags": ["d-snp", "extra help", "$0 premium", "low income subsidy", "dual eligible"],
+      "entities": ["Dual Special Needs plan", "Extra Help", "Low Income Subsidy"],
+      "personas": ["Medicare shopper", "Caregiver"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["Can I get extra home support if I have Medicare and Medicaid?", "What is Extra Help with a D-SNP?"]
+    }
+  ]
+}

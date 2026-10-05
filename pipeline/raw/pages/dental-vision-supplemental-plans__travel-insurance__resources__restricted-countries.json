@@ -1,0 +1,115 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/restricted-countries",
+  "title": "Excluded countries for SafeTrip travel insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "guide",
+  "summary": "Lists countries where SafeTrip restricts coverage, evacuation coverage or sales to residents, current as of March 11, 2026.",
+  "published": "2026-03-11",
+  "assets": [],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "SafeTrip excluded countries policy",
+      "question": "Why does SafeTrip restrict coverage in certain countries?",
+      "text": "SafeTrip says it is dedicated to the health and safety of its customers and restricts coverage in certain countries. The lists change based on global events and emergencies, and the information on the page was current as of March 11, 2026. The excluded countries list may change periodically and without notice, because products and services are available where permitted or not prohibited by applicable laws.",
+      "topic": "Travel insurance",
+      "tags": [
+        "excluded countries",
+        "restrictions",
+        "global events",
+        "safetrip"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Why are some countries excluded from travel insurance?",
+        "How often does the SafeTrip excluded countries list change?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Destinations with no SafeTrip coverage",
+      "question": "Which destinations can't be covered by SafeTrip?",
+      "text": "SafeTrip cannot offer any travel protection or international medical coverage for trips to the following countries or locations: Afghanistan, Antarctica, Cuba, Dominican Republic, Iran, Iraq, Libya, Nepal, North Korea, Somalia, South Sudan, Sudan and Syria. The list was current as of March 11, 2026, and can change.",
+      "topic": "Travel insurance",
+      "tags": [
+        "restricted destinations",
+        "no coverage",
+        "afghanistan",
+        "cuba",
+        "north korea"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get travel insurance for a trip to Cuba?",
+        "Which countries are excluded from SafeTrip insurance?",
+        "Does SafeTrip cover travel to the Dominican Republic?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Countries with security evacuation restrictions",
+      "question": "Where is security evacuation coverage not offered?",
+      "text": "Because of ongoing security concerns and evacuation orders, SafeTrip does not offer security evacuation coverage for trips to Afghanistan, Azerbaijan (certain regions), Bahrain, Bangladesh, Belarus, Cyprus, Central African Republic, Chad, Cuba, Democratic Republic of Congo, Egypt, Eritrea, Ethiopia, Haiti, India (Kashmir region only), Iran, Iraq, Israel, Jordan, Saudi Arabia, Lebanon, Libya, Mozambique, Myanmar, Niger, North Korea, Oman, Palestinian territories, Russia (central region), Somalia, South Sudan, Sudan, Syria, Turkey, Ukraine, United Arab Emirates, Venezuela, Yemen, or places with a U.S. Department of State Level 4 Do Not Travel advisory.",
+      "topic": "Travel insurance",
+      "tags": [
+        "security evacuation",
+        "evacuation restrictions",
+        "level 4 advisory",
+        "travel warnings"
+      ],
+      "entities": [
+        "SafeTrip",
+        "U.S. Department of State"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel insurance cover security evacuation in Israel?",
+        "Where does SafeTrip not offer evacuation coverage?",
+        "Does a Level 4 advisory affect travel insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Resident country restrictions for SafeTrip plans",
+      "question": "Can residents of certain countries buy SafeTrip plans?",
+      "text": "SafeTrip cannot offer plans to residents of the following countries, regardless of their destination: Afghanistan, Antarctica, Cayman Islands, Cuba, Iran, Iraq, Ghana, Libya, Mali, Niger, Nigeria, North Korea, Somalia, South Sudan, Sudan and Syria. The page notes that products and services are available only where permitted or not prohibited by applicable laws.",
+      "topic": "Travel insurance",
+      "tags": [
+        "resident restrictions",
+        "eligibility",
+        "country of residence",
+        "excluded countries"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can a Nigerian resident buy SafeTrip insurance?",
+        "Does SafeTrip restrict plans by country of residence?"
+      ]
+    }
+  ]
+}

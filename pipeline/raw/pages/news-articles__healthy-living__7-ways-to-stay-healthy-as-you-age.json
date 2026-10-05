@@ -1,0 +1,255 @@
+{
+  "url": "https://www.uhc.com/news-articles/healthy-living/7-ways-to-stay-healthy-as-you-age",
+  "title": "7 secrets to healthy aging",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Shares seven habits for healthy aging, from heart-healthy eating and strength training to mindfulness, hydration, social connection and sleep.",
+  "published": "2024-01-19",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/healthy-living/7-ways-to-stay-healthy-as-you-age/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image_889184097_copy.coreimg.90.1280.jpeg/1728325015746/blog-7-secrets-to-healthy-aging-1280x768.jpeg",
+      "alt": "Healthy aging article image"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Most adults 50+ rate their health good to excellent",
+      "question": "How do older Americans rate their health?",
+      "text": "More than three-quarters of Americans ages 50 and older rated their health as good to excellent, even if they have chronic conditions, according to a survey by AARP and National Geographic. More than 60% are taking steps to stay healthy, such as getting good sleep and maintaining a healthy weight.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "healthy aging",
+        "older adults",
+        "AARP survey",
+        "chronic conditions"
+      ],
+      "entities": [
+        "AARP",
+        "National Geographic"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How healthy are older Americans?",
+        "What do people over 50 do to stay healthy?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What healthy aging means",
+      "question": "What is healthy aging?",
+      "text": "Healthy aging is not just about preventing disease, but also about fostering resilience, maintaining independence and ensuring a high quality of life, according to Dr. Kien Vuu quoted in the article. It also means having the energy and physical ability to go about day-to-day activities well. The article notes aging begins in our 30s and 40s, and it is never too late to improve the aging process.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "healthy aging",
+        "independence",
+        "resilience",
+        "quality of life"
+      ],
+      "entities": [
+        "healthy aging"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does healthy aging mean?",
+        "When should I start thinking about healthy aging?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Eat more heart-healthy foods",
+      "question": "What should older adults eat to protect their hearts?",
+      "text": "To help lower cholesterol, aim for a diet with plenty of vegetables, fruits and fiber, and healthy sources of protein such as poultry, seafood, beans and other legumes. Limit sodium, refined carbohydrates, processed foods and red meats, cut back on saturated fats, and swap in mono- and polyunsaturated fats from fish, olive oil, nuts and seeds. Eating well and being active may also help maintain a healthy weight.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "heart-healthy diet",
+        "cholesterol",
+        "fiber",
+        "unsaturated fats"
+      ],
+      "entities": [
+        "cholesterol"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What diet lowers cholesterol?",
+        "What foods are heart healthy as you age?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Strengthen your muscles as you age",
+      "question": "How much exercise do older adults need?",
+      "text": "Staying active is key as people get older. That includes at least 150 minutes per week of activities that get your heart pumping, such as brisk walking, dancing or swimming laps, plus a few muscle-building sessions per week, such as push-ups, squats, lifting weights or digging in the garden. Strength training helps mobility and range of motion, which helps people move well and avoid injuries or falls.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "150 minutes",
+        "strength training",
+        "falls",
+        "mobility",
+        "aerobic exercise"
+      ],
+      "entities": [
+        "strength training"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many minutes of exercise per week do seniors need?",
+        "Does strength training prevent falls?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Added sugar intake versus American Heart Association limits",
+      "question": "How much added sugar should I have?",
+      "text": "Americans typically consume 17 teaspoons of added sugar a day, while the American Heart Association recommends 9 teaspoons for men and 6 teaspoons for women. Older adults are especially vulnerable to the effects of a high-sugar diet, as processed sugars can increase joint inflammation, cause metabolic issues and raise the risk of diabetes and heart disease.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "added sugar",
+        "American Heart Association",
+        "17 teaspoons",
+        "diabetes risk"
+      ],
+      "entities": [
+        "American Heart Association"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many teaspoons of sugar a day is healthy?",
+        "What is the AHA sugar limit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mindfulness to manage stress",
+      "question": "How can mindfulness help with aging?",
+      "text": "Chronic stress may harm health, and the American Institute of Stress notes it speeds up the effects of aging by increasing inflammation and may even make vaccines less effective. A mindfulness practice, where you focus on your breath or sounds to stay in the present moment, may reduce stress and help you recognize negative thought patterns. Your primary care provider or a therapist can suggest strategies.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mindfulness",
+        "chronic stress",
+        "inflammation",
+        "mental resilience"
+      ],
+      "entities": [
+        "American Institute of Stress",
+        "mindfulness"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does stress make you age faster?",
+        "How do I start mindfulness?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Stay hydrated as you age",
+      "question": "Why is hydration important for older adults?",
+      "text": "A National Institutes of Health study found that not drinking enough fluids speeds up the effects of aging and raises the risk of chronic diseases such as heart failure, stroke and dementia, along with consuming too much salt. Water is not the only source of hydration, since foods with high water content include avocados, bananas, eggs and cucumbers.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "hydration",
+        "NIH study",
+        "water-rich foods",
+        "chronic disease"
+      ],
+      "entities": [
+        "National Institutes of Health"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How much water should seniors drink?",
+        "What foods help with hydration?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Reach out to others to reduce isolation",
+      "question": "How does social connection affect health?",
+      "text": "Being socially isolated and lonely is a risk factor for heart disease and other chronic diseases. Regular social interactions, such as talking with neighbors, getting together with family and friends or joining organizations, can ward off loneliness and even boost immunity. Volunteering provides both regular social interaction and a sense of purpose, another habit that is helpful to aging well.",
+      "topic": "Behavioral health",
+      "tags": [
+        "loneliness",
+        "social isolation",
+        "volunteering",
+        "social connection"
+      ],
+      "entities": [
+        "social isolation"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is loneliness bad for your health?",
+        "How can seniors stay socially connected?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Prioritize sleep for healthy aging",
+      "question": "How much sleep do older adults need?",
+      "text": "Getting at least 7 hours of high-quality sleep lets your body repair itself and has a powerful impact on metabolism, sugar and insulin control and the immune system. Sleep is essential for regulating mood, weight, stress and emotions. To sleep better, go outdoors for a while every day, especially early, block street light in the bedroom, and keep electronic devices in another room.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "sleep",
+        "7 hours",
+        "sleep-wake cycle",
+        "metabolism",
+        "immune system"
+      ],
+      "entities": [
+        "sleep"
+      ],
+      "personas": [
+        "Current member",
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many hours of sleep do seniors need?",
+        "How can I sleep better as I age?"
+      ]
+    }
+  ]
+}

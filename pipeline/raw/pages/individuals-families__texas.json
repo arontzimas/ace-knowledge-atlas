@@ -1,0 +1,317 @@
+{
+  "url": "https://www.uhc.com/individuals-families/texas",
+  "title": "Texas health insurance plans",
+  "domain": "Individual & Family",
+  "page_type": "hub",
+  "summary": "State page listing UnitedHealthcare individual and family coverage in Texas: ACA Marketplace, fixed benefit, short term, dental, vision, accident, critical illness, hospital and travel plans, plus Medicare and Medicaid.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/state-pages-template-couple-on-laptop-desktop-1920x700.jpg",
+      "alt": "Couple looking at a laptop, state page banner"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/experience-fragments/uhcdotcom/state-pages/why-choose-uhc/tx/_jcr_content/root/container_1043294896/image.coreimg.90.1280.jpeg/1781117067584/travel-illustration-desktop-380x378.jpeg",
+      "alt": "Travel illustration"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "ACA Marketplace plans in Texas",
+      "question": "Does UnitedHealthcare offer ACA Marketplace plans in Texas?",
+      "text": "UnitedHealthcare Individual & Family ACA Marketplace plans in Texas offer affordable, reliable coverage options from UnitedHealthcare of Texas, Inc. Shoppers can call 1-800-273-8095 / TTY 711 to talk to a licensed insurance agent.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "texas",
+        "aca marketplace",
+        "licensed agent",
+        "individual and family"
+      ],
+      "entities": [
+        "UnitedHealthcare of Texas, Inc.",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Where can I buy ACA insurance in Texas?",
+        "What number do I call for Texas ACA plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Fixed benefit insurance in Texas",
+      "question": "What is Health ProtectorGuard fixed indemnity insurance?",
+      "text": "Health ProtectorGuard fixed indemnity insurance, underwritten by Golden Rule Insurance Company, can ease cost concerns by paying set benefits for covered medical services like doctor visits, prescriptions and more. Applications can be submitted any time, and you can keep your coverage year after year.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "fixed indemnity",
+        "health protectorguard",
+        "golden rule",
+        "texas",
+        "limited benefits"
+      ],
+      "entities": [
+        "Health ProtectorGuard",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does fixed indemnity insurance pay?",
+        "Is fixed indemnity insurance minimum essential coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Short term health insurance in Texas",
+      "question": "Who is short term health insurance in Texas for?",
+      "text": "Short term health insurance, underwritten by Golden Rule Insurance Company, may provide flexible limited duration coverage if you're between jobs, a gig worker, a new college grad, retiring early or without coverage for a short period of time. It is medically underwritten, does not cover preexisting conditions and is not minimum essential coverage; lack of major medical coverage may result in an additional payment with your taxes.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "texas",
+        "short term",
+        "gig worker",
+        "new graduate",
+        "preexisting conditions"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "short term insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I buy short term insurance in Texas as a gig worker?",
+        "Do short term plans cover preexisting conditions in Texas?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Dental insurance and savings memberships in Texas",
+      "question": "What dental options does UnitedHealthcare offer in Texas?",
+      "text": "Dental insurance plans, underwritten by Golden Rule Insurance Company, have no age restrictions and cover many common dental care services. Dental savings memberships are an alternative to insurance that helps you save on qualified services from participating providers. Dental discount memberships are not insurance.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental insurance",
+        "savings membership",
+        "no age restrictions",
+        "texas"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "dental savings membership"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is a dental savings membership insurance?",
+        "Are there age limits on UnitedHealthcare dental plans in Texas?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mind Your Health virtual therapy in Texas",
+      "question": "What is Mind Your Health virtual therapy?",
+      "text": "Mind Your Health, provided by Teladoc Health, offers unlimited online mental health care without insurance for one monthly price. UnitedHealthcare lists it among the supplemental options on its Texas page, alongside dental, accident, critical illness, vision, hospital and travel coverage.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mind your health",
+        "virtual therapy",
+        "teladoc health",
+        "mental health",
+        "monthly price"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How much is unlimited online therapy without insurance?",
+        "What is Mind Your Health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Accident and critical illness insurance in Texas",
+      "question": "What do accident and critical illness plans pay in Texas?",
+      "text": "Accident insurance, underwritten by Golden Rule Insurance Company, offers benefits that help with expenses in the case of an accidental injury. Critical illness insurance pays cash benefits to help cover expenses related to qualifying serious illnesses, like cancer, heart-related illness and more.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "accident insurance",
+        "critical illness",
+        "cash benefits",
+        "golden rule",
+        "texas"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "accident insurance",
+        "critical illness insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does critical illness insurance cover?",
+        "What is supplemental accident insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vision and hospital insurance in Texas",
+      "question": "What vision and hospital plans are available in Texas?",
+      "text": "Vision insurance, underwritten by Golden Rule Insurance Company, has no age limit restrictions and can help cover and budget for routine eye exams, prescription glasses and contact lenses. Hospital insurance pays cash benefits in a fixed amount for qualifying hospital stays and related medical costs; call 1-866-487-9299 for hospital insurance options.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "vision insurance",
+        "hospital insurance",
+        "cash benefits",
+        "texas",
+        "eye exams"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "hospital insurance",
+        "vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does hospital insurance pay out?",
+        "Are there age limits for vision plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "SafeTrip travel insurance in Texas",
+      "question": "What does SafeTrip travel insurance cover?",
+      "text": "SafeTrip travel insurance is offered for people traveling to another state or another country. It can provide coverage for trip cancellations, delays, baggage problems, medical expenses and more. UnitedHealthcare lists it among the supplemental plans on its Texas page.",
+      "topic": "Travel insurance",
+      "tags": [
+        "safetrip",
+        "travel insurance",
+        "trip cancellation",
+        "baggage",
+        "medical expenses"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does travel insurance cover for trip delays?",
+        "Does SafeTrip cover medical expenses abroad?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why choose UnitedHealthcare in Texas",
+      "question": "Why choose UnitedHealthcare for health insurance in Texas?",
+      "text": "UnitedHealthcare lists three reasons: a large network of providers, including a wide network of doctors, clinics, healthcare professionals and pharmacies; all types of plans for all types of people, with plans for a range of ages, health care needs and budgets, including Medicare and Medicaid plans; and complete coverage through supplemental plans such as accident or travel insurance for care not covered by a medical plan.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "texas",
+        "network",
+        "plan variety",
+        "supplemental plans"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why pick UnitedHealthcare in Texas?",
+        "What types of plans does UnitedHealthcare offer in Texas?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare and Medicaid options in Texas",
+      "question": "Where do I find Medicare or Medicaid plans in Texas?",
+      "text": "The Texas page points to Medicare plans for individuals who are 65 or older, or under 65 who may qualify because of a disability or another special situation; the Medicare phone number listed is 1-844-232-1426. It also points to Medicaid plans, described as low cost or no cost health insurance for those with limited incomes.",
+      "topic": "Medicare basics",
+      "tags": [
+        "texas",
+        "medicare",
+        "medicaid",
+        "limited income",
+        "65 or older"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Who can get Medicare under 65?",
+        "Does UnitedHealthcare offer Medicaid in Texas?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Member tools for existing Texas members",
+      "question": "What resources are available to existing UnitedHealthcare members in Texas?",
+      "text": "Existing members can find a doctor by searching the provider directory for network doctors, dentists, mental health providers and more; use member resources to take charge of their health and get more out of their plan; and sign in or register to check coverage, claims and get member ID cards.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member resources",
+        "find a doctor",
+        "sign in",
+        "id cards",
+        "texas"
+      ],
+      "entities": [
+        "UnitedHealthcare member site"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I find a network dentist in Texas?",
+        "How do I get my member ID card?"
+      ]
+    }
+  ]
+}

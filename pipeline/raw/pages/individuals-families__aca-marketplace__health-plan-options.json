@@ -1,0 +1,313 @@
+{
+  "url": "https://www.uhc.com/individuals-families/aca-marketplace/health-plan-options",
+  "title": "Explore your ACA Marketplace plan options",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare's five ACA Marketplace plan types, shared benefits such as $0 preventive care, dental and vision options, prescriptions, virtual care and Health Perks rewards, and a cost comparison table.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Five UnitedHealthcare ACA plan types",
+      "question": "What plan types do UnitedHealthcare ACA Marketplace plans include?",
+      "text": "UnitedHealthcare Individual & Family ACA Marketplace plans include 5 plan types: Advantage, Copay Focus, Value, Essential and Standard. Each plan type offers varying coverage levels to meet your needs and budget, and the page focuses on 2026 ACA Marketplace plan options.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan types",
+        "advantage",
+        "copay focus",
+        "value",
+        "essential",
+        "standard"
+      ],
+      "entities": [
+        "Advantage",
+        "Copay Focus",
+        "Value",
+        "Essential",
+        "Standard"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What are the UnitedHealthcare ACA plan types?",
+        "How many plan types does UnitedHealthcare offer on the Marketplace?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "The Advantage plan",
+      "question": "What is the UnitedHealthcare Advantage ACA plan?",
+      "text": "With the Advantage plan you pay a little more each month for your premium to get more benefits, perks and coverage, along with a lower deductible and lower copays for every doctor visit. It may be a good fit if you're transitioning from an employer-sponsored plan, since it may offer coverage like an employer plan had.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "advantage plan",
+        "lower deductible",
+        "copays",
+        "employer-sponsored plan"
+      ],
+      "entities": [
+        "Advantage"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Which ACA plan is closest to an employer plan?",
+        "What is an Advantage plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Benefits listed for Advantage plans",
+      "question": "What benefits do Advantage ACA plans offer?",
+      "text": "Benefits listed for Advantage plans include adult dental and vision (look for plans marked Dental + Vision), $0 virtual urgent care, member incentives, $0 digital fitness, a discounted in-person gym membership, $0 insulin and 10 free diabetes management services. Diabetes benefits require a Type 1 or Type 2 diabetes diagnosis, and are not available on all plans or in all states.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "advantage plan",
+        "insulin",
+        "diabetes management",
+        "digital fitness",
+        "virtual urgent care"
+      ],
+      "entities": [
+        "Advantage",
+        "One Pass Select"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does the ACA Advantage plan cover insulin?",
+        "What perks come with an Advantage plan?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Cost comparison of the five ACA plans",
+      "question": "How do the five ACA plans compare on premium and deductible?",
+      "text": "UnitedHealthcare rates plan costs as follows. Essential: low monthly premium, very high annual deductible, Bronze. Value: moderate premium, high deductible, all metal levels. Standard: moderate premium, moderate deductible, all metal levels. Advantage: high premium, low deductible, Silver and Gold. Copay Focus: very high premium, $0 medical deductible, all metal levels.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "plan comparison",
+        "premium",
+        "deductible",
+        "metal levels",
+        "cost"
+      ],
+      "entities": [
+        "Essential",
+        "Value",
+        "Standard",
+        "Advantage",
+        "Copay Focus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Which ACA plan has the highest deductible?",
+        "How do Value and Standard plans compare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "$0 preventive care on UnitedHealthcare ACA plans",
+      "question": "What preventive care do I get for $0 on an ACA plan?",
+      "text": "When you get a UnitedHealthcare ACA Marketplace plan, you pay $0 for preventive care that covers yearly checkups, immunizations and age-related screenings for you and your family. Preventive care services are covered as required by the Affordable Care Act (ACA).",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "preventive care",
+        "$0",
+        "checkups",
+        "immunizations",
+        "screenings"
+      ],
+      "entities": [
+        "Affordable Care Act"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is preventive care free on ACA plans?",
+        "Are immunizations covered on a Marketplace plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Adult dental and vision on ACA plans",
+      "question": "Do UnitedHealthcare ACA plans include dental and vision?",
+      "text": "Choose a plan option marked Dental + Vision to get dental coverage with 2 checkups a year, and vision coverage with a $150 yearly allowance on frames. Adult dental benefit coverage is limited to a $1,000 benefit maximum per plan year, and routine vision exam and eyewear coverage is limited to once every 12 months. Coverage may not be available on all plans or in all states.",
+      "topic": "Dental coverage",
+      "tags": [
+        "adult dental",
+        "vision",
+        "dental + vision",
+        "frames allowance",
+        "benefit maximum"
+      ],
+      "entities": [
+        "Dental + Vision"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does an ACA plan cover adult dental?",
+        "How much is the glasses frame allowance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Low-cost prescriptions at network pharmacies",
+      "question": "How much do prescriptions cost on a UnitedHealthcare ACA plan?",
+      "text": "Many generic prescriptions are available from any of the 55,000+ network pharmacies, and a one-month supply starts at $10. The $10 price applies to generic medications on the Prescription Drug List at in-network pharmacies and may be higher depending on tier and deductible. Members also save 20% on Walgreens-branded health and wellness products, with a discount valid until 12/31/26 for in-store purchases.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "prescriptions",
+        "generic drugs",
+        "$10 supply",
+        "network pharmacies",
+        "walgreens discount"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "Walgreens"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much is a generic prescription on an ACA plan?",
+        "How many pharmacies are in the UnitedHealthcare ACA network?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "$0 virtual urgent care and virtual mental health visits",
+      "question": "Is virtual care included in UnitedHealthcare ACA plans?",
+      "text": "UnitedHealthcare ACA plans include $0 unlimited virtual urgent care available 24/7, so you can see a provider online whenever you need to from wherever you are. The plans also offer virtual visits with a mental health professional for a low copay per visit. Virtual visits are not intended for emergency or life-threatening conditions.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual urgent care",
+        "telehealth",
+        "mental health",
+        "$0",
+        "24/7"
+      ],
+      "entities": [
+        "virtual urgent care"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is telehealth free on my ACA plan?",
+        "Can I see a therapist virtually with an ACA plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "$250 in Health Perks rewards",
+      "question": "How can I earn $250 in rewards on a UnitedHealthcare ACA plan?",
+      "text": "Members age 18 and over can earn up to $250 on a prepaid Visa card through the Health Perks program. Earn $50 by setting up a member account, opting in to text messages, going paperless and having the subscriber sign up for Autopay (not available in New Jersey). Earn $50 by completing the health risk assessment. Earn $150 by completing a primary care provider visit; that reward can take 6-8 weeks. Limit one reward per eligible member.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "health perks",
+        "rewards",
+        "prepaid visa",
+        "pcp visit",
+        "health risk assessment"
+      ],
+      "entities": [
+        "Health Perks",
+        "Visa"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I earn Health Perks rewards?",
+        "How long does the PCP visit reward take?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "One Pass Select fitness program details",
+      "question": "What is One Pass Select on ACA plans?",
+      "text": "One Pass Select is a voluntary program featuring a subscription-based nationwide gym network, digital fitness and grocery delivery service. Advantage plans list $0 digital fitness and a discounted in-person gym membership. Subscription costs are payable to One Pass Solutions, Inc., and the program is not available in New York or Massachusetts.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "one pass select",
+        "gym network",
+        "digital fitness",
+        "grocery delivery"
+      ],
+      "entities": [
+        "One Pass Select",
+        "One Pass Solutions, Inc."
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is One Pass Select available in New York?",
+        "Who do I pay for the gym membership?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Zero-dollar medications and supplies",
+      "question": "Which medications can cost $0 on a UnitedHealthcare ACA plan?",
+      "text": "$0 medications and supplies apply to Tier 1 products on the Prescription Drug List in all states except NY and MA, when filled with a prescription at a network pharmacy. In NY, $0 medications are listed as $0 Copay, and this does not apply to plans in MA. Members can find the cost of their medications at myuhc.com/exchange.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "$0 medications",
+        "tier 1",
+        "prescription drug list",
+        "network pharmacy"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "myuhc.com/exchange"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "What does Tier 1 mean for $0 drugs?",
+        "Are $0 medications available in Massachusetts?"
+      ]
+    }
+  ]
+}

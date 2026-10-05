@@ -1,0 +1,271 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/4-ways-level-funded-health-plans-help-contain-costs-for-employers",
+  "title": "4 ways level funded health plans help manage employer costs",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Explains how UnitedHealthcare Level Funded plans compare with self-funded and fully insured plans through predictability, surplus share, data insights and member experience.",
+  "published": "2026-09-29",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/4-ways-level-funded-health-plans-help-contain-costs-for-employers/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/grid_copy_copy_copy_/container_2111132048/image.coreimg.90.1280.png/1790354494784/level-funded-cost-management-thumbnail-400x466.png",
+      "alt": "Level funded cost management thumbnail"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/pdfs/tl-cost-mgmt-lf-article.pdf",
+      "alt": "Download the article"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Level funded adoption among small firms",
+      "question": "How common are level funded plans among small firms?",
+      "text": "In 2025, 37% of small firms, defined as those with 3-199 employees, reported having a level funded plan, compared to just 7% in 2019, according to KFF Employer Health Benefits Surveys. UnitedHealthcare says rising health care costs and economic uncertainty are driving employers to seek more cost-effective plan designs, and experts find confusion about how level funded plans work.",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "adoption",
+        "small firms",
+        "kff",
+        "survey"
+      ],
+      "entities": [
+        "KFF",
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What percent of small businesses have level funded plans?",
+        "Why are level funded plans growing in popularity?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "19% average upfront savings after switching",
+      "question": "How much do small businesses save by switching to UnitedHealthcare Level Funded?",
+      "text": "Businesses with 2-50 employees that switched from a traditional, ACA-compliant fully insured plan to a UnitedHealthcare Level Funded plan saw an upfront savings of 19% on average. UnitedHealthcare bases this on fully insured groups nationwide migrated to Level Funded between Jan. 1, 2025 and Dec. 31, 2025, and notes savings are not guaranteed.",
+      "topic": "Cost management",
+      "tags": [
+        "level funded",
+        "savings",
+        "fully insured",
+        "migration",
+        "2-50 employees"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded",
+        "ACA"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much can a small business save moving from fully insured to level funded?",
+        "Are level funded savings guaranteed?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Level funded plans are self-funded with 3 differences",
+      "question": "What is a level funded plan?",
+      "text": "At their core, level funded plans are generally self-funded plans with three key differences, though some components vary by carrier: stop loss insurance to help mitigate claims risk, an opportunity for a surplus refund, and a third-party claims administration agreement. They can also include monthly reports on health care usage and wellness programs that may increase participant engagement and reduce costs.",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "self-funded",
+        "stop loss",
+        "surplus refund",
+        "claims administration"
+      ],
+      "entities": [
+        "stop loss insurance",
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What makes a level funded plan different from self-funded?",
+        "What are the key features of level funded plans?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Level funded vs self-funded vs fully insured risk",
+      "question": "How do level funded plans balance predictability and risk?",
+      "text": "Like a fully insured plan, level funding gives employers a fixed monthly amount covering maximum claims liability, administrative fees and stop loss insurance. Unlike traditional self-funded plans, which expose employers to the full fluctuation of claims costs, Level Funded plans include stop loss protection that limits claims liability, while employers fund medical and pharmacy claims and gain flexibility over plan design.",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "self-funded",
+        "fully insured",
+        "stop loss",
+        "predictability"
+      ],
+      "entities": [
+        "stop loss insurance",
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is a level funded plan riskier than fully insured?",
+        "How is level funded different from traditional self-funded?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Surplus share: fully insured vs level funded",
+      "question": "Who keeps savings when claims are lower than expected?",
+      "text": "In a fully insured plan, the insurer pays claims if they are higher than expected and keeps the difference if they are lower. A plan sponsor with a Level Funded plan is insured against higher-than-expected claims, and the plan may receive a surplus share if claims are lower than expected, where allowed by law. That gives plan sponsors an extra incentive to keep their workforce healthy.",
+      "topic": "Plan funding models",
+      "tags": [
+        "surplus share",
+        "fully insured",
+        "level funded",
+        "claims",
+        "financial risk"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Does the employer or insurer keep savings in level funded plans?",
+        "What is a surplus share?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Monthly data reports guide cost decisions",
+      "question": "What data insights come with a Level Funded plan?",
+      "text": "Plan sponsors with level funding can receive detailed monthly data reports on how participants use health services, which is not the case with most fully insured plans. The data can help sponsors spot utilization trends and alert participants that generics can often replace brand-name drugs, urgent care may be less costly than the ER for certain conditions, and virtual visits with a primary care provider can save time and money.",
+      "topic": "Cost management",
+      "tags": [
+        "monthly reports",
+        "utilization",
+        "generic drugs",
+        "urgent care",
+        "virtual visits"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do level funded plans give employers claims data?",
+        "How can utilization reports lower plan costs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Member experience in Level Funded plans",
+      "question": "What member benefits are included in UnitedHealthcare Level Funded plans?",
+      "text": "UnitedHealthcare Level Funded plans include wellness programs and 24/7 virtual care for conditions including general medical care and behavioral health counseling. Participants may be invited to join rewards programs, and plans offer $0 copays for dependent kids' appointments and critical medications like insulin. Participants can also buy additional offerings through UHC Store, available in the UnitedHealthcare app and on myuhc.com.",
+      "topic": "Wellness programs",
+      "tags": [
+        "level funded",
+        "virtual care",
+        "rewards",
+        "$0 copay",
+        "uhc store"
+      ],
+      "entities": [
+        "UHC Store",
+        "UnitedHealthcare app",
+        "myuhc.com"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Do level funded plans include $0 copays for insulin?",
+        "What is the UHC Store?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Surest available as a Level Funded option",
+      "question": "Is the Surest plan available as Level Funded?",
+      "text": "Yes. The Surest health plan is also available as a Level Funded option, bringing cost transparency to a new subset of consumers. With Surest, plan participants can make decisions that may affect plan sponsor costs, since the plan features an easy-to-use app with clear upfront copays rather than estimates.",
+      "topic": "Plan funding models",
+      "tags": [
+        "surest",
+        "level funded",
+        "cost transparency",
+        "copays",
+        "app"
+      ],
+      "entities": [
+        "Surest"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get Surest with level funding?",
+        "How does Surest show costs upfront?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Recent Level Funded enhancements for 51+ groups",
+      "question": "What enhancements has UnitedHealthcare made to Level Funded for larger groups?",
+      "text": "UnitedHealthcare has expanded its Level Funded offering with customizable benefit and pricing options for employers with 51 or more employees, with adjustable surplus share percentages now available. Recent enhancements include optional benefit buy-ups for eligible groups, such as infertility coverage, weight loss surgery options and a premium rewards program.",
+      "topic": "Plan funding models",
+      "tags": [
+        "level funded",
+        "51+ employees",
+        "surplus share",
+        "buy-ups",
+        "customization"
+      ],
+      "entities": [
+        "UnitedHealthcare Level Funded"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can larger employers customize level funded plans?",
+        "What optional buy-ups are available with Level Funded?"
+      ]
+    }
+  ]
+}

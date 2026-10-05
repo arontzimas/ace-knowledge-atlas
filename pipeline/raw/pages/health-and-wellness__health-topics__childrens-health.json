@@ -1,0 +1,281 @@
+{
+  "url": "https://www.uhc.com/health-and-wellness/health-topics/childrens-health",
+  "title": "Child health and well visits",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Describes what to expect at well-child visits from birth to age 10, including screenings, vaccines, developmental milestones and coverage.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/Child-health-and-well-visits-kid-and-doctor-desktop-3840x686.jpg",
+      "alt": "Child and doctor at a well visit"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Why well-child visits matter",
+      "question": "Why are well-child visits important?",
+      "text": "Regular wellness checks, screenings and tests help support a child's health and track development so parents can understand how to help as the child grows. Well-child visits help keep up with fast growth to make sure it is healthy and on track. Topics include vaccines, screenings for each stage of development, and when to schedule regular preventive care visits.",
+      "topic": "Women's & family health",
+      "tags": [
+        "well-child visit",
+        "child development",
+        "screenings",
+        "preventive care"
+      ],
+      "entities": [
+        "well-child visit"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why does my child need a well visit?",
+        "What happens at a well-child checkup?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Are child well visits covered?",
+      "question": "Are child well visits covered by insurance?",
+      "text": "Most health insurance plans are required to cover preventive care, which includes child well visits. As long as your child sees a network provider and the visit only covers preventive care, these visits will not cost you anything out of pocket. Most health plans cover early child well visits or provide assistance, so call the number on your insurance card for more information.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "child well visit",
+        "preventive care",
+        "$0 out of pocket",
+        "network provider"
+      ],
+      "entities": [
+        "preventive care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do I pay for well-child visits?",
+        "Is a pediatric checkup free with insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Vaccines at well-child visits",
+      "question": "How do vaccines work at well-child visits?",
+      "text": "During a well-child visit, your child's care provider explains which vaccines your child is able to get. Vaccines may help reduce the risk of infection by working with the body's natural defenses to safely develop immunity to disease. Some vaccines, like a flu shot, may be recommended yearly, while others are recommended based on age.",
+      "topic": "Women's & family health",
+      "tags": [
+        "childhood vaccines",
+        "immunizations",
+        "flu shot",
+        "vaccine schedule"
+      ],
+      "entities": [
+        "vaccines"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What vaccines does my child need?",
+        "How often does a child need a flu shot?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Screenings and milestones from birth to 24 months",
+      "question": "What happens at well-child visits from birth to 24 months?",
+      "text": "Visits in the first 2 years happen fairly often. Birth to 6 months includes hearing, vision and blood screenings, with milestones like social smile, cooing and rolling over. At 9 to 15 months, screenings add anemia and lead, and milestones include standing or walking and starting to talk. At 18 to 24 months, autism screening is added, with milestones like climbing and using a fork or spoon.",
+      "topic": "Women's & family health",
+      "tags": [
+        "well-child visits",
+        "0-24 months",
+        "developmental milestones",
+        "screenings",
+        "autism screening"
+      ],
+      "entities": [
+        "American Academy of Pediatrics"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What screenings does a baby get?",
+        "When is autism screening done?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Screenings and milestones from ages 2 to 4",
+      "question": "What happens at well-child visits from ages 2 to 4?",
+      "text": "Well-child visits for ages 2 to 4 follow an annual schedule. At 2 and 2 1/2 years, screenings include hearing, vision, autism or development, oral health, and anemia and tuberculosis for high-risk children. At 3 and 4 years, screenings include hearing, vision, oral health and development. Milestones include using phrases at 3 and dressing themselves and identifying emotions at 4.",
+      "topic": "Women's & family health",
+      "tags": [
+        "toddler checkup",
+        "ages 2-4",
+        "oral health screening",
+        "developmental milestones"
+      ],
+      "entities": [
+        "American Academy of Pediatrics"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What screenings does a 3-year-old get?",
+        "How often should a toddler see the doctor?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Screenings and milestones from ages 5 to 10",
+      "question": "What happens at well-child visits from ages 5 to 10?",
+      "text": "At age 5, screenings include hearing, vision, oral health and development. From ages 6 through 10, screenings include hearing, vision, oral health and behavioral, social and emotional screenings. Every visit includes a physical exam, vaccines, and height, weight and BMI. Providers discuss topics such as physical activity, eating habits, safe media use, puberty and drug and alcohol awareness.",
+      "topic": "Women's & family health",
+      "tags": [
+        "school-age checkup",
+        "ages 5-10",
+        "behavioral screening",
+        "puberty",
+        "safe media use"
+      ],
+      "entities": [
+        "body mass index"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does a 7-year-old's checkup include?",
+        "When do behavioral screenings start for kids?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Safety topics at well visits to age 4",
+      "question": "What topics do providers discuss at early well-child visits?",
+      "text": "From birth to 24 months, providers discuss topics like sleep habits, hygiene, car seats, when to start solid foods, nutrition, child care, infant CPR, dental checks, child-proofing, sun protection, water safety, potty training and screen time. From ages 2 to 4, topics include school readiness, injury prevention, food security and a safe environment.",
+      "topic": "Women's & family health",
+      "tags": [
+        "infant safety",
+        "car seat",
+        "screen time",
+        "child safety",
+        "nutrition"
+      ],
+      "entities": [
+        "well-child visit"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What safety topics come up at baby checkups?",
+        "When should I start solid foods?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive care checklists for children",
+      "question": "Where can I find a well-visit checklist for my child?",
+      "text": "UnitedHealthcare offers a child well visit checklist to help parents prepare and have a more helpful appointment. Checklists for preventive care visits are available for every age, from 1 month to adulthood. Making preventive visits part of your family's routine can set your child up for success in their own health care journey.",
+      "topic": "Women's & family health",
+      "tags": [
+        "well visit checklist",
+        "preventive care checklist",
+        "child health"
+      ],
+      "entities": [
+        "child well visit checklist"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Is there a checklist for my child's doctor visit?",
+        "What should I ask at a well-baby visit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Healthy First Steps for Community Plan families",
+      "question": "How does Healthy First Steps help with child well visits?",
+      "text": "UnitedHealthcare Community Plan members may have access to the Healthy First Steps program, which can help find a care provider, schedule well-child visits and connect with educational and community resources. To get started, call 1-800-599-5985, TTY 711, Monday through Friday, 8 a.m. to 5 p.m. The program is only available in certain states.",
+      "topic": "Women's & family health",
+      "tags": [
+        "Healthy First Steps",
+        "Community Plan",
+        "well-child visits",
+        "care coordination"
+      ],
+      "entities": [
+        "Healthy First Steps",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Who can use Healthy First Steps?",
+        "Where can Medicaid families get help scheduling well visits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Help with transportation and food",
+      "question": "What if I need help getting to appointments or getting food?",
+      "text": "If you need help getting to an appointment, or getting formula or healthy food, call the number on your insurance card. If you are having a hard time getting food or are experiencing unemployment, your care provider may be able to connect you with resources that can help.",
+      "topic": "Women's & family health",
+      "tags": [
+        "transportation",
+        "food security",
+        "formula",
+        "social needs",
+        "member support"
+      ],
+      "entities": [
+        "member services"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Can my plan help with rides to appointments?",
+        "Where can I get help with baby formula?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "url": "https://www.uhc.com/news-articles/benefits-and-coverage/medicaid-to-aca-plans",
+  "title": "Switching from Medicaid to ACA Marketplace plans",
+  "domain": "Individual & Family",
+  "page_type": "article",
+  "summary": "Article with three key points for people moving from Medicaid or CHIP to an ACA Marketplace plan: act quickly, understand plan options and check for savings, plus basic plan terms.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6380054785112-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Switching from Medicaid to ACA Marketplace plans video"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Act quickly after losing Medicaid or CHIP",
+      "question": "How long do I have to enroll in an ACA plan after losing Medicaid?",
+      "text": "You have a limited time to enroll in an ACA plan after losing Medicaid eligibility. If you lose Medicaid or Children's Health Insurance Program (CHIP) coverage, you may qualify for a special enrollment period (SEP). SEPs last for a limited time, so don't wait.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "medicaid",
+        "chip",
+        "special enrollment period",
+        "loss of coverage",
+        "time limit"
+      ],
+      "entities": [
+        "Medicaid",
+        "CHIP",
+        "special enrollment period"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "What happens if I lose Medicaid coverage?",
+        "Is there a deadline to enroll in an ACA plan after Medicaid ends?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Applying early to avoid a coverage gap",
+      "question": "Can I apply for an ACA plan before my Medicaid ends?",
+      "text": "You can apply and enroll in an ACA Marketplace plan as early as 60 days before your Medicaid or CHIP coverage ends. Applying early helps prevent a gap in coverage, which can help you avoid unexpected health care costs.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "60 days",
+        "gap in coverage",
+        "medicaid",
+        "chip",
+        "apply early"
+      ],
+      "entities": [
+        "Medicaid",
+        "CHIP",
+        "ACA Marketplace"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How early can I enroll in a Marketplace plan before Medicaid ends?",
+        "How do I avoid a gap in coverage after Medicaid?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Understanding ACA plan options after Medicaid",
+      "question": "What do ACA Marketplace plans cover compared to Medicaid?",
+      "text": "ACA Marketplace plans cover 10 essential health benefits. Depending on the plan, they can offer a wide range of health benefits, including medical, dental and vision coverage, and even mental health and fitness benefits.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "essential health benefits",
+        "dental",
+        "vision",
+        "mental health",
+        "fitness"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "essential health benefits"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What benefits do ACA plans include?",
+        "Do ACA plans cover dental and vision?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Savings available when moving from Medicaid",
+      "question": "Can I get financial help for an ACA plan after Medicaid?",
+      "text": "Depending on your income, you may be eligible for subsidies, or savings. These come in the form of premium tax credits to lower your monthly premium cost and cost-sharing reductions to help cover your cost for care. You can see an estimate of your savings and apply for subsidies during the enrollment process.",
+      "topic": "Subsidies & tax credits",
+      "tags": [
+        "subsidies",
+        "premium tax credit",
+        "cost-sharing reductions",
+        "income"
+      ],
+      "entities": [
+        "premium tax credits",
+        "cost-sharing reductions"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much will an ACA plan cost after Medicaid?",
+        "Can I get a tax credit after losing Medicaid?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Enrolling during open enrollment or with a SEP",
+      "question": "When can I enroll after Medicaid, and what documents might I need?",
+      "text": "You can enroll in an ACA Marketplace plan during the annual open enrollment period, which typically runs November 1 to January 15 in most states. If you qualify for a SEP due to the loss of Medicaid coverage, you may be asked to provide documentation to confirm your eligibility. SEPs are time-sensitive, so apply before your SEP ends.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "sep documentation",
+        "november 1",
+        "january 15",
+        "medicaid loss"
+      ],
+      "entities": [
+        "open enrollment",
+        "special enrollment period"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Do I need to prove I lost Medicaid to enroll?",
+        "When does open enrollment run?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Changes when moving from Medicaid to Marketplace",
+      "question": "How is an ACA plan different from Medicaid?",
+      "text": "According to the article's video, a new plan may have a monthly premium, which you should pay each month to avoid gaps in coverage. The plan has a network of doctors, specialists and pharmacies, and care out of network means you pay your care expenses out of pocket. You may also need a primary care provider referral approved by UnitedHealthcare before seeing an in-network specialist.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "premium",
+        "network",
+        "referral",
+        "medicaid transition",
+        "out of network"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a premium for someone coming from Medicaid?",
+        "Do I need a referral for a specialist on an ACA plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Getting help after losing Medicaid",
+      "question": "Where can I get help moving to an ACA plan?",
+      "text": "UnitedHealthcare provides 1-on-1 guidance from a licensed agent at no cost to help you find the plan that fits your needs after Medicaid. Members who need help at any time can call the phone number on the back of their health plan ID card or start a chat through their online account.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "licensed agent",
+        "no cost",
+        "member support",
+        "health plan id card"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Consideration",
+      "questions": [
+        "Is there free help finding a plan after Medicaid?",
+        "How do I contact support for my ACA plan?"
+      ]
+    }
+  ]
+}

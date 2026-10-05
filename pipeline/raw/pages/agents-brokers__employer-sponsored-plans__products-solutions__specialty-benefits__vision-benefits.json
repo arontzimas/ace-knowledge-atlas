@@ -1,0 +1,276 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/specialty-benefits/vision-benefits",
+  "title": "Vision benefits",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare employer vision benefits, network access, discounts, maternity and pediatric coverage, and the uBundle and Packaged Savings bundling programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/vision-broker-quick-reference-brochure.pdf",
+      "alt": "Brochure: Vision benefits overview"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/BrokersAndConsultants/UnitedHealthcare-Screen-Time-Report-2020.pdf",
+      "alt": "Report: Screen time and children's health"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "Eye exams and overall health",
+      "question": "Why do vision benefits matter for overall health?",
+      "text": "UnitedHealthcare cites research that employees are 4 times more likely to visit their eye care provider than their primary care provider. Conditions like diabetes and high blood pressure, and even some kinds of cancer, may be first discovered in a routine eye exam. A quality vision plan may help employees get and stay healthier, with the goal of lowering costs for everyone.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "vision benefits",
+        "eye exam",
+        "diabetes",
+        "overall health",
+        "early detection"
+      ],
+      "entities": [
+        "UnitedHealthcare Vision"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Can an eye exam detect diabetes or high blood pressure?",
+        "Why should employers offer vision coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Broad vision network and retailers",
+      "question": "Which eye care providers are in the UnitedHealthcare Vision network?",
+      "text": "Employees get an array of eye care choices, including private practices, online options and popular retailers such as Warby Parker, GlassesUSA, Costco, Sam's Club, America's Best, Walmart, Target and LensCrafters.",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision network",
+        "retailers",
+        "warby parker",
+        "costco",
+        "private practice"
+      ],
+      "entities": [
+        "Warby Parker",
+        "GlassesUSA",
+        "Costco",
+        "Sam's Club",
+        "America's Best",
+        "Walmart",
+        "Target",
+        "LensCrafters"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Can I use UnitedHealthcare Vision at Costco or Warby Parker?",
+        "Does UnitedHealthcare Vision include online glasses retailers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Maternity and pediatric vision benefits",
+      "question": "What additional vision benefits apply during pregnancy and childhood?",
+      "text": "Because vision may change frequently during pregnancy and childhood, UnitedHealthcare vision plans include additional maternity and pediatric benefits. These include coverage for a second eye exam per plan year and new glasses if vision changes reach a certain threshold in a plan year.",
+      "topic": "Vision coverage",
+      "tags": [
+        "maternity vision",
+        "pediatric vision",
+        "second eye exam",
+        "new glasses",
+        "vision changes"
+      ],
+      "entities": [
+        "UnitedHealthcare Vision"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does vision insurance cover a second eye exam during pregnancy?",
+        "Are new glasses covered if a child's vision changes?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Discounts on frames, lenses and contacts",
+      "question": "What discounts do UnitedHealthcare Vision members get?",
+      "text": "UnitedHealthcare Vision plans give employees savings of 20% to 60% off retail frames and lenses. In addition to those savings, employees may also qualify for discounted contact lenses and laser vision correction.",
+      "topic": "Vision coverage",
+      "tags": [
+        "vision discounts",
+        "frames",
+        "lenses",
+        "contact lenses",
+        "laser vision correction"
+      ],
+      "entities": [
+        "UnitedHealthcare Vision"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much off frames and lenses do vision plan members get?",
+        "Is laser vision correction discounted?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Bundling vision to lower overall costs",
+      "question": "How can employers lower costs by bundling vision with other plans?",
+      "text": "Fully insured employers with group sizes between 2 and 100 may see additional savings when they offer UnitedHealthcare Vision alongside their UnitedHealthcare medical and/or other specialty plans through the uBundle and Packaged Savings programs. Employers should reach out to their UnitedHealthcare representative for more details.",
+      "topic": "Cost management",
+      "tags": [
+        "ubundle",
+        "packaged savings",
+        "bundling",
+        "fully insured",
+        "group size"
+      ],
+      "entities": [
+        "uBundle",
+        "Packaged Savings",
+        "UnitedHealthcare Vision"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is uBundle?",
+        "Can I save by bundling vision with medical?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "uBundle vs Packaged Savings",
+      "question": "How do uBundle and Packaged Savings compare?",
+      "text": "uBundle serves groups averaging 51 to 100 employees underwritten by Small Business underwriting and may save up to 3.5% of medical premiums in the first year. Packaged Savings serves 2 to 99 eligible employees and provides administrative credits of up to $7 per employee per month. Both require fully insured customers who offer a UnitedHealthcare medical plan with eligible specialty plans, and availability varies by state.",
+      "topic": "Cost management",
+      "tags": [
+        "ubundle",
+        "packaged savings",
+        "eligible group size",
+        "medical premiums",
+        "administrative credits"
+      ],
+      "entities": [
+        "uBundle",
+        "Packaged Savings"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What group sizes qualify for Packaged Savings?",
+        "What is the maximum savings for uBundle?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Eligible specialty plans for savings programs",
+      "question": "Which specialty plans qualify for uBundle and Packaged Savings?",
+      "text": "For uBundle, eligible specialty plans are dental, vision and financial protection products: Basic Life, Supplemental Life, Short-term Disability, Long-term Disability and Supplemental Health Plans (Accident, Critical Illness, Hospital Indemnity). For Packaged Savings, eligible plans are dental, vision and financial protection limited to Basic Life and Short-term Disability.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "ubundle",
+        "packaged savings",
+        "dental",
+        "basic life",
+        "short-term disability"
+      ],
+      "entities": [
+        "uBundle",
+        "Packaged Savings"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Which life and disability plans count toward Packaged Savings?",
+        "Does hospital indemnity qualify for uBundle?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "State and carrier exclusions for savings programs",
+      "question": "Where are uBundle and Packaged Savings not available?",
+      "text": "uBundle is not available in CA, CO, HI, NY, RI or VT. Packaged Savings is not available in NY, RI or WA. For both programs, business underwritten or administered by Oxford Health Plans and Sierra Health Services Inc. is excluded. Minimum participation requirements may apply, and programs may not be available in all states or for all group sizes.",
+      "topic": "Specialty benefits",
+      "tags": [
+        "ubundle",
+        "packaged savings",
+        "state exclusions",
+        "oxford",
+        "sierra"
+      ],
+      "entities": [
+        "uBundle",
+        "Packaged Savings",
+        "Oxford Health Plans",
+        "Sierra Health Services"
+      ],
+      "personas": [
+        "Broker / consultant"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Is uBundle available in California?",
+        "Is Packaged Savings offered in Washington?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Online tools for managing vision benefits",
+      "question": "Where can employees manage their UnitedHealthcare vision benefits?",
+      "text": "UnitedHealthcare offers online tools and resources through myuhcvision.com, described as a one-stop shop where employees can manage their vision benefits. Brokers can also share a vision benefits overview brochure and a report on screen time and children's health with their clients.",
+      "topic": "Vision coverage",
+      "tags": [
+        "myuhcvision",
+        "online tools",
+        "vision benefits",
+        "broker resources",
+        "screen time"
+      ],
+      "entities": [
+        "myuhcvision.com"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where do I log in to manage my UnitedHealthcare vision plan?",
+        "Is there a report on screen time and kids' eyes?"
+      ]
+    }
+  ]
+}

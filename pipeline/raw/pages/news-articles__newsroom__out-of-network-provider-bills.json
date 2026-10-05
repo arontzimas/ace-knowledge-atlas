@@ -1,0 +1,280 @@
+{
+  "url": "https://www.uhc.com/news-articles/newsroom/out-of-network-provider-bills",
+  "title": "Get the facts: What is in-network vs. out-of-network? And why did I get a bill from an out-of-network doctor?",
+  "domain": "Company & News",
+  "page_type": "news",
+  "summary": "Newsroom explainer on out-of-network provider bills, the No Surprises Act, the ground ambulance exception and steps to take when facing a bill.",
+  "published": "2026-09-08",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/newsroom/out-of-network-provider-bills/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/containerfloatingcon/image.coreimg.90.1280.jpeg/1788537419382/network-desktop.jpeg",
+      "alt": "Network image"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Why out-of-network bills can be high",
+      "question": "Why do out-of-network doctors send high bills?",
+      "text": "Bills from out-of-network doctors can be shockingly high, so it almost always makes more sense to explore in-network options and find a suitable alternative. A provider that is out of network does not have a contract with the health insurer and has not agreed to negotiated payment rates.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "out-of-network",
+        "in-network",
+        "provider bills",
+        "negotiated rates"
+      ],
+      "entities": [
+        "Out-of-network"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Why is my out-of-network bill so high?",
+        "What does out-of-network mean?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Bill from an out-of-network provider you chose",
+      "question": "I chose an out-of-network provider and got a bill. What should I do?",
+      "text": "The insurer either paid the provider an out-of-network rate, and the provider is now billing the balance, or paid nothing if the plan has no out-of-network benefits. In that case the provider can bill the full amount only if the member signed a consent form in advance. Members can check with their health plan for support, or ask the provider about monthly payment plans.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "out-of-network bill",
+        "balance bill",
+        "consent form",
+        "payment plan"
+      ],
+      "entities": [
+        "Out-of-network"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What do I do if I get a bill from an out-of-network doctor?",
+        "Can I set up a payment plan for a medical bill?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Programs that negotiate out-of-network bills",
+      "question": "Can my health plan help negotiate an out-of-network bill?",
+      "text": "If a person gets insurance through work, they may be eligible for a program that helps employees facing large bills from out-of-network providers. For example, some employers have opted into a UnitedHealthcare program that negotiates with out-of-network providers on members' behalf, helping reduce what they owe. The first step is to check with the health plan.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "bill negotiation",
+        "employer plan",
+        "out-of-network",
+        "member support"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Does UnitedHealthcare negotiate medical bills for me?",
+        "What support exists for large out-of-network bills?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Size of the UnitedHealthcare network",
+      "question": "How large is UnitedHealthcare's care provider network?",
+      "text": "UnitedHealthcare says it has developed one of the largest care provider networks in the country, with more than 1.7 million physicians and care professionals and over 7,000 hospitals and care facilities nationwide. The figures are attributed to UnitedHealthcare internal data from 2026.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "network size",
+        "1.7 million providers",
+        "7,000 hospitals",
+        "nationwide"
+      ],
+      "entities": [
+        "UnitedHealthcare network"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How many doctors are in the UnitedHealthcare network?",
+        "How many hospitals does UnitedHealthcare cover?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Out-of-network doctor at an in-network hospital",
+      "question": "I had care at an in-network hospital but one doctor was out of network. Do I owe the bill?",
+      "text": "Thanks to the No Surprises Act, a patient is not responsible for the bill in this situation. The law protects people who unknowingly receive care from an out-of-network provider while being treated at an in-network hospital. If the care qualifies, the member will not be responsible for paying anything more than their cost-share. A health plan can confirm eligibility.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "no surprises act",
+        "surprise bill",
+        "in-network hospital",
+        "cost-share"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is a surprise medical bill?",
+        "Do I have to pay an out-of-network anesthesiologist at an in-network hospital?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No Surprises Act protections",
+      "question": "What does the No Surprises Act do?",
+      "text": "The No Surprises Act was passed in 2020 in large part because of out-of-network physician groups billing patients who had no way of knowing the physicians were out of network. The law prohibits out-of-network providers from billing patients in these situations for anything more than the cost-share owed under their benefit plan, meaning their copay, coinsurance or deductible. It has protected patients since it went into effect in 2022.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "no surprises act",
+        "balance billing",
+        "copay",
+        "coinsurance",
+        "deductible"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "When did the No Surprises Act start?",
+        "What can an out-of-network provider legally bill me?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Ground ambulances are not covered by the No Surprises Act",
+      "question": "Does the No Surprises Act protect me from ambulance bills?",
+      "text": "No. The No Surprises Act does not apply to ground ambulances, so companies that operate ambulance services can still legally bill patients for rides to the hospital, even in a medical emergency. The article says ambulance bills typically range from a few hundred to several thousand dollars.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "ground ambulance",
+        "surprise bill",
+        "no surprises act",
+        "emergency"
+      ],
+      "entities": [
+        "No Surprises Act"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Are ambulance rides covered by the No Surprises Act?",
+        "Why did I get a big ambulance bill?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Out-of-network ambulance charges versus Medicare",
+      "question": "How do out-of-network ambulance charges compare with Medicare rates?",
+      "text": "In many cases, out-of-network ambulance companies' charges are three to four times higher than the Medicare rate for an ambulance ride. If they joined insurers' networks, the in-network payment rate would typically be closer to the Medicare rate, and they would lose the ability to bill patients for more than the copay or coinsurance owed under their plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "ambulance charges",
+        "medicare rate",
+        "out-of-network",
+        "three to four times"
+      ],
+      "entities": [
+        "Medicare"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Why are ambulance bills so high?",
+        "Why don't ambulance companies join insurance networks?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "State protections and self-insured plans",
+      "question": "Do state laws protect me from surprise ambulance bills?",
+      "text": "The article says 24 states have passed legislation protecting residents from surprise ambulance bills. Those protections should apply to people in fully insured employer-sponsored plans in those states, because fully insured plans are governed by state laws. Most people who get insurance through work are in a self-insured plan, which is subject to federal rather than state laws. Members can ask their HR department which type they have.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "state law",
+        "fully insured",
+        "self-insured",
+        "ambulance bills",
+        "24 states"
+      ],
+      "entities": [
+        "Fully insured plan",
+        "Self-insured plan"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Does my state protect me from ambulance bills?",
+        "What is the difference between fully insured and self-insured plans?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Steps for an ambulance bill and emergencies",
+      "question": "What should I do if I get a large ambulance bill?",
+      "text": "1) Check whether your state has surprise ambulance bill protections. 2) If in a self-insured employer plan, ask the health plan for support, since the insurer may be able to negotiate a lower payment. 3) Contact the ambulance operator to ask about a lower payment or a monthly payment plan. In a true emergency, never hesitate to call 911 and go to the nearest hospital, where care is processed at the in-network rate.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "ambulance bill",
+        "payment plan",
+        "911",
+        "emergency care",
+        "negotiate"
+      ],
+      "entities": [
+        "911"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How do I dispute an ambulance bill?",
+        "Is emergency care at an out-of-network hospital paid at the in-network rate?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance",
+  "title": "What are the different types of health insurance?",
+  "domain": "Health Insurance Basics",
+  "page_type": "hub",
+  "summary": "Overview of the main health insurance types: ACA, Medicare, Medicaid, employer plans, network plan types, dental plans, COBRA, short term and fixed benefit plans.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1347733_co/container/image.coreimg.90.1280.jpeg/1749590025354/types-of-health-insurance-woman-son-coloring-552x356.jpeg",
+      "alt": "Woman and son coloring"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1347733_co_659338918/container/image.coreimg.90.1280.jpeg/1749590118174/medicaid-mom-baby-floor-552-356-1-.jpeg",
+      "alt": "Medicaid mom and baby on floor"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1347733_co_1717249847/container/image.coreimg.90.1280.jpeg/1749590236509/dentalppo-hmo-dentist-consult-desktop-816x472.jpeg",
+      "alt": "Dentist consultation"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is the Affordable Care Act (ACA)?",
+      "question": "What is the Affordable Care Act?",
+      "text": "The Affordable Care Act (ACA), also called Obamacare or Bidencare, was put in place to help make health insurance easier for people to get. Marketplace or ACA plans are sold on the health care Marketplace, or Exchange. They focus on preventive care, cover pre-existing conditions and provide benefits for things like doctor visits, prescriptions and lab tests. Marketplace coverage usually requires enrolling during the established enrollment period.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "ACA",
+        "Marketplace",
+        "Exchange",
+        "pre-existing conditions",
+        "preventive care"
+      ],
+      "entities": [
+        "Affordable Care Act",
+        "ACA",
+        "Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is the ACA?",
+        "What are Marketplace plans?",
+        "Do ACA plans cover pre-existing conditions?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is Medicare?",
+      "question": "What is Medicare?",
+      "text": "Medicare is a federally funded and operated health insurance program originally designed for people who are 65 or older. Over the years it has expanded to include disabled people under 65 and those with special circumstances. The program is divided into four parts, A, B, C and D, and is the same nationwide.",
+      "topic": "Medicare basics",
+      "tags": [
+        "Medicare",
+        "parts A B C D",
+        "age 65",
+        "disability"
+      ],
+      "entities": [
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicare?",
+        "How many parts does Medicare have?",
+        "Who qualifies for Medicare?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is Medicaid?",
+      "question": "What is Medicaid?",
+      "text": "Medicaid is a federal and state program in place for low income families, seniors and individuals with mental or physical disabilities. People qualify by meeting federal income standards. The program is operated on a state-by-state basis and may be called different names depending on where a person lives. In Minnesota, for example, Medicaid is called Minnesota Medical Assistance.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "Medicaid",
+        "low income",
+        "state program",
+        "eligibility"
+      ],
+      "entities": [
+        "Medicaid",
+        "Minnesota Medical Assistance"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicaid?",
+        "Who qualifies for Medicaid?",
+        "Is Medicaid different in each state?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Medicare vs. Medicaid and dual coverage",
+      "question": "What is the difference between Medicaid and Medicare, and can I have both?",
+      "text": "Medicare and Medicaid are often mentioned together because both are government programs, but they work differently. A Dual Special Needs Plan (D-SNP) is another type of plan that includes both Medicare and Medicaid benefits. People may qualify for Medicare, Medicaid or both, depending on their situation.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "Medicare vs Medicaid",
+        "D-SNP",
+        "dual eligible",
+        "government programs"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid",
+        "Dual Special Needs Plan"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What's the difference between Medicare and Medicaid?",
+        "Can I have Medicare and Medicaid at the same time?",
+        "What is a D-SNP?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "About 49% of Americans have employer coverage",
+      "question": "How many Americans get health insurance through work?",
+      "text": "Around 49% of Americans get health insurance coverage through their employers, which is nearly 157 million people, according to a January 2021 source cited on the page. Employer-sponsored health plans play a big role in benefits packages, and depending on the employer there may be several plans to choose from.",
+      "topic": "Plans through work",
+      "tags": [
+        "employer-sponsored",
+        "49 percent",
+        "157 million",
+        "benefits"
+      ],
+      "entities": [
+        "employer-sponsored health plans"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How many people get insurance through their employer?",
+        "What percent of Americans have employer health insurance?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are HMO, PPO, EPO, POS and HDHP plans?",
+      "question": "What are HMO, PPO, EPO, POS and HDHP health plans?",
+      "text": "HMO, PPO, EPO, POS and HDHP are common types of health plan options, often chosen by people who get insurance through an employer when there is more than one choice. The choice affects access to medical care and may affect out-of-pocket costs. People shopping for Medicare plans may also choose between these same types of options, though not everyone has the same options.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS",
+        "HDHP",
+        "network"
+      ],
+      "entities": [
+        "HMO",
+        "PPO",
+        "EPO",
+        "POS",
+        "HDHP"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What do HMO, PPO and EPO mean?",
+        "Which type of health plan is right for me?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What are dental HMO and dental PPO plans?",
+      "question": "What is the difference between PPO and HMO dental insurance?",
+      "text": "Dental health maintenance organization (DHMO) and dental preferred provider organization (DPPO) are two common dental insurance plans. Each type has benefits and limitations, and understanding the difference between the two can help a person choose which one would best fit their needs.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental HMO",
+        "dental PPO",
+        "DHMO",
+        "DPPO"
+      ],
+      "entities": [
+        "DHMO",
+        "DPPO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is dental PPO or HMO better?",
+        "What are DHMO and DPPO plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is COBRA?",
+      "question": "What is COBRA?",
+      "text": "COBRA stands for the Consolidated Omnibus Budget Reconciliation Act of 1985, a program that may help someone who needs coverage between jobs. If a person loses a job, is furloughed or has reduced hours and it changes their health insurance coverage, they may look into COBRA. With COBRA, a person can continue the same coverage they had when employed, including medical, dental and vision plans.",
+      "topic": "Coverage after job loss",
+      "tags": [
+        "COBRA",
+        "job loss",
+        "furlough",
+        "continue coverage"
+      ],
+      "entities": [
+        "COBRA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is COBRA?",
+        "Can I keep my health insurance after losing my job?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is short term health insurance?",
+      "question": "What is short term health insurance?",
+      "text": "Short term health insurance, also called temporary health insurance or term health insurance, may be right for someone who needs to fill a gap in coverage until a longer-term solution. Examples include being between jobs, waiting for coverage to start, bridging to Medicare, or turning 26 and coming off a parent's insurance. Depending on the state, it offers flexible, fast coverage from 1 month to nearly 3 years.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term",
+        "temporary",
+        "coverage gap",
+        "turning 26",
+        "Medicare bridge"
+      ],
+      "entities": [
+        "short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is short term health insurance?",
+        "How long does short term insurance last?",
+        "Can short term insurance bridge me to Medicare?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a fixed benefit health plan?",
+      "question": "What is a fixed benefit (fixed indemnity) plan?",
+      "text": "Fixed benefit health plans, sometimes called fixed indemnity plans, are designed to give traditional health insurance a boost. They pay a preset amount when a person receives any of the qualified medical services specified in the plan. The benefit paid stays the same no matter what the total bill for the service was and no matter what other insurance pays.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "fixed benefit",
+        "fixed indemnity",
+        "preset amount",
+        "supplemental"
+      ],
+      "entities": [
+        "fixed indemnity plan"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a fixed indemnity plan?",
+        "How does a fixed benefit plan pay?"
+      ]
+    }
+  ]
+}

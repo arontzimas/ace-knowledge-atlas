@@ -1,0 +1,265 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/mind-your-health",
+  "title": "Mind Your Health virtual therapy",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Describes the Mind Your Health virtual therapy membership provided by Teladoc Health, including price, how it works and its limits.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/MHCP-Woman-on-bike-desktop-1440x912.jpg",
+      "alt": "Woman riding a bike"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/mind-your-health/_jcr_content/root/regioncontainer-main/responsivegrid/container_578144597/container/image.coreimg.90.1280.jpeg/1731100098525/mhcp-mental-health-illustration-desktop-288x344.jpeg",
+      "alt": "Mental health illustration"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Mind Your Health virtual therapy overview and price",
+      "question": "What is Mind Your Health virtual therapy and what does it cost?",
+      "text": "Mind Your Health, provided by Teladoc Health, offers access to unlimited online therapy with licensed professionals for $169.99 per month, as mental health care without insurance. UnitedHealthcare says virtual therapy is a great option for people seeking flexible, convenient mental health care. There is a 72-hour wait to access the membership, and members must be 18 or older.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mind your health",
+        "virtual therapy",
+        "teladoc health",
+        "$169.99",
+        "mental health care"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much does Mind Your Health cost?",
+        "Can I get therapy without insurance?",
+        "Who provides Mind Your Health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mind Your Health is not insurance",
+      "question": "Is Mind Your Health insurance?",
+      "text": "Mind Your Health is not health insurance, and members are encouraged to maintain adequate insurance from a responsible provider. It is designed to complement, and not replace, the care received from a primary care physician. Mind Your Health by Teladoc Health and UnitedHealthcare are not affiliated, and each entity is responsible for its own contractual and financial obligations.",
+      "topic": "Behavioral health",
+      "tags": [
+        "not insurance",
+        "primary care",
+        "teladoc health",
+        "membership"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is virtual therapy covered by insurance?",
+        "Does Mind Your Health replace my primary care doctor?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What Mind Your Health gives members access to",
+      "question": "What does Mind Your Health include?",
+      "text": "Mind Your Health offers access to a range of virtual therapists, mental health resources and digital tools. A member's personalized plan could include a mix of telehealth therapy, coaching and online content, plus self-guided tools and activities to work on between sessions. Therapists create the personalized plans based on the member's goals.",
+      "topic": "Behavioral health",
+      "tags": [
+        "virtual therapists",
+        "coaching",
+        "digital tools",
+        "personalized plan",
+        "telehealth"
+      ],
+      "entities": [
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What kind of therapy does Mind Your Health offer?",
+        "Does Mind Your Health include coaching?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common issues Mind Your Health providers treat",
+      "question": "What mental health issues can Mind Your Health help with?",
+      "text": "Common issues that Mind Your Health providers treat include anxiety and stress, depression and negative thought patterns, feeling overwhelmed, not feeling like yourself, sleep issues, relationship conflicts, trauma and PTSD, mood swings, and medication management by virtual psychiatrists.",
+      "topic": "Behavioral health",
+      "tags": [
+        "anxiety",
+        "depression",
+        "ptsd",
+        "sleep issues",
+        "medication management"
+      ],
+      "entities": [
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get therapy for anxiety online?",
+        "Does virtual therapy help with depression or trauma?",
+        "Can I get medication management through virtual care?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to schedule a Mind Your Health visit",
+      "question": "How do I set up therapy sessions with Mind Your Health?",
+      "text": "Once enrolled in Mind Your Health, setting up therapy sessions takes a few steps. 1) Set up an account and answer a few brief questions about preferences and needs. 2) Choose a therapist and pick the dates and times that work best. 3) Meet online at the confirmed time to start the visit.",
+      "topic": "Behavioral health",
+      "tags": [
+        "schedule therapy",
+        "choose a therapist",
+        "online visit",
+        "account setup"
+      ],
+      "entities": [
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I book a virtual therapy appointment?",
+        "Can I choose my own therapist in Mind Your Health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Eligibility and availability limits for Mind Your Health",
+      "question": "Who can use Mind Your Health and when are visits available?",
+      "text": "Members must be 18 years or older, and mental health visits are not available to minors. There is a 72-hour wait to access the membership. Mental health visits are scheduled rather than available 24/7, all mental health specialists may not be available in all states, and the service may not be available in certain states.",
+      "topic": "Behavioral health",
+      "tags": [
+        "age 18",
+        "72-hour wait",
+        "state availability",
+        "scheduled visits"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can minors use Mind Your Health?",
+        "Is Mind Your Health available in every state?",
+        "Is there a waiting period for Mind Your Health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Prescribing limits for Mind Your Health providers",
+      "question": "Can Mind Your Health providers prescribe medication?",
+      "text": "Mind Your Health physicians are an independent network of doctors who advise, diagnose and prescribe at their own discretion. They do not prescribe DEA controlled substances, nontherapeutic drugs and certain other drugs that may be harmful because of their potential for abuse. Mind Your Health does not guarantee that a prescription will be written.",
+      "topic": "Behavioral health",
+      "tags": [
+        "prescriptions",
+        "controlled substances",
+        "independent physicians",
+        "medication"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can virtual therapists prescribe controlled substances?",
+        "Will I get a prescription from Mind Your Health?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Mind Your Health is not for crisis situations",
+      "question": "Where do I go for a mental health crisis?",
+      "text": "Mind Your Health virtual therapy is not designed to help in a crisis situation. People in crisis should seek help immediately: call or text 988, the Suicide and Crisis Lifeline, for emotional distress or suicidal thoughts, or call 911 for immediate, life-threatening needs, including medical crisis, fire, crime or natural disasters.",
+      "topic": "Behavioral health",
+      "tags": [
+        "crisis",
+        "988 lifeline",
+        "911",
+        "suicide prevention",
+        "emergency"
+      ],
+      "entities": [
+        "988 Suicide and Crisis Lifeline",
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "Who do I call in a mental health crisis?",
+        "Is virtual therapy for emergencies?",
+        "What is 988?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Resources for existing UnitedHealthcare members",
+      "question": "Where can UnitedHealthcare members find mental health programs?",
+      "text": "Mind Your Health is offered as mental health care without insurance. For current UnitedHealthcare members, the page directs them to the company's mental health programs and services page. People who want to speak with a licensed insurance agent about membership options can call 888-578-8535.",
+      "topic": "Behavioral health",
+      "tags": [
+        "mental health programs",
+        "current members",
+        "licensed agent",
+        "membership options"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "Mind Your Health"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does UnitedHealthcare have mental health programs for members?",
+        "How do I speak to an agent about Mind Your Health?"
+      ]
+    }
+  ]
+}

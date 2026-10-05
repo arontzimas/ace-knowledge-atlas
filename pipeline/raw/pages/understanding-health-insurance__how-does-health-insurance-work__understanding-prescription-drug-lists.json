@@ -1,0 +1,286 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/understanding-prescription-drug-lists",
+  "title": "What are Prescription Drugs Lists (PDLs)?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains prescription drug lists (formularies), drug tiers, how to check coverage, how Medicare and Medicaid handle drug lists, and how to read a prescription label.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/understanding-prescription-drug-lists/_jcr_content/root/regioncontainer-main/responsivegrid/container/containerfloatingcon/image_copy_copy.coreimg.90.1280.jpeg/1750102369725/what-are-pdl-doctor-reviewing-meds-desktop-600x382.jpeg",
+      "alt": "Doctor reviewing medications"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is a Prescription Drug List (PDL)?",
+      "question": "What is a prescription drug list or formulary?",
+      "text": "A Prescription Drug List (PDL), sometimes called a formulary, is a list of the most commonly prescribed medications. It includes both brand-name and generic prescription medications approved by the U.S. Food and Drug Administration (FDA). Medications are listed by common categories or classes and placed in tiers that represent the cost a person pays out-of-pocket.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "prescription drug list",
+        "PDL",
+        "formulary",
+        "FDA",
+        "brand",
+        "generic"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "formulary",
+        "FDA"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a formulary?",
+        "What is a PDL in health insurance?",
+        "How do I know if my drug is covered?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a drug tier?",
+      "question": "What is a drug tier and how does it work?",
+      "text": "Prescription Drug Lists often have tiers, or groups of drugs categorized by cost. A person's cost-share or copayment is based on which tier their drug is in. There are typically three or four tiers.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "drug tiers",
+        "copayment",
+        "cost-share",
+        "formulary"
+      ],
+      "entities": [
+        "drug tiers",
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What are drug tiers?",
+        "Why does my copay depend on the tier?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Drug tiers 1 through 4 compared",
+      "question": "What does each drug tier mean?",
+      "text": "Under a typical Prescription Drug List: Tier 1 holds the least expensive drug options, often generic drugs. Tier 2 holds higher-price generic and lower-price brand-name drugs. Tier 3 holds mainly higher-price brand-name drugs. Tier 4 holds the highest-cost prescription drugs.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "tier 1",
+        "tier 2",
+        "tier 3",
+        "tier 4",
+        "generic",
+        "brand-name"
+      ],
+      "entities": [
+        "drug tiers"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is a Tier 1 drug?",
+        "Which drug tier is most expensive?",
+        "Are generics in the lowest tier?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does health insurance cover all prescription drugs?",
+      "question": "Does health insurance cover all prescription drugs?",
+      "text": "Not necessarily. Medications under different names may provide similar clinical benefits yet look different and have different price points. Sometimes only certain types or brands of prescriptions are covered under a plan. A person should know their pharmacy benefits and whether a prescription is covered before heading to the pharmacy counter.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "covered drugs",
+        "pharmacy benefits",
+        "brand",
+        "generic"
+      ],
+      "entities": [
+        "pharmacy benefits"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Are all prescriptions covered by my plan?",
+        "How do I know if my drug is covered before I get to the pharmacy?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Checking whether a plan covers your prescriptions",
+      "question": "How do I know if a plan covers my prescriptions?",
+      "text": "A person can sign in to their account to view their Prescription Drug List (PDL) or call the number on their member ID card. Prescription drugs are evaluated on how well they work, how they compare to others in the same class, and total cost.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "check drug coverage",
+        "member ID card",
+        "PDL",
+        "drug evaluation"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How can I check if my medicine is covered?",
+        "How are drugs chosen for a drug list?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare Part B and Part D drug coverage",
+      "question": "How does Medicare cover prescription drugs?",
+      "text": "Medicare Part B covers some outpatient prescription drugs. If a drug is not covered under Part B, it may be covered under Part D. Most Medicare Part D drug plans have their own Prescription Drug List, also known as a formulary, with drugs placed into tiers.",
+      "topic": "Part D prescription plans",
+      "tags": [
+        "medicare part b",
+        "medicare part d",
+        "formulary",
+        "outpatient drugs"
+      ],
+      "entities": [
+        "Medicare Part B",
+        "Medicare Part D"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicare Part B cover prescription drugs?",
+        "Do Part D plans have formularies?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicaid prescription lists vary by state",
+      "question": "Does Medicaid cover prescription drugs?",
+      "text": "Most Medicaid plans cover some prescription drugs, but the Prescription Drug List and plan benefits can vary from state to state. People enrolled in a UnitedHealthcare Community Plan can sign in to their account to confirm their pharmacy benefits.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "medicaid",
+        "prescription drugs",
+        "state variation",
+        "community plan"
+      ],
+      "entities": [
+        "Medicaid",
+        "UnitedHealthcare Community Plan"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Does Medicaid cover prescriptions?",
+        "Do Medicaid drug lists differ by state?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How can I understand my prescription label?",
+      "question": "What information is on a prescription drug label?",
+      "text": "A prescription label typically shows the patient's name, medication name, dosage instructions, expiration or discard-after date, number of refills allowed, prescription (Rx) number, pharmacy phone number, pharmacy name and location, the prescribing doctor's name, and often a warning label on the back. Medication should be taken only as directed. If any information is hard to read, a pharmacist can print it in larger type.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "prescription label",
+        "dosage",
+        "refills",
+        "pharmacist"
+      ],
+      "entities": [
+        "pharmacist"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is on a prescription label?",
+        "How do I read my prescription bottle?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Questions to ask your pharmacist",
+      "question": "What should I ask my pharmacist about a new medication?",
+      "text": "UnitedHealthcare suggests asking a pharmacist: how to store the medication; whether anything should not be eaten or drunk while taking it, including vitamins, supplements or alcohol; whether it is safe to take with other prescription or over-the-counter drugs; and when it is safe to stop taking it. It adds that people should seek the advice of a medical professional before making health care decisions.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "pharmacist",
+        "medication safety",
+        "drug interactions",
+        "questions to ask"
+      ],
+      "entities": [
+        "pharmacist"
+      ],
+      "personas": [
+        "Current member",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What should I ask my pharmacist?",
+        "How do I store my medication safely?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Tips for a smooth prior authorization",
+      "question": "How can I make the prior authorization process go smoothly?",
+      "text": "To help prior authorization go smoothly: check the policy documents or Prescription Drug List (PDL) to see if prior authorization is needed; work with the doctor to submit a prior authorization; keep careful records to know when it expires; and begin getting a new prior authorization at least one month in advance. To find out if a drug needs one, call the number on the member ID card or sign in to an account.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "PDL",
+        "expiration",
+        "doctor"
+      ],
+      "entities": [
+        "prior authorization",
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I get prior authorization for a drug?",
+        "When should I renew a prior authorization?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "url": "https://www.uhc.com/news-articles/healthy-living/electrolytes",
+  "title": "What to know about electrolytes",
+  "domain": "Care & Member Experience",
+  "page_type": "article",
+  "summary": "Explains what electrolytes do, where to get them, signs of an imbalance and whether insurance covers electrolyte supplements.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/news-articles/healthy-living/electrolytes/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image_889184097_copy.coreimg.90.1280.jpeg/1731947957675/blog-electrolytes-woman-eating-apple-desktop-1200x800.jpeg",
+      "alt": "Woman eating apple"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What electrolytes are and do",
+      "question": "What are electrolytes and what do they do?",
+      "text": "Electrolytes are chemicals and essential minerals in blood, sweat and urine. When they dissolve in the blood or other body fluids, they develop electric charges that send signals to nerves and muscles. Electrolytes help your body stay hydrated, regulate pH levels, support muscle and nerve function, and help regulate blood pressure, blood sugar and heart rate.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolytes",
+        "hydration",
+        "minerals",
+        "nerve function"
+      ],
+      "entities": [
+        "electrolytes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are electrolytes?",
+        "What do electrolytes do in the body?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Main electrolytes in the body",
+      "question": "Which minerals are electrolytes?",
+      "text": "Main electrolytes include bicarbonate, which balances pH and moves carbon dioxide through the bloodstream; calcium, which supports bones and teeth; chloride, which regulates fluids; magnesium, which supports heart, muscle and nerve function and helps regulate blood sugar; phosphate, which works with calcium; potassium, which helps cells, heart and muscles function; and sodium, which helps maintain fluid balance.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "calcium",
+        "magnesium",
+        "potassium",
+        "sodium",
+        "bicarbonate"
+      ],
+      "entities": [
+        "calcium",
+        "magnesium",
+        "potassium",
+        "sodium"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does potassium do?",
+        "What is the role of magnesium in the body?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How to get enough electrolytes",
+      "question": "How do I get electrolytes?",
+      "text": "You are likely getting all the electrolytes you need if you eat a healthy diet and drink an adequate amount of water. About 20% of an adult's water intake comes from food. UnitedHealthcare advises prioritizing healthy, whole foods with naturally occurring electrolytes.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolytes",
+        "healthy diet",
+        "water intake",
+        "whole foods"
+      ],
+      "entities": [
+        "electrolytes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Do I need electrolyte drinks?",
+        "How much water comes from food?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Electrolytes, fluid balance and fluid loss",
+      "question": "Why do electrolytes matter for hydration?",
+      "text": "The balance of electrolytes and water in your body is closely linked. If your sodium levels are high, the body signals thirst to increase water intake, and your kidneys help balance electrolytes. Your body loses electrolytes when you sweat, vomit or have diarrhea, and you can replace them with food or fluids that contain electrolytes. Water does not contain electrolytes.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "hydration",
+        "kidneys",
+        "sodium",
+        "dehydration",
+        "fluid loss"
+      ],
+      "entities": [
+        "electrolytes",
+        "kidneys"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does water have electrolytes?",
+        "How do you replace electrolytes after vomiting?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Drinks that contain electrolytes",
+      "question": "What drinks have electrolytes?",
+      "text": "Fresh fruit or vegetable juice, bone broth and coconut water all contain electrolytes. Electrolyte drinks may benefit people with prolonged vomiting or diarrhea, especially children, people who work outside in hot climates and people who do prolonged, high-intensity exercise. Energy drinks, sports drinks and hydration powders usually contain electrolytes but may also have added sugar and artificial flavors, so check the label.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolyte drinks",
+        "sports drinks",
+        "coconut water",
+        "added sugar"
+      ],
+      "entities": [
+        "electrolyte drinks",
+        "sports drinks"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Which drinks have electrolytes?",
+        "Are sports drinks good for hydration?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Foods that contain electrolytes",
+      "question": "What foods have electrolytes?",
+      "text": "Healthy, whole foods with naturally occurring electrolytes include tofu, low-fat dairy and some plant-based milks for calcium; fiber-rich foods such as leafy greens, beans, nuts and whole grains for magnesium; coconut water for potassium; lemon juice and raw honey for sodium, potassium and magnesium; and table salt for sodium and chloride.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolyte foods",
+        "calcium",
+        "magnesium",
+        "potassium",
+        "nutrition"
+      ],
+      "entities": [
+        "electrolytes"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What foods are high in magnesium?",
+        "Which foods are good sources of potassium?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What causes an electrolyte imbalance",
+      "question": "What causes an electrolyte imbalance?",
+      "text": "Activity level, age, climate and altitude determine how many electrolytes your body needs, and that can change each day. Certain medications, vomiting or diarrhea, sweating and low water intake can throw levels off. Dehydration is a common condition that can lead to an electrolyte imbalance, such as after forgetting to drink water, an intense workout or a stomach flu.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolyte imbalance",
+        "dehydration",
+        "medications",
+        "causes"
+      ],
+      "entities": [
+        "electrolyte imbalance"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What causes low electrolytes?",
+        "Can medications cause an electrolyte imbalance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Symptoms of electrolyte imbalance and dehydration",
+      "question": "What are the symptoms of an electrolyte imbalance?",
+      "text": "Symptoms of an electrolyte imbalance may include nausea and vomiting, muscle cramps, irregular heartbeat, numbness and tingling, constipation and confusion, although some people feel no signs. Signs of mild dehydration may include dry mouth, thirst, dark urine, headache, muscle cramps and not peeing much. Your provider may order blood tests to measure your electrolyte levels.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolyte imbalance symptoms",
+        "dehydration signs",
+        "blood test",
+        "muscle cramps"
+      ],
+      "entities": [
+        "electrolyte imbalance"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are signs of low electrolytes?",
+        "How are electrolyte levels tested?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Insurance coverage for electrolyte supplements",
+      "question": "Does insurance cover electrolyte supplements?",
+      "text": "Most health plans do not cover over-the-counter (OTC) supplements, but may cover those prescribed by a provider. You may be able to use your health savings account, if you have one, to pay for some supplements.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "electrolyte supplements",
+        "OTC",
+        "HSA",
+        "coverage"
+      ],
+      "entities": [
+        "HSA",
+        "over-the-counter supplements"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is Pedialyte covered by insurance?",
+        "Can I use my HSA for electrolyte supplements?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When an electrolyte imbalance needs medical attention",
+      "question": "When should I seek medical attention for an electrolyte imbalance?",
+      "text": "Electrolyte imbalances can become serious if left untreated. Depending on the electrolytes involved, a severe imbalance could make you feel dizzy or confused, cause a rapid or irregular heartbeat, or cause seizures. In those cases, you may need emergency treatment.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "electrolyte imbalance",
+        "emergency",
+        "seizures",
+        "irregular heartbeat"
+      ],
+      "entities": [
+        "electrolyte imbalance"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Get support",
+      "stage": "Awareness",
+      "questions": [
+        "When is low electrolytes an emergency?",
+        "Can an electrolyte imbalance cause seizures?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "url": "https://www.uhc.com/member-resources/telehealth-virtual-care/virtual-visits",
+  "title": "Virtual Care Visits for Members with Health Plans Through Work",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Describes the virtual care options in UnitedHealthcare employer plans, including 24/7 Virtual Visits, virtual primary care, virtual therapy and virtual specialty care, with FAQs and preparation tips.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/telehealth-virtual-care/virtual-visits/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon/image.coreimg.90.1280.jpeg/1728324762085/virtual-visits-woman-on-video-call-desktop-600x372.jpeg",
+      "alt": "Woman on a video call"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6361161337112-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Virtual Care Visits Overview"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Virtual visits included in employer plans",
+      "question": "Do UnitedHealthcare employer plans cover virtual visits?",
+      "text": "If a member has a UnitedHealthcare health insurance plan through work, their benefits include coverage for virtual visits, also known as telehealth. It is a way to talk to a health provider and get care, including prescriptions, from wherever they are by mobile device, tablet or computer. UnitedHealthcare says members pay less than a typical office visit and save time.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visits",
+        "employer plan",
+        "telehealth",
+        "prescriptions",
+        "lower cost"
+      ],
+      "entities": [
+        "Virtual visits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Member",
+      "questions": [
+        "Are virtual visits included in my employer health plan?",
+        "Do virtual visits cost less than an office visit?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "24/7 Virtual Visits for same-day care",
+      "question": "What are 24/7 Virtual Visits and what do they cost?",
+      "text": "24/7 Virtual Visits are a way to schedule same-day, urgent care visits so members can talk with a provider 24/7 for common urgent care needs or when their primary care provider is not available. With a UnitedHealthcare plan, the cost for a 24/7 Virtual Visit is usually $54 or less.",
+      "topic": "Virtual care",
+      "tags": [
+        "24/7 virtual visits",
+        "urgent care",
+        "$54",
+        "same-day care"
+      ],
+      "entities": [
+        "24/7 Virtual Visits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "How much does a 24/7 Virtual Visit cost?",
+        "Can I see a doctor the same day by video?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual primary care",
+      "question": "What is virtual primary care?",
+      "text": "Virtual primary care offers regular health visits and checkups with a primary care provider without the office visit. Members can choose to see a network PCP regularly so the same provider cares for them over time. It supports preventive care, common and chronic conditions such as diabetes and heart disease, and follow-up visits, and is available for members over 18.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual primary care",
+        "pcp",
+        "chronic conditions",
+        "preventive care"
+      ],
+      "entities": [
+        "Virtual primary care"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Can I have a regular PCP by video?",
+        "Is virtual primary care available for children?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual therapy",
+      "question": "What is virtual therapy?",
+      "text": "Virtual therapy provides confidential behavioral health care through talking to a psychiatrist or therapist during a virtual visit from home. Members should check their benefits for the cost. The page lists issues it can help with, including anxiety, depression, burnout, grief, insomnia, panic attacks, PTSD, stress, substance use and trauma.",
+      "topic": "Behavioral health",
+      "tags": [
+        "virtual therapy",
+        "behavioral health",
+        "anxiety",
+        "depression",
+        "ptsd"
+      ],
+      "entities": [
+        "Virtual therapy"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What conditions can virtual therapy help with?",
+        "Can I talk to a psychiatrist by video?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual specialty care",
+      "question": "What is virtual specialty care?",
+      "text": "Virtual specialty care lets members more quickly access specialty care personalized for their care needs, such as migraine or back, joint and muscle care. Members should check their benefits to see whether it is available to them.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual specialty care",
+        "migraine",
+        "back pain",
+        "joint care"
+      ],
+      "entities": [
+        "Virtual specialty care"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Can I see a specialist virtually?",
+        "Is there virtual care for migraines?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Conditions 24/7 Virtual Visits can treat",
+      "question": "What conditions are 24/7 Virtual Visits good for?",
+      "text": "24/7 Virtual Visits are listed as good for common issues including abdominal pain, urinary tract infection, bronchitis, coughing, diarrhea, fever, migraine or headache, pinkeye, rash, seasonal flu, sinus problems, sore throat, stomachache and yeast infection, among others. Medicare Advantage members should check their plan materials to confirm coverage.",
+      "topic": "Virtual care",
+      "tags": [
+        "24/7 virtual visits",
+        "common conditions",
+        "fever",
+        "rash",
+        "sore throat"
+      ],
+      "entities": [
+        "24/7 Virtual Visits",
+        "Medicare Advantage"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Can I get a virtual visit for pinkeye?",
+        "What can a 24/7 virtual urgent care visit treat?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to prepare for a virtual visit",
+      "question": "How do I get ready for a virtual visit?",
+      "text": "1) Gather information: the UnitedHealthcare member ID card, a list of questions about symptoms, procedures or prescriptions, current medications, vitamins and supplements, and the pharmacy name and address. 2) Check technology: test the internet signal, charge the device, set the camera on a steady surface and read the provider's instructions. 3) Test audio and video 10 to 15 minutes before the visit.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visit prep",
+        "member id card",
+        "medications",
+        "audio and video test"
+      ],
+      "entities": [
+        "Virtual visits"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What do I need for a telehealth appointment?",
+        "How do I troubleshoot a virtual visit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual visits are not for emergencies",
+      "question": "Can I use a virtual visit for an emergency?",
+      "text": "Virtual visits are not intended to address emergency or life-threatening medical conditions. If a person is experiencing a medical emergency, they should seek emergency medical assistance such as calling 911. Virtual visits are not an insurance product, health care provider or health plan, and benefits are generally available only through a Designated Virtual Network Provider.",
+      "topic": "Virtual care",
+      "tags": [
+        "emergency",
+        "911",
+        "designated virtual network provider",
+        "not insurance"
+      ],
+      "entities": [
+        "Designated Virtual Network Provider"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Should I use a virtual visit in an emergency?",
+        "Are virtual visits an insurance product?"
+      ]
+    }
+  ]
+}

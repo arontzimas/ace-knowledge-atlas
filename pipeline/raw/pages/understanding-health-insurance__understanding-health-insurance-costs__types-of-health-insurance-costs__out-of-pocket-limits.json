@@ -1,0 +1,182 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/types-of-health-insurance-costs/out-of-pocket-limits",
+  "title": "Understanding out-of-pocket limits",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what an out-of-pocket limit is, which costs count toward it, how it works and an example with a deductible and coinsurance.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/Videos/brightcove-video-thumbnails/6278178534001-thumbnail.png/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+      "alt": "Out-of-pocket limits made clear"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What an out-of-pocket limit is",
+      "question": "What is an out-of-pocket limit?",
+      "text": "An out-of-pocket limit, also called an out-of-pocket maximum, is the maximum amount you could pay for covered services in a plan year, which is a 12-month coverage period. The terms mean the same thing. After you meet your out-of-pocket limit, your health plan usually pays 100% of the rest of your covered services for the rest of the year, which helps you plan ahead for health care costs.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket limit",
+        "out-of-pocket maximum",
+        "plan year",
+        "covered services"
+      ],
+      "entities": [
+        "Out-of-pocket maximum"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Is an out-of-pocket max the same as an out-of-pocket limit?",
+        "What is the most I could pay in a year?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What counts and what does not count",
+      "question": "What counts toward my out-of-pocket limit?",
+      "text": "Typically, copays, your deductible and coinsurance all count toward your out-of-pocket limit. Things like your monthly premium, balance-billed charges and anything your plan does not cover, such as out-of-network costs, do not count. If your provider charges more than the plan's allowed amount, you may have to pay the difference, which is called a balance-billed charge.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket limit",
+        "premium",
+        "balance billing",
+        "out-of-network",
+        "deductible"
+      ],
+      "entities": [
+        "Out-of-pocket limit",
+        "Deductible",
+        "Copay",
+        "Coinsurance",
+        "Balance billing"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "Do premiums count toward my out-of-pocket maximum?",
+        "Does my deductible count toward the out-of-pocket max?",
+        "Does out-of-network care count toward the limit?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Allowed amount and its other names",
+      "question": "What is the allowed amount for a covered service?",
+      "text": "The plan's allowed amount may also be called the eligible expense, payment allowance or negotiated rate. If a provider charges more than the plan's allowed amount, you may have to pay the difference, known as a balance-billed charge.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "allowed amount",
+        "eligible expense",
+        "negotiated rate",
+        "balance billing"
+      ],
+      "entities": [
+        "Allowed amount",
+        "Balance billing"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What does allowed amount mean?",
+        "What is a negotiated rate?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How an out-of-pocket limit works",
+      "question": "How does an out-of-pocket limit work?",
+      "text": "If you meet your out-of-pocket limit, your plan will usually pay 100% of your covered health care costs, up to the allowed amount. For example, with an annual out-of-pocket limit of $3,000, once you have paid $3,000 out of pocket that year for covered care, usually including deductibles, copays and coinsurance, your plan covers 100% of any future covered services during your coverage period.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket limit",
+        "$3,000 example",
+        "covered services",
+        "100% coverage"
+      ],
+      "entities": [
+        "Out-of-pocket limit"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What happens when I hit my out-of-pocket max?",
+        "Does insurance pay everything after the limit?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Example of reaching an out-of-pocket limit",
+      "question": "Can you walk through an example of an out-of-pocket limit?",
+      "text": "Jake has a health plan with a $2,000 deductible, 20% coinsurance and a $3,500 out-of-pocket limit. 1) He pays $2,000 in medical bills, which meets his deductible and also counts toward his out-of-pocket limit. 2) He then pays 20% coinsurance while his plan pays 80%. 3) After he has paid another $1,500, his total reaches $3,500, which is his limit. 4) His plan then pays 100% of covered care until his plan year ends or renews.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "out-of-pocket limit example",
+        "deductible",
+        "coinsurance",
+        "$3,500"
+      ],
+      "entities": [
+        "Out-of-pocket limit",
+        "Deductible",
+        "Coinsurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How do deductible, coinsurance and out-of-pocket limit work together?",
+        "How much will I pay if my out-of-pocket limit is $3,500?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Managing costs with out-of-pocket limits",
+      "question": "How can understanding out-of-pocket limits help me choose a plan?",
+      "text": "Knowing how out-of-pocket limits work can help you add up your potential costs more accurately when planning for the year or choosing a health plan during open enrollment. Comparing potential medical costs across different types of plans may help make sure you are covered for different scenarios. Some plans, like fixed benefit health insurance, can help you manage out-of-pocket costs from your main plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost planning",
+        "open enrollment",
+        "fixed benefit",
+        "out-of-pocket limit"
+      ],
+      "entities": [
+        "Out-of-pocket limit",
+        "Fixed benefit health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Decision",
+      "questions": [
+        "How do I compare out-of-pocket limits between plans?",
+        "Can a fixed benefit plan help with out-of-pocket costs?"
+      ]
+    }
+  ]
+}

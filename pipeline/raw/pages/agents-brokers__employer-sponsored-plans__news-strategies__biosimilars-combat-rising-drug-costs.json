@@ -1,0 +1,274 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/biosimilars-combat-rising-drug-costs",
+  "title": "Biosimilars: Market disruptors, cost deflators or both?",
+  "domain": "Employer Solutions",
+  "page_type": "article",
+  "summary": "Explains how biosimilars may reduce employer pharmacy spend, how they differ from brand and generic drugs, and four tips for employers.",
+  "published": "2025-10-13",
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/news-strategies/biosimilars-combat-rising-drug-costs/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/grid_copy_copy_copy_/container_2111132048/image.coreimg.90.1280.png/1759415057758/tr-cost-management-biosimilars-article-thumbnail-400x466.png",
+      "alt": "Biosimilars cost management article thumbnail"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/e-i-articles/pdfs/cost-management-biosimilars-article.pdf",
+      "alt": "Download this article"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What a biosimilar is",
+      "question": "What is a biosimilar drug?",
+      "text": "A biosimilar is a biologic medical product that is highly similar to a reference product already approved by regulatory authorities. Biosimilars are developed to have no clinically meaningful differences in safety, purity and potency compared with the original biologic (the reference drug). They are designed to provide the same therapeutic benefits as the reference product but are typically offered at a lower cost.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "biologics",
+        "reference drug",
+        "safety",
+        "lower cost"
+      ],
+      "entities": [
+        "biosimilar",
+        "FDA"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a biosimilar?",
+        "Are biosimilars as safe as biologic drugs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Biosimilars have saved the system nearly $445B",
+      "question": "How much have biosimilars saved the health care system?",
+      "text": "The U.S. Food and Drug Administration approved the first biosimilar in 2015, and biosimilars have since contributed to health care system savings of nearly $445B. At last count, there were more than 70 FDA-approved biosimilars. Their efficacy is comparable to the original specialty drugs they are modeled after, leading to similar health outcomes.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "fda",
+        "savings",
+        "specialty drugs",
+        "approvals"
+      ],
+      "entities": [
+        "FDA",
+        "biosimilar"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "When was the first biosimilar approved?",
+        "How many biosimilars are FDA approved?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Employer concern over high-cost drugs",
+      "question": "How concerned are employers about high-cost drugs and biosimilars?",
+      "text": "Nine in 10 surveyed employers expressed concern about the future of high-cost drugs, and 27% indicated they were considering or planning to require employees to switch to biosimilars when available by 2025. The article notes pharmacy spend is expected to keep rising, with tariffs projected to increase it even further, with some estimates reaching as high as $51B.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "employer survey",
+        "drug costs",
+        "tariffs",
+        "pharmacy spend"
+      ],
+      "entities": [
+        "biosimilar"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Are employers requiring biosimilar switches?",
+        "How might tariffs affect pharmacy costs?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Biologics and biosimilars vs brand and generics",
+      "question": "How do biologics and biosimilars differ from brand and generic drugs?",
+      "text": "Biologics and biosimilars are made from large molecules, which are difficult to develop and require sophisticated, more difficult production. Brand and generic medications are made from small molecules, are easy to develop and are mass-produced. Biosimilars can be a lower-cost alternative to specialty drugs but remain more costly than generics, while brand medications are typically more expensive than generics.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "generics",
+        "brand drugs",
+        "large molecules",
+        "production"
+      ],
+      "entities": [
+        "biosimilar",
+        "biologics"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Are biosimilars cheaper than generics?",
+        "Why are biologic drugs harder to make than generics?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Specialty drugs: under 2% of volume, 60%+ of spend",
+      "question": "How much of pharmacy spending comes from specialty medications?",
+      "text": "UnitedHealthcare data shows that specialty medications make up less than 2% of overall pharmacy volume yet account for more than 60% of total pharmacy spending. The U.S. biosimilars market is expected to grow 17.1% from 2025 to 2034, and currently available biosimilars treat conditions including inflammatory diseases such as rheumatoid arthritis, some cancers and diabetes.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "specialty medications",
+        "pharmacy spend",
+        "biosimilars market",
+        "rheumatoid arthritis",
+        "growth"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "biosimilar"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What share of pharmacy spend is specialty drugs?",
+        "What conditions do biosimilars treat?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Humira biosimilars are on standard PDLs",
+      "question": "Has UnitedHealthcare added Humira biosimilars to its drug lists?",
+      "text": "Yes. UnitedHealthcare has added biosimilars for Humira to its standard Prescription Drug Lists (PDLs) while it continues to monitor market dynamics and advocate for more accessible drug prices. The article notes Humira, which has a monthly list price in the thousands, may be cost-prohibitive for many employees, and that competition from biosimilar equivalents is helping drive down prices.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "humira",
+        "biosimilars",
+        "prescription drug list",
+        "pdl",
+        "drug prices"
+      ],
+      "entities": [
+        "Humira",
+        "PDL",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare cover Humira biosimilars?",
+        "Why are Humira biosimilars important for costs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "$1.66 PMPM employer savings with biosimilar strategies",
+      "question": "How much can employers save with biosimilar management strategies?",
+      "text": "UnitedHealthcare reports $1.66 PMPM in employer savings with biosimilar management strategies. Its stated philosophy is to select the most clinically appropriate therapies that provide the lowest net cost to members, whether that includes coverage for biosimilars, the innovator drug or a combination of the two.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "pmpm savings",
+        "net cost",
+        "clinical appropriateness",
+        "formulary"
+      ],
+      "entities": [
+        "UnitedHealthcare",
+        "biosimilar"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much does biosimilar management save per member per month?",
+        "What is UnitedHealthcare's philosophy on biosimilar coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Biosimilars and competition in drug pricing",
+      "question": "How do biosimilars support affordability?",
+      "text": "Optum Rx Chief Financial Officer Matthew Vesledahl calls biosimilars a game changer for affordability that level the playing field so more employees can access the drugs they need. UnitedHealthcare's Susan Maddux says supporting competition can help lower net costs for employers and out-of-pocket costs for employees, while ensuring manufacturers are incentivized to keep developing new medicines.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "competition",
+        "affordability",
+        "net cost",
+        "optum rx"
+      ],
+      "entities": [
+        "Optum Rx",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do biosimilars make drugs more affordable for employees?",
+        "Why does competition lower drug costs?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "4 tips to maximize biosimilar savings",
+      "question": "What can employers do to get more value from biosimilars?",
+      "text": "1) Work with insurance carriers and pharmacy benefit managers (PBMs) to understand their position on biosimilars, including which medications they cover. 2) Invest in plan designs that include biosimilars in medical and pharmacy offerings. 3) Map out a communication plan to educate employees on how biosimilars, name brands and generics differ in cost and outcomes. 4) Offer employees incentives to switch from a reference drug to the biosimilar when available.",
+      "topic": "Pharmacy benefits",
+      "tags": [
+        "biosimilars",
+        "employer tips",
+        "pbm",
+        "communication plan",
+        "incentives"
+      ],
+      "entities": [
+        "PBM",
+        "biosimilar"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Broker / consultant"
+      ],
+      "intent": "Learn",
+      "stage": "Decision",
+      "questions": [
+        "How can employers encourage biosimilar use?",
+        "What should employers ask their PBM about biosimilars?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-an-hmo",
+  "title": "What is an HMO health plan?",
+  "domain": "Health Insurance Basics",
+  "page_type": "article",
+  "summary": "Explains how an HMO plan works, its PCP and referral rules, advantages, comparison with POS, and Medicare and dental HMO versions.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/what-is-an-hmo/_jcr_content/root/regioncontainer-main/responsivegrid/containerfloatingcon_87499726/image.coreimg.90.1280.jpeg/1728324759594/hmo-family-on-couch-desktop-912x560.jpeg",
+      "alt": "Family on a couch"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/understanding-health-insurance/types-of-health-insurance/understanding-hmo-ppo-epo-pos/hmo-vs-ppo-video",
+      "alt": "HMO vs PPO"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is an HMO health plan?",
+      "question": "What is an HMO plan?",
+      "text": "A health maintenance organization (HMO) plan is one common type of health insurance that typically comes with a specific network of providers. With an HMO plan, a person has to stay in the HMO network to use plan benefits and needs a referral from their doctor before seeing specialists or getting medical equipment (like a wheelchair). Out-of-pocket costs are usually lower than other types of health insurance.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO",
+        "network",
+        "referral",
+        "lower costs"
+      ],
+      "entities": [
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is an HMO?",
+        "How does an HMO plan work?",
+        "Are HMO plans cheaper?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What does HMO stand for?",
+      "question": "What does HMO stand for?",
+      "text": "HMO stands for health maintenance organization. The name comes from the goal of this kind of plan, which is to help maintain a person's health. As a way to keep costs low, HMO plans focus on preventive care to help people get and stay healthy, because the healthier a person is, the less care they are likely to need.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO",
+        "health maintenance organization",
+        "preventive care"
+      ],
+      "entities": [
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What does HMO mean?",
+        "Why is it called a health maintenance organization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "An HMO uses a local provider network",
+      "question": "How does an HMO work?",
+      "text": "HMO plans contract with a group of local providers to offer certain health care services. Members are limited to this local network for their care needs, and some HMO plans require members to live or work in the plan's service area to sign up. HMO providers can be thought of as a local care team, and an HMO plan will not cover visits with out-of-network providers.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO network",
+        "service area",
+        "local providers",
+        "out-of-network"
+      ],
+      "entities": [
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I have to live in a certain area for an HMO?",
+        "Can I see any doctor on an HMO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HMO plans require choosing a primary care provider",
+      "question": "Do HMO plans require a primary care provider?",
+      "text": "With HMO insurance, a person is required to choose a primary care provider (PCP) as their main doctor. Some people enjoy having a PCP because they value building a relationship with their doctor. A member sees their PCP for all care needs and pays the plan's cost-share, like a copay or coinsurance.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "PCP",
+        "primary care provider",
+        "copay",
+        "coinsurance"
+      ],
+      "entities": [
+        "HMO",
+        "primary care provider"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need a PCP with an HMO?",
+        "What does a primary care provider do?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "HMO plans cover out-of-network care only in emergencies",
+      "question": "Does an HMO cover out-of-network care?",
+      "text": "It is important to know which providers are in an HMO plan's network. If a person gets care from an out-of-network provider, such as a doctor, surgeon or lab for bloodwork, they are required to pay the full cost of that service. The only time an HMO plan will cover out-of-network services is for emergency care.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO",
+        "out-of-network",
+        "emergency care",
+        "full cost"
+      ],
+      "entities": [
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Will my HMO pay if I see an out-of-network doctor?",
+        "Are emergencies covered out of network on an HMO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Advantages of an HMO plan",
+      "question": "What are the advantages of an HMO plan?",
+      "text": "The main advantages of an HMO health plan include usually lower premiums, deductibles and cost-shares compared to other types of health plans; a PCP to help coordinate care; and no need to file health insurance claims. An HMO plan may be a good fit for someone who does not travel much and typically does not see specialists.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO advantages",
+        "lower premium",
+        "no claims",
+        "PCP"
+      ],
+      "entities": [
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What are the pros of an HMO?",
+        "Is an HMO good for someone who rarely sees specialists?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "HMO vs. POS plans",
+      "question": "What is the difference between an HMO and a POS plan?",
+      "text": "Unlike HMO plans, POS health plans offer some coverage for certain out-of-network care. Both plan types require referrals and require choosing a primary care provider. For the question of out-of-network coverage, the answer is no for an HMO and yes for a POS.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO vs POS",
+        "referrals",
+        "out-of-network",
+        "PCP"
+      ],
+      "entities": [
+        "HMO",
+        "POS"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How is a POS different from an HMO?",
+        "Which has out-of-network coverage, HMO or POS?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do I need a referral with an HMO?",
+      "question": "Do I need a referral with an HMO?",
+      "text": "Yes. A big difference between HMO plans and some other types of health insurance is that a person needs a referral from their PCP before they can see a specialist or get certain medical equipment. For example, if someone visits their PCP for back pain, the PCP has to submit a referral for them to see a physical therapist before they can make that appointment. For some, this extra step can cost time and money.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "HMO referral",
+        "specialist",
+        "physical therapist",
+        "PCP"
+      ],
+      "entities": [
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do HMOs require referrals to see a specialist?",
+        "Why do I need a referral?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare HMO plans are Medicare Advantage plans",
+      "question": "What is a Medicare HMO plan?",
+      "text": "People 65 or older may be interested in a Medicare HMO plan, called a Medicare Advantage plan. According to UnitedHealthcare, these work just like individual and family HMO plans with one important difference: the Medicare HMO plan has coverage for out-of-network services, as long as those providers accept Medicare.",
+      "topic": "Medicare Advantage",
+      "tags": [
+        "Medicare HMO",
+        "Medicare Advantage",
+        "out-of-network",
+        "age 65"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "HMO",
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a Medicare HMO?",
+        "Does a Medicare HMO cover out-of-network doctors?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is a dental HMO plan (DHMO)?",
+      "question": "What is a dental HMO plan?",
+      "text": "Dental HMO insurance is similar to an HMO health plan. It focuses on preventive care and encourages regular visits to the dentist, which helps keep out-of-pocket costs lower than other dental plans. To take advantage of the low costs, a member must see a network dental provider, or pay for out-of-network dental care. A referral from the primary dentist is needed for specialty dental work.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental HMO",
+        "DHMO",
+        "primary dentist",
+        "referral",
+        "network"
+      ],
+      "entities": [
+        "DHMO",
+        "HMO"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is a DHMO?",
+        "Do dental HMOs need referrals?"
+      ]
+    }
+  ]
+}

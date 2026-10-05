@@ -1,0 +1,143 @@
+{
+  "url": "https://www.uhc.com/individuals-families/health-plans-through-work/options-ppo",
+  "title": "UnitedHealthcare Options PPO plans",
+  "domain": "Individual & Family",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare Options PPO employer-sponsored health plans, which allow any network provider without a PCP or referrals, with higher costs and member responsibilities outside the network.",
+  "published": null,
+  "assets": [],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What are Options PPO plans?",
+      "question": "What is a UnitedHealthcare Options PPO plan?",
+      "text": "With UnitedHealthcare Options PPO health plans, you can use any doctor, clinic, hospital or health care facility in the national network. A network is a group of health care providers and facilities that have a contract with UnitedHealthcare, and staying in the network saves you money.",
+      "topic": "Plans through work",
+      "tags": [
+        "options ppo",
+        "national network",
+        "in-network",
+        "savings"
+      ],
+      "entities": [
+        "UnitedHealthcare Options PPO",
+        "network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is an Options PPO plan?",
+        "Can I use any doctor on Options PPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "No PCP or referrals with Options PPO",
+      "question": "Do I need a PCP or referral on Options PPO?",
+      "text": "With UnitedHealthcare Options PPO, there's no need to select a primary care provider (PCP) or get referrals to see a specialist. You can receive care and services from anyone in the network.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "options ppo",
+        "no referral",
+        "pcp",
+        "specialist"
+      ],
+      "entities": [
+        "UnitedHealthcare Options PPO",
+        "primary care provider"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I see a specialist without a referral on a PPO?",
+        "Do I have to pick a PCP with Options PPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Costs and responsibilities outside the network",
+      "question": "What happens if I use out-of-network providers on Options PPO?",
+      "text": "With Options PPO, if you don't use the network your costs will be higher and it is your responsibility to submit claims. It's also your responsibility to obtain approvals for both network and non-network services.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "out-of-network",
+        "claims",
+        "approvals",
+        "higher costs"
+      ],
+      "entities": [
+        "UnitedHealthcare Options PPO"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Do I file my own claims out of network on Options PPO?",
+        "Who gets approvals for services on Options PPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Services covered by Options PPO plans",
+      "question": "What services do Options PPO plans cover?",
+      "text": "Options PPO plans provide well-rounded coverage for many services, including preventive care (100% at network facility), physician and specialist office visits, lab, X-ray and diagnostic services, urgent care and emergency services, outpatient care services, pregnancy and newborn care, prescription drugs, rehabilitation and skilled nursing facility services and devices, mental health and substance use disorder services, and wellness services.",
+      "topic": "Plans through work",
+      "tags": [
+        "covered services",
+        "prescription drugs",
+        "pregnancy and newborn",
+        "substance use",
+        "preventive care"
+      ],
+      "entities": [
+        "UnitedHealthcare Options PPO"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does Options PPO cover prescription drugs?",
+        "Is maternity care covered on Options PPO?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Managing Options PPO benefits in the app",
+      "question": "How do Options PPO members manage their benefits?",
+      "text": "Options PPO members can use the UnitedHealthcare app for instant access to see benefits, manage health plan details, find network providers and more. Members can also sign in to their member account or use a mobile browser.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "member account",
+        "manage benefits",
+        "find providers"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I use the UnitedHealthcare app with an Options PPO plan?",
+        "How do I sign in to my Options PPO account?"
+      ]
+    }
+  ]
+}

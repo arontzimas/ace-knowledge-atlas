@@ -1,0 +1,271 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance",
+  "title": "Understanding Health Insurance",
+  "domain": "Health Insurance Basics",
+  "page_type": "hub",
+  "summary": "Overview hub explaining what health insurance is, how it works, the main plan types, open enrollment, costs and common terms.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/faq_container_copy/container_1347733_co/container/image.coreimg.90.1280.jpeg/1752182209605/understanding-health-insurance-family-camping-desktop-600x386.jpeg",
+      "alt": "Family camping"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/faq_container_copy/container_1347733_co_857269302/container/image.coreimg.90.1280.jpeg/1752182227903/understanding-health-insurance-man-workshop-desktop-600x386.jpeg",
+      "alt": "Man in a workshop"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/_jcr_content/root/regioncontainer-main/responsivegrid/container/faq_container_copy/container_1347733_co_1380850985/container/image.coreimg.90.1280.jpeg/1752182239964/understanding-health-insurance-couple-moving-desktop-600x386.jpeg",
+      "alt": "Couple moving"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is health insurance?",
+      "question": "What is health insurance?",
+      "text": "Health insurance is a plan, or policy, that covers a percentage of doctors' visits and hospital bills. It exists to help offset the costs of medical events, whether they are planned or happen unexpectedly. Health insurance may also protect people when they are feeling good, and may help keep them feeling that way, through wellness programs and preventive care.",
+      "topic": "How insurance works",
+      "tags": [
+        "health insurance",
+        "definition",
+        "preventive care",
+        "wellness"
+      ],
+      "entities": [
+        "health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is health insurance?",
+        "What does a health insurance policy do?",
+        "Why do people need health insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Going without insurance risks health and finances",
+      "question": "Why is not having health insurance a risk?",
+      "text": "Even someone in good health right now cannot know when they will need health insurance. A car accident, an injury or a cancer diagnosis does not come with warning. According to UnitedHealthcare, not having health insurance is a risk both for the preservation of a person's health and for their financial security.",
+      "topic": "How insurance works",
+      "tags": [
+        "risk",
+        "financial security",
+        "unexpected costs",
+        "coverage"
+      ],
+      "entities": [
+        "health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Do I need health insurance if I'm healthy?",
+        "What happens if I don't have health insurance?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How does health insurance work?",
+      "question": "How does health insurance work?",
+      "text": "Health insurance is a contract between a person and their insurance company, or insurer. When someone purchases a plan, they become a member of that plan. The plan may be a Medicare plan, a Medicaid plan, a plan through an employer, or an individual policy such as an Affordable Care Act (ACA) plan. Knowing how health insurance works can help when deciding which plan is right.",
+      "topic": "How insurance works",
+      "tags": [
+        "contract",
+        "insurer",
+        "member",
+        "plan types"
+      ],
+      "entities": [
+        "Medicare",
+        "Medicaid",
+        "ACA",
+        "health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How does health insurance work?",
+        "Is health insurance a contract?",
+        "What does it mean to be a plan member?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Supplemental plans and memberships add options",
+      "question": "What do supplemental plans and memberships do?",
+      "text": "Supplemental plans, like accident insurance or travel insurance, can help boost coverage for a variety of scenarios. Memberships, like dental savings memberships, are an alternative to insurance that helps people save on qualified services from participating service providers. Both are described by UnitedHealthcare as options alongside traditional health insurance.",
+      "topic": "How insurance works",
+      "tags": [
+        "supplemental insurance",
+        "accident insurance",
+        "travel insurance",
+        "dental savings"
+      ],
+      "entities": [
+        "accident insurance",
+        "travel insurance",
+        "dental savings membership"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is supplemental insurance?",
+        "Is a dental savings membership the same as insurance?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What are the different types of health insurance?",
+      "question": "What are the different types of health insurance?",
+      "text": "There are different types of health insurance plans to fit different needs. Some types include government plans, such as Affordable Care Act (ACA) plans, which can also be called Marketplace or Exchange plans, Medicare plans and Medicaid plans. Before choosing a plan during open enrollment, it may help to review the various plan types to see which may work best.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "plan types",
+        "ACA",
+        "Medicare",
+        "Medicaid",
+        "marketplace"
+      ],
+      "entities": [
+        "ACA",
+        "Medicare",
+        "Medicaid",
+        "Marketplace"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What kinds of health insurance are there?",
+        "What is a Marketplace or Exchange plan?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What is health insurance open enrollment?",
+      "question": "What is open enrollment?",
+      "text": "Open enrollment is a special period of time when a person gets to start, stop or change their health insurance plan. It most often happens once a year, unless the person experiences a qualifying life event. There are different enrollment periods depending on whether a person has insurance through an employer, Medicare or an ACA plan.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "open enrollment",
+        "enrollment period",
+        "qualifying life event"
+      ],
+      "entities": [
+        "open enrollment",
+        "ACA",
+        "Medicare"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is open enrollment?",
+        "How often can I change my health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Insurance does not make health care free",
+      "question": "Does having insurance mean health care is free?",
+      "text": "Having insurance does not mean health care will be free. Members still pay a monthly rate, or premium. Members may also pay copayments or other out-of-pocket fees, or have to meet deductibles every year before insurance coverage kicks in. Different factors can affect health insurance costs, so it is important to understand them before selecting a plan.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "premium",
+        "copayment",
+        "deductible",
+        "out-of-pocket",
+        "costs"
+      ],
+      "entities": [
+        "premium",
+        "copayment",
+        "deductible"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is health care free with insurance?",
+        "What do I still pay if I have health insurance?",
+        "What costs come with a health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicaid renewal is also called redetermination",
+      "question": "What is Medicaid renewal and how do I stay covered?",
+      "text": "A person asked to renew their Medicaid eligibility may wonder what to do next. Medicaid redetermination is also called Medicaid renewal or recertification. UnitedHealthcare offers information on how to stay covered if Medicaid coverage is changing.",
+      "topic": "Medicaid renewal",
+      "tags": [
+        "medicaid renewal",
+        "redetermination",
+        "recertification",
+        "stay covered"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What is Medicaid redetermination?",
+        "What should I do if I'm asked to renew Medicaid?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common insurance terms have plain-language definitions",
+      "question": "Where can I find definitions of health insurance terms?",
+      "text": "Terms such as deductibles, premiums, network, claims and benefits can make health insurance seem like it has a language of its own. UnitedHealthcare provides a list of common health insurance terms with quick definitions that explain what they mean in everyday language.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "glossary",
+        "insurance terms",
+        "deductible",
+        "premium",
+        "network",
+        "claims"
+      ],
+      "entities": [
+        "health insurance glossary"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What do health insurance terms mean?",
+        "Where is a health insurance glossary?"
+      ]
+    }
+  ]
+}

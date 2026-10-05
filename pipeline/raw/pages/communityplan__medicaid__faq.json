@@ -1,0 +1,365 @@
+{
+  "url": "https://www.uhc.com/communityplan/medicaid/faq",
+  "title": "Medicaid frequently asked questions (FAQs)",
+  "domain": "Medicaid",
+  "page_type": "faq",
+  "summary": "Answers common questions about Medicaid eligibility, enrollment, plan changes, where UnitedHealthcare Community Plan operates, benefits, payer-of-last-resort rules, costs and related programs such as Medicare, CHIP and SSI.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/communityplan/medicaid/faq/_jcr_content/root/responsivegrid/image.coreimg.png/1692055144858/mom-and-toddler.png",
+      "alt": "Mom and toddler"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "faq",
+      "title": "Who can qualify for Medicaid?",
+      "question": "Who can qualify for Medicaid?",
+      "text": "In all states, Medicaid provides health coverage for some low-income people, families and children, pregnant women, the elderly, and people with disabilities. In some states, Medicaid covers all low-income adults below a certain income level. The exact requirements depend on where you live, so check your state Medicaid website for its eligibility requirements.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "who qualifies",
+        "low income",
+        "state requirements",
+        "adults"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Who qualifies for Medicaid?",
+        "Do all low-income adults qualify for Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can I get Medicaid, Social Security and Medicare?",
+      "question": "Can I get both Medicaid and Social Security? What about Medicare?",
+      "text": "Yes, as long as you meet the qualifications for Medicaid in your state. Whether or not you get Social Security Disability Insurance (SSDI) doesn't change your Medicaid eligibility. Getting SSDI automatically qualifies you for Medicare, but there is a waiting period; you'll likely need to wait 2 years after you qualify for the Social Security disability benefit before you can get Medicare.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "ssdi",
+        "social security",
+        "medicare waiting period",
+        "2 years",
+        "disability"
+      ],
+      "entities": [
+        "Medicaid",
+        "Medicare",
+        "Social Security Disability Insurance",
+        "SSDI"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Medicare shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have Medicaid and get SSDI?",
+        "How long is the wait for Medicare after SSDI?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to apply and what to have ready",
+      "question": "What do I need to apply for Medicaid, and how do I enroll?",
+      "text": "You'll need to fill out an application through the state agency that manages the Medicaid program in your state. Different states have different requirements, but you will likely need personal information (household members' names, birth dates and Social Security numbers, plus proof of citizenship), financial information (rent or mortgage, expenses, vehicle information, bank statements, pay stubs) and medical information (proof of disability or records of a lasting condition, recent medical bills).",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "apply",
+        "documents",
+        "state agency",
+        "application form"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What documents do I need for Medicaid?",
+        "How can I enroll in Medicaid?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When are the Medicaid enrollment periods?",
+      "question": "When are the Medicaid enrollment periods?",
+      "text": "You can apply for Medicaid or CHIP (the Children's Health Insurance Program) at any time throughout the year. Eligible people can apply whenever their circumstances call for it, rather than waiting for a set enrollment window.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "enrollment period",
+        "any time",
+        "chip",
+        "year-round"
+      ],
+      "entities": [
+        "Medicaid",
+        "CHIP"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Is there an open enrollment for Medicaid?",
+        "Can I apply for Medicaid anytime?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can I change my Medicaid plan?",
+      "question": "How can I change my Medicaid plan?",
+      "text": "Medicaid in each state is run by the state government. While certain states may offer different types of Medicaid plans, each plan is typically for a certain type of person, such as children, families or low-income adults. It's not likely you can switch to a different Medicaid plan unless your life situation changes, for example if you get married or become pregnant.",
+      "topic": "Medicaid eligibility",
+      "tags": [
+        "change plan",
+        "life change",
+        "marriage",
+        "pregnancy",
+        "plan types"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Current member",
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I switch Medicaid plans?",
+        "What life events let me change my Medicaid plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "UnitedHealthcare Community Plan serves 43 states and D.C.",
+      "question": "Where does UnitedHealthcare offer Medicaid health plans?",
+      "text": "As of January 2025, UnitedHealthcare Community Plan serves members who qualify for Medicaid or for both Medicaid and Medicare in 43 states and the District of Columbia. UnitedHealthcare offers Medicaid plans in Arizona, Colorado, Florida, Hawaii, Idaho, Indiana, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, Nevada, New Jersey, New Mexico, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, Tennessee, Texas, Virginia, Washington and Wisconsin. Plans are not available in all counties.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "states served",
+        "43 states",
+        "medicaid plans by state",
+        "service area"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare offer Medicaid in my state?",
+        "How many states have UnitedHealthcare Community Plan?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "D-SNP states served by UnitedHealthcare",
+      "question": "In which states does UnitedHealthcare offer Dual Special Needs plans?",
+      "text": "As of January 2025, UnitedHealthcare offers Dual Special Needs plans (D-SNPs) in Alabama, Arizona, Arkansas, Colorado, Connecticut, the District of Columbia, Florida, Georgia, Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Washington, West Virginia, Wisconsin and Wyoming. Not available in all counties.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "d-snp states",
+        "dual plans",
+        "service area",
+        "state availability"
+      ],
+      "entities": [
+        "Dual Special Needs plan",
+        "D-SNP",
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Is there a UnitedHealthcare D-SNP in my state?",
+        "Which states have UnitedHealthcare dual plans?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Mandatory versus optional Medicaid benefits",
+      "question": "What services does Medicaid cover?",
+      "text": "Each state manages its own Medicaid program, so coverage can change from state to state. Federal law requires some mandatory benefits, which include inpatient hospital care, short-term skilled nursing or rehabilitation care, doctor services, outpatient hospital or clinic care, laboratory and X-ray services, short-term home health care, ambulance service and prescription drugs for people not covered by Medicare. Optional benefits some states offer may include eye exams and glasses, hearing tests and aids, dental care, preventive screenings, extra physical therapy, non-emergency transportation and chiropractic care.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "mandatory benefits",
+        "optional benefits",
+        "hearing aids",
+        "chiropractic",
+        "non-emergency transportation"
+      ],
+      "entities": [
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Does Medicaid cover hearing aids or glasses?",
+        "What is the difference between mandatory and optional Medicaid benefits?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Can I have Medicaid and private insurance?",
+      "question": "Can I have Medicaid and private insurance?",
+      "text": "Medicaid is managed at the state level by each state government. However, state governments do not actually provide health insurance themselves. They contract with private insurance companies like UnitedHealthcare to provide health coverage for beneficiaries of Medicaid and other government health care programs. UnitedHealthcare's government-sponsored health plans operate under the name UnitedHealthcare Community Plan.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "managed care",
+        "private insurers",
+        "state contracts",
+        "community plan"
+      ],
+      "entities": [
+        "UnitedHealthcare Community Plan",
+        "Medicaid"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does a private company run Medicaid plans?",
+        "What is UnitedHealthcare Community Plan?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How does Medicaid work with other insurance?",
+      "question": "How does Medicaid work with other insurance?",
+      "text": "In most cases, Medicaid is the payer of last resort. That means Medicaid will pay after any other payer has paid its share of the services. If you have Medicare or any type of private health coverage, Medicaid will always be the secondary payer. Providers bill the primary payer first, and Medicaid pays what's left over, which is why Medicaid enrollees must say if they have other sources of coverage.",
+      "topic": "Dual eligible coverage",
+      "tags": [
+        "payer of last resort",
+        "secondary payer",
+        "coordination of benefits",
+        "medicare",
+        "private insurance"
+      ],
+      "entities": [
+        "Medicaid",
+        "Medicare"
+      ],
+      "personas": [
+        "Medicaid household",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Does Medicaid pay after Medicare?",
+        "What does payer of last resort mean?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Does Medicaid cover deductibles and premiums?",
+      "question": "Does Medicaid cover deductibles?",
+      "text": "In most cases, Medicaid pays the full cost for covered services, so people with Medicaid do not have to pay a monthly premium or any deductibles. There are some exceptions and rules vary by state. In certain cases, if someone has Social Security benefits, a small amount may be taken from those benefits to help cover the cost of Medicaid coverage.",
+      "topic": "Community Plan benefits",
+      "tags": [
+        "deductible",
+        "premium",
+        "cost sharing",
+        "social security benefits"
+      ],
+      "entities": [
+        "Medicaid",
+        "Social Security"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do I pay a premium for Medicaid?",
+        "Does Medicaid have a deductible?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What Medicare is",
+      "question": "What is Medicare?",
+      "text": "Medicare is a national health insurance program run by the federal government. It's for people age 65 and older, and also some people under age 65 with certain disabilities. Medicare is separate from Medicaid, which states and the federal government fund together.",
+      "topic": "Medicare basics",
+      "tags": [
+        "medicare",
+        "age 65",
+        "disability",
+        "federal program"
+      ],
+      "entities": [
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is Medicare?",
+        "Who is eligible for Medicare?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "SSI and CHIP defined",
+      "question": "What are Supplemental Security Income (SSI) and CHIP?",
+      "text": "Supplemental Security Income (SSI) is a monthly cash benefit paid by the federal Social Security Administration and the state to low-income elderly, blind and disabled residents; SSI benefits are not the same as Social Security benefits. CHIP, the Children's Health Insurance Program, provides low-cost insurance for children whose families do not meet the income requirements for Medicaid. CHIP may also cover pregnant women in some states, but does not cover adults caring for children who qualify for CHIP.",
+      "topic": "CHIP & children's coverage",
+      "tags": [
+        "ssi",
+        "chip",
+        "supplemental security income",
+        "children",
+        "pregnant women"
+      ],
+      "entities": [
+        "SSI",
+        "Supplemental Security Income",
+        "CHIP",
+        "Social Security Administration"
+      ],
+      "personas": [
+        "Medicaid household"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is SSI?",
+        "Does CHIP cover parents?"
+      ]
+    }
+  ]
+}

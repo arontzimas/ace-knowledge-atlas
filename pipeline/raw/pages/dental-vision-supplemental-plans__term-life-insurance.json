@@ -1,0 +1,225 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/term-life-insurance",
+  "title": "Term life insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Explains UnitedHealthcare term life insurance underwritten by Golden Rule, its optional Critical Illness Benefit and key features.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/Term-life-family-with-newborn-desktop-1920x725.jpg",
+      "alt": "Family with a newborn"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What term life insurance is",
+      "question": "What is term life insurance?",
+      "text": "Term life insurance is a life insurance policy that pays cash benefits to help loved ones in the event of the policyholder's death. Term life policies from Golden Rule Insurance Company also feature an optional Critical Illness Benefit that pays cash benefits upon diagnosis of a qualifying illness.",
+      "topic": "Life insurance",
+      "tags": [
+        "term life",
+        "life insurance",
+        "cash benefit",
+        "critical illness benefit"
+      ],
+      "entities": [
+        "Term life insurance",
+        "Golden Rule Insurance Company"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is term life insurance?",
+        "Does term life insurance include critical illness coverage?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How term life insurance works",
+      "question": "How does term life insurance pay out?",
+      "text": "Term life insurance pays designated beneficiaries a lump sum if the policyholder dies within the selected policy term. If an optional Critical Illness Benefit is added and the policyholder is diagnosed with a qualifying illness, a cash benefit is paid to the policyholder according to the policy terms and can be used as wished. The amount paid from the Critical Illness Benefit is subtracted from the term life policy benefit.",
+      "topic": "Life insurance",
+      "tags": [
+        "lump sum",
+        "beneficiary",
+        "policy term",
+        "critical illness benefit"
+      ],
+      "entities": [
+        "Term life insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who gets the money from a term life policy?",
+        "Does a critical illness payout reduce my life insurance benefit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How beneficiaries can use term life benefits",
+      "question": "What can my beneficiaries do with a term life payout?",
+      "text": "When a person chooses a term life insurance plan, the policy benefits are paid to the beneficiary or beneficiaries, who can use the payment as they wish. The page lists example expenses the payment can help with. UnitedHealthcare describes the plan as designed to help protect a family's finances.",
+      "topic": "Life insurance",
+      "tags": [
+        "beneficiary",
+        "family finances",
+        "lump sum",
+        "term life"
+      ],
+      "entities": [
+        "Term life insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How is term life money used by a family?",
+        "Do beneficiaries have restrictions on how to spend the benefit?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Qualifying illnesses for the Critical Illness Benefit",
+      "question": "Which illnesses qualify for the term life Critical Illness Benefit?",
+      "text": "With term life coverage from Golden Rule Insurance Company, a person can add a Critical Illness Benefit that pays a cash benefit upon diagnosis of a qualifying illness: heart attack, life-threatening cancer, loss of hearing, speech or vision, major organ transplant, paralysis, coma, renal failure, stroke, carcinoma in situ or coronary artery bypass graft. Waiting periods may apply, and the optional benefit requires an additional premium.",
+      "topic": "Life insurance",
+      "tags": [
+        "critical illness benefit",
+        "rider",
+        "heart attack",
+        "stroke",
+        "waiting period"
+      ],
+      "entities": [
+        "Term life insurance",
+        "Critical Illness Benefit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What illnesses does the term life critical illness rider cover?",
+        "Does the term life critical illness benefit cost extra?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Reasons to choose UnitedHealthcare term life",
+      "question": "What are the features of UnitedHealthcare term life insurance?",
+      "text": "UnitedHealthcare lists four features: a lump-sum benefit paid upon the policyholder's death; no medical exam required (the product is medically underwritten); multiple terms and benefit levels to choose from; and coverage available until age 75. Products vary by state.",
+      "topic": "Life insurance",
+      "tags": [
+        "lump sum",
+        "no medical exam",
+        "benefit levels",
+        "age 75",
+        "medically underwritten"
+      ],
+      "entities": [
+        "Term life insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "Does term life insurance require a medical exam?",
+        "Until what age can I have term life coverage?",
+        "Can I choose a term length and benefit amount?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Continuing term life coverage up to age 75",
+      "question": "What happens when my term life policy term ends?",
+      "text": "A footnote on UnitedHealthcare's term life page states that after the initial term, the coverage can be continued on a year-by-year basis up to age 75. Evidence of insurability is not required, but the premium rate will increase each year.",
+      "topic": "Life insurance",
+      "tags": [
+        "policy renewal",
+        "age 75",
+        "premium increase",
+        "evidence of insurability"
+      ],
+      "entities": [
+        "Term life insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can I renew term life insurance after the term ends?",
+        "Does term life premium go up each year after the initial term?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Do I need life insurance",
+      "question": "Do I need life insurance?",
+      "text": "UnitedHealthcare says that if a person has a family, having a term life insurance plan may be an important way to help keep the family secure. Having a term life policy is a way to help provide financial support to loved ones if the policyholder unexpectedly dies. The page asks readers whether their family would be financially secure in the event of their death.",
+      "topic": "Life insurance",
+      "tags": [
+        "life insurance",
+        "family security",
+        "financial support",
+        "term life"
+      ],
+      "entities": [
+        "Term life insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Should I buy term life insurance?",
+        "Why does my family need term life insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Term life contact number and underwriter",
+      "question": "How do I learn about UnitedHealthcare term life plans in my state?",
+      "text": "Term life insurance from UnitedHealthcare is underwritten by Golden Rule Insurance Company. Shoppers can call 1-866-639-4610 to learn more about term life insurance plans in their state, and a plan finder is available to see which insurance options may be available.",
+      "topic": "Life insurance",
+      "tags": [
+        "term life",
+        "golden rule",
+        "phone number",
+        "plans by state"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "Term life insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "What number do I call for term life insurance?",
+        "Who underwrites UnitedHealthcare term life?"
+      ]
+    }
+  ]
+}

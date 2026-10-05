@@ -1,0 +1,229 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/hospital-and-doctor-insurance",
+  "title": "Fixed benefit health insurance",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Explains how fixed benefit (fixed indemnity) health insurance pays preset cash benefits for hospital and doctor services and what to know before buying.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/fixed-indemnity-family-on-bridge-desktop-1920x725.jpg",
+      "alt": "Family standing on a bridge"
+    },
+    {
+      "kind": "video",
+      "src": "https://youtu.be/I6Zc2uMAo70",
+      "alt": "Learn more about fixed benefit health insurance"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What fixed benefit health insurance is",
+      "question": "What is fixed benefit health insurance?",
+      "text": "Fixed benefit health insurance, sometimes referred to as hospital and doctor fixed indemnity insurance, pays a preset amount to the policyholder or the provider for specific covered medical services. It is also sometimes called indemnity insurance or fee for service insurance. The benefit stays the same no matter what the total bill was and no matter what other insurance pays.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "fixed benefit",
+        "fixed indemnity",
+        "preset payment",
+        "fee for service"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is a fixed indemnity plan?",
+        "How do fixed benefit health plans pay?",
+        "Is fixed indemnity the same as fee for service insurance?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Why buy fixed benefit health insurance",
+      "question": "Why would I buy fixed benefit health insurance?",
+      "text": "UnitedHealthcare says unexpected medical bills can disrupt even the most stable household budgets. Fixed benefit health insurance can help ensure extra medical costs do not come with extra worries. The plans are designed to give traditional health insurance a boost by paying a preset payment when a person receives a qualified medical service specified in the plan.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "fixed benefit",
+        "medical bills",
+        "household budget",
+        "supplement"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is fixed benefit health insurance worth it?",
+        "How does fixed benefit insurance help with medical bills?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How fixed benefit plans pay benefits",
+      "question": "How do I use a fixed benefit health plan?",
+      "text": "To use benefits: the policyholder or provider submits a covered expense, and the fixed benefit for that service is paid no matter what other insurance coverage the person has. No deductible has to be met before benefits are received. The plan lets members choose their doctor or health facility.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "submit expense",
+        "no deductible",
+        "fixed benefit",
+        "claims"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Consideration",
+      "questions": [
+        "Do I have to meet a deductible for a fixed benefit plan?",
+        "How do I get paid by a fixed benefit plan?",
+        "Does fixed benefit insurance pay if my health plan also pays?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Provider choice and year-round enrollment",
+      "question": "Can I choose any doctor and apply any time with fixed benefit insurance?",
+      "text": "With a fixed benefit plan, a person can go to any doctor or health care facility they want. They may save money with discounted rates for services if they use providers in the plan's network, which varies by state. Applications can be made year-round, not just during an enrollment period or because of special circumstances.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "any doctor",
+        "network discounts",
+        "year-round enrollment",
+        "open enrollment"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Can I buy fixed benefit insurance outside open enrollment?",
+        "Do I have to use network doctors with a fixed benefit plan?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Is fixed benefit insurance an ACA plan",
+      "question": "Is fixed benefit health insurance an Affordable Care Act (ACA) plan?",
+      "text": "UnitedHealthcare states that fixed benefit health insurance provides limited benefits and is a supplement to health insurance, not a substitute for the minimum essential coverage required by the ACA. Lack of major medical coverage may result in an additional payment with taxes. This fixed indemnity product provides benefits in a stated amount regardless of the actual expenses incurred.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "aca",
+        "minimum essential coverage",
+        "limited benefits",
+        "tax payment"
+      ],
+      "entities": [
+        "ACA",
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Decision",
+      "questions": [
+        "Does a fixed benefit plan meet ACA requirements?",
+        "Will I be penalized for only having fixed indemnity insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Network note for people with major medical plans",
+      "question": "Should I consider my medical plan's network when using a fixed benefit plan?",
+      "text": "A footnote on UnitedHealthcare's page says that people with a major medical plan may need to stay with certain networks and providers to get the most coverage out of that plan. They should take that into consideration when choosing where they get care, even though a fixed benefit plan lets them go to any doctor or facility.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "network",
+        "major medical",
+        "provider choice",
+        "fixed benefit"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I see out-of-network doctors with a fixed benefit plan?",
+        "Does fixed benefit insurance change how I use my health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fixed benefit plan details to check in the brochure",
+      "question": "What limits apply to fixed benefit plan benefits?",
+      "text": "UnitedHealthcare notes that some benefits increase the longer a person has the plan. Some plans may have waiting periods for wellness or preventive services. Intensive care or critical care hospitalization benefits are subject to a maximum number of days per confinement, and if more than one surgery occurs in a day, the highest tiered amount is paid. A drug discount card, where included, is for prescription discounts only and is not insurance.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "waiting period",
+        "icu benefit",
+        "surgery benefit",
+        "drug discount card",
+        "brochure"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Decision",
+      "questions": [
+        "Is there a waiting period for wellness visits on a fixed benefit plan?",
+        "Does fixed benefit insurance include a prescription discount card?",
+        "Is the ICU benefit limited by days?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Fixed benefit plan contact and shopping options",
+      "question": "How do I shop for fixed benefit health insurance?",
+      "text": "UnitedHealthcare lets shoppers view fixed benefit health insurance plans by state using a ZIP code. Shoppers can also call 1-877-914-3210 with questions. The page also offers a video, titled as a way to learn more about fixed benefit health insurance, and links to other supplemental plans such as dental, vision and cash-benefit plans.",
+      "topic": "Hospital indemnity",
+      "tags": [
+        "shop plans",
+        "plans by state",
+        "phone number",
+        "video"
+      ],
+      "entities": [
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I buy a fixed benefit plan?",
+        "Is there a phone number for fixed benefit health insurance?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.uhc.com/news-articles/medicare-articles/hsas-and-medicare",
+  "title": "Health Savings Accounts and Medicare",
+  "domain": "Medicare",
+  "page_type": "article",
+  "summary": "Medicare Made Clear article explaining how enrolling in Medicare Part A or Part B ends HSA contributions, how retroactive coverage affects timing, and how HSA funds can still be used.",
+  "published": null,
+  "assets": [
+    {"kind": "image", "src": "https://www.uhc.com/news-articles/medicare-articles/hsas-and-medicare/_jcr_content/root/regioncontainer_1629060422/responsivegrid_440336480/image.coreimg.90.1280.jpeg/1747246481842/blog-hsas-and-medicare.jpeg", "alt": "HSAs & Medicare"}
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Enrolling in any Medicare part ends HSA contributions",
+      "question": "Can I contribute to an HSA after I enroll in Medicare?",
+      "text": "Once you enroll in any part of Medicare, you're no longer eligible to make HSA contributions. This includes Medicare Part A or Medicare Part B; either one will prevent you from contributing further to your HSA. HSAs are built up with pre-tax contributions and used for qualified health expenses.",
+      "topic": "HSA, HRA & FSA",
+      "tags": ["hsa", "contributions", "part a", "part b", "pre-tax"],
+      "entities": ["HSA", "Part A", "Part B", "Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Does Medicare stop HSA contributions?", "Can I keep funding my HSA with Medicare Part A?", "Why can't I contribute to an HSA on Medicare?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Part A is premium-free but ends HSA contributions",
+      "question": "If I keep working, should I enroll in premium-free Part A and keep my HSA?",
+      "text": "Many people turning 65 who continue to work consider getting Medicare Part A since it's premium-free, but once you enroll in Part A you can't make any more pre-tax contributions to your HSA. If you plan to keep working and want to continue building your HSA, check whether you're eligible to delay Medicare enrollment. However, if you're receiving Social Security benefits, Medicare Part A is mandatory.",
+      "topic": "HSA, HRA & FSA",
+      "tags": ["premium-free part a", "delay medicare", "working past 65", "social security", "hsa"],
+      "entities": ["Part A", "HSA", "Social Security"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Should I delay Part A to keep contributing to my HSA?", "Is Part A mandatory if I get Social Security?", "How do I keep contributing to an HSA at 65?"]
+    },
+    {
+      "type": "assertion",
+      "title": "Stop HSA contributions about 6 months early",
+      "question": "When should I stop contributing to my HSA before enrolling in Medicare?",
+      "text": "If you enroll in Medicare Part A, the coverage is retroactive for up to 6 months, but no earlier than your eligibility date. Because of this, you should plan to stop HSA contributions around 6 months before enrolling in Medicare. You can contribute to your HSA for the months that you were eligible for Medicare and were not yet enrolled.",
+      "topic": "HSA, HRA & FSA",
+      "tags": ["retroactive coverage", "6 months", "stop contributions", "part a", "hsa timing"],
+      "entities": ["Part A", "HSA", "Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": ["How far back does Part A coverage go?", "When do I need to stop HSA contributions?", "Can I contribute while eligible but not enrolled?"]
+    },
+    {
+      "type": "assertion",
+      "title": "You can still spend HSA funds on Medicare costs",
+      "question": "Can I still use my HSA funds after enrolling in Medicare?",
+      "text": "Even after you enroll in Medicare and stop HSA contributions, you can still withdraw funds tax-free for qualified medical expenses. You can even use your HSA to pay for some Medicare expenses, including your Medicare Part B, Part D and Medicare Advantage plan premiums, deductibles, copays and coinsurance.",
+      "topic": "HSA, HRA & FSA",
+      "tags": ["hsa withdrawals", "tax-free", "medicare premiums", "qualified medical expenses", "part b"],
+      "entities": ["HSA", "Part B", "Part D", "Medicare Advantage"],
+      "personas": ["Medicare shopper", "Current member"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["Can I pay Medicare premiums with my HSA?", "Are HSA withdrawals still tax-free on Medicare?", "What Medicare expenses can an HSA cover?"]
+    },
+    {
+      "type": "assertion",
+      "title": "HSA funds can cover items Medicare does not",
+      "question": "What non-Medicare expenses can I use my HSA for?",
+      "text": "In addition to traditional Medicare expenses, your HSA may also be used to cover a number of items and services that may not be covered by your Medicare plan. This may include long-term health care coverage, expenses associated with dental, hearing or vision, and other costs that the IRS considers qualified medical expenses.",
+      "topic": "HSA, HRA & FSA",
+      "tags": ["hsa", "dental hearing vision", "long-term care", "irs qualified expenses"],
+      "entities": ["HSA", "IRS", "Medicare"],
+      "personas": ["Medicare shopper"],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": ["Can I use my HSA for dental and hearing on Medicare?", "Can an HSA pay for long-term care?", "What qualified expenses does the IRS allow for HSAs?"]
+    },
+    {
+      "type": "faq",
+      "title": "Social Security and using an HSA with Medicare",
+      "question": "Will receiving Social Security benefits affect my ability to use an HSA with Medicare?",
+      "text": "If you are receiving Social Security benefits and are 65 or older, you may have been automatically enrolled in Original Medicare (Part A and Part B). If you are enrolled in Medicare, you are no longer eligible to contribute to an HSA but can continue to use your HSA funds to help cover qualified medical expenses.",
+      "topic": "HSA, HRA & FSA",
+      "tags": ["social security", "automatic enrollment", "hsa", "original medicare"],
+      "entities": ["Social Security", "Original Medicare", "HSA", "Part A", "Part B"],
+      "personas": ["Medicare shopper"],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": ["Does Social Security auto-enrollment stop my HSA contributions?", "Can I still spend my HSA if I'm on Social Security and Medicare?", "Will I be enrolled in Medicare automatically if I collect Social Security?"]
+    }
+  ]
+}

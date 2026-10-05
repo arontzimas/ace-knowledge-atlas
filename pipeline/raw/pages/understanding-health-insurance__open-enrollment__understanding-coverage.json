@@ -1,0 +1,238 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/open-enrollment/understanding-coverage",
+  "title": "Open enrollment for health insurance through work",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what to understand about network coverage, preventive versus diagnostic care and plan documents when choosing an employer-offered health plan during open enrollment.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/full-width/Open-enrollment-through-work-woman-on-phone-desktop-2880x514.jpg",
+      "alt": "Woman on phone (open enrollment through work page banner)"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/open-enrollment/understanding-coverage/_jcr_content/root/regioncontainer-main/responsivegrid/container/container_1261445035/container/image.coreimg.90.1280.png/1750174848955/open-enrollment-through-work-stethoscope-illustration-desktop-618x510.png",
+      "alt": "Stethoscope illustration"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Choosing an employer plan at open enrollment",
+      "question": "How should I approach choosing a health plan offered by my employer?",
+      "text": "Open enrollment is your time to choose your health insurance plan for the year. If your employer offers more than one plan, think about the kind of coverage you will need for the year ahead and compare the options based on your budget and your care needs. Understanding some coverage details first can help you make a decision that may work best for your life situation.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "employer plans",
+        "open enrollment",
+        "plan comparison",
+        "budget",
+        "care needs"
+      ],
+      "entities": [
+        "Employer-sponsored health plans"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How do I choose between health plans my employer offers?",
+        "What should I know before enrolling in a work health plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plans cover network providers differently",
+      "question": "Do all health plans cover out-of-network providers?",
+      "text": "Each health plan covers care through a network of designated doctors, specialists and facilities. Some plans help cover care only within their own network. Other plans are more flexible and agree to cover part of the cost for out-of-network providers. Learn whether your provider is in the network for the plan you are considering, and check whether there is partial coverage for out-of-network providers.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "network",
+        "out-of-network",
+        "provider coverage",
+        "plan comparison"
+      ],
+      "entities": [
+        "Health plan network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Will my plan cover an out-of-network doctor?",
+        "Do I need to stay in network to have coverage?",
+        "How do I check if my doctor is in my plan's network?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What preventive care is",
+      "question": "What is preventive care?",
+      "text": "Preventive care helps you stay healthier before you have symptoms. Plans often cover preventive care such as routine checkups, immunizations and tests, and one wellness visit per year. Each plan covers preventive care differently, so check each plan's covered preventive services and find out how often you can use them in one plan year.",
+      "topic": "Plan types & networks",
+      "tags": [
+        "preventive care",
+        "wellness visit",
+        "checkups",
+        "immunizations"
+      ],
+      "entities": [
+        "Preventive care"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What counts as preventive care?",
+        "Does my plan cover an annual wellness visit?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What diagnostic care is",
+      "question": "What is diagnostic care?",
+      "text": "Diagnostic care helps you determine what is wrong when you already have symptoms. Plan coverage can vary, and you may have to pay more for diagnostic care services such as services other than routine care and certain tests, procedures, doctors and specialists. Ask which services are considered diagnostic before you receive care, because these services generally cost a lot more.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "diagnostic care",
+        "symptoms",
+        "cost-sharing",
+        "specialists",
+        "tests"
+      ],
+      "entities": [
+        "Diagnostic care"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is the difference between diagnostic and preventive care?",
+        "Why does diagnostic care cost more?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Preventive versus diagnostic care examples",
+      "question": "How can I tell if the care I need is preventive or diagnostic?",
+      "text": "Coverage can change depending on whether care is preventive or diagnostic. A primary care visit is preventive for a wellness checkup but diagnostic if you have a cough that is not getting better. A mammogram is preventive when it is a routine screen for breast cancer but diagnostic when ordered to learn more about a lump. A colonoscopy is preventive when routine without symptoms but diagnostic when ordered based on symptoms.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "preventive care",
+        "diagnostic care",
+        "mammogram",
+        "colonoscopy",
+        "primary care visit"
+      ],
+      "entities": [
+        "Preventive care",
+        "Diagnostic care"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is a colonoscopy preventive or diagnostic?",
+        "Will I pay more for a mammogram if I found a lump?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Plan documents to review before enrolling",
+      "question": "What plan documents should I read before I enroll?",
+      "text": "Before you enroll, review the health plan documents. The Summary of benefits gives an overview of coverage for each plan, including benefits, cost-sharing requirements and coverage limitations and exceptions. The plan coverage document, which you can ask your employer for, offers a deeper dive into the coverage details for each plan.",
+      "topic": "How insurance works",
+      "tags": [
+        "summary of benefits",
+        "plan coverage document",
+        "plan documents",
+        "cost-sharing"
+      ],
+      "entities": [
+        "Summary of benefits",
+        "Plan coverage document"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is a summary of benefits?",
+        "Where do I find the details of what my plan covers?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Preventive care with no cost-sharing",
+      "question": "Is preventive care free under my plan?",
+      "text": "Certain preventive care items and services, including immunizations, are provided as specified by applicable law, including the Patient Protection and Affordable Care Act (ACA), with no cost-sharing to you, and may be based on your age and other health factors. Other routine services may be covered under your plan, and some plans may require copayments, coinsurance or deductibles for them. Review your plan documents for specifics.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "preventive care",
+        "aca",
+        "no cost-sharing",
+        "immunizations",
+        "copayments"
+      ],
+      "entities": [
+        "ACA",
+        "Patient Protection and Affordable Care Act"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Are immunizations covered at no cost?",
+        "Do I pay a copay for preventive care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Learning plan benefits through video series",
+      "question": "Where can I learn more about how plan benefits work?",
+      "text": "UnitedHealthcare offers a video series to help people learn how plan benefits work and another video series on how specialty benefits work. It also offers a guide with three tips for choosing a health insurance plan through work and a page on the benefits of UnitedHealthcare plans through work.",
+      "topic": "Enrollment & life events",
+      "tags": [
+        "video series",
+        "plan benefits",
+        "specialty benefits",
+        "open enrollment"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Employer / HR leader",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Are there videos explaining how health plan benefits work?",
+        "Where can I find open enrollment help?"
+      ]
+    }
+  ]
+}

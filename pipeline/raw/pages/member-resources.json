@@ -1,0 +1,283 @@
+{
+  "url": "https://www.uhc.com/member-resources",
+  "title": "Member resources",
+  "domain": "Care & Member Experience",
+  "page_type": "hub",
+  "summary": "Hub page pointing UnitedHealthcare members to tools for managing their plan, finding care, using benefits and joining member programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/member-resources-lp-family-picnic-desktop-1920x700.jpg",
+      "alt": "Family at a picnic"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/member-resources/_jcr_content/root/regioncontainer-main/responsivegrid/container_1517076557/image_copy.coreimg.90.1280.jpeg/1763056592075/member-resources-lp-grandma-granddaughter-coffee-desktop-1032x766.jpeg",
+      "alt": "Grandmother and granddaughter having coffee"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "What UnitedHealthcare member resources offer",
+      "question": "What are UnitedHealthcare member resources?",
+      "text": "UnitedHealthcare member resources are tools and programs offered through a member's health plan to help them make the most of their benefits. Members can use them to find providers, review benefits or explore member programs. Some resources vary by plan and area and may not be available for all plans.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member resources",
+        "benefits",
+        "member programs",
+        "plan variation"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What resources do UnitedHealthcare members get?",
+        "How do I make the most of my UnitedHealthcare benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What you can do on the member site",
+      "question": "What can I do once I register for a UnitedHealthcare member account?",
+      "text": "Once a person registers for a UnitedHealthcare member account, they can use the member site to search for network providers, manage prescriptions, view plan spending, find copays and more.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member site",
+        "registration",
+        "network providers",
+        "prescriptions",
+        "copays"
+      ],
+      "entities": [
+        "UnitedHealthcare member site"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What can I do with a UnitedHealthcare member account?",
+        "Why should I register on the member site?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare app: always-there plan access",
+      "question": "What does the UnitedHealthcare app let me do?",
+      "text": "The UnitedHealthcare app connects members to their health plan details anytime, anywhere. Members can use it to find care and pricing, refill prescriptions, access their health plan ID cards and more. The app also offers instant access to see prescriptions and find pharmacies.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "mobile app",
+        "prescriptions",
+        "id cards",
+        "find care"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What can I do in the UHC app?",
+        "Can I refill prescriptions in the UnitedHealthcare app?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Tools for using your plan day to day",
+      "question": "What tools help me use my health plan?",
+      "text": "UnitedHealthcare lists five tools under How to use your plan: the member ID card, how to submit a claim, how to pay your bills, member forms, and UHC Store for members. They are meant to help members submit a claim, access important forms or manage a member ID card.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member id card",
+        "claims",
+        "bill pay",
+        "forms",
+        "uhc store"
+      ],
+      "entities": [
+        "UHC Store"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where do I find member forms?",
+        "How do I manage my UnitedHealthcare member ID card?",
+        "Where do I learn how to pay my UnitedHealthcare bills?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "UHC Store for members",
+      "question": "What is UHC Store?",
+      "text": "UHC Store is an online shopping experience available to UnitedHealthcare members with employer-sponsored health plans. It gives members member-exclusive access to health and wellness offerings they can purchase, many at a discount.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "uhc store",
+        "employer-sponsored",
+        "discounts",
+        "wellness offerings"
+      ],
+      "entities": [
+        "UHC Store"
+      ],
+      "personas": [
+        "Current member",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "What is the UHC Store?",
+        "Can I buy health and wellness products through my UnitedHealthcare plan?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Finding care resources for members",
+      "question": "What help does UnitedHealthcare offer for finding care?",
+      "text": "UnitedHealthcare offers resources to help members make informed decisions about care: choosing a doctor (including dentists, mental health providers and eye doctors), wellness and member programs, mental health programs, guidance on where to go for medical care, telehealth and virtual care, and pharmacy benefits including Prescription Drug Lists (PDLs).",
+      "topic": "Finding care & networks",
+      "tags": [
+        "finding care",
+        "choosing a doctor",
+        "telehealth",
+        "pharmacy benefits",
+        "mental health"
+      ],
+      "entities": [
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I find the right doctor on my plan?",
+        "Where do I learn about telehealth and pharmacy benefits?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Wellness and member support programs",
+      "question": "What wellness and support programs does UnitedHealthcare list for members?",
+      "text": "UnitedHealthcare's wellness, rewards and member programs include support for smoking cessation, weight management, clinical and maternity programs, as well as LGBTQ+ resources. Mental and behavioral health benefits are listed separately, including the Employee Assistance Program and the Substance Use Helpline.",
+      "topic": "Rewards & incentives",
+      "tags": [
+        "wellness programs",
+        "smoking cessation",
+        "weight management",
+        "maternity",
+        "lgbtq+"
+      ],
+      "entities": [
+        "Employee Assistance Program",
+        "Substance Use Helpline"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What wellness programs does UnitedHealthcare have?",
+        "Does UnitedHealthcare help with quitting smoking or losing weight?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medicare Advantage member resources",
+      "question": "Where do Medicare Advantage members find their resources?",
+      "text": "UnitedHealthcare Medicare Advantage members have a dedicated set of member resources, with featured pages for UCard, over-the-counter (OTC) benefits and transportation benefits, plus a page to view all member resources for Medicare Advantage plans.",
+      "topic": "Medicare Advantage",
+      "tags": [
+        "medicare advantage",
+        "ucard",
+        "otc",
+        "transportation",
+        "member resources"
+      ],
+      "entities": [
+        "Medicare Advantage",
+        "UCard"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where are Medicare Advantage member resources?",
+        "What is UCard for Medicare Advantage members?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Chatting with customer service as a member",
+      "question": "How can a UnitedHealthcare member chat with customer service?",
+      "text": "UnitedHealthcare members can use the UnitedHealthcare app or sign in to their member account to chat directly with customer service, find answers and complete tasks online. A Contact us page offers additional ways to reach UnitedHealthcare.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "customer service",
+        "chat",
+        "member account",
+        "contact us"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "How do I chat with UnitedHealthcare customer service?",
+        "How can I contact UnitedHealthcare as a member?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Member ID card questions covered on the hub",
+      "question": "What can I do before I receive my member ID card or if I lose it?",
+      "text": "The member resources page includes answers for new members who have not yet received a member ID card and for members who cannot find their card or do not have it with them. It points members to the Member ID card page, which explains how to use the card and how to view it in the UnitedHealthcare app.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "member id card",
+        "new member",
+        "lost card",
+        "uhc app"
+      ],
+      "entities": [
+        "Member ID card"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What if I can't find my member ID card?",
+        "Can I use my insurance before my ID card arrives?"
+      ]
+    }
+  ]
+}

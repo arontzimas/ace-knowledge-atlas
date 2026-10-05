@@ -1,0 +1,206 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/resources/claims",
+  "title": "Submit a claim with SafeTrip",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "guide",
+  "summary": "Explains how to file a SafeTrip travel insurance claim, the 90-day deadline, available claim forms and typical processing time.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-TI-Trip-Interruption-Claim-Form.pdf",
+      "alt": "Trip interruption claim form"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-TM-Travel-Medical-Expense-Claim-Form.pdf",
+      "alt": "Travel medical expense claim form"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-TD-Trip-Delay-Claim-Form.pdf",
+      "alt": "Trip delay claim form"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-AD-D-Claim-Form.pdf",
+      "alt": "AD&D claim form"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-TC-Trip-Cancellation-Claim-Form.pdf",
+      "alt": "Trip cancellation claim form"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-CD-Collision-Damage-Claim-Form.pdf",
+      "alt": "Collision damage claim form"
+    },
+    {
+      "kind": "pdf",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/en/safetrip/SFT-MBR-Claims-BPE-Baggage-Claim-Form.pdf",
+      "alt": "Baggage and personal effects claim form"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "steps",
+      "title": "How to file a SafeTrip claim in three steps",
+      "question": "How do I file a SafeTrip travel insurance claim?",
+      "text": "If something went wrong on a covered trip, SafeTrip says to follow three steps to get reimbursed. Step 1: find and fill out the appropriate form. Step 2: gather any documents and receipts related to the claim. Step 3: email the form and supporting documents to UHCSafeTripClaims@cbpinsure.com.",
+      "topic": "Travel insurance",
+      "tags": [
+        "safetrip claim",
+        "claim form",
+        "email claim",
+        "receipts",
+        "reimbursement"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I submit a SafeTrip claim?",
+        "Where do I send SafeTrip claim documents?",
+        "What are the steps to file a travel insurance claim?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Deadline to submit a SafeTrip claim",
+      "question": "How long do I have to submit a claim with SafeTrip?",
+      "text": "A SafeTrip customer has 90 days from the date of service to submit the claim form. The date of service is the day when the customer first received treatment for a medical need or another service related to the claim.",
+      "topic": "Travel insurance",
+      "tags": [
+        "claim deadline",
+        "90 days",
+        "date of service",
+        "safetrip claim"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is the deadline for a travel insurance claim?",
+        "How many days do I have to file a SafeTrip claim?",
+        "What is the date of service for a claim?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "SafeTrip claim forms for interruption, medical, delay and AD&D",
+      "question": "Which SafeTrip claim form do I use for trip interruption, medical expense, delay or AD&D?",
+      "text": "SafeTrip offers separate claim forms. The trip interruption form is for trips that were interrupted, changed or ended early, covering things like enroute meals and lodging, return fare to a home airport, pet kenneling and other non-refundable expenses. The travel medical expense form is for expenses due to injury or illness. The trip delay form covers delays outside a traveler's control, including weather delays, lost or stolen documents, unannounced strikes and natural disasters, and the AD&D form covers death or dismemberment due to an accident on the trip.",
+      "topic": "Travel insurance",
+      "tags": [
+        "claim forms",
+        "trip interruption",
+        "travel medical expense",
+        "trip delay",
+        "ad&d"
+      ],
+      "entities": [
+        "SafeTrip claim forms"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What form do I use for a trip interruption claim?",
+        "Which form is for travel medical expenses?",
+        "What does the trip delay claim form cover?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "SafeTrip claim forms for cancellation, collision and baggage",
+      "question": "Which SafeTrip claim form do I use for trip cancellation, collision damage or baggage?",
+      "text": "The trip cancellation form is for unexpected cancellations before leaving home, which may be due to the injury, illness or death of someone in the group. The collision damage form is for rental car damage due to collision or any cause not in the traveler's control, and that coverage is only available as an add-on. The baggage and personal effects form is for items that are lost, delayed more than 24 hours, stolen, damaged or destroyed during the trip.",
+      "topic": "Travel insurance",
+      "tags": [
+        "trip cancellation",
+        "collision damage",
+        "baggage claim",
+        "rental car damage",
+        "claim forms"
+      ],
+      "entities": [
+        "SafeTrip claim forms"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How do I claim for lost luggage with SafeTrip?",
+        "What is the rental car collision damage claim form?",
+        "How do I claim trip cancellation?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How long SafeTrip claims take to process",
+      "question": "How long will it take for my SafeTrip claim to be processed?",
+      "text": "On average, SafeTrip customers get paid 40 days after submitting their claims. Selecting the correct form helps speed processing. Customers who are unsure which form they need can call 1-877-693-8530 or email UHCSafeTripClaims@cbpinsure.com.",
+      "topic": "Travel insurance",
+      "tags": [
+        "claim processing time",
+        "40 days",
+        "claim form selection",
+        "contact claims"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How long does SafeTrip take to pay a claim?",
+        "What is the SafeTrip claims phone number?",
+        "Why choose the correct claim form?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What happens after submitting a SafeTrip claim",
+      "question": "What happens after I submit my SafeTrip claim?",
+      "text": "After a claim form is submitted, SafeTrip says the customer should watch for communication. The customer will receive an email either asking for more documentation or updating them on the status of the claim. SafeTrip also advises checking policy documents for full details about which expenses are covered and which form to use.",
+      "topic": "Travel insurance",
+      "tags": [
+        "claim status",
+        "additional documentation",
+        "policy documents",
+        "email updates"
+      ],
+      "entities": [
+        "SafeTrip"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "How will I know the status of my SafeTrip claim?",
+        "Will SafeTrip ask for more documents?"
+      ]
+    }
+  ]
+}

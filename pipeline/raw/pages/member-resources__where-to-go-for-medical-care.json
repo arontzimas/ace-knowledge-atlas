@@ -1,0 +1,300 @@
+{
+  "url": "https://www.uhc.com/member-resources/where-to-go-for-medical-care",
+  "title": "Where to go for medical care: ER vs. urgent care vs. virtual care",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Compares emergency room, urgent care, virtual care, primary care and retail clinics and explains when to choose each.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/parent-kid-care-1440x596-web.jpg",
+      "alt": "Parent and child at a care visit"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/member-resources/where-to-go-for-medical-care/where-to-go-for-medical-care-video",
+      "alt": "Learn more about when to go to the ER"
+    },
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/member-resources/choosing-a-doctor/why-you-should-have-a-primary-care-provider",
+      "alt": "Benefits of having a PCP"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "comparison",
+      "title": "Five care options compared",
+      "question": "What is the difference between urgent care, the ER, virtual care, a PCP and a retail clinic?",
+      "text": "Urgent care is for issues that are not emergencies when your PCP is not available. The ER is for life-threatening and very serious conditions. Virtual care offers treatment from anywhere for minor medical and mental health care. A primary care provider (PCP) handles preventive and routine care. A retail or walk-in clinic provides quick treatment for minor illnesses or basic screenings.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "urgent care",
+        "emergency room",
+        "virtual care",
+        "PCP",
+        "retail clinic"
+      ],
+      "entities": [
+        "urgent care",
+        "emergency room",
+        "retail clinic"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I go to urgent care or the ER?",
+        "What care options do I have?",
+        "What is a retail clinic?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Common conditions by care setting",
+      "question": "What conditions are treated at urgent care versus the ER?",
+      "text": "Urgent care commonly treats sprains, minor broken bones such as a finger, minor burns, minor infections, earache and strep throat. The ER handles heavy bleeding, chest pain, major burns, difficulty breathing, broken bones or spinal injuries, and progressive confusion or slurred speech. Retail clinics treat skin rash, routine vaccines, minor injuries, earache and sports physicals, and a PCP handles checkups and immunizations.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "urgent care",
+        "ER",
+        "conditions",
+        "sprains",
+        "chest pain"
+      ],
+      "entities": [
+        "urgent care",
+        "emergency room"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is a sprain an ER or urgent care visit?",
+        "Which conditions go to the ER?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When to go to urgent care",
+      "question": "When should I go to urgent care?",
+      "text": "Urgent care treats illnesses and injuries that need care soon but are not emergencies, and can help when your PCP is away or cannot see you soon. It does not replace seeing your PCP. Urgent care may use simple lab tests such as urine tests, pregnancy tests or rapid strep tests, and may use X-rays. It typically lacks advanced tests such as CT scans or ultrasounds and may send you to an ER for more serious care.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "urgent care",
+        "X-ray",
+        "after-hours care",
+        "non-emergency"
+      ],
+      "entities": [
+        "urgent care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What can urgent care treat?",
+        "Does urgent care have X-rays?",
+        "Does urgent care have a CT scan?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When to go to the emergency room",
+      "question": "When should I go to the ER?",
+      "text": "ERs are for serious medical problems and are open 24 hours a day, every day of the year, with special equipment and trained doctors, physician assistants and nurses. For serious or life-threatening situations, call 911 or go to the nearest ER. If you are not sure you need an ambulance, call 911 and they can help you decide.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "emergency room",
+        "911",
+        "life-threatening",
+        "24 hours"
+      ],
+      "entities": [
+        "emergency room",
+        "911"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "When should I call 911?",
+        "Is the ER open all the time?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "When you may need an ambulance",
+      "question": "When do I need an ambulance?",
+      "text": "You may need an ambulance if someone has chest pain, trouble breathing, sudden confusion or signs of a stroke; is choking, has stopped breathing or needs CPR; or had a car crash, fall or other accident and moving them could make the injury worse. In an emergency where you are unsure, call 911.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "ambulance",
+        "911",
+        "chest pain",
+        "stroke",
+        "CPR"
+      ],
+      "entities": [
+        "911"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are signs I need an ambulance?",
+        "Should I drive someone with chest pain to the ER?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When to use virtual care",
+      "question": "When is a virtual visit a good choice?",
+      "text": "Virtual visits are a good choice if you do not need to see a provider in person. You can connect with a provider using your computer, tablet or smartphone, anytime and anywhere. Virtual visits can be a convenient way to get treatment options and even prescriptions for medications, if needed. For more serious problems, you may need to go to a clinic or hospital.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visit",
+        "telehealth",
+        "prescriptions",
+        "convenience"
+      ],
+      "entities": [
+        "virtual care",
+        "telehealth"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "When should I use telehealth?",
+        "Can I get a prescription from a virtual visit?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When to see your primary care provider",
+      "question": "When should I see my primary care provider?",
+      "text": "Your PCP is your go-to for routine checkups, preventive care and minor illnesses, and their in-depth knowledge of your health history makes them the best place to start. If you are ever unsure where to go, you can call your PCP, check your health plan's website or call the number on your health plan ID card to speak with an advocate.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "primary care provider",
+        "routine care",
+        "advocate",
+        "health plan ID card"
+      ],
+      "entities": [
+        "primary care provider",
+        "advocate"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Who can help me decide where to go for care?",
+        "When is a PCP the right choice?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "When to go to a retail or walk-in clinic",
+      "question": "When should I use a retail or walk-in clinic?",
+      "text": "A retail or walk-in clinic is a good option for minor illnesses such as earaches or rashes. These clinics are typically staffed with nurse practitioners or physician assistants who can treat minor injuries, such as minor cuts or sprains, and give routine vaccines such as the flu shot. Student athletes can typically get a sports physical without an appointment. These clinics are typically faster and cheaper than urgent care or the ER.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "retail clinic",
+        "walk-in clinic",
+        "flu shot",
+        "sports physical",
+        "nurse practitioner"
+      ],
+      "entities": [
+        "retail clinic"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get a flu shot at a walk-in clinic?",
+        "Where can I get a sports physical?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Hours of availability by care option",
+      "question": "Which care options are open outside regular office hours?",
+      "text": "Urgent care, the emergency room, virtual care and retail or walk-in clinics are typically open 24/7, while a primary care provider is open during regular office hours and closed outside them. If you get sick after regular office hours, urgent care may be faster than waiting in a hospital emergency room.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "after hours",
+        "24/7",
+        "office hours",
+        "urgent care"
+      ],
+      "entities": [
+        "urgent care",
+        "primary care provider"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What care is available at night?",
+        "Is urgent care open 24/7?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual visit service limitations",
+      "question": "Are virtual visits meant for emergencies?",
+      "text": "24/7 Virtual Visits are not intended to address emergency or life-threatening medical conditions and should not be used in those circumstances. Unless otherwise required, benefits are available only when services are delivered through a Designated Virtual Network Provider. Services may not be available at all times, in all locations or for all members, so check your benefit plan.",
+      "topic": "Virtual care",
+      "tags": [
+        "24/7 Virtual Visits",
+        "emergency",
+        "network provider",
+        "limitations"
+      ],
+      "entities": [
+        "24/7 Virtual Visits",
+        "Designated Virtual Network Provider"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Can I use a virtual visit in an emergency?",
+        "Are virtual visits covered everywhere?"
+      ]
+    }
+  ]
+}

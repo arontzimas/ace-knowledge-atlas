@@ -1,0 +1,337 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/insurance-bundles",
+  "title": "The benefits of choosing complementary insurance plans",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "guide",
+  "summary": "Explains why and how to combine medical and supplemental plans, with common pairings such as short term plus dental and ACA plus fixed benefit.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/insurance-bundles/_jcr_content/root/regioncontainer-main/responsivegrid/container/container/image.coreimg.90.1280.jpeg/1744385413001/combining-insurance-man-on-phone-desktop-408x269.jpeg",
+      "alt": "Man on the phone while shopping for combined insurance plans"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/dental-vision-supplemental-plans/insurance-bundles/_jcr_content/root/regioncontainer-main/responsivegrid/container_920791437/image.coreimg.90.1280.jpeg/1744385376306/combining-insurance-supplemental-illustration-desktop-296x177.jpeg",
+      "alt": "Illustration of combining supplemental insurance"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What combining insurance plans means",
+      "question": "What does it mean to combine or bundle insurance plans?",
+      "text": "Grouping health insurance, sometimes called bundling plans, means finding plans that work together so a person has coverage for the care they need. In addition to medical insurance, a person might consider a combination of supplemental insurance, including dental insurance, vision insurance, fixed indemnity insurance (also called fixed benefit health insurance), accident insurance and more.",
+      "topic": "How insurance works",
+      "tags": [
+        "bundling plans",
+        "grouping insurance",
+        "supplemental insurance",
+        "fixed indemnity"
+      ],
+      "entities": [
+        "Supplemental insurance",
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is bundling health insurance?",
+        "Can I combine dental, vision and accident plans?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to shop for plans that work together",
+      "question": "How do I choose health plans that work well together?",
+      "text": "When shopping for plans, first consider all the insurance plans you already have, if any. Then think about your needs by considering the kind of out-of-pocket health expenses you have had in the past, as well as any supplemental plans you may want, such as international travel coverage.",
+      "topic": "How insurance works",
+      "tags": [
+        "shopping for plans",
+        "out-of-pocket expenses",
+        "existing coverage",
+        "supplemental plans"
+      ],
+      "entities": [
+        "Supplemental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How do I decide which supplemental plans to buy?",
+        "What should I consider before adding insurance plans?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why add other plans to your coverage",
+      "question": "Why add supplemental plans to my main coverage?",
+      "text": "Additional plans can round out coverage to include benefits for services such as routine doctor visits, hospitalization, dental, vision and accidental injuries, helping cover some out-of-pocket costs that main insurance may not cover. A person might also pay less for common health costs like dental visits or eye care than paying out of pocket without insurance. Memberships, like dental savings memberships, are an alternative to insurance.",
+      "topic": "How insurance works",
+      "tags": [
+        "round out coverage",
+        "out-of-pocket costs",
+        "dental savings membership",
+        "supplemental plans"
+      ],
+      "entities": [
+        "Dental savings membership"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why would I need more than a medical plan?",
+        "Can supplemental plans lower what I pay for dental and eye care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Benefits of combining different plan types",
+      "question": "What are the benefits of combining insurance plans?",
+      "text": "By combining different types of plans, a person is likely to have access to a larger range of services, quality care without being limited by cost, and more preventive care, which can help detect issues earlier. It can also help reduce costs related to emergency care and unexpected events. UnitedHealthcare adds that it is typically simpler and more convenient to manage policies in one place.",
+      "topic": "How insurance works",
+      "tags": [
+        "combined coverage",
+        "preventive care",
+        "emergency costs",
+        "convenience"
+      ],
+      "entities": [
+        "Supplemental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Is it easier to manage multiple plans in one place?",
+        "How does combining plans help with costs?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Short term health plus dental pairing",
+      "question": "Does short term health insurance pair well with dental insurance?",
+      "text": "Short-term limited duration insurance can fill a temporary gap in medical coverage until a long-term solution is found. Dental insurance covers common dental care. Together, UnitedHealthcare says, a person can find medical care and keep teeth healthy, which is important for overall health. Short term health insurance does not qualify as minimum essential coverage under the ACA, is medically underwritten and does not cover preexisting conditions.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "short term health",
+        "dental",
+        "coverage gap",
+        "minimum essential coverage"
+      ],
+      "entities": [
+        "Short term health insurance",
+        "Dental insurance",
+        "ACA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I buy dental with short term health insurance?",
+        "Does short term insurance cover preexisting conditions?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "ACA marketplace plan plus fixed benefit insurance",
+      "question": "Can fixed benefit insurance help before I meet my ACA plan deductible?",
+      "text": "Fixed benefit health insurance, a type of fixed indemnity insurance, can help a person worried about paying for healthcare until they meet the deductible on an ACA marketplace plan. When the plans are paired, the cash benefit from the fixed benefit plan can be used to help pay for qualified medical costs, even before the deductible is met, and it can also help pay for copays or coinsurance.",
+      "topic": "ACA Marketplace",
+      "tags": [
+        "aca marketplace",
+        "fixed benefit",
+        "deductible",
+        "copay",
+        "coinsurance"
+      ],
+      "entities": [
+        "ACA Marketplace",
+        "Fixed indemnity insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How can I pay for care until I meet my deductible?",
+        "Can I use fixed benefit cash for copays and coinsurance?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "TriTerm Medical plus dental pairing",
+      "question": "What is TriTerm Medical and how does it pair with dental?",
+      "text": "TriTerm Medical insurance is a type of short term health insurance available in select states that can last for nearly 3 years, giving time to find a more permanent healthcare solution. UnitedHealthcare suggests pairing it with a dental plan to provide healthcare coverage for the body and smile.",
+      "topic": "Short-term coverage",
+      "tags": [
+        "triterm medical",
+        "short term health",
+        "dental",
+        "select states"
+      ],
+      "entities": [
+        "TriTerm Medical",
+        "Dental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "What is TriTerm Medical insurance?",
+        "How long can TriTerm Medical last?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Fixed benefit health insurance plus vision",
+      "question": "How do fixed benefit health insurance and vision insurance work together?",
+      "text": "Fixed indemnity insurance, also known as fixed benefit health insurance, pays set cash benefit amounts for covered hospital and doctor expenses. Vision insurance provides coverage for routine eye exams and coverage for eyeglass lenses and frames. Combined, UnitedHealthcare says they help provide healthcare benefits for a person's unique health needs, covering out-of-pocket medical expenses and routine eye care.",
+      "topic": "Vision coverage",
+      "tags": [
+        "fixed benefit",
+        "vision insurance",
+        "eye exams",
+        "eyeglasses"
+      ],
+      "entities": [
+        "Fixed indemnity insurance",
+        "Vision insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Should I combine vision with a fixed indemnity plan?",
+        "What does vision insurance cover for eyeglasses?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Dental plus vision with no maximum age limits",
+      "question": "Are there dental and vision plans without age limits?",
+      "text": "Dental and vision are some of the most common plans to complement medical coverage. UnitedHealthcare suggests considering dental and vision plans with no maximum age limits, which it says is ideal for people on Medicare or whose employer does not offer insurance. These plans provide benefits such as preventive eye care and dental exams. The primary insured must be 18 years of age or older.",
+      "topic": "Dental coverage",
+      "tags": [
+        "dental and vision",
+        "no age limit",
+        "medicare",
+        "primary insured 18"
+      ],
+      "entities": [
+        "Dental insurance",
+        "Vision insurance",
+        "Medicare"
+      ],
+      "personas": [
+        "Medicare shopper",
+        "Individual & family shopper"
+      ],
+      "intent": "Check eligibility",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get dental and vision if I'm on Medicare?",
+        "Is there a maximum age for dental and vision plans?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Accident insurance plus dental pairing",
+      "question": "Why pair accident insurance with dental insurance?",
+      "text": "Accident insurance provides coverage for accidental injuries. Dental insurance covers cleanings and X-rays that may offset more expensive problems. UnitedHealthcare says that with these plans a person can stay on top of regular dental care while adding some help for the unexpected.",
+      "topic": "Accident & critical illness",
+      "tags": [
+        "accident insurance",
+        "dental insurance",
+        "cleanings",
+        "x-rays"
+      ],
+      "entities": [
+        "Accident insurance",
+        "Dental insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Is accident plus dental a good combination?",
+        "What does dental insurance cover that accident insurance doesn't?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Short-term health plus mental health virtual therapy",
+      "question": "Can I pair a short-term plan with virtual therapy?",
+      "text": "A short-term health plan offers temporary coverage while waiting for main insurance to start. UnitedHealthcare suggests pairing it with a mental health virtual therapy membership, a Teladoc Health service that is not insurance, so a person can take steps to keep body and mind healthy. A membership for unlimited virtual therapy means a person can access mental health care without insurance.",
+      "topic": "Behavioral health",
+      "tags": [
+        "short term health",
+        "virtual therapy",
+        "teladoc health",
+        "mental health",
+        "not insurance"
+      ],
+      "entities": [
+        "Mind Your Health",
+        "Teladoc Health",
+        "Short term health insurance"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can I get therapy without insurance while on short-term coverage?",
+        "What is mental health virtual therapy membership?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Underwriters and separate applications for bundled plans",
+      "question": "Do I apply separately for each plan when bundling?",
+      "text": "UnitedHealthcare states that Short Term Medical, Health ProtectorGuard, Dental, Vision and Accident plans are underwritten by Golden Rule Insurance Company. All products require separate applications, and separate policies or certificates are issued. Each company is a separate entity and is not responsible for another's financial or contractual obligations.",
+      "topic": "Dental coverage",
+      "tags": [
+        "separate applications",
+        "golden rule",
+        "short term medical",
+        "health protectorguard"
+      ],
+      "entities": [
+        "Golden Rule Insurance Company",
+        "Health ProtectorGuard"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "Do I need separate applications for dental and vision?",
+        "Who underwrites UnitedHealthcare short term and dental plans?"
+      ]
+    }
+  ]
+}

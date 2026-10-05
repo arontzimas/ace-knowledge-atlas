@@ -1,0 +1,210 @@
+{
+  "url": "https://www.uhc.com/member-resources/where-to-go-for-medical-care/care-options-and-costs",
+  "title": "Comparing costs: urgent care, ER, virtual visits and more",
+  "domain": "Care & Member Experience",
+  "page_type": "guide",
+  "summary": "Compares approximate costs, wait times and hours of urgent care, the ER, virtual care, primary care and retail clinics, and explains what affects the cost of care.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/banner/provider-patient-1440x640-web.jpg",
+      "alt": "Provider and patient"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "stat",
+      "title": "ER costs about $2,500 more than urgent care",
+      "question": "How much more does an ER visit cost than urgent care?",
+      "text": "Based on 2025 median allowed amounts charged by UnitedHealthcare network providers, the median ER visit is $2,750 and the median urgent care visit is $195, an estimated $2,500 difference. The figures are not tied to a specific condition or treatment, and actual payments may vary depending on benefit coverage. UnitedHealthcare says choosing alternatives could save up to $2,500.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "ER cost",
+        "urgent care cost",
+        "$2,750",
+        "$195",
+        "median allowed amount"
+      ],
+      "entities": [
+        "emergency room",
+        "urgent care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much does an ER visit cost?",
+        "How much does urgent care cost compared to the ER?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Cost and wait time by care option",
+      "question": "What does each type of care cost and how long is the wait?",
+      "text": "Approximate costs and waits: urgent care $195, 30 minutes or less on average; ER $2,750, up to 2 hours; virtual care $60 or less, usually no wait; primary care provider $180 for an in-person visit and $99 or less for virtual primary care, usually a short wait for scheduled appointments; retail or walk-in clinic $105, 30 minutes or less. Most are typically open 24/7, while PCPs keep weekday office hours.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "cost comparison",
+        "wait time",
+        "virtual care $60",
+        "retail clinic $105",
+        "PCP $180"
+      ],
+      "entities": [
+        "urgent care",
+        "emergency room",
+        "virtual care",
+        "retail clinic"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Decision",
+      "questions": [
+        "What is the cheapest place to get care?",
+        "How much does a virtual visit cost?",
+        "How long is the wait at urgent care vs the ER?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Common conditions by care option",
+      "question": "Which conditions go to which care option?",
+      "text": "Urgent care commonly treats muscle sprains or strains, back pain, skin infections and broken bones. The ER treats chest pain, shortness of breath, major burns, severe injuries and heavy bleeding. Virtual care addresses headache, fatigue, sore throat, congestion, fever and cold or flu symptoms. A PCP can handle cough, fever, pinkeye and urinary tract infection, and retail clinics handle skin rash, flu shots, minor injuries and earache.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "conditions",
+        "urgent care",
+        "virtual care",
+        "PCP",
+        "retail clinic"
+      ],
+      "entities": [
+        "urgent care",
+        "virtual care"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Can urgent care treat a skin infection?",
+        "What can a virtual visit treat?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "ER vs urgent care costs can differ tenfold",
+      "question": "Why is the ER so much more expensive than urgent care?",
+      "text": "Because ERs are more expensive than urgent care, knowing when to choose the ER can make a big difference in cost. Many common conditions can be treated at urgent care, and costs for treating these conditions may be more than 10 times higher at ERs than at urgent care. Members can sign in to find network urgent care clinics.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "ER vs urgent care",
+        "10 times higher",
+        "network urgent care",
+        "cost savings"
+      ],
+      "entities": [
+        "urgent care",
+        "emergency room"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Is the ER 10 times more expensive than urgent care?",
+        "How do I find an in-network urgent care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How virtual visits may lower costs",
+      "question": "Can virtual visits help lower my health care costs?",
+      "text": "Virtual visits may be covered by your health plan just like an office visit with a doctor. Your benefits may cover a virtual visit with a local provider for primary care. If you need care fast or your PCP is not available, you may be able to use 24-hour virtual urgent care with a national provider. Members can check benefits for virtual visit coverage in their member account or the UHC app.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visits",
+        "virtual urgent care",
+        "coverage",
+        "cost savings"
+      ],
+      "entities": [
+        "virtual visits",
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Are virtual visits cheaper?",
+        "Does insurance cover virtual urgent care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What affects the cost of medical care",
+      "question": "What factors affect the cost of medical care?",
+      "text": "Four factors can affect cost: having health insurance, which helps cover important care and unexpected illness or accidents; the level of care, since a PCP visit for a nonurgent concern likely costs much less than an ER visit; staying in your health plan network, which lowers costs; and regular PCP visits for preventive checkups and screenings, which may help identify issues before they become serious.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "cost of care",
+        "network",
+        "PCP",
+        "preventive care",
+        "level of care"
+      ],
+      "entities": [
+        "health plan network"
+      ],
+      "personas": [
+        "Current member",
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What makes a doctor visit cost more?",
+        "How can I lower my medical costs?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Cost of an ER visit without insurance",
+      "question": "How much does an ER visit cost without insurance?",
+      "text": "A visit that requires more extensive care, such as surgery, may cost more than $21,000. Without health insurance, your health care costs are not capped. A health plan's out-of-pocket limit helps protect you from high medical expenses.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "uninsured",
+        "ER cost",
+        "out-of-pocket limit",
+        "$21,000"
+      ],
+      "entities": [
+        "out-of-pocket limit"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Awareness",
+      "questions": [
+        "What does an ER visit cost without insurance?",
+        "What does an out-of-pocket limit do?"
+      ]
+    }
+  ]
+}

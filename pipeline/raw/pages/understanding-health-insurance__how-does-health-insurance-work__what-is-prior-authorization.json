@@ -1,0 +1,360 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/what-is-prior-authorization",
+  "title": "What is prior authorization in health insurance?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains what prior authorization is, why it is required, how long it takes, which care and drugs may need it, and what to do if a request is denied.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/how-does-health-insurance-work/what-is-prior-authorization/_jcr_content/root/regioncontainer-main/responsivegrid/container_1384333750/image_copy.coreimg.90.1280.jpeg/1788466843298/illustration-searchingforcare-web.jpeg",
+      "alt": "Illustration of person searching for care"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What is prior authorization?",
+      "question": "What is prior authorization?",
+      "text": "Prior authorization is a process that starts before care is delivered. It is also known as preauthorization, prior approval or precertification. It is a decision by a health plan that a health care service, treatment plan, prescription drug or durable medical equipment (DME) is medically necessary. Most care does not need prior authorization.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "preauthorization",
+        "precertification",
+        "medically necessary",
+        "DME"
+      ],
+      "entities": [
+        "prior authorization",
+        "durable medical equipment"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is prior authorization?",
+        "Is preauthorization the same as precertification?",
+        "Does all care need prior authorization?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Why is prior authorization required?",
+      "question": "Why is prior authorization required?",
+      "text": "Sometimes a doctor may recommend care that needs to be reviewed first, and the doctor asks the health plan to approve it before the patient gets it. This helps the plan check if the care is medically needed, is treatment the patient has not already tried, and is an option that is both effective and lower in cost. Prior authorization can help make sure care is safe, covered and needed.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "medical necessity",
+        "safety",
+        "cost"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Why does my insurance need to approve care first?",
+        "Why do I need prior authorization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Prior authorization may help find lower-cost drugs",
+      "question": "Can prior authorization save me money?",
+      "text": "Prior authorization may help lower health care costs. It may help find lower-cost drugs that can treat the same condition. These options may help lower a person's costs while still giving effective treatment.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization",
+        "save money",
+        "lower-cost drugs"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Does prior authorization save money?",
+        "How does prior authorization lower my costs?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "How does prior authorization work?",
+      "question": "How does prior authorization work?",
+      "text": "A doctor may ask the health plan to approve some care before the patient gets it. The plan reviews the request to see if the care is covered and meets quality and safety standards. Decisions are based on medical evidence. If a request is not approved right away, a qualified clinician, which may include a pharmacist or doctor, reviews it. Clinical review rules are typically based on FDA-approved drug information, safety details, medical and pharmacy research, and treatment guidelines.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization process",
+        "clinical review",
+        "medical evidence",
+        "FDA"
+      ],
+      "entities": [
+        "prior authorization",
+        "FDA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does the prior authorization process work?",
+        "Who reviews prior authorization requests?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "What to do when prior authorization is required",
+      "question": "What should I do if my doctor says prior authorization is required?",
+      "text": "If a treatment or service needs prior authorization: 1) The doctor sends a request to the health plan. 2) The patient may need to help by filling out forms or sharing documents. 3) Clinicians at the health plan review the request. 4) The plan then decides how or if it will cover the care.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization request",
+        "doctor",
+        "forms",
+        "clinician review"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What happens after my doctor requests prior authorization?",
+        "Do I need to fill out forms for prior authorization?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Prior authorization timelines vary by state",
+      "question": "How long does prior authorization take?",
+      "text": "Rules on how long prior authorizations take vary by state. If care is urgent, many states require the health plan to reply within 1 to 3 days. If care is not urgent, states require the health plan to reply within 2 to 15 days. A person can check state rules or ask the health plan or doctor's office what to expect.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization timeline",
+        "urgent care",
+        "state rules",
+        "response time"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How long does prior authorization take?",
+        "How fast must insurance respond to a prior authorization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "What commonly needs prior authorization",
+      "question": "Which treatments, services and drugs need prior authorization?",
+      "text": "It depends on the health plan, and high-cost care is more likely to need it. Prior authorization is often used when there is more than one treatment option, when care guidelines change, or when care may cost a lot. Commonly included are high-cost and specialty drugs, advanced imaging, mental health and substance use disorder services, elective surgeries and durable medical equipment.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization list",
+        "specialty drugs",
+        "advanced imaging",
+        "elective surgery",
+        "DME"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What services need prior authorization?",
+        "Do MRIs need prior authorization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Where to find the prior authorization list",
+      "question": "How can I tell if my care or drug needs prior authorization?",
+      "text": "A health plan has a list of drugs and services that may need prior authorization. It can typically be found in plan documents or online. A person can also use the Prescription Drug List (PDL), also called a formulary, which is a list of commonly used medications organized into cost levels called tiers. A plan may also ask members to get care at certain hospitals or clinics that have a payment agreement with the plan.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization list",
+        "PDL",
+        "formulary",
+        "plan documents"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "formulary"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where do I find the list of services requiring prior authorization?",
+        "How do I know if a drug needs prior authorization?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Why do some prescriptions require prior authorization?",
+      "question": "Why do some prescription drugs need prior authorization?",
+      "text": "Some prescription drugs need prior authorization before a plan helps pay for them, to check that the drug is safe, needed and covered. For example, some long-acting opioids may need it to make sure they are used the right way. Most pharmacy claims are checked right away and do not need prior authorization. Medications that typically do not need it include drugs for high cholesterol, high blood pressure, asthma, depression, substance use disorders and diabetes.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "prescription prior authorization",
+        "opioids",
+        "pharmacy claims",
+        "PDL"
+      ],
+      "entities": [
+        "prior authorization",
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Member",
+      "questions": [
+        "Why does my medication need prior authorization?",
+        "Which medications don't need prior authorization?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How prescription prior authorization works",
+      "question": "How does prior authorization work at the pharmacy?",
+      "text": "The pharmacy typically sends a claim first. The health plan system often checks it right away for eligibility, whether the drug is on the Prescription Drug List, safety limits and prior authorization rules. If prior authorization is needed, the plan tells the pharmacist and the process starts then. The plan may use information it already has to review faster, and some requests can be approved without asking the doctor for more information.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "pharmacy claim",
+        "prior authorization",
+        "eligibility",
+        "PDL"
+      ],
+      "entities": [
+        "prior authorization",
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What happens when my pharmacy says prior authorization is needed?",
+        "Can a prescription be approved automatically?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "What happens if a prior authorization is denied?",
+      "question": "What can I do if prior authorization is denied?",
+      "text": "If prior authorization is denied, a person can appeal and should talk with their doctor about next steps. The doctor may need to explain why the drug is needed, why other covered options may not work, or why the drug may be safer or more effective, and lab or imaging results may be needed. If the appeal is denied, the doctor may suggest another treatment. About 4 out of 5 appeals end up overturning a prior authorization denial.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "denied",
+        "appeal",
+        "overturned",
+        "4 out of 5",
+        "biosimilar"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "What if my prior authorization is denied?",
+        "How often are prior authorization appeals successful?",
+        "Can I appeal a denial?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Emergency care never requires prior authorization",
+      "question": "Do I need prior authorization in an emergency?",
+      "text": "If a plan covers emergency care, it cannot require prior authorization for emergency medical care, even if the hospital or provider is out of network. Prior authorization only applies to planned services and is never required for emergencies or urgent care.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "emergency care",
+        "urgent care",
+        "prior authorization",
+        "out of network"
+      ],
+      "entities": [
+        "prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I need prior authorization for the ER?",
+        "Is approval needed for urgent care?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Where can I find prior authorization forms?",
+      "question": "Where can I find prior authorization forms?",
+      "text": "Prior authorization forms can typically be found in the health plan's member portal. The doctor's office may also be able to submit the request for the patient. A person could also call the number on their member ID card to ask where to send the form. UnitedHealthcare members can sign in to their member account or the UHC app to see plan details and find member forms.",
+      "topic": "Claims, EOB & prior auth",
+      "tags": [
+        "prior authorization forms",
+        "member portal",
+        "UHC app",
+        "member ID card"
+      ],
+      "entities": [
+        "UnitedHealthcare app",
+        "member portal"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Where do I get a prior authorization form?",
+        "Can my doctor submit prior authorization for me?"
+      ]
+    }
+  ]
+}

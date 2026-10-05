@@ -1,0 +1,266 @@
+{
+  "url": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/care-management-clinical-programs",
+  "title": "Care management and clinical programs",
+  "domain": "Employer Solutions",
+  "page_type": "product",
+  "summary": "Describes UnitedHealthcare care management and clinical programs for employers, including Standard Care Coordination, Personal Health Support and condition-specific programs.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/care-management-clinical-programs/_jcr_content/root/regioncontainer-main/responsivegrid/container/image.coreimg.90.1280.jpeg/1613218638669/broker-consultant-clinical-woman-on-device-772x460.jpeg",
+      "alt": "Woman using a device"
+    },
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/agents-brokers/employer-sponsored-plans/products-solutions/care-management-clinical-programs/_jcr_content/root/regioncontainer-main/responsivegrid/container_1346950565/image.coreimg.90.1280.jpeg/1613218637118/broker-consultant-clinical-girl-hugging-772x460.jpeg",
+      "alt": "Girl hugging"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Care management for chronic conditions",
+      "question": "What are UnitedHealthcare care management and clinical programs for?",
+      "text": "UnitedHealthcare's care management and clinical programs are built to make decision-making easier and the path to a healthier life smoother for employees who manage a complex or chronic condition. The company says the programs may result in lower medical costs for everyone.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "care management",
+        "clinical programs",
+        "chronic conditions",
+        "complex care",
+        "medical costs"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What do care management programs do?",
+        "Can care management lower medical costs?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "How care management identifies at-risk employees",
+      "question": "How do UnitedHealthcare care management programs find employees who need support?",
+      "text": "UnitedHealthcare care management programs use data and analytics to identify at-risk employees and opportunities for better whole-person health across multiple conditions. Support includes proactive outreach, nurses and case managers. Gaps in care are identified using data from medical claims, lab results, pharmacy, biometric screenings, health assessments and more.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "data analytics",
+        "at-risk employees",
+        "gaps in care",
+        "nurses",
+        "case managers"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What data does UnitedHealthcare use to find care gaps?",
+        "Do care management programs use proactive outreach?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Standard Care Coordination for fully insured",
+      "question": "What is Standard Care Coordination?",
+      "text": "Standard Care Coordination is for UnitedHealthcare fully insured clients. It monitors and addresses 50+ conditions across an employee population for potential gaps in care. For employees identified as at risk, resources include a nurse team to answer questions and offer guidance, admission counselors to help with hospital length-of-stay and discharge planning, and access to condition-specific programs and more.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "standard care coordination",
+        "fully insured",
+        "care gaps",
+        "nurse team",
+        "discharge planning"
+      ],
+      "entities": [
+        "Standard Care Coordination"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What does Standard Care Coordination include?",
+        "How many conditions does Standard Care Coordination monitor?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Personal Health Support for self-funded",
+      "question": "What is Personal Health Support?",
+      "text": "Personal Health Support is for UnitedHealthcare self-funded clients. It screens up to 100% of an employer's population for 100+ acute and chronic conditions. Personalized support for at-risk members includes earlier identification of opportunities for better health, digital tools to help monitor conditions and progress, and access to an enhanced clinical team and condition-specific programs.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "personal health support",
+        "self-funded",
+        "screening",
+        "digital tools",
+        "clinical team"
+      ],
+      "entities": [
+        "Personal Health Support"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What conditions does Personal Health Support screen for?",
+        "Is Personal Health Support for self-funded plans?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Standard Care Coordination vs Personal Health Support",
+      "question": "How do Standard Care Coordination and Personal Health Support differ?",
+      "text": "Standard Care Coordination serves fully insured clients and monitors 50+ conditions, with a nurse team, admission counselors and condition-specific programs. Personal Health Support serves self-funded clients and screens up to 100% of the employer's population for 100+ acute and chronic conditions, adding digital monitoring tools and an enhanced clinical team.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "care coordination",
+        "fully insured",
+        "self-funded",
+        "conditions monitored",
+        "clinical team"
+      ],
+      "entities": [
+        "Standard Care Coordination",
+        "Personal Health Support"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "Which care management program fits a self-funded employer?",
+        "How many conditions does each care program cover?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Condition-specific clinical programs",
+      "question": "What are condition-specific clinical programs?",
+      "text": "UnitedHealthcare also offers condition-specific clinical programs, which provide focused support for clients whose populations may benefit from more specific condition management resources, such as cancer, kidney, congenital heart disease and more.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "clinical programs",
+        "cancer",
+        "kidney",
+        "congenital heart disease",
+        "condition management"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does UnitedHealthcare have a cancer or kidney support program?",
+        "What are disease-specific clinical programs?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "96% to 97% satisfaction with clinical resources",
+      "question": "How satisfied are employees with clinical resources?",
+      "text": "UnitedHealthcare reports 96% to 97% satisfaction with clinical resources, citing 2019 Optum Net Promoter Score data and its book of business Consumer Health Survey (average FY 2020). It adds that disease-specific clinical programs help reduce inpatient admissions.",
+      "topic": "Chronic condition support",
+      "tags": [
+        "satisfaction",
+        "clinical resources",
+        "inpatient admissions",
+        "net promoter score",
+        "outcomes"
+      ],
+      "entities": [
+        "Optum"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How satisfied are members with UnitedHealthcare clinical programs?",
+        "Do clinical programs reduce hospital admissions?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Up to $14 PMPM savings with Personal Health Support",
+      "question": "How much can Personal Health Support save per member per month?",
+      "text": "Clients with Personal Health Support see per member per month savings of up to $14 on medical costs, depending on products offered. UnitedHealthcare bases this on 2020 book of business leading indicators and states that actual results will vary.",
+      "topic": "Cost management",
+      "tags": [
+        "personal health support",
+        "pmpm savings",
+        "medical costs",
+        "book of business",
+        "results vary"
+      ],
+      "entities": [
+        "Personal Health Support"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What savings does Personal Health Support deliver?",
+        "How much is the PMPM medical cost reduction?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Support for children and adults with complex needs",
+      "question": "What support exists for people with complex care needs?",
+      "text": "Support programs for children and adults with complex care needs provide a single point of contact for all aspects of the health care system. This contact helps find specialty providers, maximize benefits, resolve unique insurance issues and more.",
+      "topic": "Advocacy & member support",
+      "tags": [
+        "complex care",
+        "single point of contact",
+        "specialty providers",
+        "chronic conditions",
+        "support"
+      ],
+      "entities": [
+        "UnitedHealthcare"
+      ],
+      "personas": [
+        "Broker / consultant",
+        "Employer / HR leader"
+      ],
+      "intent": "Get support",
+      "stage": "Member",
+      "questions": [
+        "Who helps with complex medical needs?",
+        "Can a single contact help me find specialty providers?"
+      ]
+    }
+  ]
+}

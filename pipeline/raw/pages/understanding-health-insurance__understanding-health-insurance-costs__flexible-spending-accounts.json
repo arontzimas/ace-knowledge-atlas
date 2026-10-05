@@ -1,0 +1,349 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/flexible-spending-accounts",
+  "title": "What is a flexible spending account (FSA)?",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Explains how FSAs work, 2026 contribution, carryover and dependent care limits, the three FSA types, eligible expenses and enrollment.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/flexible-spending-accounts/_jcr_content/root/regioncontainer-main/responsivegrid/faq_container/containerfloatingcon/image.coreimg.90.1280.jpeg/1783024811735/flexible-spending-accounts-woman-on-phone-752x630.jpeg",
+      "alt": "Image of woman on phone"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What an FSA is and how it works",
+      "question": "How do FSAs work?",
+      "text": "A flexible spending account (FSA) is a tool offered by many employers as part of their benefits package to help employees set aside money during the plan year to pay for out-of-pocket costs and catch a tax break. Employers set the maximum you can contribute, which cannot exceed the IRS limit. An FSA is not a savings account, and if you leave your job you cannot take your FSA with you.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "flexible spending account",
+        "employer benefit",
+        "irs limit",
+        "tax break"
+      ],
+      "entities": [
+        "FSA",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "How does an FSA work?",
+        "Can I keep my FSA if I leave my job?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "FSA forfeiture, carryover and grace period",
+      "question": "What happens to unused FSA money?",
+      "text": "If you do not use the full amount you elected to contribute by the end of the calendar year, you could lose, or forfeit, your FSA dollars. To protect employees, many companies allow a carryover of unspent FSA money or a grace period to use prior year funds for new claims up to 2 1/2 months into a new plan year. Any amount left after that is generally no longer available to you.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "forfeit",
+        "carryover",
+        "grace period",
+        "use it or lose it"
+      ],
+      "entities": [
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Do I lose my FSA money at the end of the year?",
+        "Is there a grace period for FSA funds?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2026 health care FSA contribution limits",
+      "question": "What are the FSA contribution limits for 2026?",
+      "text": "Beginning January 1, 2026, IRS contributions to a health care FSA (HCFSA) are limited to $3,400 each year, a $100 increase from the 2025 limit of $3,300. The limit is per person, so each spouse in the household may contribute up to the limit. For the 2026 plan year an individual can also contribute up to $3,400 to a limited purpose FSA (LPFSA). Your employer may elect a lower limit.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa limit",
+        "2026",
+        "$3,400",
+        "health care fsa",
+        "limited purpose fsa"
+      ],
+      "entities": [
+        "FSA",
+        "HCFSA",
+        "LPFSA",
+        "IRS"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much can I put in my FSA in 2026?",
+        "Can my spouse and I each contribute to an FSA?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2026 health care FSA carryover limit",
+      "question": "How much FSA money can I carry over into 2026?",
+      "text": "For a plan ending December 31, 2025, up to $680 of health care FSA funds can be carried over to the 2026 plan year. Any amount that rolls over into the 2026 plan year does not affect the maximum limit that employees can contribute.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa carryover",
+        "$680",
+        "2026",
+        "plan year",
+        "health care fsa"
+      ],
+      "entities": [
+        "FSA",
+        "HCFSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "What is the FSA carryover limit?",
+        "Does FSA carryover reduce my 2026 contribution limit?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "2026 dependent care FSA limits",
+      "question": "What is the dependent care FSA limit for 2026?",
+      "text": "The dependent care FSA limit for 2026 depends on how you file. It is $7,500 per year if you are married and filing a joint return or a single parent, and $3,750 per year per parent if you are married and filing separately.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "dependent care fsa",
+        "2026",
+        "$7,500",
+        "$3,750",
+        "filing status"
+      ],
+      "entities": [
+        "Dependent care FSA",
+        "DCFSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much can I put in a dependent care FSA?",
+        "What is the DCFSA limit if I file separately?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Three types of FSAs",
+      "question": "What types of FSAs are there?",
+      "text": "There are three types of FSAs: health care FSA, limited-purpose FSA and dependent care FSA. Each type has a different set of rules for what you can spend the money on. For example, you cannot use health care FSA funds to pay for daycare, because that requires a dependent care FSA.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa types",
+        "health care fsa",
+        "limited-purpose fsa",
+        "dependent care fsa"
+      ],
+      "entities": [
+        "Health care FSA",
+        "Limited-purpose FSA",
+        "Dependent care FSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What are the different kinds of FSA?",
+        "Can I use a health care FSA for daycare?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Health care FSA eligible expenses",
+      "question": "What can I pay for with a health care FSA?",
+      "text": "A health care FSA uses pre-tax dollars to pay for eligible medical, dental and vision expenses not covered by your health plan, and the annual amount is available on the first day of the plan. Eligible expenses include copays and coinsurance, medications, dental care, vision care, over-the-counter items like first aid supplies and blood pressure monitors, and family planning needs.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "health care fsa",
+        "eligible expenses",
+        "copays",
+        "dental",
+        "vision"
+      ],
+      "entities": [
+        "Health care FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What does an FSA cover?",
+        "Can I use FSA money on day one of the plan year?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "FSA items that need a prescription or LMN",
+      "question": "Which FSA items need a prescription or Letter of Medical Necessity?",
+      "text": "Some products and services are health care FSA eligible only if a doctor prescribes them for a specific need. For example, an FSA may not cover a multivitamin for general health, but a doctor can write a prescription or Letter of Medical Necessity (LMN) so an FSA covers iron supplements for someone with anemia. With a prescription or LMN, your health care FSA may cover gym memberships, fitness equipment and trackers, supplements, dermatology treatments and weight-loss programs.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "letter of medical necessity",
+        "prescription",
+        "gym membership",
+        "supplements"
+      ],
+      "entities": [
+        "Health care FSA",
+        "Letter of Medical Necessity"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I use my FSA for a gym membership?",
+        "What is an LMN for an FSA?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a limited-purpose FSA is",
+      "question": "What is a limited-purpose FSA?",
+      "text": "A limited-purpose FSA lets you set aside pre-tax earnings at the beginning of the plan year to help pay for eligible dental and vision expenses only. Because funds are used only for out-of-pocket dental and vision expenses, you can contribute to a limited-purpose FSA while also contributing to a health savings account (HSA), which lets you reserve more money in your HSA for retirement or other expenses.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "limited-purpose fsa",
+        "dental",
+        "vision",
+        "hsa",
+        "pre-tax"
+      ],
+      "entities": [
+        "Limited-purpose FSA",
+        "LPFSA",
+        "HSA"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can I have an FSA and an HSA?",
+        "What does a limited-purpose FSA cover?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a dependent care FSA covers",
+      "question": "What can I pay for with a dependent care FSA?",
+      "text": "A Dependent Care FSA (DCFSA) is an account of pre-tax dollars used to pay for eligible dependent care services when you or your spouse work or are looking for work. The care must be for an eligible dependent, typically a child or another legal dependent such as an adult with disabilities. Qualifying care includes before and after school care, daycare, babysitters and nannies, preschool, and summer and school break camps.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "dependent care fsa",
+        "daycare",
+        "babysitter",
+        "summer camp",
+        "eligible dependent"
+      ],
+      "entities": [
+        "Dependent care FSA",
+        "DCFSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Can I pay for summer camp with an FSA?",
+        "Does a dependent care FSA cover care for an adult relative?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Tax benefits of a health care FSA",
+      "question": "What are the tax benefits of an FSA?",
+      "text": "Putting money into an FSA offers tax advantages. The amount you contribute is pre-taxed, meaning you save whatever percentage you would have paid in federal taxes if the money had not been deducted from your paycheck. Your employer saves on taxes too, by avoiding a payroll tax.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa",
+        "tax advantages",
+        "pre-tax",
+        "payroll deduction",
+        "federal taxes"
+      ],
+      "entities": [
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "How does an FSA save on taxes?",
+        "Does my employer save money with an FSA?"
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to enroll in a health care FSA",
+      "question": "How do I enroll in a health care FSA?",
+      "text": "If your employer offers an FSA, then at the beginning of a plan year you decide how much to allocate to it. Think carefully about this estimate, because you cannot change the amount unless your employment changes. Once you decide on an amount and set up the FSA, it is automatically deducted from your paycheck and deposited into the account. You will either receive a debit card tied to the account or submit receipts to the FSA administrator for reimbursement.",
+      "topic": "HSA, HRA & FSA",
+      "tags": [
+        "fsa enrollment",
+        "payroll deduction",
+        "debit card",
+        "reimbursement",
+        "plan year"
+      ],
+      "entities": [
+        "FSA"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Employer / HR leader"
+      ],
+      "intent": "Enroll",
+      "stage": "Decision",
+      "questions": [
+        "How do I sign up for an FSA?",
+        "Can I change my FSA amount during the year?"
+      ]
+    }
+  ]
+}

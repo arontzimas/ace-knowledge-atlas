@@ -1,0 +1,313 @@
+{
+  "url": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/manage-your-health-care-costs",
+  "title": "How to manage and estimate health care costs",
+  "domain": "Health Insurance Basics",
+  "page_type": "guide",
+  "summary": "Six tips for saving on health care, including cost estimates, network providers, prescription list tips, preventive visits and choosing the right level of care.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "video",
+      "src": "https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/manage-your-health-care-costs/5-ways-to-manage-health-costs-video",
+      "alt": "5 ways to manage health costs"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "assertion",
+      "title": "Ways to save on quality health care",
+      "question": "How can I save money on health care?",
+      "text": "Just like everyday shopping, there are ways to save money on health care. You may be able to get cost estimates before you get care for certain conditions, like pregnancy care, an elective surgery or an MRI. You can also choose providers in your health plan network to take advantage of the lower costs your health insurance carrier has negotiated for you.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "saving money",
+        "cost estimates",
+        "in-network",
+        "pregnancy care",
+        "elective surgery"
+      ],
+      "entities": [
+        "Health plan network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How do I lower my health care costs?",
+        "Can I get a price estimate before surgery?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Estimate costs with online member tools",
+      "question": "How can I look up health care cost estimates online?",
+      "text": "UnitedHealthcare members can sign in to their health plan account to find average costs for providers in their network, including doctors, hospitals, office visits, mental health services, labs and convenience care. They can also find the average cost for specific treatments in their area and quality ratings and reviews for providers, hospitals or facilities.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "cost estimates",
+        "member account",
+        "provider costs",
+        "quality ratings"
+      ],
+      "entities": [
+        "UnitedHealthcare member account"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "Where can I see what a procedure will cost?",
+        "Can I see provider quality ratings online?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Network providers lower your costs",
+      "question": "Why do network providers cost less?",
+      "text": "When doctors and facilities are in the UnitedHealthcare network, they have agreed to provide services at a discount, so your costs will be lower when you choose their services. Providers who are not in your health plan network could charge more, which means their services could cost you more or may not be covered at all. UnitedHealthcare members have access to a large provider network that includes more than 1.2 million physicians and care professionals and 6540 hospitals and care facilities nationwide (UnitedHealthcare E&I national network, Q1 2022).",
+      "topic": "Plan types & networks",
+      "tags": [
+        "in-network",
+        "provider discounts",
+        "out-of-network",
+        "network size",
+        "provider search"
+      ],
+      "entities": [
+        "UnitedHealthcare network"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "Do in-network doctors cost less?",
+        "What happens if my doctor is out of network?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "What a Prescription Drug List is",
+      "question": "What is a Prescription Drug List (PDL)?",
+      "text": "A Prescription Drug List (PDL) is your health plan's list of drugs and how they are covered. If you take medications regularly, it is important to watch for PDL updates, because changes to the list can sometimes change your costs. You can sign in to your member account or call the number on your member ID card to view your pharmacy benefit and PDL.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "prescription drug list",
+        "pdl",
+        "pharmacy benefit",
+        "drug coverage",
+        "medication costs"
+      ],
+      "entities": [
+        "Prescription Drug List",
+        "Pharmacy benefit"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What is a PDL?",
+        "Can my drug costs change if the drug list changes?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Prescription savings tips",
+      "question": "How can I save on prescriptions?",
+      "text": "If home delivery is included in your benefit, you may be able to order up to a 90-day supply of medication you regularly take, usually with no charge for standard shipping within the U.S., which may save you money. When your doctor prescribes medication, look at your PDL, and ask about a lower cost alternative if the drug your doctor chooses is too expensive or is not covered.",
+      "topic": "Prescription coverage",
+      "tags": [
+        "home delivery",
+        "90-day supply",
+        "lower cost alternative",
+        "pdl",
+        "prescription savings"
+      ],
+      "entities": [
+        "Home delivery pharmacy",
+        "Prescription Drug List"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "Can I get a 90-day supply delivered?",
+        "What if my prescribed drug is too expensive?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Schedule yearly preventive care visits",
+      "question": "Why should I schedule yearly preventive care?",
+      "text": "Seeing your doctor for regular preventive care can pay off because it may help detect issues early, when health conditions are typically more treatable. Preventive care includes all your regular doctor visits, meaning any annual checkups and screenings. You can prepare for preventive visits and get a list of screenings you might need.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "preventive care",
+        "annual checkup",
+        "screenings",
+        "early detection"
+      ],
+      "entities": [
+        "Preventive care"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is a yearly checkup worth it?",
+        "What counts as preventive care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Choose the right level of care",
+      "question": "How can I choose care options that cost less?",
+      "text": "Choosing the right level of care can help you save, and some locations may charge more for the same services. Call your primary care provider or family doctor first, because they have your records and may offer same-day appointments. For non-emergency care you could consider an urgent care center, a convenience care clinic or an online doctor visit, which may save time and money compared to an ER visit.",
+      "topic": "Finding care & networks",
+      "tags": [
+        "care options",
+        "urgent care",
+        "convenience care",
+        "primary care",
+        "er visit"
+      ],
+      "entities": [
+        "Urgent care",
+        "Convenience care clinic"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Member",
+      "questions": [
+        "Should I go to urgent care or the ER?",
+        "Who should I call first when I need care?"
+      ]
+    },
+    {
+      "type": "stat",
+      "title": "Up to $2,000 saved versus an ER visit",
+      "question": "How much can I save by choosing urgent care over the ER?",
+      "text": "Knowing your care options may help you save both time and money, up to $2,000 for some health plans, compared to an ER visit. The estimate is based on 2019 average allowed amounts charged by UnitedHealthcare network providers, an estimated $2,000 difference between the average emergency room visit and the average urgent care visit. Actual payments may vary by benefit coverage. In an emergency, call 911 or go to the nearest emergency room.",
+      "topic": "Costs & cost-sharing",
+      "tags": [
+        "er visit",
+        "urgent care",
+        "$2,000",
+        "cost savings",
+        "average allowed amount"
+      ],
+      "entities": [
+        "UnitedHealthcare network providers"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Estimate cost",
+      "stage": "Consideration",
+      "questions": [
+        "How much cheaper is urgent care than the ER?",
+        "Is an ER visit more expensive than urgent care?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Virtual visits can cost less",
+      "question": "Are virtual visits cheaper than an office visit?",
+      "text": "With virtual visits, also called telehealth services, you can talk with a doctor online using your mobile device or computer. You can get treatment options and even prescriptions for medications, if needed, and it is usually less costly than an office visit. Sign in to your member account or call the number on your member ID card to learn about your benefit for virtual visits.",
+      "topic": "Virtual care",
+      "tags": [
+        "virtual visit",
+        "telehealth",
+        "online doctor",
+        "prescriptions",
+        "lower cost"
+      ],
+      "entities": [
+        "Virtual visits",
+        "Telehealth"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "Is telehealth cheaper than going to the doctor?",
+        "Can I get a prescription from a virtual visit?"
+      ]
+    },
+    {
+      "type": "definition",
+      "title": "Common cost terms to know",
+      "question": "What do common health insurance cost terms mean?",
+      "text": "Health insurance terms can be confusing, and knowing the jargon may help you control costs and make decisions. Common cost terms covered include premium, deductible, copay, coinsurance, out-of-pocket limit, referral and prior authorization. UnitedHealthcare also points to a common terms list and the Just Plain Clear glossary for other terms you do not know.",
+      "topic": "Insurance glossary",
+      "tags": [
+        "insurance terms",
+        "premium",
+        "deductible",
+        "referral",
+        "prior authorization"
+      ],
+      "entities": [
+        "Just Plain Clear",
+        "Premium",
+        "Deductible",
+        "Prior authorization"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Current member"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Where can I find a health insurance glossary?",
+        "What is a referral or prior authorization?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "UnitedHealthcare app for estimating costs",
+      "question": "Can I estimate costs in the UnitedHealthcare app?",
+      "text": "Members can use the UnitedHealthcare app on a mobile device to get instant access to manage health plan details, estimate costs, find network providers and more. They can also sign in using a mobile browser.",
+      "topic": "Digital tools & app",
+      "tags": [
+        "uhc app",
+        "estimate costs",
+        "find providers",
+        "member tools"
+      ],
+      "entities": [
+        "UnitedHealthcare app"
+      ],
+      "personas": [
+        "Current member"
+      ],
+      "intent": "Use benefits",
+      "stage": "Member",
+      "questions": [
+        "What can I do in the UnitedHealthcare app?",
+        "Can I find network providers in the app?"
+      ]
+    }
+  ]
+}

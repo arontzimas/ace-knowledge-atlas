@@ -1,0 +1,220 @@
+{
+  "url": "https://www.uhc.com/dental-vision-supplemental-plans/travel-insurance/safetrip-international-travel-medical-plans",
+  "title": "SafeTrip International Travel Medical plans",
+  "domain": "Dental, Vision & Supplemental",
+  "page_type": "product",
+  "summary": "Explains SafeTrip International Travel Medical plans that cover injury, illness, medical evacuation and baggage problems for travel outside the home country.",
+  "published": null,
+  "assets": [
+    {
+      "kind": "image",
+      "src": "https://www.uhc.com/content/dam/uhcdotcom/foundation/images/content/safetrip/family-traveling-1920x700-desktop.jpg",
+      "alt": "Family traveling"
+    }
+  ],
+  "atoms": [
+    {
+      "type": "definition",
+      "title": "What International Travel Medical insurance is",
+      "question": "What is International Travel Medical insurance?",
+      "text": "When someone travels outside their home country, their health insurance likely will not work, and they could get stuck paying the bill for medical attention. International Travel Medical insurance can help cover unexpected costs. SafeTrip says that with these plans it can reimburse costs associated with illness and injury while abroad.",
+      "topic": "Travel insurance",
+      "tags": [
+        "international travel medical",
+        "medical abroad",
+        "health insurance abroad",
+        "reimbursement"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "What is international travel medical insurance?",
+        "Will my health insurance pay for care in another country?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Injury and illness coverage including dental care",
+      "question": "Does International Travel Medical cover emergencies abroad?",
+      "text": "SafeTrip International Travel Medical plans can help cover medical emergencies when a traveler is hurt or sick abroad, including dental care. UnitedHealthcare notes that getting injured or sick is stressful at any time, but especially in another country.",
+      "topic": "Travel insurance",
+      "tags": [
+        "injury and illness",
+        "medical emergency",
+        "dental care",
+        "international travel"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel medical insurance cover dental emergencies?",
+        "What if I get sick while traveling abroad?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medical reunion coverage",
+      "question": "What is medical reunion coverage?",
+      "text": "If a medical emergency keeps a traveler in a foreign country for longer than expected, SafeTrip International Travel Medical coverage can help a loved one get to the traveler quickly.",
+      "topic": "Travel insurance",
+      "tags": [
+        "medical reunion",
+        "emergency reunion",
+        "family travel",
+        "medical emergency"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper",
+        "Caregiver"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Can a family member join me if I'm hospitalized abroad?",
+        "What does emergency reunion mean in travel insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Medical evacuation coverage",
+      "question": "How does medical evacuation work with SafeTrip?",
+      "text": "If a medical crisis occurs and a traveler needs to get home quickly, SafeTrip specialists are available 24/7. They can help coordinate emergency transportation from the initial treating facility to a quality care facility capable of handling the traveler's condition.",
+      "topic": "Travel insurance",
+      "tags": [
+        "medical evacuation",
+        "emergency transportation",
+        "24/7 specialists",
+        "quality care facility"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What is medical evacuation in travel insurance?",
+        "Who arranges emergency transport abroad?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Baggage coverage under International Travel Medical",
+      "question": "Does International Travel Medical cover lost baggage?",
+      "text": "If a traveler's bags do not arrive with them, they could be stuck buying necessities in a foreign country. SafeTrip International Travel Medical plans can help cover that expense, so the traveler can keep enjoying the trip.",
+      "topic": "Travel insurance",
+      "tags": [
+        "baggage loss",
+        "baggage delay",
+        "necessities",
+        "international travel medical"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "What if my luggage doesn't arrive overseas?",
+        "Is baggage delay covered by travel medical insurance?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Why health insurance may not cover international care",
+      "question": "How does international travel medical insurance work if my insurance doesn't apply abroad?",
+      "text": "UnitedHealthcare says that if a traveler needs medical attention on an international journey, their insurance likely will not apply. A hurt or injured traveler will probably need to pay for any medical care unless they have international travel medical insurance. With these plans, SafeTrip can reimburse costs associated with illness and injury while abroad.",
+      "topic": "Travel insurance",
+      "tags": [
+        "health insurance abroad",
+        "international care",
+        "out-of-pocket",
+        "reimbursement"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Awareness",
+      "questions": [
+        "Does my health insurance work internationally?",
+        "Who pays if I need a doctor overseas?"
+      ]
+    },
+    {
+      "type": "assertion",
+      "title": "Extreme sports add-on for International Travel Medical",
+      "question": "Can I add extreme sports coverage to International Travel Medical?",
+      "text": "For more adventurous travel, an Extreme sports coverage add-on can be added to a SafeTrip International Travel Medical plan. UnitedHealthcare links to a page that explains more about its travel insurance add-ons.",
+      "topic": "Travel insurance",
+      "tags": [
+        "extreme sports",
+        "add-ons",
+        "adventure travel",
+        "international travel medical"
+      ],
+      "entities": [
+        "SafeTrip International Travel Medical",
+        "SafeTrip add-ons"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Learn",
+      "stage": "Consideration",
+      "questions": [
+        "Does travel medical insurance cover skydiving?",
+        "How do I add extreme sports coverage?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Other SafeTrip plans compared to International Travel Medical",
+      "question": "Which other SafeTrip plans should I consider?",
+      "text": "SafeTrip suggests Travel Protection for trips within the United States, with no deductibles, trip cancellation, interruption, delay and baggage coverage, full AD&D coverage and an option to add rental car coverage. It also offers International Travel Medical Plus, which combines international medical coverage and travel protection with no deductibles, medical and security assistance, and options to add Extreme Sports and Rental car coverage.",
+      "topic": "Travel insurance",
+      "tags": [
+        "travel protection",
+        "international travel medical plus",
+        "plan comparison",
+        "no deductibles"
+      ],
+      "entities": [
+        "Travel Protection",
+        "International Travel Medical Plus"
+      ],
+      "personas": [
+        "Individual & family shopper"
+      ],
+      "intent": "Compare",
+      "stage": "Consideration",
+      "questions": [
+        "How is International Travel Medical different from Plus?",
+        "Which plan covers trip cancellation and medical abroad?"
+      ]
+    }
+  ]
+}
