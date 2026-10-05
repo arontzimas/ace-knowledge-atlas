@@ -104,6 +104,11 @@ export default async function handler(req) {
   if (req.method !== 'POST') return json({ error: 'method_not_allowed' }, 405);
   if (!active) return json({ error: 'no_model_configured' }, 501);
 
+  // Only answer requests coming from this site, so the model key can't be borrowed by other pages.
+  const origin = req.headers.get('origin');
+  const host = req.headers.get('x-forwarded-host') || req.headers.get('host') || new URL(req.url).host;
+  if (!origin || new URL(origin).host !== host) return json({ error: 'forbidden_origin' }, 403);
+
   let body;
   try {
     const raw = await req.text();

@@ -12,6 +12,8 @@ A 3D, prompt-first view of a brand's knowledge base. Every point is an **atom**,
   - **Quadrant**: a semi-3D performance chart. Presets: knowledge gap, demand vs coverage, and human vs agent.
 - **Click any atom** to open it: full text, ontology, semantic tags, entities, source page and assets, metrics, related atoms, and the prompts it answers.
 
+**Live:** https://ace-knowledge-atlas.vercel.app (Vercel project `ace-knowledge-atlas`, Knotch Product Team)
+
 ## Run locally
 
 ```bash
@@ -34,7 +36,9 @@ Optional environment variables enable model-composed answers:
 | `ANTHROPIC_API_KEY` | Alternative composer. |
 | `ANTHROPIC_MODEL` | Defaults to `claude-haiku-4-5-20251001`. |
 
-With no key set, `/api/ask` returns `501` and the browser falls back to its extractive composer. Answers stay grounded either way: the model only sees the retrieved atoms and must cite them. The Data source panel shows which composer is live.
+`/api/ask` only answers same-origin requests from the app itself, and caps question and atom sizes. With no key set, it returns `501` and the browser falls back to its extractive composer. Answers stay grounded either way: the model only sees the retrieved atoms and must cite them. The Data source panel shows which composer is live.
+
+Deploys so far have used the CLI (`vercel deploy --prod --scope knotch`). To redeploy automatically on every push, connect the repo under Project → Settings → Git. That requires a GitHub login connection on the Vercel account.
 
 ## How it fits together
 
