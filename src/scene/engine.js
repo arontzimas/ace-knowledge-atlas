@@ -653,7 +653,8 @@ export class AtlasEngine {
 
   _frame = (now) => {
     this.raf = requestAnimationFrame(this._frame);
-    if (document.hidden) return;
+    // browsers already throttle rAF in background tabs; rendering regardless keeps
+    // embedded webviews that misreport visibility from showing a blank field
     const dt = Math.max(0, Math.min(0.1, (now - this.last) / 1000));
     this.last = now;
     const t = (now - this.t0) / 1000;
