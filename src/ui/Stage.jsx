@@ -129,6 +129,12 @@ export default function Stage() {
     if (!e) return;
     e.setSelected(selected);
     if (selected >= 0) e.focusAtom(selected, { dist: metrics.mobile ? 48 : 38 });
+    const a = selected >= 0 ? kb.atoms[selected] : null;
+    const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    e.setPin(
+      a && !metrics.mobile ? selected : -1,
+      a ? `${a.page.image ? `<img src="${esc(a.page.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()"/>` : ''}<b>${esc(a.page.title)}</b><span>${esc(a.page.path)}</span>` : '',
+    );
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selected]);
 
@@ -154,8 +160,18 @@ export default function Stage() {
   }, [askAtomsKey, selected, metrics.w, metrics.h, metrics.contentR, metrics.mobile, kb, ask]);
 
   useEffect(() => {
-    engineRef.current?.setActiveLabels(hiSource === 'focus' ? labelKeysForFocus(kb, focus, view, groupBy, quadPreset) : null);
-  }, [focus, hiSource, view, groupBy, quadPreset, kb]);
+    if (!kb) return;
+    const keys = hiSource === 'focus' ? labelKeysForFocus(kb, focus, view, groupBy, quadPreset) : new Set();
+    // source cards follow whatever is lit up (or filtered) so the provenance reads at a glance
+    if (view === 'sources') {
+      const passes = makePasses(kb, filters);
+      const filtered = Object.values(filters).some((v) => v != null);
+      if (highlight && highlight.map.size) highlight.map.forEach((_, i) => { if (passes(i)) keys.add('src-' + kb.atoms[i].p); });
+      else if (filtered) kb.atoms.forEach((a, i) => { if (passes(i)) keys.add('src-' + a.p); });
+      if (!keys.size && (filtered || (highlight && highlight.map.size))) keys.add('__none__');
+    }
+    engineRef.current?.setActiveLabels(keys.size ? keys : null);
+  }, [focus, hiSource, view, groupBy, quadPreset, kb, highlight, filters]);
 
   const a = kb && hover >= 0 ? kb.atoms[hover] : null;
   return (

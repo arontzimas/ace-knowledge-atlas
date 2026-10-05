@@ -37,8 +37,13 @@ export function useClickOutside(ref, onOut, active = true) {
   useEffect(() => {
     if (!active) return;
     const h = (e) => { if (ref.current && !ref.current.contains(e.target)) onOut(); };
+    const k = (e) => { if (e.key === 'Escape') { e.stopPropagation(); onOut(); } };
     document.addEventListener('pointerdown', h);
-    return () => document.removeEventListener('pointerdown', h);
+    window.addEventListener('keydown', k, true);
+    return () => {
+      document.removeEventListener('pointerdown', h);
+      window.removeEventListener('keydown', k, true);
+    };
   }, [ref, onOut, active]);
 }
 

@@ -488,3 +488,8 @@ button.meta:hover { background: #fff; border-color: var(--hair-2); }
 .view-pill > button { height: 42px; background: var(--glass-strong); }
 .topbar.compact .ctx { padding-left: 6px; }
 .score-row { display: flex; align-items: center; justify-content: space-between; margin: 10px 8px 0; }
+
+.lbl-pin { width: 176px; padding: 7px; border-radius: 12px; background: rgba(255, 255, 255, 0.82); border: 1px solid rgba(255, 255, 255, 0.95); box-shadow: 0 18px 40px -20px rgba(20, 20, 32, 0.45); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); white-space: normal; }
+.lbl-pin img { display: block; width: 100%; height: 96px; object-fit: cover; border-radius: 7px; background: #e7e7e4; }
+.lbl-pin b { display: block; margin: 7px 3px 0; font-size: 11.5px; line-height: 1.3; font-weight: 600; color: var(--ink); }
+.lbl-pin span { display: block; margin: 3px 3px 1px; font-family: var(--mono); font-size: 9.5px; color: var(--ink-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

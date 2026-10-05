@@ -38,7 +38,8 @@ void main() {
   gl_Position = projectionMatrix * mv;
   float dist = max(0.1, -mv.z);
   float base = aSize * uScale / dist;
-  float px = max(1.6, uCap * (1.0 - exp(-base / uCap)));
+  float cap = uCap * clamp(aSize / 0.62, 0.75, 2.2);
+  float px = max(1.6, cap * (1.0 - exp(-base / cap)));
   float total = px + aRing * (10.0 + px * 0.55);
   gl_PointSize = total;
   vPx = total;
@@ -209,7 +210,7 @@ export class AtlasEngine {
       fragmentShader: POINT_FS,
       transparent: true,
       depthWrite: false,
-      uniforms: { uScale: { value: 1 }, uCap: { value: 30 * this.dpr }, uFogNear: this.fog.uFogNear, uFogFar: this.fog.uFogFar },
+      uniforms: { uScale: { value: 1 }, uCap: { value: 12 * this.dpr }, uFogNear: this.fog.uFogNear, uFogFar: this.fog.uFogFar },
     });
     this.points = new THREE.Points(g, this.pointsMat);
     this.points.frustumCulled = false;
@@ -242,6 +243,7 @@ export class AtlasEngine {
 
     // ---------------------------------------------------------------- labels
     this.labels = new Map();
+    this.pin = null;
     this.activeLabelKeys = null;
 
     // ---------------------------------------------------------------- state
@@ -394,6 +396,25 @@ export class AtlasEngine {
 
   setSelected(i) { this.selected = i; this._updateLinks(); }
 
+  /** Float the selected atom's source card beside it, tethered by a hairline (Kunumi-style). */
+  setPin(i, html) {
+    if (this.pin && this.pin.i === i) return;
+    if (this.pin) {
+      const old = this.pin.el;
+      old.classList.add('is-out');
+      old.style.opacity = '0';
+      setTimeout(() => old.remove(), 500);
+      this.pin = null;
+    }
+    if (i < 0 || !html) return;
+    const el = document.createElement('div');
+    el.className = 'lbl lbl-pin';
+    el.innerHTML = html;
+    el.style.opacity = '0';
+    this.labelHost.appendChild(el);
+    this.pin = { i, el, a: 0, born: performance.now() + 450, world: new THREE.Vector3() };
+  }
+
   setInsets(ins) { Object.assign(this.insetsT, ins); }
 
   setPaused(p) {
@@ -462,6 +483,7 @@ export class AtlasEngine {
     this._unbind();
     this.labels.forEach((L) => L.el.remove());
     this.labels.clear();
+    this.pin?.el.remove();
     this.controls.dispose();
     this.renderer.dispose();
     this.canvas.remove();
@@ -734,6 +756,7 @@ export class AtlasEngine {
     }
 
     this._frameStruct(now, dt);
+    this._framePin(now, dt);
     this._frameLinks(dt);
     this._frameAnswer(now, dt, camDist);
     this._frameQuad(dt);
@@ -787,12 +810,32 @@ export class AtlasEngine {
     L.mesh.geometry.attributes.aC.needsUpdate = true;
   }
 
+  _framePin(now, dt) {
+    const P = this.pin;
+    if (!P) return;
+    const cam = this.camera;
+    const i = P.i;
+    const base = this._v.set(this.disp[i * 3], this.disp[i * 3 + 1], this.disp[i * 3 + 2]);
+    const dist = base.distanceTo(cam.position);
+    // offset up-and-right in screen space, scaled with distance so it reads the same at any zoom
+    const right = this._v2.setFromMatrixColumn(cam.matrixWorld, 0);
+    const up = new THREE.Vector3().setFromMatrixColumn(cam.matrixWorld, 1);
+    const k = dist * 0.16;
+    P.world.copy(base).addScaledVector(right, -k * 1.15).addScaledVector(up, k * 0.62);
+    const v = P.world.clone().project(cam);
+    const sx = (v.x * 0.5 + 0.5) * this.W, sy = (-v.y * 0.5 + 0.5) * this.H;
+    const want = now >= P.born && v.z < 1 ? 1 : 0;
+    P.a += (want - P.a) * (1 - Math.exp(-dt * 6));
+    P.el.style.transform = `translate3d(${sx.toFixed(1)}px,${sy.toFixed(1)}px,0) translate(-50%,-100%)`;
+    P.el.style.opacity = P.a.toFixed(2);
+  }
+
   _frameLinks(dt) {
     const L = this.linkL;
-    const target = this.links.length ? 1 : 0;
+    const target = this.links.length || this.pin ? 1 : 0;
     this.linkFade += (target - this.linkFade) * (1 - Math.exp(-dt * 8));
     L.mesh.material.uniforms.uOpacity.value = this.linkFade;
-    const n = Math.min(this.links.length, L.max);
+    let n = Math.min(this.links.length, L.max - 1);
     for (let k = 0; k < n; k++) {
       const [a, b, kind] = this.links[k];
       const o = k * 6;
@@ -803,6 +846,16 @@ export class AtlasEngine {
       c.toArray(L.c, o + 3);
       L.a[k * 2] = kind ? 0.55 : 0.45;
       L.a[k * 2 + 1] = kind ? 0.18 : 0.12;
+    }
+    if (this.pin && this.pin.a > 0.02) {
+      const o = n * 6, i = this.pin.i, w = this.pin.world;
+      L.pos[o] = this.disp[i * 3]; L.pos[o + 1] = this.disp[i * 3 + 1]; L.pos[o + 2] = this.disp[i * 3 + 2];
+      L.pos[o + 3] = w.x; L.pos[o + 4] = w.y; L.pos[o + 5] = w.z;
+      COLORS.ink.toArray(L.c, o);
+      COLORS.ink.toArray(L.c, o + 3);
+      L.a[n * 2] = 0.5 * this.pin.a;
+      L.a[n * 2 + 1] = 0.35 * this.pin.a;
+      n++;
     }
     if (n) {
       L.mesh.geometry.setDrawRange(0, n * 2);

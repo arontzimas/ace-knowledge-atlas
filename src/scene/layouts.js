@@ -158,7 +158,7 @@ export function ontologyLayout(kb) {
   // node 0 = root
   nodes.push([0, 0, 0]);
   labels.push({ key: 'onto-root', kind: 'root', pos: [0, 0, 0], html: `<span>${esc(kb.meta.name)}</span><em>${kb.N.toLocaleString()} atoms</em>`, click: { kind: 'all' } });
-  const R_D = 24, R_T = 44, R_A = 62;
+  const R_D = 28, R_T = 46, R_A = 63;
   const topicMembers = topics.map(() => []);
   kb.atoms.forEach((a, i) => topicMembers[a.topic].push(i));
   topicMembers.forEach((l) => l.sort((i, j) => kb.atoms[i].theme - kb.atoms[j].theme || kb.atoms[i].xyz[1] - kb.atoms[j].xyz[1]));
@@ -208,7 +208,7 @@ export function ontologyLayout(kb) {
   return {
     id: 'ontology', positions: P, labels,
     struct: { nodes: new Float32Array(nodes.flat()), edges },
-    camera: { position: [20, 38, 196], target: [0, 0, 0] },
+    camera: { position: [22, 42, 222], target: [0, 0, 0] },
     drift: 0.14, autoRotate: true,
   };
 }
