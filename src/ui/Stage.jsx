@@ -148,9 +148,9 @@ export default function Stage() {
     const e = engineRef.current;
     if (!e) return;
     e.setInsets(metrics.mobile
-      ? { l: 0, r: 0, t: 50, b: 140 }
+      ? { l: 0, r: 0, t: 50, b: metrics.sideOpen ? metrics.h * 0.74 : metrics.panelOpen ? metrics.h * 0.62 + 70 : 140 }
       : { l: metrics.contentL - 14, r: metrics.contentR - 14, t: 56, b: 96 });
-  }, [metrics.contentL, metrics.contentR, metrics.mobile, kb]);
+  }, [metrics.contentL, metrics.contentR, metrics.mobile, metrics.sideOpen, metrics.panelOpen, metrics.h, kb]);
 
   useEffect(() => { engineRef.current?.setPaused(paused); }, [paused, kb]);
 
