@@ -51,7 +51,9 @@ export default function Stage() {
   useEffect(() => {
     if (!kb || !hostRef.current) return;
     const st = useStore.getState;
-    const engine = new AtlasEngine({
+    let engine;
+    try {
+      engine = new AtlasEngine({
       host: hostRef.current,
       labelHost: labelRef.current,
       kb,
@@ -80,7 +82,11 @@ export default function Stage() {
         s.focusOn(c);
       },
       onInteract: () => st().dismissIntro(),
-    });
+      });
+    } catch (err) {
+      st().setError('This experience needs WebGL, which is unavailable in this browser. Try a recent version of Chrome, Safari, Edge or Firefox.');
+      return undefined;
+    }
     engineRef.current = engine;
     if (import.meta.env.DEV) window.__atlas = engine;
     return () => {

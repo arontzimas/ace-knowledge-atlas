@@ -56,10 +56,10 @@ export default function App() {
           <AtomDrawer />
         </>
       )}
-      <div className={`loading ${kb ? 'done' : ''}`} aria-hidden={!!kb}>
+      <div className={`loading ${kb && !error ? "done" : ""} ${error ? "has-error" : ""}`} aria-hidden={!!kb && !error}>
         <div className="inner">
           {error ? (
-            <p className="err">The knowledge base could not be loaded. {error}</p>
+            <p className="err">{error.includes('WebGL') ? error : `The knowledge base could not be loaded. ${error}`}</p>
           ) : (
             <>
               <BrandMark style={{ width: 40, height: 40 }} />
