@@ -31,7 +31,7 @@ export function computeVisuals(kb, { view, passes, highlight, selected, quadPres
     } else if (hasHi) {
       if (highlight.has(i)) {
         const sc = maxScore ? highlight.get(i) / maxScore : 1;
-        c = COLORS.red; a = 1; s = 1.25 + 0.75 * sc; st = 2;
+        c = COLORS.red; a = 1; s = 1.6 + 1.0 * sc; st = 2;
       } else {
         c = COLORS.mute; a = 0.2; s = 0.8; st = 1;
       }

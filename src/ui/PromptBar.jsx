@@ -76,7 +76,7 @@ export default function PromptBar() {
     clearTimeout(tRef.current);
     setQuery('');
     askQuestion(text);
-    setValue(text);
+    setValue('');
     inputRef.current?.blur();
   };
 
@@ -178,7 +178,7 @@ export default function PromptBar() {
       </div>
       <div className="quick">
         {QUICK.map((q) => (
-          <button key={q} onClick={() => { setValue(q); submit(q); }}>{q}</button>
+          <button key={q} onClick={() => submit(q)}>{q}</button>
         ))}
       </div>
     </div>
